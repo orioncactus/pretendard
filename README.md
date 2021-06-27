@@ -3,6 +3,7 @@
 ![Thumbnail](thumbnail.png)
 
 Pretendard는 마땅한 system-ui 글꼴이 없는 환경에서 발생하는 불편함을 해결합니다.
+
 Pretendard는 9가지 굵기로 제공되며, 가변 글꼴 또한 지원합니다.
 
 ## 배경 및 이야기

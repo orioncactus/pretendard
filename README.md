@@ -32,6 +32,22 @@ Pretendard를 웹폰트로 사용하려면 아래 코드를 사용하세요. 사
 <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard/dist/web/static/pretendard.css" />
 ```
 
+### 서브셋
+
+글꼴의 용량 부하를 줄이고자 한다면 아래 코드를 사용하세요. 포함된 한글 서브셋은 2780자로, 2018년 업데이트한 한글 글꼴 규격인 ADOBE-KR-9를 따릅니다.
+
+#### CSS
+
+```css
+@import url('https://cdn.jsdelivr.net/gh/orioncactus/pretendard/dist/web/static/pretendard-subset.css');
+```
+
+#### HTML
+
+```html
+<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard/dist/web/static/pretendard-subset.css" />
+```
+
 ---
 
 가변 글꼴을 사용하려면 아래 코드를 사용하세요. 사용하는 font-family 이름은 `'Pretendard Variable'` 입니다.
@@ -70,9 +86,9 @@ Pretendard는 [SIL 오픈 폰트 라이선스](https://scripts.sil.org/OFL)로 �
 
 ## 기여자
 
-Pretendard에 기여해주셔서 감사드립니다.
+Pretendard에 기여해주셔서 진심으로 감사드립니다.
 
-@hiddenest
+[@hiddenest](https://github.com/hiddenest): 웹폰트에서 서브셋을 제작해주셨습니다.
 
 ## 의견 나누기
 

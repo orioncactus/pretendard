@@ -18,7 +18,7 @@ Pretendard의 배경과 특징, OpenType 기능 등을 설명하는 자세한 �
 
 ## 웹폰트
 
-Pretendard를 웹폰트로 사용하려면 아래 코드를 사용하세요. 사용하는 font-family 이름은 `Pretendard` 입니다.
+모든 OpenType 기능을 포함한 Pretendard를 웹폰트로 사용하려면 아래 코드를 사용하세요. 사용하는 font-family 이름은 `Pretendard` 입니다.
 
 #### CSS
 
@@ -36,7 +36,7 @@ Pretendard를 웹폰트로 사용하려면 아래 코드를 사용하세요. 사
 
 ### 다이나믹 서브셋
 
-Pretendard에서는 Google Fonts에서 제공하는 Noto Sans KR와 동일한 방식으로 다이나믹 서브셋을 제공합니다. 따라서 웹에 표시되는 글자만 선택적으로 다운로드해 보다 빠르게 Pretendard 글자를 표시할 수 있습니다.
+Pretendard에서는 웹폰트 용량 문제를 해결하기 위한 방법으로 Google Fonts에서 제공하는 Noto Sans KR와 동일한 방식으로 동적 서브셋을 제공합니다. 페이지에 포함된 글자만 선택적으로 다운로드해 보다 빠르게 Pretendard를 표시하려면 아래 코드를 사용하세요.
 
 #### CSS
 

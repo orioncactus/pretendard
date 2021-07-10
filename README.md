@@ -1,6 +1,6 @@
 # Pretendard
 
-![Thumbnail](thumbnail.svg)
+![Thumbnail](thumbnail.png)
 
 Pretendard는 마땅한 system-ui 글꼴이 없는 환경에서 발생하는 불편함을 해결합니다.
 

@@ -36,7 +36,7 @@ Pretendard의 배경과 특징, OpenType 기능 등을 설명하는 자세한 �
 
 ### 다이나믹 서브셋
 
-Pretendard에서는 웹폰트 용량 문제를 해결하기 위한 방법으로 Google Fonts에서 제공하는 Noto Sans KR와 동일한 방식으로 동적 서브셋을 제공합니다. 페이지에 포함된 글자만 선택적으로 다운로드해 보다 빠르게 Pretendard를 표시하려면 아래 코드를 사용하세요.
+Pretendard에서는 웹폰트 용량 문제를 해결하기 위한 방법으로 Google Fonts에서 제공하는 Noto Sans KR와 동일한 방식으로 동적 서브셋을 제공합니다. 페이지에 포함된 글자만 선택적으로 다운로드해 보다 빠르게 Pretendard를 표시하려면 아래 코드를 사용하세요. 사용하는 font-family 이름은 `Pretendard` 입니다.
 
 #### CSS
 
@@ -54,7 +54,7 @@ Pretendard에서는 웹폰트 용량 문제를 해결하기 위한 방법으로 
 
 ### 가변 글꼴
 
-가변 글꼴을 사용하려면 아래 코드를 사용하세요. 사용하는 font-family 이름은 `'Pretendard Variable'` 입니다.
+가변 weight 속성을 사용하려면 아래 코드를 사용하세요. 사용하는 font-family 이름은 `'Pretendard Variable'` 입니다.
 
 #### CSS
 
@@ -92,7 +92,7 @@ Pretendard는 [SIL 오픈 폰트 라이선스](https://scripts.sil.org/OFL)로 �
 
 Pretendard에 기여해주셔서 진심으로 감사드립니다.
 
-[@hiddenest](https://github.com/hiddenest): 웹폰트에서 서브셋 작업 및 다이나믹 서브셋을 제작해주셨습니다.
+[@hiddenest](https://github.com/hiddenest): 웹폰트 서빙 및 서브셋 작업, 그리고 다이나믹 서브셋을 제작해주셨습니다.
 
 ## 의견 나누기
 

@@ -94,6 +94,8 @@ Pretendard에 기여해주셔서 진심으로 감사드립니다.
 
 [@hiddenest](https://github.com/hiddenest): 웹폰트 서빙 및 서브셋 작업, 그리고 다이나믹 서브셋을 제작해주셨습니다.
 
+[@leejh10003](https://github.com/leejh10003): Pretendard를 사용하는 [예시](/examples)를 제작해주셨습니다.
+
 ## 의견 나누기
 
 새로운 개선 의견은 언제나 환영입니다. 해결이 필요한 경우 Issues에서 이슈를 등록해주세요.

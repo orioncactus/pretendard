@@ -1,7 +1,7 @@
 ## Flutter
 플러터에서는 다음과 같은 환경설정이 필요합니다. 아래 예시 코드는 [FontWeight class에 대한 문서](https://api.flutter.dev/flutter/dart-ui/FontWeight-class.html)와 [Use a custom font](https://flutter.dev/docs/cookbook/design/fonts)를 참조하였으며, Flutter 2.2.2 환경에서 정상 동작이 확인되었습니다:
 ### 디렉터리 구성
-
+핵심적인 파일/폴더만 남기면 다음과 같습니다.
 ```
 poc_app
 ├─ fonts

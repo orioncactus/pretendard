@@ -1,5 +1,5 @@
 # React Native
-먼저 본 예제를 작성하는 데 (이 글)[https://zeallat94.medium.com/reactnative에서-커스텀-폰트-사용하기-b4b221d6a731]을 참조했음을 밝힙니다.
+먼저 본 예제를 작성하는 데 [이 글](https://zeallat94.medium.com/reactnative에서-커스텀-폰트-사용하기-b4b221d6a731)을 참조했음을 밝힙니다.
 
 ## 디렉터리 구성
 핵심적인 파일/폴더만 남기면 다음과 같습니다.

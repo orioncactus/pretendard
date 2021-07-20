@@ -96,6 +96,13 @@ Pretendard에 기여해주셔서 진심으로 감사드립니다.
 
 [@leejh10003](https://github.com/leejh10003): Pretendard를 사용하는 [예시](/examples)를 제작해주셨습니다.
 
+## Pretendard를 사용중인 곳
+
+<p align="center">
+  <br>
+  <a href="https://pocketlesson.com"><img align="center" height="18" alt="PocketLesson" hspace="15" src="https://user-images.githubusercontent.com/931655/126260826-a699637a-e1b7-408c-bf28-42c65e09cea2.png"></a>
+</p>
+
 ## 의견 나누기
 
 새로운 개선 의견은 언제나 환영입니다. 해결이 필요한 경우 Issues에서 이슈를 등록해주세요.

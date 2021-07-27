@@ -99,8 +99,10 @@ Pretendard에 기여해주셔서 진심으로 감사드립니다.
 ## Pretendard를 사용하는 곳
 
 <p align="center">
-  <a href="https://pocketlesson.com"><img src="https://user-images.githubusercontent.com/931655/126260826-a699637a-e1b7-408c-bf28-42c65e09cea2.png" align="center" height="20" alt="PocketLesson" hspace="16"></a>
-  <a href="https://careerly.onelink.me/Gbs9/4ac8fc9d"><img src="https://user-images.githubusercontent.com/7247848/126634235-ad62e3b9-0d27-43e2-b8fb-79251ee22c9c.png" align="center" height="36" alt="Careerly" hspace="16"></a>
+   <a href="https://pocketlesson.com"><img src="https://user-images.githubusercontent.com/931655/126260826-a699637a-e1b7-408c-bf28-42c65e09cea2.png" align="center" height="20" alt="PocketLesson" hspace="16"></a>
+   <a href="https://careerly.onelink.me/Gbs9/4ac8fc9d"><img src="https://user-images.githubusercontent.com/7247848/126634235-ad62e3b9-0d27-43e2-b8fb-79251ee22c9c.png" align="center" height="36" alt="Careerly" hspace="16">
+   <a href="https://pointing.life"><img src="https://user-images.githubusercontent.com/49827449/127144800-9b3cb2f6-ae8d-4605-83e4-f96807124aa8.png" align="center" height="28" alt="POINTING" hspace="16"></a>
+   </a>
 </p>
 
 ## 의견 나누기

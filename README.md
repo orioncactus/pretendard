@@ -99,10 +99,10 @@ Pretendard에 기여해주셔서 진심으로 감사드립니다.
 ## Pretendard를 사용하는 곳
 
 <p align="center">
-   <a href="https://pocketlesson.com"><img src="https://user-images.githubusercontent.com/931655/126260826-a699637a-e1b7-408c-bf28-42c65e09cea2.png" align="center" height="20" alt="PocketLesson" hspace="16"></a>
-   <a href="https://careerly.onelink.me/Gbs9/4ac8fc9d"><img src="https://user-images.githubusercontent.com/7247848/126634235-ad62e3b9-0d27-43e2-b8fb-79251ee22c9c.png" align="center" height="36" alt="Careerly" hspace="16">
-   <a href="https://pointing.life"><img src="https://user-images.githubusercontent.com/49827449/127144800-9b3cb2f6-ae8d-4605-83e4-f96807124aa8.png" align="center" height="28" alt="POINTING" hspace="16"></a>
-   </a>
+   <a href="https://pocketlesson.com"><img src="https://user-images.githubusercontent.com/7247848/130080465-1f0bb3c0-0ef2-4610-a601-49d8d3421ccd.png" align="center" height="40" alt="PocketLesson" hspace="16"></a>
+   <a href="https://careerly.onelink.me/Gbs9/4ac8fc9d"><img src="https://user-images.githubusercontent.com/7247848/130080557-18af3ddd-24b6-40e5-bb75-39f8ef8a9d5b.png" align="center" height="72" alt="Careerly" hspace="16">
+   <a href="https://pointing.life"><img src="https://user-images.githubusercontent.com/7247848/130080469-778c1010-e781-4442-9430-960d527c35a9.png" align="center" height="44" alt="POINTING" hspace="16"></a>
+   <a href="https://flex.team"><img src="https://user-images.githubusercontent.com/7247848/130081248-1369c43d-6226-4e62-a101-93365d1933b5.png" align="center" height="56" alt="flex" hspace="16"></a>
 </p>
 
 ## 의견 나누기

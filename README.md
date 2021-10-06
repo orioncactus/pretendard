@@ -103,9 +103,11 @@ Pretendard에 기여해주셔서 진심으로 감사드립니다.
    <a href="https://careerly.onelink.me/Gbs9/4ac8fc9d"><img src="https://user-images.githubusercontent.com/7247848/130080557-18af3ddd-24b6-40e5-bb75-39f8ef8a9d5b.png" align="center" height="72" alt="Careerly" hspace="16"></a>
    <a href="https://pointing.life"><img src="https://user-images.githubusercontent.com/7247848/130080469-778c1010-e781-4442-9430-960d527c35a9.png" align="center" height="44" alt="POINTING" hspace="16"></a>
    <a href="https://flex.team"><img src="https://user-images.githubusercontent.com/7247848/130081248-1369c43d-6226-4e62-a101-93365d1933b5.png" align="center" height="56" alt="flex" hspace="16"></a>
-   <a href="https://festa.io"><img src="https://user-images.githubusercontent.com/7247848/133427527-bb2a7104-8f05-437c-91db-6c68b43cbd34.png" align="center" height="68" alt="flex" hspace="16"></a>
-   <a href="https://www.sundaynamaste.com"><img src="https://user-images.githubusercontent.com/66287913/134866441-4534c9a2-7916-46eb-a1b9-fb2669d3a814.png" align="center" height="40" alt="썬데이나마스떼" hspace="16"></a>
-   <a href="https://projectlion.io"><img src="https://user-images.githubusercontent.com/31985395/135043914-1bc6f1d4-8926-4e03-9d56-af7262850948.png" align="center" height="22" alt="PROJECT LION" hspace="16"></a>
+   <a href="https://festa.io"><img src="https://user-images.githubusercontent.com/7247848/133427527-bb2a7104-8f05-437c-91db-6c68b43cbd34.png" align="center" height="68" alt="Festa" hspace="16"></a>
+   <a href="https://www.sundaynamaste.com"><img src="https://user-images.githubusercontent.com/7247848/136211910-c1f672b1-12e7-4f06-a8e3-83225788d85c.png" align="center" height="80" alt="썬데이나마스떼" hspace="16"></a>
+   <a href="https://projectlion.io"><img src="https://user-images.githubusercontent.com/7247848/136211912-0b86dcc6-caed-4240-9182-4c3d929c9900.png" align="center" height="44" alt="PROJECT LION" hspace="16"></a>
+   <a href="https://www.sandollcloud.com/font/FREE/7427.html"><img src="https://user-images.githubusercontent.com/7247848/136212279-e7340f18-4291-421a-9b19-48b51febbb9a.png" align="center" height="72" alt="Sandoll Cloud" hspace="16"></a>
+
 </p>
 
 ## 의견 나누기

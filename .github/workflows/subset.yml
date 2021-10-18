@@ -1,0 +1,44 @@
+name: Subset CI
+
+on:
+  push:
+    paths:
+    - "dist/public/**"
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v2
+      with:
+        fetch-depth: '0'
+    - uses: volta-cli/action@v1
+    - name: pip cache
+      id: pip-cache
+      uses: actions/cache@v2
+      with:
+        path: ~/.cache/pip
+        key: ${{ runner.os }}-pip-${{ hashFiles('**/requirements.txt') }}
+        restore-keys: |
+          ${{ runner.os }}-pip-
+    - name: node cache
+      id: node-cache
+      uses: actions/cache@v2
+      with:
+        path: node_modules
+        key: ${{ runner.os }}-node-${{ hashFiles('**/package-lock.json') }}
+        restore-keys: |
+          ${{ runner.os }}-node-
+    - run: pip install -r ./requirements.txt
+    - name: npm install
+      if: steps.node-cache.outputs.cache-hit != 'true'
+      run: npm install
+    - run: npm ci --no-audit
+    - name: Subet
+      run: ./subset.sh
+    - name: Commit Build File
+      uses: stefanzweifel/git-auto-commit-action@v4
+      with:
+        branch: main
+        file_pattern: dist/web/**
+        commit_message: 'Fix: Automated commit subset files'

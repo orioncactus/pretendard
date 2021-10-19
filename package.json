@@ -1,7 +1,6 @@
 {
   "name": "pretendard",
   "version": "1.2.0",
-  "main": "index.js",
   "repository": "https://github.com/orioncactus/pretendard",
   "author": "Kil Hyung-jin <orioncactus@gmail.com>",
   "license": "OFL-1.1",

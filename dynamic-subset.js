@@ -31,6 +31,7 @@ const errCallback = (err) => {
 function dynamic_subset(format) {
   const outputDir = join(OUTPUT_PATH, format + "-dynamic-subset");
   const nameFormat = "{NAME}.subset.{INDEX}{EXT}";
+  console.log("== Static " + format + "-dynamic-subset ======" );
 
   // Remove Files
   readdir(outputDir, (err, fileLists) => {
@@ -47,12 +48,15 @@ function dynamic_subset(format) {
   for ( const fontName of FONTLISTS ) {
     const cssFile = join(OUTPUT_PATH, fontName + ".css");
     const fontFile = join(INPUT_PATH, fontName + ".otf");
+
+    console.log("Convert " + fontName + ".otf -> " + fontName + ".subset.n." + format );
     fontRange(cssFile, fontFile, {
       savePath: outputDir,
       format: format,
       nameFormat: nameFormat
     });
   }
+  console.log("");
 }
 
 // == Subset Apply  ============================================================

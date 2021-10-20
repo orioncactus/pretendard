@@ -34,7 +34,7 @@ jobs:
       if: steps.node-cache.outputs.cache-hit != 'true'
       run: npm install
     - run: npm ci --no-audit
-    - name: Subet
+    - name: Generate Subset
       run: ./subset.sh
     - name: Commit Build File
       uses: stefanzweifel/git-auto-commit-action@v4

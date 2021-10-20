@@ -1,0 +1,17 @@
+{
+  "name": "pretendard",
+  "version": "1.2.0",
+  "repository": "https://github.com/orioncactus/pretendard",
+  "author": "Kil Hyung-jin <orioncactus@gmail.com>",
+  "license": "OFL-1.1",
+  "scripts": {
+    "dynamic-subset": "NODE_ENV=production node ./dynamic-subset.js"
+  },
+  "dependencies": {
+    "font-range": "^0.2.0"
+  },
+  "volta": {
+    "node": "16.10.0",
+    "npm": "7.24.1"
+  }
+}

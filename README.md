@@ -96,6 +96,8 @@ Pretendard에 기여해주셔서 진심으로 감사드립니다.
 
 [@leejh10003](https://github.com/leejh10003): Pretendard를 사용하는 [예시](/examples)를 제작해주셨습니다.
 
+[@black7375](https://github.com/black7375): 서브셋 및 동적 서브셋 빌드 자동화, 릴리즈 파일 생성 자동화를 제작해주셨습니다.
+
 ## Pretendard를 사용하는 곳
 
 <p align="center">
@@ -106,8 +108,9 @@ Pretendard에 기여해주셔서 진심으로 감사드립니다.
    <a href="https://festa.io"><img src="https://user-images.githubusercontent.com/7247848/133427527-bb2a7104-8f05-437c-91db-6c68b43cbd34.png" align="center" height="68" alt="Festa" hspace="16"></a>
    <a href="https://www.sundaynamaste.com"><img src="https://user-images.githubusercontent.com/7247848/136211910-c1f672b1-12e7-4f06-a8e3-83225788d85c.png" align="center" height="80" alt="썬데이나마스떼" hspace="16"></a>
    <a href="https://projectlion.io"><img src="https://user-images.githubusercontent.com/7247848/136211912-0b86dcc6-caed-4240-9182-4c3d929c9900.png" align="center" height="44" alt="PROJECT LION" hspace="16"></a>
-   <a href="https://www.sandollcloud.com/font/FREE/7427.html"><img src="https://user-images.githubusercontent.com/7247848/136212279-e7340f18-4291-421a-9b19-48b51febbb9a.png" align="center" height="72" alt="Sandoll Cloud" hspace="16"></a>
-   <a href="https://www.catchfashion.com"><img src="https://user-images.githubusercontent.com/39669819/137872398-39ff0a6a-7cc5-464b-a0c0-843189d94eae.png" align="center" height="30" alt="캐치패션" hspace="16"></a>
+   <a href="https://www.sandollcloud.com/font/FREE/7427.html"><img src="https://user-images.githubusercontent.com/7247848/138128673-87665cb6-485d-4dae-a1a2-89e8e7b0f2d9.png" align="center" height="100" alt="Sandoll Cloud" hspace="16"></a>
+   <a href="https://www.catchfashion.com"><img src="https://user-images.githubusercontent.com/7247848/138128414-89253ebd-7e27-446f-ae3c-a4c573e69e12.png" align="center" height="56" alt="캐치패션" hspace="16"></a>
+
 
 </p>
 

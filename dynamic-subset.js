@@ -5,7 +5,7 @@ const unlink    = require('fs').unlink;
 const fontRange = require("font-range").fontRange;
 
 // == Constants ================================================================
-const INPUT_PATH = join("dist", "public", "static");
+const INPUT_PATH = join("dist", "public", "static", "alternative");
 const OUTPUT_PATH = join("dist", "web", "static");
 const FONTLISTS = [
   "Pretendard-Black",
@@ -47,9 +47,9 @@ function dynamic_subset(format) {
   // Create Files
   for ( const fontName of FONTLISTS ) {
     const cssFile = join(OUTPUT_PATH, fontName + ".css");
-    const fontFile = join(INPUT_PATH, fontName + ".otf");
+    const fontFile = join(INPUT_PATH, fontName + ".ttf");
 
-    console.log("Convert " + fontName + ".otf -> " + fontName + ".subset.n." + format );
+    console.log("Convert " + fontName + ".ttf -> " + fontName + ".subset.n." + format );
     fontRange(cssFile, fontFile, {
       savePath: outputDir,
       format: format,

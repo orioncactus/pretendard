@@ -1,16 +1,16 @@
 # == PATH ======================================================================
-STATIC_PATH="./dist/public/static/"
+STATIC_PATH="./dist/public/static/alternative/"
 STATIC_OUTPUT_PATH="./dist/web/static/"
 STATIC_FONTS=(
-  "Pretendard-Black.otf"
-  "Pretendard-Bold.otf"
-  "Pretendard-ExtraBold.otf"
-  "Pretendard-ExtraLight.otf"
-  "Pretendard-Light.otf"
-  "Pretendard-Medium.otf"
-  "Pretendard-Regular.otf"
-  "Pretendard-SemiBold.otf"
-  "Pretendard-Thin.otf"
+  "Pretendard-Black.ttf"
+  "Pretendard-Bold.ttf"
+  "Pretendard-ExtraBold.ttf"
+  "Pretendard-ExtraLight.ttf"
+  "Pretendard-Light.ttf"
+  "Pretendard-Medium.ttf"
+  "Pretendard-Regular.ttf"
+  "Pretendard-SemiBold.ttf"
+  "Pretendard-Thin.ttf"
 )
 
 VARIABLE_PATH="./dist/public/variable/"
@@ -56,7 +56,7 @@ subset_wrapper() {
   local etcArgs="$5"
 
   for fontFile in "${fontsList[@]}"; do
-    local fontName="${fontFile%otf}"
+    local fontName="${fontFile%ttf}"
     local fontName="${fontName%ttf}"
     local inputPath="${basePath}${fontFile}"
 

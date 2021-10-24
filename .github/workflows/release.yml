@@ -77,6 +77,6 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v2
-    - name: Purge JSDelivr cache
+    - name: Purge jsDelivr cache
       run: |
-        https://purge.jsdelivr.net/gh/orioncactus/pretendard/dist/web/static
+        curl https://purge.jsdelivr.net/gh/orioncactus/pretendard/dist/web/static

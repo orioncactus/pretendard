@@ -71,3 +71,12 @@ jobs:
       with:
         files: |
           dist/Pretendard-${{ env.RELEASE_NAME }}.zip
+
+  cache-invalidation:
+    needs: upload
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v2
+    - name: Purge JSDelivr cache
+      run: |
+        https://purge.jsdelivr.net/gh/orioncactus/pretendard/dist/web/static

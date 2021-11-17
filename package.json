@@ -5,7 +5,8 @@
   "author": "Kil Hyung-jin <orioncactus@gmail.com>",
   "license": "OFL-1.1",
   "scripts": {
-    "dynamic-subset": "NODE_ENV=production node ./dynamic-subset.js"
+    "dynamic-subset": "NODE_ENV=production node ./dynamic-subset.js",
+    "publish": "npm publish --access public"
   },
   "dependencies": {
     "font-range": "^0.2.0"

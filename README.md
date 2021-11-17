@@ -84,6 +84,22 @@ font-family: -apple-system, BlinkMacSystemFont, 'Apple SD Gothic Neo', Pretendar
 font-family: Pretendard, -apple-system, BlinkMacSystemFont, system-ui, Roboto, 'Helvetica Neue', 'Segoe UI', 'Apple SD Gothic Neo', 'Noto Sans KR', 'Malgun Gothic', sans-serif;
 ```
 
+## 패키지
+
+Pretendard는 아래와 같은 패키지 매니저에서 사용할 수 있습니다.
+
+-   [npm](https://www.npmjs.com/package/pretendard)
+
+```bash
+npm i pretendard
+```
+
+-   [Yarn](https://yarnpkg.com/package/pretendard)
+
+```bash
+yarn add pretendard
+```
+
 ## 라이선스
 
 Pretendard는 [SIL 오픈 폰트 라이선스](https://scripts.sil.org/OFL)로 배포됩니다. 글꼴 단독 판매를 제외한 모든 상업적 행위 및 수정, 재배포가 가능합니다.
@@ -98,6 +114,8 @@ Pretendard에 기여해주셔서 진심으로 감사드립니다.
 
 [@black7375](https://github.com/black7375): 서브셋 및 동적 서브셋 빌드 자동화, 릴리즈 파일 생성 자동화를 제작해주셨습니다.
 
+[@victorrica](https://github.com/victorrica): npm 및 Yarn 패키지 배포를 작업해주셨습니다.
+
 ## Pretendard를 사용하는 곳
 
 <p align="center">
@@ -110,8 +128,6 @@ Pretendard에 기여해주셔서 진심으로 감사드립니다.
    <a href="https://projectlion.io"><img src="https://user-images.githubusercontent.com/7247848/136211912-0b86dcc6-caed-4240-9182-4c3d929c9900.png" align="center" height="44" alt="PROJECT LION" hspace="16"></a>
    <a href="https://www.sandollcloud.com/font/FREE/7427.html"><img src="https://user-images.githubusercontent.com/7247848/138128673-87665cb6-485d-4dae-a1a2-89e8e7b0f2d9.png" align="center" height="100" alt="Sandoll Cloud" hspace="16"></a>
    <a href="https://www.catchfashion.com"><img src="https://user-images.githubusercontent.com/7247848/138128414-89253ebd-7e27-446f-ae3c-a4c573e69e12.png" align="center" height="56" alt="캐치패션" hspace="16"></a>
-
-
 </p>
 
 ## 의견 나누기

@@ -125,9 +125,11 @@ Pretendard에 기여해주셔서 진심으로 감사드립니다.
    <a href="https://flex.team"><img src="https://user-images.githubusercontent.com/7247848/130081248-1369c43d-6226-4e62-a101-93365d1933b5.png" align="center" height="56" alt="flex" hspace="16"></a>
    <a href="https://festa.io"><img src="https://user-images.githubusercontent.com/7247848/133427527-bb2a7104-8f05-437c-91db-6c68b43cbd34.png" align="center" height="68" alt="Festa" hspace="16"></a>
    <a href="https://www.sundaynamaste.com"><img src="https://user-images.githubusercontent.com/7247848/136211910-c1f672b1-12e7-4f06-a8e3-83225788d85c.png" align="center" height="80" alt="썬데이나마스떼" hspace="16"></a>
-   <a href="https://projectlion.io"><img src="https://user-images.githubusercontent.com/7247848/136211912-0b86dcc6-caed-4240-9182-4c3d929c9900.png" align="center" height="44" alt="PROJECT LION" hspace="16"></a>
+   <a href="https://projectlion.io"><img src="https://user-images.githubusercontent.com/7247848/136211912-0b86dcc6-caed-4240-9182-4c3d929c9900.png" align="center" height="40" alt="PROJECT LION" hspace="16"></a>
    <a href="https://www.sandollcloud.com/font/FREE/7427.html"><img src="https://user-images.githubusercontent.com/7247848/138128673-87665cb6-485d-4dae-a1a2-89e8e7b0f2d9.png" align="center" height="100" alt="Sandoll Cloud" hspace="16"></a>
-   <a href="https://www.catchfashion.com"><img src="https://user-images.githubusercontent.com/7247848/138128414-89253ebd-7e27-446f-ae3c-a4c573e69e12.png" align="center" height="56" alt="캐치패션" hspace="16"></a>
+   <a href="https://www.catchfashion.com"><img src="https://user-images.githubusercontent.com/7247848/138128414-89253ebd-7e27-446f-ae3c-a4c573e69e12.png" align="center" height="52" alt="캐치패션" hspace="16"></a>
+   <a href="https://apps.apple.com/kr/app/퍼블리-publy/id1440756899"><img src="https://user-images.githubusercontent.com/7247848/143039841-ae397d57-fd21-470a-817c-f44aef828c5c.png" align="center" height="48" alt="PUBLY" hspace="16"></a>
+   <a href="https://apps.apple.com/kr/app/세탁특공대/id1049236217"><img src="https://user-images.githubusercontent.com/7247848/143039257-54dbbfc3-2633-4f5b-954d-bb851861bb2d.png" align="center" height="56" alt="세탁특공대" hspace="16"></a>
 </p>
 
 ## 의견 나누기

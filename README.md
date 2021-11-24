@@ -130,6 +130,7 @@ Pretendard에 기여해주셔서 진심으로 감사드립니다.
    <a href="https://www.catchfashion.com"><img src="https://user-images.githubusercontent.com/7247848/138128414-89253ebd-7e27-446f-ae3c-a4c573e69e12.png" align="center" height="52" alt="캐치패션" hspace="16"></a>
    <a href="https://apps.apple.com/kr/app/퍼블리-publy/id1440756899"><img src="https://user-images.githubusercontent.com/7247848/143039841-ae397d57-fd21-470a-817c-f44aef828c5c.png" align="center" height="48" alt="PUBLY" hspace="16"></a>
    <a href="https://apps.apple.com/kr/app/세탁특공대/id1049236217"><img src="https://user-images.githubusercontent.com/7247848/143039257-54dbbfc3-2633-4f5b-954d-bb851861bb2d.png" align="center" height="56" alt="세탁특공대" hspace="16"></a>
+   <a href="https://event.kakaobank.com/p/checkcard2021"><img src="https://user-images.githubusercontent.com/7247848/143246270-d9b71383-7b31-44bf-9251-7bf4f4c23008.png" align="center" height="64" alt="kakaobank" hspace="16"></a>
 </p>
 
 ## 의견 나누기

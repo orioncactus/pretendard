@@ -132,6 +132,12 @@ Pretendard에 기여해주셔서 진심으로 감사드립니다.
    <a href="https://apps.apple.com/kr/app/세탁특공대/id1049236217"><img src="https://user-images.githubusercontent.com/7247848/143039257-54dbbfc3-2633-4f5b-954d-bb851861bb2d.png" align="center" height="56" alt="세탁특공대" hspace="16"></a>
    <a href="https://event.kakaobank.com/p/checkcard2021"><img src="https://user-images.githubusercontent.com/7247848/143246270-d9b71383-7b31-44bf-9251-7bf4f4c23008.png" align="center" height="64" alt="kakaobank" hspace="16"></a>
    <a href="https://moye.kr"><img src="https://user-images.githubusercontent.com/7247848/145834034-45bf6ca4-a432-460b-a67b-f2b6d8d228e1.png" align="center" height="74" alt="moye" hspace="16"></a>
+   <a href="https://kakaostyle.com/#gh-dark-mode-only">
+      <img src="https://user-images.githubusercontent.com/2631975/147441037-f4869750-2212-4aa1-bce0-214d6d3ca228.png" align="center" height="35" alt="kakaostyle" hspace="16">
+   </a>
+   <a href="https://kakaostyle.com/#gh-light-mode-only">
+      <img src="https://user-images.githubusercontent.com/2631975/147441401-bde1895d-9179-414c-899c-6250c2de1455.png" align="center" height="35" alt="kakaostyle" hspace="16">
+   </a>
 </p>
 
 ## 의견 나누기

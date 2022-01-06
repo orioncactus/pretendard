@@ -138,6 +138,12 @@ Pretendard에 기여해주셔서 진심으로 감사드립니다.
    <a href="https://kakaostyle.com/#gh-light-mode-only">
       <img src="https://user-images.githubusercontent.com/2631975/147441401-bde1895d-9179-414c-899c-6250c2de1455.png" align="center" height="35" alt="kakaostyle" hspace="16">
    </a>
+   <a href="https://solved.ac/#gh-dark-mode-only">
+      <img src="https://user-images.githubusercontent.com/4417431/148334650-e833a928-41cf-46a4-9ed1-d9bbe54ec4ec.png" align="center" height="35" alt="solved.ac" hspace="16">
+   </a>
+   <a href="https://solved.ac/#gh-light-mode-only">
+      <img src="https://user-images.githubusercontent.com/4417431/148334648-7ed10de0-5fa6-4b7e-b558-9826dfdacab0.png" align="center" height="35" alt="solved.ac" hspace="16">
+   </a>
 </p>
 
 ## 의견 나누기

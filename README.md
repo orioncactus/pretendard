@@ -1,6 +1,7 @@
 # Pretendard
 
-![Thumbnail](thumbnail.svg)
+![Thumbnail](thumbnail.svg#gh-light-mode-only)
+![Thumbnail](thumbnail-white.svg#gh-dark-mode-only)
 
 Pretendard는 마땅한 system-ui 글꼴이 없는 환경에서 발생하는 불편함을 해결합니다.
 
@@ -119,30 +120,82 @@ Pretendard에 기여해주셔서 진심으로 감사드립니다.
 ## Pretendard를 사용하는 곳
 
 <p align="center">
-   <a href="https://pocketlesson.com"><img src="https://user-images.githubusercontent.com/7247848/130080465-1f0bb3c0-0ef2-4610-a601-49d8d3421ccd.png" align="center" height="40" alt="PocketLesson" hspace="16"></a>
-   <a href="https://careerly.onelink.me/Gbs9/4ac8fc9d"><img src="https://user-images.githubusercontent.com/7247848/130080557-18af3ddd-24b6-40e5-bb75-39f8ef8a9d5b.png" align="center" height="72" alt="Careerly" hspace="16"></a>
-   <a href="https://pointing.life"><img src="https://user-images.githubusercontent.com/7247848/130080469-778c1010-e781-4442-9430-960d527c35a9.png" align="center" height="44" alt="POINTING" hspace="16"></a>
-   <a href="https://flex.team"><img src="https://user-images.githubusercontent.com/7247848/130081248-1369c43d-6226-4e62-a101-93365d1933b5.png" align="center" height="56" alt="flex" hspace="16"></a>
-   <a href="https://festa.io"><img src="https://user-images.githubusercontent.com/7247848/133427527-bb2a7104-8f05-437c-91db-6c68b43cbd34.png" align="center" height="68" alt="Festa" hspace="16"></a>
-   <a href="https://www.sundaynamaste.com"><img src="https://user-images.githubusercontent.com/7247848/136211910-c1f672b1-12e7-4f06-a8e3-83225788d85c.png" align="center" height="80" alt="썬데이나마스떼" hspace="16"></a>
-   <a href="https://projectlion.io"><img src="https://user-images.githubusercontent.com/7247848/136211912-0b86dcc6-caed-4240-9182-4c3d929c9900.png" align="center" height="40" alt="PROJECT LION" hspace="16"></a>
-   <a href="https://www.sandollcloud.com/font/FREE/7427.html"><img src="https://user-images.githubusercontent.com/7247848/138128673-87665cb6-485d-4dae-a1a2-89e8e7b0f2d9.png" align="center" height="100" alt="Sandoll Cloud" hspace="16"></a>
-   <a href="https://www.catchfashion.com"><img src="https://user-images.githubusercontent.com/7247848/138128414-89253ebd-7e27-446f-ae3c-a4c573e69e12.png" align="center" height="52" alt="캐치패션" hspace="16"></a>
-   <a href="https://apps.apple.com/kr/app/퍼블리-publy/id1440756899"><img src="https://user-images.githubusercontent.com/7247848/143039841-ae397d57-fd21-470a-817c-f44aef828c5c.png" align="center" height="48" alt="PUBLY" hspace="16"></a>
-   <a href="https://apps.apple.com/kr/app/세탁특공대/id1049236217"><img src="https://user-images.githubusercontent.com/7247848/143039257-54dbbfc3-2633-4f5b-954d-bb851861bb2d.png" align="center" height="56" alt="세탁특공대" hspace="16"></a>
-   <a href="https://event.kakaobank.com/p/checkcard2021"><img src="https://user-images.githubusercontent.com/7247848/143246270-d9b71383-7b31-44bf-9251-7bf4f4c23008.png" align="center" height="64" alt="kakaobank" hspace="16"></a>
-   <a href="https://moye.kr"><img src="https://user-images.githubusercontent.com/7247848/145834034-45bf6ca4-a432-460b-a67b-f2b6d8d228e1.png" align="center" height="74" alt="moye" hspace="16"></a>
-   <a href="https://kakaostyle.com/#gh-dark-mode-only">
-      <img src="https://user-images.githubusercontent.com/2631975/147441037-f4869750-2212-4aa1-bce0-214d6d3ca228.png" align="center" height="35" alt="kakaostyle" hspace="16">
+   <a href="https://pocketlesson.com">
+      <img src="https://user-images.githubusercontent.com/7247848/148687957-9102924d-5282-4526-a8c6-baddd9f26c39.png" align="center" height="50" alt="PocketLesson" hspace="16">
+   </a>
+   <a href="https://careerly.onelink.me/Gbs9/4ac8fc9d/#gh-light-mode-only">
+      <img src="https://user-images.githubusercontent.com/7247848/148687456-dfd8939e-0728-4551-9a79-cb434b389e82.png" align="center" height="50" alt="Careerly" hspace="16">
+   </a>
+   <a href="https://careerly.onelink.me/Gbs9/4ac8fc9d/#gh-dark-mode-only">
+      <img src="https://user-images.githubusercontent.com/7247848/148689872-466b0f53-5901-44c6-94c2-8c2775733b4b.png" align="center" height="50" alt="Careerly" hspace="16">
+   </a>
+   <a href="https://pointing.life">
+      <img src="https://user-images.githubusercontent.com/7247848/148687954-5ccb0a28-fcba-49e6-a76a-78e40afd21b8.png" align="center" height="50" alt="POINTING" hspace="16">
+   </a>
+   <a href="https://flex.team/#gh-light-mode-only">
+      <img src="https://user-images.githubusercontent.com/7247848/130081248-1369c43d-6226-4e62-a101-93365d1933b5.png" align="center" height="50" alt="flex" hspace="16">
+   </a>
+   <a href="https://flex.team/#gh-dark-mode-only">
+      <img src="https://user-images.githubusercontent.com/7247848/148690157-91a9459c-eaee-4a73-93af-62149bec1ba5.png" align="center" height="50" alt="flex" hspace="16">
+   </a>
+   <a href="https://festa.io#gh-light-mode-only">
+      <img src="https://user-images.githubusercontent.com/7247848/148687380-12385bea-bebf-4c33-b9e7-a08aeb64c6a8.png" align="center" height="50" alt="Festa" hspace="16">
+   </a>
+   <a href="https://festa.io/#gh-dark-mode-only">
+      <img src="https://user-images.githubusercontent.com/7247848/148690185-3b217e31-65f3-49fd-bdd7-af24b6a8299b.png" align="center" height="50" alt="Festa" hspace="16">
+   </a>
+   <a href="https://www.sundaynamaste.com">
+      <img src="https://user-images.githubusercontent.com/7247848/148688031-f868235e-f5d6-4157-a4e5-a1e2e0c1214d.png" align="center" height="50" alt="썬데이나마스떼" hspace="16">
+   </a>
+   <a href="https://projectlion.io/#gh-light-mode-only">
+      <img src="https://user-images.githubusercontent.com/7247848/148688058-4d0dda62-b405-4002-a0b9-159c1f18afa6.png" align="center" height="50" alt="PROJECT LION" hspace="16">
+   </a>
+   <a href="https://projectlion.io/#gh-dark-mode-only">
+      <img src="https://user-images.githubusercontent.com/7247848/148690212-967f0c1e-c62d-460b-bd43-ba119e5b695a.png" align="center" height="50" alt="PROJECT LION" hspace="16">
+   </a>
+   <a href="https://www.sandollcloud.com/font/FREE/7427.html">
+      <img src="https://user-images.githubusercontent.com/7247848/148688131-a5a6f90b-2f78-4cfa-829b-ebd94d8a104c.png" align="center" height="58" alt="Sandoll Cloud" hspace="16">
+   </a>
+   <a href="https://www.catchfashion.com/#gh-light-mode-only">
+      <img src="https://user-images.githubusercontent.com/7247848/138128414-89253ebd-7e27-446f-ae3c-a4c573e69e12.png" align="center" height="50" alt="캐치패션" hspace="16">
+   </a>
+   <a href="https://www.catchfashion.com/#gh-dark-mode-only">
+      <img src="https://user-images.githubusercontent.com/7247848/148690254-4727dc6d-d049-4f4f-bbea-f11535dbfea6.png" align="center" height="50" alt="캐치패션" hspace="16">
+   </a>
+   <a href="https://publy.co/#gh-light-mode-only">
+      <img src="https://user-images.githubusercontent.com/7247848/148688946-158cbc4c-b7ec-4fc0-90e9-fe1edf3ec38f.png" align="center" height="50" alt="PUBLY" hspace="16">
+   </a>
+   <a href="https://publy.co/#gh-dark-mode-only">
+      <img src="https://user-images.githubusercontent.com/7247848/148690271-67ff2649-2e1f-4918-a18e-dd40ca53c76a.png" align="center" height="50" alt="PUBLY" hspace="16">
+   </a>
+   <a href="https://apps.apple.com/kr/app/세탁특공대/id1049236217/#gh-light-mode-only">
+      <img src="https://user-images.githubusercontent.com/7247848/148689504-48c4e70d-4eaf-45cc-a941-d513dd1adaf2.png" align="center" height="50" alt="세탁특공대" hspace="16">
+   </a>
+   <a href="https://apps.apple.com/kr/app/세탁특공대/id1049236217/#gh-dark-mode-only">
+      <img src="https://user-images.githubusercontent.com/7247848/148690282-84892f7d-04dd-4d70-be37-ec7984e44c3e.png" align="center" height="50" alt="세탁특공대" hspace="16">
+   </a>
+   <a href="https://event.kakaobank.com/p/checkcard2021#gh-light-mode-only">
+      <img src="https://user-images.githubusercontent.com/7247848/148688409-8d658514-cf4f-486b-bd81-c7f94dff9618.png" align="center" height="50" alt="kakaobank" hspace="16">
+   <a href="https://event.kakaobank.com/p/checkcard2021#gh-dark-mode-only">
+      <img src="https://user-images.githubusercontent.com/7247848/148690293-793bfc62-9708-4d26-9a73-8adc47bee2ca.png" align="center" height="50" alt="kakaobank" hspace="16">
+   </a>
+   <a href="https://moye.kr/#gh-light-mode-only">
+      <img src="https://user-images.githubusercontent.com/7247848/148689622-2f94e38f-5b13-4847-9513-0214d289e045.png" align="center" height="58" alt="moye" hspace="16">
+   </a>
+   <a href="https://moye.kr/#gh-dark-mode-only">
+      <img src="https://user-images.githubusercontent.com/7247848/148690308-f3119f85-0fe4-4457-827f-34c40d7d2b68.png" align="center" height="58" alt="moye" hspace="16">
    </a>
    <a href="https://kakaostyle.com/#gh-light-mode-only">
-      <img src="https://user-images.githubusercontent.com/2631975/147441401-bde1895d-9179-414c-899c-6250c2de1455.png" align="center" height="35" alt="kakaostyle" hspace="16">
+      <img src="https://user-images.githubusercontent.com/7247848/148689267-accacc26-3639-4b47-a7d8-9f0bbef94384.png" align="center" height="50" alt="kakaostyle" hspace="16">
    </a>
-   <a href="https://solved.ac/#gh-dark-mode-only">
-      <img src="https://user-images.githubusercontent.com/4417431/148334650-e833a928-41cf-46a4-9ed1-d9bbe54ec4ec.png" align="center" height="35" alt="solved.ac" hspace="16">
+   <a href="https://kakaostyle.com/#gh-dark-mode-only">
+      <img src="https://user-images.githubusercontent.com/7247848/148689407-9d994b6d-d9b6-47d3-8d93-f7fa1836f160.png" align="center" height="50" alt="kakaostyle" hspace="16">
    </a>
    <a href="https://solved.ac/#gh-light-mode-only">
-      <img src="https://user-images.githubusercontent.com/4417431/148334648-7ed10de0-5fa6-4b7e-b558-9826dfdacab0.png" align="center" height="35" alt="solved.ac" hspace="16">
+      <img src="https://user-images.githubusercontent.com/7247848/148689351-855d8c25-3a10-44a9-b7b0-651c353f7079.png" align="center" height="50" alt="solved.ac" hspace="16">
+   </a>
+   <a href="https://solved.ac/#gh-dark-mode-only">
+      <img src="https://user-images.githubusercontent.com/7247848/148689350-ef59e5f6-5e27-4c58-9264-d2c04200ff17.png" align="center" height="50" alt="solved.ac" hspace="16">
    </a>
 </p>
 

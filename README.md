@@ -197,6 +197,12 @@ Pretendard에 기여해주셔서 진심으로 감사드립니다.
    <a href="https://solved.ac/#gh-dark-mode-only">
       <img src="https://user-images.githubusercontent.com/7247848/148689350-ef59e5f6-5e27-4c58-9264-d2c04200ff17.png" align="center" height="50" alt="solved.ac" hspace="16">
    </a>
+   <a href="https://rallit.com/#gh-light-mode-only">
+      <img src="https://user-images.githubusercontent.com/76927618/151356487-9aa7d1f6-9677-47e6-9723-055e0e40aed4.png" align="center" height="50" alt="rallit" hspace="16">
+   </a>
+   <a href="https://rallit.com/#gh-dark-mode-only">
+      <img src="https://user-images.githubusercontent.com/76927618/151355760-998bda56-ff32-47ee-991e-9709db173932.png" align="center" height="50" alt="rallit" hspace="16">
+   </a>
 </p>
 
 ## 의견 나누기

@@ -19,54 +19,116 @@ Pretendard의 배경과 특징, OpenType 기능 등을 설명하는 자세한 �
 
 ## 웹폰트
 
-모든 OpenType 기능을 포함한 Pretendard를 웹폰트로 사용하려면 아래 코드를 사용하세요. 사용하는 font-family 이름은 `Pretendard` 입니다.
+모든 OpenType 기능을 포함한 Pretendard를 웹폰트로 사용하려면 아래를 참조하세요.
+
+Pretendard는 사용자가 보다 안정적이고 편리하게 사용할 수 있도록 cdn을 다중화하여 배포하고 있습니다.
+
+안정적이고 사용하기 편리하신 CDN을 선택하여 사용하시면 됩니다.
+
+사용하는 font-family 이름은 `Pretendard` 입니다.
 
 #### CSS
 
 ```css
+/* cdnjs (Recommended) */
+@import url('https://cdnjs.cloudflare.com/ajax/libs/pretendard/1.2.1/static/pretendard.css');
+
+/* JSDelivr */
 @import url('https://cdn.jsdelivr.net/gh/orioncactus/pretendard/dist/web/static/pretendard.css');
+
+/* unpkg */
+@import url('https://unpkg.com/pretendard@1.2.1/dist/web/static/pretendard.css');
 ```
 
 #### HTML
 
 ```html
+<!-- cdnjs (Recommended) -->
+<link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/pretendard/1.2.1/static/pretendard.css" />
+
+<!-- JSDelivr -->
 <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard/dist/web/static/pretendard.css" />
+
+<!-- unpkg -->
+<link rel="stylesheet" type="text/css" href="https://unpkg.com/pretendard@1.2.1/dist/web/static/pretendard.css" />
 ```
 
 ---
 
 ### 다이나믹 서브셋
 
-Pretendard에서는 웹폰트 용량 문제를 해결하기 위한 방법으로 Google Fonts에서 제공하는 Noto Sans KR와 동일한 방식으로 동적 서브셋을 제공합니다. 페이지에 포함된 글자만 선택적으로 다운로드해 보다 빠르게 Pretendard를 표시하려면 아래 코드를 사용하세요. 사용하는 font-family 이름은 `Pretendard` 입니다.
+Pretendard에서는 웹폰트 용량 문제를 해결하기 위한 방법으로 Google Fonts에서 제공하는 Noto Sans KR와 동일한 방식으로 동적 서브셋을 제공합니다.
+
+페이지에 포함된 글자만 선택적으로 다운로드해 보다 빠르게 Pretendard를 표시하려면 아래를 참조하세요. 
+
+Pretendard는 사용자가 보다 안정적이고 편리하게 사용할 수 있도록 cdn을 다중화하여 배포하고 있습니다.
+
+안정적이고 사용하기 편리하신 CDN을 선택하여 사용하시면 됩니다.
+
+사용하는 font-family 이름은 `Pretendard` 입니다.
 
 #### CSS
 
 ```css
+/* cdnjs (Recommended) */
+@import url('https://cdnjs.cloudflare.com/ajax/libs/pretendard/1.2.1/static/pretendard-dynamic-subset.css');
+
+/* JSDelivr */
 @import url('https://cdn.jsdelivr.net/gh/orioncactus/pretendard/dist/web/static/pretendard-dynamic-subset.css');
+
+/* unpkg */
+@import url('https://unpkg.com/pretendard@1.2.1/dist/web/static/pretendard-dynamic-subset.css');
 ```
 
 #### HTML
 
 ```html
+<!-- cdnjs (Recommended) -->
+<link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/pretendard/1.2.1/static/pretendard-dynamic-subset.css" />
+
+<!-- JSDelivr -->
 <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard/dist/web/static/pretendard-dynamic-subset.css" />
+
+<!-- unpkg -->
+<link rel="stylesheet" type="text/css" href="https://unpkg.com/pretendard@1.2.1/dist/web/static/pretendard-dynamic-subset.css" />
 ```
 
 ---
 
 ### 가변 글꼴
 
-가변 weight 속성을 사용하려면 아래 코드를 사용하세요. 사용하는 font-family 이름은 `'Pretendard Variable'` 입니다.
+가변 weight 속성을 사용하려면 아래를 참조하세요. 
+
+Pretendard는 사용자가 보다 안정적이고 편리하게 사용할 수 있도록 cdn을 다중화하여 배포하고 있습니다.
+
+안정적이고 사용하기 편리하신 CDN을 선택하여 사용하시면 됩니다.
+
+사용하는 font-family 이름은 `'Pretendard Variable'` 입니다.
 
 #### CSS
 
 ```css
+/* cdnjs (Recommended) */
+@import url('https://cdnjs.cloudflare.com/ajax/libs/pretendard/1.2.1/variable/pretendardvariable.min.css');
+
+/* JSDelivr */
 @import url('https://cdn.jsdelivr.net/gh/orioncactus/pretendard/dist/web/variable/pretendardvariable.css');
+
+/* unpkg */
+@import url('https://unpkg.com/pretendard@1.2.1/dist/web/variable/pretendardvariable.css');
 ```
 
 #### HTML
 
 ```html
+<!-- cdnjs (Recommended) -->
+<link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/pretendard/1.2.1/variable/pretendardvariable.min.css" />
+
+<!-- JSDelivr -->
 <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard/dist/web/variable/pretendardvariable.css" />
+
+<!-- unpkg -->
+<link rel="stylesheet" type="text/css" href="https://unpkg.com/pretendard@1.2.1/dist/web/variable/pretendardvariable.css" />
 ```
 
 ---
@@ -115,7 +177,9 @@ Pretendard에 기여해주셔서 진심으로 감사드립니다.
 
 [@black7375](https://github.com/black7375): 서브셋 및 동적 서브셋 빌드 자동화, 릴리즈 파일 생성 자동화를 제작해주셨습니다.
 
-[@victorrica](https://github.com/victorrica): npm 및 Yarn 패키지 배포를 작업해주셨습니다.
+[@victorrica](https://github.com/victorrica): npm 및 yarn 패키지 배포를 작업해주셨습니다.
+
+[@kms0219kms](https://github.com/kms0219kms): 웹폰트 CDN 배포 다중화를 작업해주셨습니다.
 
 ## Pretendard를 사용하는 곳
 

@@ -315,6 +315,12 @@ Pretendard에 기여해주셔서 진심으로 감사드립니다.
    <a href="https://rallit.com/#gh-dark-mode-only">
       <img src="https://user-images.githubusercontent.com/7247848/154992484-d9fc3d71-972d-4b00-a7de-8941eebe4c74.png" align="center" height="50" alt="rallit" hspace="16">
    </a>
+   <a href="https://fonts.adobe.com/fonts/pretendard/#gh-light-mode-only">
+      <img src="https://user-images.githubusercontent.com/7247848/158649641-e7dfffab-058e-4b84-90ae-eef3ec7bf85e.png" align="center" height="50" alt="Adobe Fonts" hspace="16">
+   </a>
+   <a href="https://fonts.adobe.com/fonts/pretendard/#gh-dark-mode-only">
+      <img src="https://user-images.githubusercontent.com/7247848/158649662-3242c2d3-ab0b-4c86-a702-51ffa66503fe.png" align="center" height="50" alt="Adobe Fonts" hspace="16">
+   </a>
 </p>
 
 ## 의견 나누기

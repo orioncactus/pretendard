@@ -41,7 +41,7 @@ jobs:
       with:
         branch: main
         file_pattern: dist/web/**
-        commit_message: 'Fix: Automated commit subset files'
+        commit_message: 'fix: Automated commit subset files'
 
   upload:
     needs: subset

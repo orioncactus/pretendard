@@ -186,13 +186,13 @@ Pretendard에서는 웹폰트 용량 문제를 해결하기 위한 방법으로 
 시스템에 가능한 맞추고자 한다면 아래와 같은 font-family 구성을 추천합니다.
 
 ```css
-font-family: -apple-system, BlinkMacSystemFont, 'Apple SD Gothic Neo', Pretendard, Roboto, 'Noto Sans KR', 'Segoe UI', 'Malgun Gothic', sans-serif;
+font-family: -apple-system, BlinkMacSystemFont, 'Apple SD Gothic Neo', Pretendard, Roboto, 'Noto Sans KR', 'Segoe UI', 'Malgun Gothic', 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', sans-serif;
 ```
 
 어디서든 동일한 환경을 가지고자 한다면 아래와 같은 font-family 구성을 추천합니다.
 
 ```css
-font-family: Pretendard, -apple-system, BlinkMacSystemFont, system-ui, Roboto, 'Helvetica Neue', 'Segoe UI', 'Apple SD Gothic Neo', 'Noto Sans KR', 'Malgun Gothic', sans-serif;
+font-family: Pretendard, -apple-system, BlinkMacSystemFont, system-ui, Roboto, 'Helvetica Neue', 'Segoe UI', 'Apple SD Gothic Neo', 'Noto Sans KR', 'Malgun Gothic', 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', sans-serif;
 ```
 
 ## 패키지
@@ -325,4 +325,4 @@ Pretendard에 기여해주셔서 진심으로 감사드립니다.
 
 ## 의견 나누기
 
-새로운 개선 의견은 언제나 환영입니다. 해결이 필요한 경우 Issues에서 이슈를 등록해주세요.
+새로운 개선 의견은 언제나 환영입니다. 해결이 필요한 경우 [Issues](https://github.com/orioncactus/pretendard/issues)에서 이슈를 등록해주세요.

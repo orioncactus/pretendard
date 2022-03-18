@@ -265,7 +265,7 @@ Pretendard에 기여해주셔서 진심으로 감사드립니다.
    <a href="https://projectlion.io/#gh-dark-mode-only">
       <img src="https://user-images.githubusercontent.com/7247848/148690212-967f0c1e-c62d-460b-bd43-ba119e5b695a.png" align="center" height="50" alt="PROJECT LION" hspace="16">
    </a>
-   <a href="https://www.sandollcloud.com/font/FREE/7427.html">
+   <a href="https://www.sandollcloud.com/font/16951.html">
       <img src="https://user-images.githubusercontent.com/7247848/148688131-a5a6f90b-2f78-4cfa-829b-ebd94d8a104c.png" align="center" height="58" alt="Sandoll Cloud" hspace="16">
    </a>
    <a href="https://www.catchfashion.com/#gh-light-mode-only">

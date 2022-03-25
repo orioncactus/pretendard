@@ -321,6 +321,12 @@ Pretendard에 기여해주셔서 진심으로 감사드립니다.
    <a href="https://fonts.adobe.com/fonts/pretendard/#gh-dark-mode-only">
       <img src="https://user-images.githubusercontent.com/7247848/158649662-3242c2d3-ab0b-4c86-a702-51ffa66503fe.png" align="center" height="50" alt="Adobe Fonts" hspace="16">
    </a>
+   <a href="https://www.wantedlab.com/#gh-light-mode-only">
+      <img src="https://user-images.githubusercontent.com/7247848/160057794-b4e1332b-fdcb-469d-8b8c-d9f23741d5c1.png" align="center" height="50" alt="Wantedlab" hspace="16">
+   </a>
+   <a href="https://www.wantedlab.com/#gh-dark-mode-only">
+      <img src="https://user-images.githubusercontent.com/7247848/160057796-63bb66b4-efb9-4996-8241-eb2f0a74c8ab.png" align="center" height="50" alt="Wantedlab" hspace="16">
+   </a>
 </p>
 
 ## 의견 나누기

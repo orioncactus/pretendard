@@ -36,13 +36,13 @@ CDN을 이용해 Pretendard를 사용할 수 있으며, 토글을 확인해 기�
 ###### cdnjs
 
 ```css
-@import url('https://cdnjs.cloudflare.com/ajax/libs/pretendard/1.2.1/static/pretendard.css');
+@import url('https://cdnjs.cloudflare.com/ajax/libs/pretendard/1.2.2/static/pretendard.css');
 ```
 
 ###### UNPKG
 
 ```css
-@import url('https://unpkg.com/pretendard@1.2.1/dist/web/static/pretendard.css');
+@import url('https://unpkg.com/pretendard@1.2.2/dist/web/static/pretendard.css');
 ```
 
 </details>
@@ -60,13 +60,13 @@ CDN을 이용해 Pretendard를 사용할 수 있으며, 토글을 확인해 기�
 ###### cdnjs
 
 ```html
-<link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/pretendard/1.2.1/static/pretendard.css" />
+<link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/pretendard/1.2.2/static/pretendard.css" />
 ```
 
 ###### UNPKG
 
 ```html
-<link rel="stylesheet" type="text/css" href="https://unpkg.com/pretendard@1.2.1/dist/web/static/pretendard.css" />
+<link rel="stylesheet" type="text/css" href="https://unpkg.com/pretendard@1.2.2/dist/web/static/pretendard.css" />
 ```
 
 </details>
@@ -90,13 +90,13 @@ Pretendard에서는 웹폰트 용량 문제를 해결하기 위한 방법으로 
 ###### cdnjs
 
 ```css
-@import url('https://cdnjs.cloudflare.com/ajax/libs/pretendard/1.2.1/static/pretendard-dynamic-subset.css');
+@import url('https://cdnjs.cloudflare.com/ajax/libs/pretendard/1.2.2/static/pretendard-dynamic-subset.css');
 ```
 
 ###### UNPKG
 
 ```css
-@import url('https://unpkg.com/pretendard@1.2.1/dist/web/static/pretendard-dynamic-subset.css');
+@import url('https://unpkg.com/pretendard@1.2.2/dist/web/static/pretendard-dynamic-subset.css');
 ```
 
 </details>
@@ -114,13 +114,13 @@ Pretendard에서는 웹폰트 용량 문제를 해결하기 위한 방법으로 
 ###### cdnjs
 
 ```html
-<link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/pretendard/1.2.1/static/pretendard-dynamic-subset.css" />
+<link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/pretendard/1.2.2/static/pretendard-dynamic-subset.css" />
 ```
 
 ###### UNPKG
 
 ```html
-<link rel="stylesheet" type="text/css" href="https://unpkg.com/pretendard@1.2.1/dist/web/static/pretendard-dynamic-subset.css" />
+<link rel="stylesheet" type="text/css" href="https://unpkg.com/pretendard@1.2.2/dist/web/static/pretendard-dynamic-subset.css" />
 ```
 
 </details>
@@ -144,13 +144,13 @@ Pretendard에서는 웹폰트 용량 문제를 해결하기 위한 방법으로 
 ###### cdnjs
 
 ```css
-@import url('https://cdnjs.cloudflare.com/ajax/libs/pretendard/1.2.1/variable/pretendardvariable.css');
+@import url('https://cdnjs.cloudflare.com/ajax/libs/pretendard/1.2.2/variable/pretendardvariable.css');
 ```
 
 ###### UNPKG
 
 ```css
-@import url('https://unpkg.com/pretendard@1.2.1/dist/web/variable/pretendardvariable.css');
+@import url('https://unpkg.com/pretendard@1.2.2/dist/web/variable/pretendardvariable.css');
 ```
 
 </details>
@@ -168,13 +168,13 @@ Pretendard에서는 웹폰트 용량 문제를 해결하기 위한 방법으로 
 ###### cdnjs
 
 ```html
-<link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/pretendard/1.2.1/variable/pretendardvariable.css" />
+<link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/pretendard/1.2.2/variable/pretendardvariable.css" />
 ```
 
 ###### UNPKG
 
 ```html
-<link rel="stylesheet" type="text/css" href="https://unpkg.com/pretendard@1.2.1/dist/web/variable/pretendardvariable.css" />
+<link rel="stylesheet" type="text/css" href="https://unpkg.com/pretendard@1.2.2/dist/web/variable/pretendardvariable.css" />
 ```
 
 </details>
@@ -186,13 +186,13 @@ Pretendard에서는 웹폰트 용량 문제를 해결하기 위한 방법으로 
 시스템에 가능한 맞추고자 한다면 아래와 같은 font-family 구성을 추천합니다.
 
 ```css
-font-family: -apple-system, BlinkMacSystemFont, 'Apple SD Gothic Neo', Pretendard, Roboto, 'Noto Sans KR', 'Segoe UI', 'Malgun Gothic', sans-serif;
+font-family: -apple-system, BlinkMacSystemFont, 'Apple SD Gothic Neo', Pretendard, Roboto, 'Noto Sans KR', 'Segoe UI', 'Malgun Gothic', 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', sans-serif;
 ```
 
 어디서든 동일한 환경을 가지고자 한다면 아래와 같은 font-family 구성을 추천합니다.
 
 ```css
-font-family: Pretendard, -apple-system, BlinkMacSystemFont, system-ui, Roboto, 'Helvetica Neue', 'Segoe UI', 'Apple SD Gothic Neo', 'Noto Sans KR', 'Malgun Gothic', sans-serif;
+font-family: Pretendard, -apple-system, BlinkMacSystemFont, system-ui, Roboto, 'Helvetica Neue', 'Segoe UI', 'Apple SD Gothic Neo', 'Noto Sans KR', 'Malgun Gothic', 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', sans-serif;
 ```
 
 ## 패키지
@@ -265,7 +265,7 @@ Pretendard에 기여해주셔서 진심으로 감사드립니다.
    <a href="https://projectlion.io/#gh-dark-mode-only">
       <img src="https://user-images.githubusercontent.com/7247848/148690212-967f0c1e-c62d-460b-bd43-ba119e5b695a.png" align="center" height="50" alt="PROJECT LION" hspace="16">
    </a>
-   <a href="https://www.sandollcloud.com/font/FREE/7427.html">
+   <a href="https://www.sandollcloud.com/font/16951.html">
       <img src="https://user-images.githubusercontent.com/7247848/148688131-a5a6f90b-2f78-4cfa-829b-ebd94d8a104c.png" align="center" height="58" alt="Sandoll Cloud" hspace="16">
    </a>
    <a href="https://www.catchfashion.com/#gh-light-mode-only">
@@ -315,8 +315,20 @@ Pretendard에 기여해주셔서 진심으로 감사드립니다.
    <a href="https://rallit.com/#gh-dark-mode-only">
       <img src="https://user-images.githubusercontent.com/7247848/154992484-d9fc3d71-972d-4b00-a7de-8941eebe4c74.png" align="center" height="50" alt="rallit" hspace="16">
    </a>
+   <a href="https://fonts.adobe.com/fonts/pretendard/#gh-light-mode-only">
+      <img src="https://user-images.githubusercontent.com/7247848/158649641-e7dfffab-058e-4b84-90ae-eef3ec7bf85e.png" align="center" height="50" alt="Adobe Fonts" hspace="16">
+   </a>
+   <a href="https://fonts.adobe.com/fonts/pretendard/#gh-dark-mode-only">
+      <img src="https://user-images.githubusercontent.com/7247848/158649662-3242c2d3-ab0b-4c86-a702-51ffa66503fe.png" align="center" height="50" alt="Adobe Fonts" hspace="16">
+   </a>
+   <a href="https://www.wantedlab.com/#gh-light-mode-only">
+      <img src="https://user-images.githubusercontent.com/7247848/160057794-b4e1332b-fdcb-469d-8b8c-d9f23741d5c1.png" align="center" height="50" alt="Wantedlab" hspace="16">
+   </a>
+   <a href="https://www.wantedlab.com/#gh-dark-mode-only">
+      <img src="https://user-images.githubusercontent.com/7247848/160057796-63bb66b4-efb9-4996-8241-eb2f0a74c8ab.png" align="center" height="50" alt="Wantedlab" hspace="16">
+   </a>
 </p>
 
 ## 의견 나누기
 
-새로운 개선 의견은 언제나 환영입니다. 해결이 필요한 경우 Issues에서 이슈를 등록해주세요.
+새로운 개선 의견은 언제나 환영입니다. 해결이 필요한 경우 [Issues](https://github.com/orioncactus/pretendard/issues)에서 이슈를 등록해주세요.

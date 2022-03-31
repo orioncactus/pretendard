@@ -26,6 +26,8 @@ CDN을 이용해 Pretendard를 사용할 수 있으며, 토글을 확인해 기�
 -   [Pretendard JP](/docs/webfonts/PretendardJP.md)
 -   [Pretendard Std](/docs/webfonts/PretendardStd.md)
 
+---
+
 모든 기능을 포함한 Pretendard를 웹폰트로 사용하려면 아래 코드를 사용하세요. 사용하는 font-family 이름은 `Pretendard` 입니다.
 
 #### HTML

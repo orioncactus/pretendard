@@ -107,6 +107,7 @@ Pretendard에서는 웹폰트 용량 문제를 해결하기 위한 방법으로 
 ```
 
 </details>
+
 #### CSS
 
 ```css
@@ -160,6 +161,7 @@ Pretendard에서는 웹폰트 용량 문제를 해결하기 위한 방법으로 
 ```
 
 </details>
+
 #### CSS
 
 ```css

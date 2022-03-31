@@ -21,7 +21,36 @@ Pretendard의 배경과 특징, OpenType 기능 등을 설명하는 자세한 �
 
 CDN을 이용해 Pretendard를 사용할 수 있으며, 토글을 확인해 기본적으로 추천하는 jsDelivr 외에도 cdnjs와 UNPKG 중에 원하는 CDN을 사용하실 수 있습니다.
 
-모든 OpenType 기능을 포함한 Pretendard를 웹폰트로 사용하려면 아래 코드를 사용하세요. 사용하는 font-family 이름은 `Pretendard` 입니다.
+일본어 및 한국 한자 환경, 또는 라틴 환경 전용 Pretendard 웹폰트를 사용하려면 아래로 이동하세요:
+
+-   [Pretendard JP](/docs/webfonts/PretendardJP.md)
+-   [Pretendard Std](/docs/webfonts/PretendardStd.md)
+
+모든 기능을 포함한 Pretendard를 웹폰트로 사용하려면 아래 코드를 사용하세요. 사용하는 font-family 이름은 `Pretendard` 입니다.
+
+#### HTML
+
+```html
+<link rel="stylesheet" as="style" crossorigin href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard/dist/web/static/pretendard.css" />
+```
+
+<details>
+
+<summary>cdnjs 및 UNPKG</summary>
+
+###### cdnjs
+
+```html
+<link rel="stylesheet" as="style" crossorigin href="https://cdnjs.cloudflare.com/ajax/libs/pretendard/1.3.0/static/pretendard.css" />
+```
+
+###### UNPKG
+
+```html
+<link rel="stylesheet" as="style" crossorigin href="https://unpkg.com/pretendard@1.3.0/dist/web/static/pretendard.css" />
+```
+
+</details>
 
 #### CSS
 
@@ -36,37 +65,13 @@ CDN을 이용해 Pretendard를 사용할 수 있으며, 토글을 확인해 기�
 ###### cdnjs
 
 ```css
-@import url('https://cdnjs.cloudflare.com/ajax/libs/pretendard/1.2.2/static/pretendard.css');
+@import url('https://cdnjs.cloudflare.com/ajax/libs/pretendard/1.3.0/static/pretendard.css');
 ```
 
 ###### UNPKG
 
 ```css
-@import url('https://unpkg.com/pretendard@1.2.2/dist/web/static/pretendard.css');
-```
-
-</details>
-
-#### HTML
-
-```html
-<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard/dist/web/static/pretendard.css" />
-```
-
-<details>
-
-<summary>cdnjs 및 UNPKG</summary>
-
-###### cdnjs
-
-```html
-<link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/pretendard/1.2.2/static/pretendard.css" />
-```
-
-###### UNPKG
-
-```html
-<link rel="stylesheet" type="text/css" href="https://unpkg.com/pretendard@1.2.2/dist/web/static/pretendard.css" />
+@import url('https://unpkg.com/pretendard@1.3.0/dist/web/static/pretendard.css');
 ```
 
 </details>
@@ -77,6 +82,29 @@ CDN을 이용해 Pretendard를 사용할 수 있으며, 토글을 확인해 기�
 
 Pretendard에서는 웹폰트 용량 문제를 해결하기 위한 방법으로 Google Fonts에서 제공하는 Noto Sans KR와 동일한 방식으로 동적 서브셋을 제공합니다. 페이지에 포함된 글자만 선택적으로 다운로드해 보다 빠르게 Pretendard를 표시하려면 아래 코드를 사용하세요. 사용하는 font-family 이름은 `Pretendard` 입니다.
 
+#### HTML
+
+```html
+<link rel="stylesheet" as="style" crossorigin href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard/dist/web/static/pretendard-dynamic-subset.css" />
+```
+
+<details>
+
+<summary>cdnjs 및 UNPKG</summary>
+
+###### cdnjs
+
+```html
+<link rel="stylesheet" as="style" crossorigin href="https://cdnjs.cloudflare.com/ajax/libs/pretendard/1.3.0/static/pretendard-dynamic-subset.css" />
+```
+
+###### UNPKG
+
+```html
+<link rel="stylesheet" as="style" crossorigin href="https://unpkg.com/pretendard@1.3.0/dist/web/static/pretendard-dynamic-subset.css" />
+```
+
+</details>
 #### CSS
 
 ```css
@@ -90,37 +118,13 @@ Pretendard에서는 웹폰트 용량 문제를 해결하기 위한 방법으로 
 ###### cdnjs
 
 ```css
-@import url('https://cdnjs.cloudflare.com/ajax/libs/pretendard/1.2.2/static/pretendard-dynamic-subset.css');
+@import url('https://cdnjs.cloudflare.com/ajax/libs/pretendard/1.3.0/static/pretendard-dynamic-subset.css');
 ```
 
 ###### UNPKG
 
 ```css
-@import url('https://unpkg.com/pretendard@1.2.2/dist/web/static/pretendard-dynamic-subset.css');
-```
-
-</details>
-
-#### HTML
-
-```html
-<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard/dist/web/static/pretendard-dynamic-subset.css" />
-```
-
-<details>
-
-<summary>cdnjs 및 UNPKG</summary>
-
-###### cdnjs
-
-```html
-<link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/pretendard/1.2.2/static/pretendard-dynamic-subset.css" />
-```
-
-###### UNPKG
-
-```html
-<link rel="stylesheet" type="text/css" href="https://unpkg.com/pretendard@1.2.2/dist/web/static/pretendard-dynamic-subset.css" />
+@import url('https://unpkg.com/pretendard@1.3.0/dist/web/static/pretendard-dynamic-subset.css');
 ```
 
 </details>
@@ -131,6 +135,29 @@ Pretendard에서는 웹폰트 용량 문제를 해결하기 위한 방법으로 
 
 가변 weight 속성을 사용하려면 아래 코드를 사용하세요. 사용하는 font-family 이름은 `'Pretendard Variable'` 입니다.
 
+#### HTML
+
+```html
+<link rel="stylesheet" as="style" crossorigin href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard/dist/web/variable/pretendardvariable.css" />
+```
+
+<details>
+
+<summary>cdnjs 및 UNPKG</summary>
+
+###### cdnjs
+
+```html
+<link rel="stylesheet" as="style" crossorigin href="https://cdnjs.cloudflare.com/ajax/libs/pretendard/1.3.0/variable/pretendardvariable.css" />
+```
+
+###### UNPKG
+
+```html
+<link rel="stylesheet" as="style" crossorigin href="https://unpkg.com/pretendard@1.3.0/dist/web/variable/pretendardvariable.css" />
+```
+
+</details>
 #### CSS
 
 ```css
@@ -144,37 +171,13 @@ Pretendard에서는 웹폰트 용량 문제를 해결하기 위한 방법으로 
 ###### cdnjs
 
 ```css
-@import url('https://cdnjs.cloudflare.com/ajax/libs/pretendard/1.2.2/variable/pretendardvariable.css');
+@import url('https://cdnjs.cloudflare.com/ajax/libs/pretendard/1.3.0/variable/pretendardvariable.css');
 ```
 
 ###### UNPKG
 
 ```css
-@import url('https://unpkg.com/pretendard@1.2.2/dist/web/variable/pretendardvariable.css');
-```
-
-</details>
-
-#### HTML
-
-```html
-<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard/dist/web/variable/pretendardvariable.css" />
-```
-
-<details>
-
-<summary>cdnjs 및 UNPKG</summary>
-
-###### cdnjs
-
-```html
-<link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/pretendard/1.2.2/variable/pretendardvariable.css" />
-```
-
-###### UNPKG
-
-```html
-<link rel="stylesheet" type="text/css" href="https://unpkg.com/pretendard@1.2.2/dist/web/variable/pretendardvariable.css" />
+@import url('https://unpkg.com/pretendard@1.3.0/dist/web/variable/pretendardvariable.css');
 ```
 
 </details>

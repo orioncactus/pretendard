@@ -298,12 +298,6 @@ Pretendard에 기여해주셔서 진심으로 감사드립니다.
    <a href="https://event.kakaobank.com/p/checkcard2021#gh-dark-mode-only">
       <img src="https://user-images.githubusercontent.com/7247848/148690293-793bfc62-9708-4d26-9a73-8adc47bee2ca.png" align="center" height="50" alt="kakaobank" hspace="16">
    </a>
-   <a href="https://moye.kr/#gh-light-mode-only">
-      <img src="https://user-images.githubusercontent.com/7247848/148689622-2f94e38f-5b13-4847-9513-0214d289e045.png" align="center" height="58" alt="moye" hspace="16">
-   </a>
-   <a href="https://moye.kr/#gh-dark-mode-only">
-      <img src="https://user-images.githubusercontent.com/7247848/148690308-f3119f85-0fe4-4457-827f-34c40d7d2b68.png" align="center" height="58" alt="moye" hspace="16">
-   </a>
    <a href="https://kakaostyle.com/#gh-light-mode-only">
       <img src="https://user-images.githubusercontent.com/7247848/148689267-accacc26-3639-4b47-a7d8-9f0bbef94384.png" align="center" height="50" alt="kakaostyle" hspace="16">
    </a>

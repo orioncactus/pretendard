@@ -282,10 +282,10 @@ Pretendard에 기여해주셔서 진심으로 감사드립니다.
       <img src="https://user-images.githubusercontent.com/7247848/148690254-4727dc6d-d049-4f4f-bbea-f11535dbfea6.png" align="center" height="50" alt="캐치패션" hspace="16">
    </a>
    <a href="https://publy.co/#gh-light-mode-only">
-      <img src="https://user-images.githubusercontent.com/7247848/148688946-158cbc4c-b7ec-4fc0-90e9-fe1edf3ec38f.png" align="center" height="50" alt="PUBLY" hspace="16">
+      <img src="https://user-images.githubusercontent.com/7247848/161258250-353ebe73-d7e2-4a61-8e16-7c2ec8f724a9.png" align="center" height="50" alt="PUBLY" hspace="16">
    </a>
    <a href="https://publy.co/#gh-dark-mode-only">
-      <img src="https://user-images.githubusercontent.com/7247848/148690271-67ff2649-2e1f-4918-a18e-dd40ca53c76a.png" align="center" height="50" alt="PUBLY" hspace="16">
+      <img src="https://user-images.githubusercontent.com/7247848/161258327-e2cbfedf-a94a-49a8-8744-032fc194568f.png" align="center" height="50" alt="PUBLY" hspace="16">
    </a>
    <a href="https://apps.apple.com/kr/app/세탁특공대/id1049236217/#gh-light-mode-only">
       <img src="https://user-images.githubusercontent.com/7247848/148689504-48c4e70d-4eaf-45cc-a941-d513dd1adaf2.png" align="center" height="50" alt="세탁특공대" hspace="16">

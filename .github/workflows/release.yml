@@ -6,7 +6,7 @@ on:
       'v*' # push events to matching v*, i.e. v1.0, v20.15.10
 
 jobs:
-  subset:
+  auto-update:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v2
@@ -34,18 +34,22 @@ jobs:
       if: steps.node-cache.outputs.cache-hit != 'true'
       run: npm install
     - run: npm ci --no-audit
-    - name: Generate Subset
+    - name: Generate webfonts
       run: ./subset.sh
+    - name: Update example assets
+      run: |
+        cp -f ./dist/public/static/Pretendard-*.otf ./examples/flutter_pretendard/fonts
+        cp -f ./dist/public/static/Pretendard-*.otf ./examples/react_native_pretendard/assets/fonts
     - name: Commit Build File
       uses: stefanzweifel/git-auto-commit-action@v4
       with:
         branch: main
-        file_pattern: dist/web/**
-        commit_message: 'Fix: Automated commit subset files'
+        file_pattern: dist/web/** examples/**
+        commit_message: 'fix: Auto-generate assets'
 
   upload:
-    needs: subset
     runs-on: ubuntu-latest
+    needs: auto-update
     steps:
     - uses: actions/checkout@v2
     - name: Set env
@@ -59,11 +63,13 @@ jobs:
         # Remove Dynamic Subset Files
         rm -rf ./web/static/woff-dynamic-subset
         rm -rf ./web/static/woff2-dynamic-subset
-        rm -f ./web/static/pretendard-dynamic-subset.css
-        rm -f ./web/static/Pretendard-*.css
+        rm -f ./web/static/pretendard*dynamic-subset.css
+        rm -f ./web/static/Pretendard*.css
 
         # Zip
-        zip -rv Pretendard-${{ env.RELEASE_NAME }}.zip *
+        find . -iname "pretendard*" -not -iname "*jp*" -not -iname "*std*" -o -name "LICENSE.txt" | zip -rv Pretendard-${{ env.RELEASE_NAME }}.zip -@
+        find . -iname "pretendard*" -iname "*jp*" -o -name "LICENSE.txt" | zip -rv PretendardJP-${{ env.RELEASE_NAME }}.zip -@
+        find . -iname "pretendard*" -iname "*std*" -o -name "LICENSE.txt" | zip -rv PretendardStd-${{ env.RELEASE_NAME }}.zip -@
     - uses: softprops/action-gh-release@v1 # actions/create-release, actions/upload-release-asset is deprecated
       if: startsWith(github.ref, 'refs/tags/')
       env:
@@ -71,6 +77,8 @@ jobs:
       with:
         files: |
           dist/Pretendard-${{ env.RELEASE_NAME }}.zip
+          dist/PretendardJP-${{ env.RELEASE_NAME }}.zip
+          dist/PretendardStd-${{ env.RELEASE_NAME }}.zip
 
   cache-invalidation:
     needs: upload

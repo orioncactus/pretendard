@@ -1,4 +1,3 @@
-
 /* [0] */
 @font-face {
 	font-family: 'Pretendard';
@@ -834,5 +833,5 @@
 	font-display: swap;
 	font-weight: 700;
 	src: url(./woff2-dynamic-subset/Pretendard-Bold.subset.92.woff2) format('woff2'), url(./woff-dynamic-subset/Pretendard-Bold.subset.92.woff) format('woff');
-	unicode-range: u+a0;
+	unicode-range: U+a0;
 }

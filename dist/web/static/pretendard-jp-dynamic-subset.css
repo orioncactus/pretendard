@@ -1084,7 +1084,7 @@ http://scripts.sil.org/OFL
 	font-display: swap;
 	font-weight: 100;
 	src: url(./woff2-dynamic-subset/PretendardJP-Thin.subset.119.woff2) format('woff2'), url(./woff-dynamic-subset/PretendardJP-Thin.subset.119.woff) format('woff');
-	unicode-range: u+a0;
+	unicode-range: U+a0;
 }
 /* [0] */
 @font-face {
@@ -2164,7 +2164,7 @@ http://scripts.sil.org/OFL
 	font-display: swap;
 	font-weight: 200;
 	src: url(./woff2-dynamic-subset/PretendardJP-ExtraLight.subset.119.woff2) format('woff2'), url(./woff-dynamic-subset/PretendardJP-ExtraLight.subset.119.woff) format('woff');
-	unicode-range: u+a0;
+	unicode-range: U+a0;
 }
 /* [0] */
 @font-face {
@@ -3244,7 +3244,7 @@ http://scripts.sil.org/OFL
 	font-display: swap;
 	font-weight: 300;
 	src: url(./woff2-dynamic-subset/PretendardJP-Light.subset.119.woff2) format('woff2'), url(./woff-dynamic-subset/PretendardJP-Light.subset.119.woff) format('woff');
-	unicode-range: u+a0;
+	unicode-range: U+a0;
 }
 /* [0] */
 @font-face {
@@ -4324,7 +4324,7 @@ http://scripts.sil.org/OFL
 	font-display: swap;
 	font-weight: 400;
 	src: url(./woff2-dynamic-subset/PretendardJP-Regular.subset.119.woff2) format('woff2'), url(./woff-dynamic-subset/PretendardJP-Regular.subset.119.woff) format('woff');
-	unicode-range: u+a0;
+	unicode-range: U+a0;
 }
 /* [0] */
 @font-face {
@@ -5404,7 +5404,7 @@ http://scripts.sil.org/OFL
 	font-display: swap;
 	font-weight: 500;
 	src: url(./woff2-dynamic-subset/PretendardJP-Medium.subset.119.woff2) format('woff2'), url(./woff-dynamic-subset/PretendardJP-Medium.subset.119.woff) format('woff');
-	unicode-range: u+a0;
+	unicode-range: U+a0;
 }
 /* [0] */
 @font-face {
@@ -6484,7 +6484,7 @@ http://scripts.sil.org/OFL
 	font-display: swap;
 	font-weight: 600;
 	src: url(./woff2-dynamic-subset/PretendardJP-SemiBold.subset.119.woff2) format('woff2'), url(./woff-dynamic-subset/PretendardJP-SemiBold.subset.119.woff) format('woff');
-	unicode-range: u+a0;
+	unicode-range: U+a0;
 }
 /* [0] */
 @font-face {
@@ -7564,7 +7564,7 @@ http://scripts.sil.org/OFL
 	font-display: swap;
 	font-weight: 700;
 	src: url(./woff2-dynamic-subset/PretendardJP-Bold.subset.119.woff2) format('woff2'), url(./woff-dynamic-subset/PretendardJP-Bold.subset.119.woff) format('woff');
-	unicode-range: u+a0;
+	unicode-range: U+a0;
 }
 /* [0] */
 @font-face {
@@ -8644,7 +8644,7 @@ http://scripts.sil.org/OFL
 	font-display: swap;
 	font-weight: 800;
 	src: url(./woff2-dynamic-subset/PretendardJP-ExtraBold.subset.119.woff2) format('woff2'), url(./woff-dynamic-subset/PretendardJP-ExtraBold.subset.119.woff) format('woff');
-	unicode-range: u+a0;
+	unicode-range: U+a0;
 }
 /* [0] */
 @font-face {
@@ -9724,5 +9724,5 @@ http://scripts.sil.org/OFL
 	font-display: swap;
 	font-weight: 900;
 	src: url(./woff2-dynamic-subset/PretendardJP-Black.subset.119.woff2) format('woff2'), url(./woff-dynamic-subset/PretendardJP-Black.subset.119.woff) format('woff');
-	unicode-range: u+a0;
+	unicode-range: U+a0;
 }

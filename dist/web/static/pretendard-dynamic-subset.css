@@ -841,7 +841,7 @@ http://scripts.sil.org/OFL
 	font-display: swap;
 	font-weight: 100;
 	src: url(./woff2-dynamic-subset/Pretendard-Thin.subset.92.woff2) format('woff2'), url(./woff-dynamic-subset/Pretendard-Thin.subset.92.woff) format('woff');
-	unicode-range: u+a0;
+	unicode-range: U+a0;
 }
 /* [0] */
 @font-face {
@@ -1678,7 +1678,7 @@ http://scripts.sil.org/OFL
 	font-display: swap;
 	font-weight: 200;
 	src: url(./woff2-dynamic-subset/Pretendard-ExtraLight.subset.92.woff2) format('woff2'), url(./woff-dynamic-subset/Pretendard-ExtraLight.subset.92.woff) format('woff');
-	unicode-range: u+a0;
+	unicode-range: U+a0;
 }
 /* [0] */
 @font-face {
@@ -2515,7 +2515,7 @@ http://scripts.sil.org/OFL
 	font-display: swap;
 	font-weight: 300;
 	src: url(./woff2-dynamic-subset/Pretendard-Light.subset.92.woff2) format('woff2'), url(./woff-dynamic-subset/Pretendard-Light.subset.92.woff) format('woff');
-	unicode-range: u+a0;
+	unicode-range: U+a0;
 }
 /* [0] */
 @font-face {
@@ -3352,7 +3352,7 @@ http://scripts.sil.org/OFL
 	font-display: swap;
 	font-weight: 400;
 	src: url(./woff2-dynamic-subset/Pretendard-Regular.subset.92.woff2) format('woff2'), url(./woff-dynamic-subset/Pretendard-Regular.subset.92.woff) format('woff');
-	unicode-range: u+a0;
+	unicode-range: U+a0;
 }
 /* [0] */
 @font-face {
@@ -4189,7 +4189,7 @@ http://scripts.sil.org/OFL
 	font-display: swap;
 	font-weight: 500;
 	src: url(./woff2-dynamic-subset/Pretendard-Medium.subset.92.woff2) format('woff2'), url(./woff-dynamic-subset/Pretendard-Medium.subset.92.woff) format('woff');
-	unicode-range: u+a0;
+	unicode-range: U+a0;
 }
 /* [0] */
 @font-face {
@@ -5026,7 +5026,7 @@ http://scripts.sil.org/OFL
 	font-display: swap;
 	font-weight: 600;
 	src: url(./woff2-dynamic-subset/Pretendard-SemiBold.subset.92.woff2) format('woff2'), url(./woff-dynamic-subset/Pretendard-SemiBold.subset.92.woff) format('woff');
-	unicode-range: u+a0;
+	unicode-range: U+a0;
 }
 /* [0] */
 @font-face {
@@ -5863,7 +5863,7 @@ http://scripts.sil.org/OFL
 	font-display: swap;
 	font-weight: 700;
 	src: url(./woff2-dynamic-subset/Pretendard-Bold.subset.92.woff2) format('woff2'), url(./woff-dynamic-subset/Pretendard-Bold.subset.92.woff) format('woff');
-	unicode-range: u+a0;
+	unicode-range: U+a0;
 }
 /* [0] */
 @font-face {
@@ -6700,7 +6700,7 @@ http://scripts.sil.org/OFL
 	font-display: swap;
 	font-weight: 800;
 	src: url(./woff2-dynamic-subset/Pretendard-ExtraBold.subset.92.woff2) format('woff2'), url(./woff-dynamic-subset/Pretendard-ExtraBold.subset.92.woff) format('woff');
-	unicode-range: u+a0;
+	unicode-range: U+a0;
 }
 /* [0] */
 @font-face {
@@ -7537,5 +7537,5 @@ http://scripts.sil.org/OFL
 	font-display: swap;
 	font-weight: 900;
 	src: url(./woff2-dynamic-subset/Pretendard-Black.subset.92.woff2) format('woff2'), url(./woff-dynamic-subset/Pretendard-Black.subset.92.woff) format('woff');
-	unicode-range: u+a0;
+	unicode-range: U+a0;
 }

@@ -236,6 +236,8 @@ Pretendard에 기여해주셔서 진심으로 감사드립니다.
 
 [@kms0219kms](https://github.com/kms0219kms): 웹폰트 CDN 배포 다중화를 작업해주셨습니다.
 
+[@Gamsake](https://github.com/Gamsake): 빌드 자동화를 개선해주셨습니다.
+
 ## Pretendard를 사용하는 곳
 
 <p align="center">

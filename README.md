@@ -3,13 +3,11 @@
 ![Thumbnail](thumbnail.svg#gh-light-mode-only)
 ![Thumbnail](thumbnail-white.svg#gh-dark-mode-only)
 
-Pretendard는 마땅한 system-ui 글꼴이 없는 환경에서 발생하는 불편함을 해결합니다.
+Pretendard는 크로스 플랫폼으로 제품을 제공할 때, 그리고 다국어 타이포그래피에서도 자연스러운 현대적인 글꼴입니다. [Inter](https://github.com/rsms/inter)와 [본고딕](https://fonts.adobe.com/fonts/source-han-sans-korean), 그리고 [M PLUS 1p](https://github.com/coz-m/MPLUS_FONTS)을 바탕으로 다듬어진 Pretendard는 읽기 환경에서 가독성과 시각 보정을 위해 추가적인 작업을 하지 않아도 됩니다.
 
 Pretendard는 9가지 굵기로 제공되며, 가변 글꼴 또한 지원합니다.
 
 ## 배경 및 이야기
-
-Pretendard는 크로스 플랫폼으로 제품을 서비스하고자 할 때, 또는 다국어 타이포그래피 환경이 어색하거나, 한글에서 자간 문제 등으로 생기는 작업 환경에서의 추가적인 작업 소요를 줄이고자 시작된 글꼴 프로젝트입니다. 가능한 눈에 익숙한 모습으로 가져가기 위해 [Inter](https://github.com/rsms/inter)와 [본고딕](http://github.com/adobe-fonts/source-han-sans)을 바탕으로 Apple의 타이포그래피 환경과 맞췄습니다.
 
 Pretendard의 배경과 특징, OpenType 기능 등을 설명하는 자세한 이야기는 [이곳](https://cactus.tistory.com/306)에서 확인하실 수 있습니다.
 
@@ -21,7 +19,38 @@ Pretendard의 배경과 특징, OpenType 기능 등을 설명하는 자세한 �
 
 CDN을 이용해 Pretendard를 사용할 수 있으며, 토글을 확인해 기본적으로 추천하는 jsDelivr 외에도 cdnjs와 UNPKG 중에 원하는 CDN을 사용하실 수 있습니다.
 
-모든 OpenType 기능을 포함한 Pretendard를 웹폰트로 사용하려면 아래 코드를 사용하세요. 사용하는 font-family 이름은 `Pretendard` 입니다.
+일본어 및 한국 한자 환경, 또는 라틴 환경 전용 Pretendard 웹폰트를 사용하려면 아래로 이동하세요:
+
+-   [Pretendard JP](/docs/webfonts/PretendardJP.md)
+-   [Pretendard Std](/docs/webfonts/PretendardStd.md)
+
+---
+
+모든 기능을 포함한 Pretendard를 웹폰트로 사용하려면 아래 코드를 사용하세요. 사용하는 font-family 이름은 `Pretendard` 입니다.
+
+#### HTML
+
+```html
+<link rel="stylesheet" as="style" crossorigin href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard/dist/web/static/pretendard.css" />
+```
+
+<details>
+
+<summary>cdnjs 및 UNPKG</summary>
+
+###### cdnjs
+
+```html
+<link rel="stylesheet" as="style" crossorigin href="https://cdnjs.cloudflare.com/ajax/libs/pretendard/1.3.0/static/pretendard.css" />
+```
+
+###### UNPKG
+
+```html
+<link rel="stylesheet" as="style" crossorigin href="https://unpkg.com/pretendard@1.3.0/dist/web/static/pretendard.css" />
+```
+
+</details>
 
 #### CSS
 
@@ -36,37 +65,13 @@ CDN을 이용해 Pretendard를 사용할 수 있으며, 토글을 확인해 기�
 ###### cdnjs
 
 ```css
-@import url('https://cdnjs.cloudflare.com/ajax/libs/pretendard/1.2.2/static/pretendard.css');
+@import url('https://cdnjs.cloudflare.com/ajax/libs/pretendard/1.3.0/static/pretendard.css');
 ```
 
 ###### UNPKG
 
 ```css
-@import url('https://unpkg.com/pretendard@1.2.2/dist/web/static/pretendard.css');
-```
-
-</details>
-
-#### HTML
-
-```html
-<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard/dist/web/static/pretendard.css" />
-```
-
-<details>
-
-<summary>cdnjs 및 UNPKG</summary>
-
-###### cdnjs
-
-```html
-<link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/pretendard/1.2.2/static/pretendard.css" />
-```
-
-###### UNPKG
-
-```html
-<link rel="stylesheet" type="text/css" href="https://unpkg.com/pretendard@1.2.2/dist/web/static/pretendard.css" />
+@import url('https://unpkg.com/pretendard@1.3.0/dist/web/static/pretendard.css');
 ```
 
 </details>
@@ -76,6 +81,30 @@ CDN을 이용해 Pretendard를 사용할 수 있으며, 토글을 확인해 기�
 ### 다이나믹 서브셋
 
 Pretendard에서는 웹폰트 용량 문제를 해결하기 위한 방법으로 Google Fonts에서 제공하는 Noto Sans KR와 동일한 방식으로 동적 서브셋을 제공합니다. 페이지에 포함된 글자만 선택적으로 다운로드해 보다 빠르게 Pretendard를 표시하려면 아래 코드를 사용하세요. 사용하는 font-family 이름은 `Pretendard` 입니다.
+
+#### HTML
+
+```html
+<link rel="stylesheet" as="style" crossorigin href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard/dist/web/static/pretendard-dynamic-subset.css" />
+```
+
+<details>
+
+<summary>cdnjs 및 UNPKG</summary>
+
+###### cdnjs
+
+```html
+<link rel="stylesheet" as="style" crossorigin href="https://cdnjs.cloudflare.com/ajax/libs/pretendard/1.3.0/static/pretendard-dynamic-subset.css" />
+```
+
+###### UNPKG
+
+```html
+<link rel="stylesheet" as="style" crossorigin href="https://unpkg.com/pretendard@1.3.0/dist/web/static/pretendard-dynamic-subset.css" />
+```
+
+</details>
 
 #### CSS
 
@@ -90,37 +119,13 @@ Pretendard에서는 웹폰트 용량 문제를 해결하기 위한 방법으로 
 ###### cdnjs
 
 ```css
-@import url('https://cdnjs.cloudflare.com/ajax/libs/pretendard/1.2.2/static/pretendard-dynamic-subset.css');
+@import url('https://cdnjs.cloudflare.com/ajax/libs/pretendard/1.3.0/static/pretendard-dynamic-subset.css');
 ```
 
 ###### UNPKG
 
 ```css
-@import url('https://unpkg.com/pretendard@1.2.2/dist/web/static/pretendard-dynamic-subset.css');
-```
-
-</details>
-
-#### HTML
-
-```html
-<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard/dist/web/static/pretendard-dynamic-subset.css" />
-```
-
-<details>
-
-<summary>cdnjs 및 UNPKG</summary>
-
-###### cdnjs
-
-```html
-<link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/pretendard/1.2.2/static/pretendard-dynamic-subset.css" />
-```
-
-###### UNPKG
-
-```html
-<link rel="stylesheet" type="text/css" href="https://unpkg.com/pretendard@1.2.2/dist/web/static/pretendard-dynamic-subset.css" />
+@import url('https://unpkg.com/pretendard@1.3.0/dist/web/static/pretendard-dynamic-subset.css');
 ```
 
 </details>
@@ -130,6 +135,30 @@ Pretendard에서는 웹폰트 용량 문제를 해결하기 위한 방법으로 
 ### 가변 글꼴
 
 가변 weight 속성을 사용하려면 아래 코드를 사용하세요. 사용하는 font-family 이름은 `'Pretendard Variable'` 입니다.
+
+#### HTML
+
+```html
+<link rel="stylesheet" as="style" crossorigin href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard/dist/web/variable/pretendardvariable.css" />
+```
+
+<details>
+
+<summary>cdnjs 및 UNPKG</summary>
+
+###### cdnjs
+
+```html
+<link rel="stylesheet" as="style" crossorigin href="https://cdnjs.cloudflare.com/ajax/libs/pretendard/1.3.0/variable/pretendardvariable.css" />
+```
+
+###### UNPKG
+
+```html
+<link rel="stylesheet" as="style" crossorigin href="https://unpkg.com/pretendard@1.3.0/dist/web/variable/pretendardvariable.css" />
+```
+
+</details>
 
 #### CSS
 
@@ -144,37 +173,13 @@ Pretendard에서는 웹폰트 용량 문제를 해결하기 위한 방법으로 
 ###### cdnjs
 
 ```css
-@import url('https://cdnjs.cloudflare.com/ajax/libs/pretendard/1.2.2/variable/pretendardvariable.css');
+@import url('https://cdnjs.cloudflare.com/ajax/libs/pretendard/1.3.0/variable/pretendardvariable.css');
 ```
 
 ###### UNPKG
 
 ```css
-@import url('https://unpkg.com/pretendard@1.2.2/dist/web/variable/pretendardvariable.css');
-```
-
-</details>
-
-#### HTML
-
-```html
-<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard/dist/web/variable/pretendardvariable.css" />
-```
-
-<details>
-
-<summary>cdnjs 및 UNPKG</summary>
-
-###### cdnjs
-
-```html
-<link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/pretendard/1.2.2/variable/pretendardvariable.css" />
-```
-
-###### UNPKG
-
-```html
-<link rel="stylesheet" type="text/css" href="https://unpkg.com/pretendard@1.2.2/dist/web/variable/pretendardvariable.css" />
+@import url('https://unpkg.com/pretendard@1.3.0/dist/web/variable/pretendardvariable.css');
 ```
 
 </details>
@@ -229,6 +234,8 @@ Pretendard에 기여해주셔서 진심으로 감사드립니다.
 
 [@kms0219kms](https://github.com/kms0219kms): 웹폰트 CDN 배포 다중화를 작업해주셨습니다.
 
+[@Gamsake](https://github.com/Gamsake): 빌드 자동화를 개선해주셨습니다.
+
 ## Pretendard를 사용하는 곳
 
 <p align="center">
@@ -275,10 +282,10 @@ Pretendard에 기여해주셔서 진심으로 감사드립니다.
       <img src="https://user-images.githubusercontent.com/7247848/148690254-4727dc6d-d049-4f4f-bbea-f11535dbfea6.png" align="center" height="50" alt="캐치패션" hspace="16">
    </a>
    <a href="https://publy.co/#gh-light-mode-only">
-      <img src="https://user-images.githubusercontent.com/7247848/148688946-158cbc4c-b7ec-4fc0-90e9-fe1edf3ec38f.png" align="center" height="50" alt="PUBLY" hspace="16">
+      <img src="https://user-images.githubusercontent.com/7247848/161258250-353ebe73-d7e2-4a61-8e16-7c2ec8f724a9.png" align="center" height="50" alt="PUBLY" hspace="16">
    </a>
    <a href="https://publy.co/#gh-dark-mode-only">
-      <img src="https://user-images.githubusercontent.com/7247848/148690271-67ff2649-2e1f-4918-a18e-dd40ca53c76a.png" align="center" height="50" alt="PUBLY" hspace="16">
+      <img src="https://user-images.githubusercontent.com/7247848/161258327-e2cbfedf-a94a-49a8-8744-032fc194568f.png" align="center" height="50" alt="PUBLY" hspace="16">
    </a>
    <a href="https://apps.apple.com/kr/app/세탁특공대/id1049236217/#gh-light-mode-only">
       <img src="https://user-images.githubusercontent.com/7247848/148689504-48c4e70d-4eaf-45cc-a941-d513dd1adaf2.png" align="center" height="50" alt="세탁특공대" hspace="16">
@@ -290,12 +297,6 @@ Pretendard에 기여해주셔서 진심으로 감사드립니다.
       <img src="https://user-images.githubusercontent.com/7247848/148688409-8d658514-cf4f-486b-bd81-c7f94dff9618.png" align="center" height="50" alt="kakaobank" hspace="16">
    <a href="https://event.kakaobank.com/p/checkcard2021#gh-dark-mode-only">
       <img src="https://user-images.githubusercontent.com/7247848/148690293-793bfc62-9708-4d26-9a73-8adc47bee2ca.png" align="center" height="50" alt="kakaobank" hspace="16">
-   </a>
-   <a href="https://moye.kr/#gh-light-mode-only">
-      <img src="https://user-images.githubusercontent.com/7247848/148689622-2f94e38f-5b13-4847-9513-0214d289e045.png" align="center" height="58" alt="moye" hspace="16">
-   </a>
-   <a href="https://moye.kr/#gh-dark-mode-only">
-      <img src="https://user-images.githubusercontent.com/7247848/148690308-f3119f85-0fe4-4457-827f-34c40d7d2b68.png" align="center" height="58" alt="moye" hspace="16">
    </a>
    <a href="https://kakaostyle.com/#gh-light-mode-only">
       <img src="https://user-images.githubusercontent.com/7247848/148689267-accacc26-3639-4b47-a7d8-9f0bbef94384.png" align="center" height="50" alt="kakaostyle" hspace="16">

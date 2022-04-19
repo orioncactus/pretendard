@@ -1,3 +1,6 @@
+| [**KO**](/README.md) | [EN](/docs/readme/en/README.md) | [JP](/docs/readme/en/README.md) |
+|------------|--------|--------|
+
 # Pretendard
 
 ![Thumbnail](thumbnail.svg#gh-light-mode-only)

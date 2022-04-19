@@ -1,2 +1,5 @@
 examples/
 src/
+dist/web/static/Pretendard-*.css
+dist/web/static/PretendardJP-*.css
+dist/web/static/PretendardStd-*.css

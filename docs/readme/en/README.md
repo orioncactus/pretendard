@@ -6,17 +6,17 @@
 ![Thumbnail](/thumbnail.svg#gh-light-mode-only)
 ![Thumbnail](/thumbnail-white.svg#gh-dark-mode-only)
 
-Pretendard is a modern font that looks natural when offering products cross-platform, and also in multilingual typography. [Inter](https://github.com/rsms/inter) and [Bongothic](https://fonts.adobe.com/fonts/source-han-sans-korean), and [M PLUS 1p]( Pretendard polished from https://github.com/coz-m/MPLUS_FONTS) requires no additional work to improve readability and visuals in a reading environment.
+Pretendard is a modern font that looks natural when offering products cross-platform, and also in multilingual typography. [Inter](https://github.com/rsms/inter) and [Source Han Sans KR](https://fonts.adobe.com/fonts/source-han-sans-korean), and [M PLUS 1p](https://github.com/coz-m/MPLUS_FONTS) requires no additional work to improve readability and visuals in a reading environment.
 
 Pretendard is available in 9 weights and also supports variable fonts.
 
 ## Background and story
 
-A detailed story explaining the background, features, and OpenType features of Pretendard can be found at [here] (https://cactus.tistory.com/306).
+A detailed story explaining the background, features, and OpenType features of Pretendard can be found at [here](https://cactus.tistory.com/306).
 
 ## Download
 
-### [Download latest version] (https://github.com/orioncactus/pretendard/releases/latest)
+### [Download latest version](https://github.com/orioncactus/pretendard/releases/latest)
 
 ## web font
 
@@ -221,7 +221,7 @@ yarn add pretendard
 
 ## License
 
-Pretendard is distributed under the [SIL Open Font License] (https://scripts.sil.org/OFL). All commercial activities, modifications, and redistribution are allowed except for the sole sale of fonts.
+Pretendard is distributed under the [SIL Open Font License](https://scripts.sil.org/OFL). All commercial activities, modifications, and redistribution are allowed except for the sole sale of fonts.
 
 ## Contributors
 
@@ -335,4 +335,4 @@ Thank you very much for your contribution to Pretendard.
 
 ## Share your opinion
 
-New improvements are always welcome. If you need resolution, please register an issue at [Issues] (https://github.com/orioncactus/pretendard/issues).
+New improvements are always welcome. If you need resolution, please register an issue at [Issues](https://github.com/orioncactus/pretendard/issues).

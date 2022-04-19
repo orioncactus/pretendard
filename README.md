@@ -21,8 +21,8 @@ CDN을 이용해 Pretendard를 사용할 수 있으며, 토글을 확인해 기�
 
 일본어 및 한국 한자 환경, 또는 라틴 환경 전용 Pretendard 웹폰트를 사용하려면 아래로 이동하세요:
 
--   [Pretendard JP](/docs/webfonts/PretendardJP.md)
--   [Pretendard Std](/docs/webfonts/PretendardStd.md)
+-   [Pretendard JP](/docs/webfonts/ko/PretendardJP.md)
+-   [Pretendard Std](/docs/webfonts/ko/PretendardStd.md)
 
 ---
 

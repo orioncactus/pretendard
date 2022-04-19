@@ -1,10 +1,10 @@
-| [**EN**](/README.md) | [EN](/docs/readme/en/README.md) | [JP](/docs/readme/en/README.md) |
-|---------------|----------------------- -------|----------------------------------|
+| [KO](/README.md) | [**EN**](/docs/readme/en/README.md) | [JP](/docs/readme/en/README.md) |
+|------------------|-------------------------------------|---------------------------------|
 
 # Pretendard
 
-![Thumbnail](thumbnail.svg#gh-light-mode-only)
-![Thumbnail](thumbnail-white.svg#gh-dark-mode-only)
+![Thumbnail](/thumbnail.svg#gh-light-mode-only)
+![Thumbnail](/thumbnail-white.svg#gh-dark-mode-only)
 
 Pretendard is a modern font that looks natural when offering products cross-platform, and also in multilingual typography. [Inter](https://github.com/rsms/inter) and [Bongothic](https://fonts.adobe.com/fonts/source-han-sans-korean), and [M PLUS 1p]( Pretendard polished from https://github.com/coz-m/MPLUS_FONTS) requires no additional work to improve readability and visuals in a reading environment.
 

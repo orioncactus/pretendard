@@ -1,5 +1,5 @@
-| [KO](/README.md) | [**EN**](/docs/readme/en/README.md) | [JP](/docs/readme/jp/README.md) |
-|------------------|-------------------------------------|---------------------------------|
+| [KO](/README.md) | [**EN**](/docs/readme/en/README.md) |
+|------------------|-------------------------------------|
 
 # Pretendard
 

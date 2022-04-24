@@ -3,7 +3,8 @@
 
 # Pretendard
 
-![Thumbnail](thumbnail.svg#gh-light-mode-only)![Thumbnail](thumbnail-white.svg#gh-dark-mode-only)
+![Thumbnail](/thumbnail.svg#gh-light-mode-only)
+![Thumbnail](/thumbnail-white.svg#gh-dark-mode-only)
 
 Pretendardは、クロスプラットフォームで製品を提供するとき、そして多言語タイポグラフィでも自然な現代的なフォントです。[インター](https://github.com/rsms/inter)と[ボンゴシック](https://fonts.adobe.com/fonts/source-han-sans-korean)、そして[M PLUS 1p](https://github.com/coz-m/MPLUS_FONTS)に基づいてトリミングされたPretendardは、読み込み環境で可読性と視覚補正のために追加の作業をする必要はありません。
 

@@ -3,8 +3,8 @@
 
 # Pretendard
 
-![Thumbnail](thumbnail.svg#gh-light-mode-only)
-![Thumbnail](thumbnail-white.svg#gh-dark-mode-only)
+![Thumbnail](/thumbnail.svg#gh-light-mode-only)
+![Thumbnail](/thumbnail-white.svg#gh-dark-mode-only)
 
 Pretendard는 크로스 플랫폼으로 제품을 제공할 때, 그리고 다국어 타이포그래피에서도 자연스러운 현대적인 글꼴입니다. [Inter](https://github.com/rsms/inter)와 [본고딕](https://fonts.adobe.com/fonts/source-han-sans-korean), 그리고 [M PLUS 1p](https://github.com/coz-m/MPLUS_FONTS)을 바탕으로 다듬어진 Pretendard는 읽기 환경에서 가독성과 시각 보정을 위해 추가적인 작업을 하지 않아도 됩니다.
 

@@ -6,13 +6,13 @@
 ![Thumbnail](/thumbnail.svg#gh-light-mode-only)
 ![Thumbnail](/thumbnail-white.svg#gh-dark-mode-only)
 
-Pretendard is a modern font that looks natural when offering products cross-platform, and also in multilingual typography. Pretendard, refined from [Inter](https://github.com/rsms/inter) , [Bournegothic](https://fonts.adobe.com/fonts/source-han-sans-korean) , and [M PLUS 1p](https://github.com/coz-m/MPLUS_FONTS) , requires no additional work to improve readability and visuals in a reading environment.
+Pretendard is a modern font that looks natural when offering products cross-platform, and also in multilingual typography. Pretendard, refined from [Inter](https://github.com/rsms/inter), [Source Han Sans](https://fonts.adobe.com/fonts/source-han-sans-korean), and [M PLUS 1p](https://github.com/coz-m/MPLUS_FONTS), requires no additional work to improve readability and visuals in a reading environment.
 
 Pretendard is available in 9 weights and also supports variable fonts.
 
 ## background and story
 
-You can read more about [Pretendard](https://cactus.tistory.com/306) 's background, features, OpenType features, and more here.
+You can read more about [Pretendard](https://cactus.tistory.com/306)'s background, features, OpenType features, and more here.
 
 ## Download
 

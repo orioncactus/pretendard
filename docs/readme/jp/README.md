@@ -226,19 +226,19 @@ Pretendardは[SILオープンフォントライセンス](https://scripts.sil.or
 
 Pretendardに貢献していただきありがとうございます。
 
-[@hiddenest](https://github.com/hiddenest) ：WebフォントサービングとCDNアップデートの自動化、サブセット作業、そしてダイナミックサブセットを作成しました。
+[@hiddenest](https://github.com/hiddenest)：WebフォントサービングとCDNアップデートの自動化、サブセット作業、そしてダイナミックサブセットを作成しました。
 
-[@ leejh10003](https://github.com/leejh10003) ：Pretendardを使用した[例](/examples)を作成しました。
+[@ leejh10003](https://github.com/leejh10003)：Pretendardを使用した[例](/examples)を作成しました。
 
-[@black7375](https://github.com/black7375) ：サブセットとダイナミックサブセットビルドオートメーション、リリースファイル生成オートメーションを作成しました。
+[@black7375](https://github.com/black7375)：サブセットとダイナミックサブセットビルドオートメーション、リリースファイル生成オートメーションを作成しました。
 
-[@victorrica](https://github.com/victorrica) ：npmとYarnパッケージの配布に取り組んできました。
+[@victorrica](https://github.com/victorrica)：npmとYarnパッケージの配布に取り組んできました。
 
-[@ kms0219kms](https://github.com/kms0219kms) ：WebフォントのCDN配布多重化に取り組んできました。
+[@ kms0219kms](https://github.com/kms0219kms)：WebフォントのCDN配布多重化に取り組んできました。
 
-[@Gamsake](https://github.com/Gamsake) ：ビルドの自動化を改善しました。
+[@Gamsake](https://github.com/Gamsake)：ビルドの自動化を改善しました。
 
 
-## コメントを分ける
+## Issues
 
 解決が必要な場合は、 [Issues](https://github.com/orioncactus/pretendard/issues)でIssueを登録してください。

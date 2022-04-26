@@ -54,7 +54,7 @@ To use Korea-localized glyphs, add this code to stylesheets: `font-feature-setti
 
 ---
 
-### Dynamic Subset
+### Dynamic subset
 
 Use the code below to use Pretendard faster by loads the font-slices required from the page in a Japanese environment. Provided font-family name is `'Pretendard JP`.
 
@@ -108,7 +108,7 @@ Use the code below to use Pretendard faster by loads the font-slices required fr
 
 ---
 
-### Variable Fonts
+### Variable font
 
 Use the code below to use the variable weight property. Provided font-family name is `'Pretendard JP Variable'`.
 

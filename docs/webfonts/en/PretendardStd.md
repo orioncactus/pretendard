@@ -52,7 +52,7 @@ Use the code below to use Pretendard as a webfonts in a Latin environment with l
 
 ---
 
-### Dynamic Subset
+### Dynamic subset
 
 Use the code below to use Pretendard faster by loads the font-slices required from the page in a Latin environment. Provided font-family name is `'Pretendard Std`.
 

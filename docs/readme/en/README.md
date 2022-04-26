@@ -9,7 +9,7 @@ Pretendard is a Neo-grotesque typeface suitable for cross-platform applications 
 
 Pretendard is available in 9 weights, and also supports variable fonts.
 
-## background and story
+## Background and story
 
 You can read a detailed story about Pretendard’s background, features, and OpenType features [here(Korean)](https://cactus.tistory.com/306).
 
@@ -17,7 +17,7 @@ You can read a detailed story about Pretendard’s background, features, and Ope
 
 ### [Download latest version](https://github.com/orioncactus/pretendard/releases/latest)
 
-## web font
+## Webfonts
 
 You can use Pretendard via CDN, and in addition to the jsDelivr recommended by default, you can choose alternative CDNs you want, cdnjs or UNPKG by checking the toggle.
 
@@ -80,7 +80,7 @@ Use the code below to use Pretendard as a web font with entire features. Provide
 
 ---
 
-### dynamic subset
+### Dynamic subset
 
 Pretendard provides the dynamic subset same as Noto Sans Korean from Google Fonts to solve the webfonts capacity problem. Use the code below to use Pretendard faster by loads the font-slices required from the page. Provided font-family name is `Pretendard`.
 
@@ -134,7 +134,7 @@ Pretendard provides the dynamic subset same as Noto Sans Korean from Google Font
 
 ---
 
-### variable font
+### Variable font
 
 Use the code below to use the variable weight property. Provided font-family name is `'Pretendard Variable'`.
 
@@ -202,7 +202,7 @@ If you want to provide the same environment anywhere, the following font-family 
 font-family: Pretendard, -apple-system, BlinkMacSystemFont, system-ui, Roboto, 'Helvetica Neue', 'Segoe UI', 'Apple SD Gothic Neo', 'Noto Sans KR', 'Malgun Gothic', 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', sans-serif;
 ```
 
-## package
+## Package
 
 Pretendard is available in the following package managers.
 
@@ -218,11 +218,11 @@ npm i pretendard
 yarn add pretendard
 ```
 
-## license
+## License
 
 Pretendard is distributed under the [SIL Open Fonts License](https://scripts.sil.org/OFL), which is allowed any commercial uses, modifications, and redistribution.
 
-## Contributor
+## Contributors
 
 Thank you so much for your contribution to Pretendard.
 
@@ -239,6 +239,6 @@ Thank you so much for your contribution to Pretendard.
 [@Gamsake](https://github.com/Gamsake): Worked Improving build automation.
 
 
-## Share your opinion
+## Issues
 
 If you have a ploblem, please open an issue on [Issues](https://github.com/orioncactus/pretendard/issues).

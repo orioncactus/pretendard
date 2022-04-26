@@ -23,8 +23,8 @@ CDNを利用してPretendardを使用することができ、トグルを確認�
 
 日本語と韓国の漢字環境、またはラテン環境専用のPretendard Webフォントを使用するには、以下をご覧ください。
 
--   [Pretendard JP](/docs/webfonts/ko/PretendardJP.md)
--   [Pretendard Std](/docs/webfonts/ko/PretendardStd.md)
+-   [Pretendard JP](/docs/webfonts/jp/PretendardJP.md)
+-   [Pretendard Std(英語)](/docs/webfonts/en/PretendardStd.md)
 
 ---
 

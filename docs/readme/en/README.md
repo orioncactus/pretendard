@@ -23,8 +23,8 @@ You can use Pretendard via CDN, and in addition to the jsDelivr recommended by d
 
 To use Pretendard webfonts for Japanese or Latin/Greek/Cyrillic-only, check below:
 
--   [Pretendard JP](/docs/webfonts/ko/PretendardJP.md)
--   [Pretendard Std](/docs/webfonts/ko/PretendardStd.md)
+-   [Pretendard JP](/docs/webfonts/en/PretendardJP.md)
+-   [Pretendard Std](/docs/webfonts/en/PretendardStd.md)
 
 ---
 

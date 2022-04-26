@@ -1,8 +1,8 @@
 ## Pretendard JP
 
-日本語環境に適しており、すべての機能をサポートするPretendardをWebフォントとして使用するには、以下のコードを使用してください。 使用するフォントファミリーの名前は `'Pretendard JP'` です。
+日本語環境に適しており、すべての機能をサポートするPretendardをWebフォントとして使用するには、以下のコードを使用してください。使用するfont-familyの名前は `'Pretendard JP'`です。
 
-韓国に合った外観を使用するには、スタイルに以下のコードを追加してください。`font-feature-settings: 'ss05';`
+韓国に合った外観を使用するには、stylesheetに以下のコードを追加してください。`font-feature-settings: 'ss05';`
 
 #### HTML
 
@@ -12,7 +12,7 @@
 
 <details>
 
-<summary>cdnjs と UNPKG</summary>
+<summary>cdnjsとUNPKG</summary>
 
 ###### cdnjs
 
@@ -36,7 +36,7 @@
 
 <details>
 
-<summary>cdnjs と UNPKG</summary>
+<summary>cdnjsとUNPKG</summary>
 
 ###### cdnjs
 
@@ -56,8 +56,7 @@
 
 ### ダイナミックサブセット
 
-日本語環境でページに含まれる文字のみを選択的にダウンロードして、より早くPretendardを表示するには、以下のコードを使用してください。 使用するフォントファミリーの名前は `'Pretendard JP'` です。
-
+日本語環境でページに含まれている文字のみを選択的にダウンロードしてより早くPretendardを表示するには、以下のコードを使用してください。使用するfont-familyの名前は`'Pretendard JP'`です。
 #### HTML
 
 ```html
@@ -66,7 +65,7 @@
 
 <details>
 
-<summary>cdnjs と UNPKG</summary>
+<summary>cdnjsとUNPKG</summary>
 
 ###### cdnjs
 
@@ -90,7 +89,7 @@
 
 <details>
 
-<summary>cdnjs と UNPKG</summary>
+<summary>cdnjsとUNPKG</summary>
 
 ###### cdnjs
 
@@ -110,7 +109,7 @@
 
 ### 可変フォント
 
-可変weightプロパティを使用するには、以下のコードを使用してください。 使用するフォントファミリーの名前は `'Pretendard JP Variable'` です。
+可変weightプロパティを使用するには、以下のコードを使用してください。使用するfont-familyの名前は `'Pretendard JP Variable'` です。
 
 #### HTML
 
@@ -120,7 +119,7 @@
 
 <details>
 
-<summary>cdnjs と UNPKG</summary>
+<summary>cdnjsとUNPKG</summary>
 
 ###### cdnjs
 
@@ -144,7 +143,7 @@
 
 <details>
 
-<summary>cdnjs と UNPKG</summary>
+<summary>cdnjsとUNPKG</summary>
 
 ###### cdnjs
 
@@ -164,7 +163,7 @@
 
 ### font-family
 
-どこでも快適な環境を提供したい場合は、以下のようなフォントファミリー構成をお勧めします。
+どこでも快適な環境を提供したい場合は、下記のようなfont-family構成をお勧めします。
 
 ```css
 font-family: 'Pretendard JP', Pretendard, -apple-system, BlinkMacSystemFont, system-ui, Roboto, 'Helvetica Neue', 'Segoe UI', 'Apple SD Gothic Neo', 'Noto Sans KR', 'Malgun Gothic', 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', sans-serif;

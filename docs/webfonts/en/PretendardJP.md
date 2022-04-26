@@ -1,8 +1,8 @@
 ## Pretendard JP
 
-Use the code below to use Pretendard as a web font that is suitable for the Japanese environment and supports all functions. The font-family name used is `'Pretendard JP'`.
+Use the code below to use Pretendard as a webfonts which is suitable for the Japanese environment and also supports all features. Provided font-family name is `'Pretendard JP'`.
 
-To use Korean-specific shapes, add code like this to your style: `font-feature-settings: 'ss05';`
+To use Korea-localized glyphs, add this code to stylesheets: `font-feature-settings: 'ss05';`
 
 #### HTML
 
@@ -56,7 +56,7 @@ To use Korean-specific shapes, add code like this to your style: `font-feature-s
 
 ### Dynamic Subset
 
-Use the code below to display Pretendard faster by selectively downloading only the characters included on the page in a Japanese environment. The font-family name used is `'Pretendard JP'`.
+Use the code below to use Pretendard faster by loads the font-slices required from the page in a Japanese environment. Provided font-family name is `'Pretendard JP`.
 
 #### HTML
 
@@ -110,7 +110,7 @@ Use the code below to display Pretendard faster by selectively downloading only 
 
 ### Variable Fonts
 
-Use the code below to use the variable weight property. The font-family name used is `'Pretendard JP Variable'`.
+Use the code below to use the variable weight property. Provided font-family name is `'Pretendard JP Variable'`.
 
 #### HTML
 
@@ -164,7 +164,7 @@ Use the code below to use the variable weight property. The font-family name use
 
 ### font-family
 
-If you want to provide a comfortable environment anywhere, we recommend the following font-family configuration.
+If you want to provide a comfortable environment anywhere, the following font-family are recommended:
 
 ```css
 font-family: 'Pretendard JP', Pretendard, -apple-system, BlinkMacSystemFont, system-ui, Roboto, 'Helvetica Neue', 'Segoe UI', 'Apple SD Gothic Neo', 'Noto Sans KR', 'Malgun Gothic ', 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', sans-serif;

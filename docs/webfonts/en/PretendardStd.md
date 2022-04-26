@@ -1,6 +1,6 @@
 ## Pretendard Std
 
-Use the code below to use Pretendard as a web font in a Latin environment with less capacity. The font-family name we use is `'Pretendard Std'`.
+Use the code below to use Pretendard as a webfonts in a Latin environment with less capacity. Provided font-family name is `'Pretendard Std'`.
 
 #### HTML
 
@@ -54,7 +54,7 @@ Use the code below to use Pretendard as a web font in a Latin environment with l
 
 ### Dynamic Subset
 
-Use the code below to display Pretendard faster with optimized capacity in Latin environment. The font-family name we use is `'Pretendard Std'`.
+Use the code below to use Pretendard faster by loads the font-slices required from the page in a Latin environment. Provided font-family name is `'Pretendard Std`.
 
 #### HTML
 
@@ -108,7 +108,7 @@ Use the code below to display Pretendard faster with optimized capacity in Latin
 
 ### Variable font
 
-Use the code below to use the variable weight property. The font-family name we use is `'Pretendard Std Variable'`.
+Use the code below to use the variable weight property. Provided font-family name is `'Pretendard Std Variable'`.
 
 #### HTML
 
@@ -162,13 +162,13 @@ Use the code below to use the variable weight property. The font-family name we 
 
 ### font-family
 
-If you want to fit the system as much as possible, the following font-family configuration is recommended.
+If you want to fit the system-font as much as possible, the following font-family are recommended:
 
 ```css
 font-family: -apple-system, BlinkMacSystemFont, 'Apple SD Gothic Neo', 'Pretendard Std', Pretendard, Roboto, 'Noto Sans KR', 'Segoe UI', 'Malgun Gothic', 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', sans-serif;
 ```
 
-If you want to have the same environment anywhere, the following font-family configuration is recommended.
+If you want to provide the same environment anywhere, the following font-family are recommended:
 
 ```css
 font-family: 'Pretendard Std', Pretendard, -apple-system, BlinkMacSystemFont, system-ui, Roboto, 'Helvetica Neue', 'Segoe UI', 'Apple SD Gothic Neo', 'Noto Sans KR', 'Malgun Gothic', 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', sans-serif;

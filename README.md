@@ -1,5 +1,4 @@
-| [**KO**](/README.md) | [EN](/docs/readme/en/README.md) | [JP](/docs/readme/jp/README.md) |
-| -------------------- | ------------------------------- | ------------------------------- |
+[**한국어**](/README.md) | [English](/docs/readme/en/README.md) | [日本語](/docs/readme/jp/README.md)
 
 # Pretendard
 
@@ -235,7 +234,7 @@ Pretendard에 기여해주셔서 진심으로 감사드립니다.
 
 [@victorrica](https://github.com/victorrica): npm 및 Yarn 패키지 배포를 작업해주셨습니다.
 
-[@kms0219kms](https://github.com/kms0219kms): 웹폰트 CDN 배포 다중화를 작업해주셨습니다.
+[@kms0219kms](https://github.com/kms0219kms): 웹폰트 CDN 배포 다중화, Readme 영어 및 일본어 문서화를 작업해주셨습니다.
 
 [@Gamsake](https://github.com/Gamsake): 빌드 자동화를 개선해주셨습니다.
 

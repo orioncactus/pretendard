@@ -228,15 +228,15 @@ Pretendardにコントリビュートしていただきありがとうござい�
 
 [@hiddenest](https://github.com/hiddenest): WebフォントサービングとCDNアップデートの自動化、サブセット作業、そしてダイナミックサブセットを作成しました。
 
-[@ leejh10003](https://github.com/leejh10003): Pretendardが使用された[例](/examples)を作成しました。
+[@leejh10003](https://github.com/leejh10003): Pretendardが使用された[例](/examples)を作成しました。
 
-[@black7375](https://github.com/black7375): サブセットとダイナミックサブセットビルドオートメーション、リリースファイル生成オートメーションを作成しました。
+[@black7375](https://github.com/black7375): サブセットとダイナミックサブセットビルド自動化、リリースファイル作成を自動化しました。
 
-[@victorrica](https://github.com/victorrica): npmとYarnパッケージの配布に取り組んできました。
+[@victorrica](https://github.com/victorrica): npmとYarnパッケージの配布を作業しました。
 
-[@ kms0219kms](https://github.com/kms0219kms): WebフォントのCDN配布多重化に取り組んできました。
+[@kms0219kms](https://github.com/kms0219kms): WebフォントのCDN配布多重化を作業しました。
 
-[@Gamsake](https://github.com/Gamsake): ビルドの自動化を改善しました。
+[@Gamsake](https://github.com/Gamsake): ビルド自動化を改善しました。
 
 
 ## Issues

@@ -109,7 +109,7 @@
 
 ### 可変フォント
 
-可変weightプロパティを使用するには、下記のコードを使用してください。使用するfont-family名は `'Pretendard JP Variable'` です。
+可変weightプロパティを使用するには、下記のコードを使用してください。使用するfont-family名は`'Pretendard JP Variable'` です。
 
 #### HTML
 

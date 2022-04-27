@@ -1,8 +1,8 @@
 ## Pretendard JP
 
-日本語環境に適しており、すべての機能をサポートするPretendardをWebフォントとして使用するには、以下のコードを使用してください。使用するfont-familyの名前は `'Pretendard JP'`です。
+日本語環境に適しており、すべての機能に対応するPretendardをWebフォントとして使用するには、下記のコードを使用してください。使用するfont-family名は`'Pretendard JP'`です。
 
-韓国に合った外観を使用するには、stylesheetに以下のコードを追加してください。`font-feature-settings: 'ss05';`
+韓国語環境に合った外観を使用するには、stylesheetに次のコードを追加してください。`font-feature-settings: 'ss05';`
 
 #### HTML
 
@@ -12,7 +12,7 @@
 
 <details>
 
-<summary>cdnjsとUNPKG</summary>
+<summary>cdnjsおよびUNPKG</summary>
 
 ###### cdnjs
 
@@ -36,7 +36,7 @@
 
 <details>
 
-<summary>cdnjsとUNPKG</summary>
+<summary>cdnjsおよびUNPKG</summary>
 
 ###### cdnjs
 
@@ -56,7 +56,7 @@
 
 ### ダイナミックサブセット
 
-日本語環境でページに含まれている文字のみを選択的にダウンロードしてより早くPretendardを表示するには、以下のコードを使用してください。使用するfont-familyの名前は`'Pretendard JP'`です。
+日本語環境でページに含まれている文字のみを選択的にダウンロードしてより早くPretendardを表示するには、下記のコードを使用してください。使用するfont-family名は`'Pretendard JP'`です。
 #### HTML
 
 ```html
@@ -65,7 +65,7 @@
 
 <details>
 
-<summary>cdnjsとUNPKG</summary>
+<summary>cdnjsおよびUNPKG</summary>
 
 ###### cdnjs
 
@@ -89,7 +89,7 @@
 
 <details>
 
-<summary>cdnjsとUNPKG</summary>
+<summary>cdnjsおよびUNPKG</summary>
 
 ###### cdnjs
 
@@ -109,7 +109,7 @@
 
 ### 可変フォント
 
-可変weightプロパティを使用するには、以下のコードを使用してください。使用するfont-familyの名前は `'Pretendard JP Variable'` です。
+可変weightプロパティを使用するには、下記のコードを使用してください。使用するfont-family名は`'Pretendard JP Variable'` です。
 
 #### HTML
 
@@ -119,7 +119,7 @@
 
 <details>
 
-<summary>cdnjsとUNPKG</summary>
+<summary>cdnjsおよびUNPKG</summary>
 
 ###### cdnjs
 
@@ -143,7 +143,7 @@
 
 <details>
 
-<summary>cdnjsとUNPKG</summary>
+<summary>cdnjsおよびUNPKG</summary>
 
 ###### cdnjs
 

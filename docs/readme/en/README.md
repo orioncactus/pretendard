@@ -1,4 +1,4 @@
-[한국어](/README.md) | [**English**](/docs/readme/en/README.md) | [日本語](/docs/readme/jp/README.md)
+[한국어](/README.md) | [**English**](/docs/readme/en/README.md) | [日本語](/docs/readme/ja/README.md)
 
 # Pretendard
 

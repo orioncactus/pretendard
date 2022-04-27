@@ -234,10 +234,11 @@ Thank you so much for your contribution to Pretendard.
 
 [@victorrica](https://github.com/victorrica): Worked publishing npm and Yarn packages.
 
-[@kms0219kms](https://github.com/kms0219kms): Worked webfonts CDN multiplexing, and readme localization. 
+[@kms0219kms](https://github.com/kms0219kms): Worked webfonts CDN multiplexing, and readme localization.
 
-[@Gamsake](https://github.com/Gamsake): Worked Improving build automation.
+[@Gamsake](https://github.com/Gamsake): Worked improving build automation.
 
+[@quiple](https://github.com/quiple): Worked improving Japanese Readme translation.
 
 ## Issues
 

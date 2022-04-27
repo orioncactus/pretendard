@@ -234,10 +234,11 @@ Pretendardにコントリビュートしていただきありがとうござい�
 
 [@victorrica](https://github.com/victorrica): npmとYarnパッケージの配布を作業しました。
 
-[@kms0219kms](https://github.com/kms0219kms): WebフォントのCDN配布多重化を作業しました。
+[@kms0219kms](https://github.com/kms0219kms): WebフォントCDN配布多重化、Readme英語及び日本語文書化を作業してくださいました。
 
 [@Gamsake](https://github.com/Gamsake): ビルド自動化を改善しました。
 
+[@quiple](https://github.com/quiple): 日本語Readme翻訳を改善してくださいました。
 
 ## Issues
 

@@ -238,6 +238,8 @@ Pretendard에 기여해주셔서 진심으로 감사드립니다.
 
 [@Gamsake](https://github.com/Gamsake): 빌드 자동화를 개선해주셨습니다.
 
+[@quiple](https://github.com/quiple): 일본어 Readme 번역을 개선해주셨습니다.
+
 ## Pretendard를 사용하는 곳
 
 <p align="center">

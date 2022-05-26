@@ -1057,7 +1057,7 @@ http://scripts.sil.org/OFL
 	font-display: swap;
 	font-weight: 100;
 	src: url(./woff2-dynamic-subset/PretendardJP-Thin.subset.116.woff2) format('woff2'), url(./woff-dynamic-subset/PretendardJP-Thin.subset.116.woff) format('woff');
-	unicode-range: U+4e, U+3000, U+300c-300d, U+4e00, U+4e0a, U+4e2d, U+4e8b, U+4eba, U+4f1a, U+5165, U+5168, U+5185, U+51fa, U+5206, U+5229, U+524d, U+52d5, U+5408, U+554f, U+5831, U+5834, U+5927, U+5b9a, U+5e74, U+5f0f, U+60c5, U+65b0, U+65b9, U+6642, U+6700, U+672c, U+682a, U+6b63, U+6c17, U+7121, U+751f, U+7528, U+753b, U+76ee, U+793e, U+884c, U+898b, U+8a18, U+9593, U+95a2, U+ff01, U+ff08-ff09;
+	unicode-range: U+4e, U+a0, U+3000, U+300c-300d, U+4e00, U+4e0a, U+4e2d, U+4e8b, U+4eba, U+4f1a, U+5165, U+5168, U+5185, U+51fa, U+5206, U+5229, U+524d, U+52d5, U+5408, U+554f, U+5831, U+5834, U+5927, U+5b9a, U+5e74, U+5f0f, U+60c5, U+65b0, U+65b9, U+6642, U+6700, U+672c, U+682a, U+6b63, U+6c17, U+7121, U+751f, U+7528, U+753b, U+76ee, U+793e, U+884c, U+898b, U+8a18, U+9593, U+95a2, U+ff01, U+ff08-ff09;
 }
 /* [117] */
 @font-face {
@@ -1076,15 +1076,6 @@ http://scripts.sil.org/OFL
 	font-weight: 100;
 	src: url(./woff2-dynamic-subset/PretendardJP-Thin.subset.118.woff2) format('woff2'), url(./woff-dynamic-subset/PretendardJP-Thin.subset.118.woff) format('woff');
 	unicode-range: U+20, U+2027, U+3001-3002, U+3041-307f, U+3081-308f, U+3091-3093, U+3099-309a, U+309d-309e, U+30a1-30e1, U+30e3-30ed, U+30ef-30f0, U+30f2-30f4, U+30fb-30fe, U+ff0c, U+ff0e;
-}
-/* [119] */
-@font-face {
-	font-family: 'Pretendard JP';
-	font-style: normal;
-	font-display: swap;
-	font-weight: 100;
-	src: url(./woff2-dynamic-subset/PretendardJP-Thin.subset.119.woff2) format('woff2'), url(./woff-dynamic-subset/PretendardJP-Thin.subset.119.woff) format('woff');
-	unicode-range: U+a0;
 }
 /* [0] */
 @font-face {
@@ -2137,7 +2128,7 @@ http://scripts.sil.org/OFL
 	font-display: swap;
 	font-weight: 200;
 	src: url(./woff2-dynamic-subset/PretendardJP-ExtraLight.subset.116.woff2) format('woff2'), url(./woff-dynamic-subset/PretendardJP-ExtraLight.subset.116.woff) format('woff');
-	unicode-range: U+4e, U+3000, U+300c-300d, U+4e00, U+4e0a, U+4e2d, U+4e8b, U+4eba, U+4f1a, U+5165, U+5168, U+5185, U+51fa, U+5206, U+5229, U+524d, U+52d5, U+5408, U+554f, U+5831, U+5834, U+5927, U+5b9a, U+5e74, U+5f0f, U+60c5, U+65b0, U+65b9, U+6642, U+6700, U+672c, U+682a, U+6b63, U+6c17, U+7121, U+751f, U+7528, U+753b, U+76ee, U+793e, U+884c, U+898b, U+8a18, U+9593, U+95a2, U+ff01, U+ff08-ff09;
+	unicode-range: U+4e, U+a0, U+3000, U+300c-300d, U+4e00, U+4e0a, U+4e2d, U+4e8b, U+4eba, U+4f1a, U+5165, U+5168, U+5185, U+51fa, U+5206, U+5229, U+524d, U+52d5, U+5408, U+554f, U+5831, U+5834, U+5927, U+5b9a, U+5e74, U+5f0f, U+60c5, U+65b0, U+65b9, U+6642, U+6700, U+672c, U+682a, U+6b63, U+6c17, U+7121, U+751f, U+7528, U+753b, U+76ee, U+793e, U+884c, U+898b, U+8a18, U+9593, U+95a2, U+ff01, U+ff08-ff09;
 }
 /* [117] */
 @font-face {
@@ -2156,15 +2147,6 @@ http://scripts.sil.org/OFL
 	font-weight: 200;
 	src: url(./woff2-dynamic-subset/PretendardJP-ExtraLight.subset.118.woff2) format('woff2'), url(./woff-dynamic-subset/PretendardJP-ExtraLight.subset.118.woff) format('woff');
 	unicode-range: U+20, U+2027, U+3001-3002, U+3041-307f, U+3081-308f, U+3091-3093, U+3099-309a, U+309d-309e, U+30a1-30e1, U+30e3-30ed, U+30ef-30f0, U+30f2-30f4, U+30fb-30fe, U+ff0c, U+ff0e;
-}
-/* [119] */
-@font-face {
-	font-family: 'Pretendard JP';
-	font-style: normal;
-	font-display: swap;
-	font-weight: 200;
-	src: url(./woff2-dynamic-subset/PretendardJP-ExtraLight.subset.119.woff2) format('woff2'), url(./woff-dynamic-subset/PretendardJP-ExtraLight.subset.119.woff) format('woff');
-	unicode-range: U+a0;
 }
 /* [0] */
 @font-face {
@@ -3217,7 +3199,7 @@ http://scripts.sil.org/OFL
 	font-display: swap;
 	font-weight: 300;
 	src: url(./woff2-dynamic-subset/PretendardJP-Light.subset.116.woff2) format('woff2'), url(./woff-dynamic-subset/PretendardJP-Light.subset.116.woff) format('woff');
-	unicode-range: U+4e, U+3000, U+300c-300d, U+4e00, U+4e0a, U+4e2d, U+4e8b, U+4eba, U+4f1a, U+5165, U+5168, U+5185, U+51fa, U+5206, U+5229, U+524d, U+52d5, U+5408, U+554f, U+5831, U+5834, U+5927, U+5b9a, U+5e74, U+5f0f, U+60c5, U+65b0, U+65b9, U+6642, U+6700, U+672c, U+682a, U+6b63, U+6c17, U+7121, U+751f, U+7528, U+753b, U+76ee, U+793e, U+884c, U+898b, U+8a18, U+9593, U+95a2, U+ff01, U+ff08-ff09;
+	unicode-range: U+4e, U+a0, U+3000, U+300c-300d, U+4e00, U+4e0a, U+4e2d, U+4e8b, U+4eba, U+4f1a, U+5165, U+5168, U+5185, U+51fa, U+5206, U+5229, U+524d, U+52d5, U+5408, U+554f, U+5831, U+5834, U+5927, U+5b9a, U+5e74, U+5f0f, U+60c5, U+65b0, U+65b9, U+6642, U+6700, U+672c, U+682a, U+6b63, U+6c17, U+7121, U+751f, U+7528, U+753b, U+76ee, U+793e, U+884c, U+898b, U+8a18, U+9593, U+95a2, U+ff01, U+ff08-ff09;
 }
 /* [117] */
 @font-face {
@@ -3236,15 +3218,6 @@ http://scripts.sil.org/OFL
 	font-weight: 300;
 	src: url(./woff2-dynamic-subset/PretendardJP-Light.subset.118.woff2) format('woff2'), url(./woff-dynamic-subset/PretendardJP-Light.subset.118.woff) format('woff');
 	unicode-range: U+20, U+2027, U+3001-3002, U+3041-307f, U+3081-308f, U+3091-3093, U+3099-309a, U+309d-309e, U+30a1-30e1, U+30e3-30ed, U+30ef-30f0, U+30f2-30f4, U+30fb-30fe, U+ff0c, U+ff0e;
-}
-/* [119] */
-@font-face {
-	font-family: 'Pretendard JP';
-	font-style: normal;
-	font-display: swap;
-	font-weight: 300;
-	src: url(./woff2-dynamic-subset/PretendardJP-Light.subset.119.woff2) format('woff2'), url(./woff-dynamic-subset/PretendardJP-Light.subset.119.woff) format('woff');
-	unicode-range: U+a0;
 }
 /* [0] */
 @font-face {
@@ -4297,7 +4270,7 @@ http://scripts.sil.org/OFL
 	font-display: swap;
 	font-weight: 400;
 	src: url(./woff2-dynamic-subset/PretendardJP-Regular.subset.116.woff2) format('woff2'), url(./woff-dynamic-subset/PretendardJP-Regular.subset.116.woff) format('woff');
-	unicode-range: U+4e, U+3000, U+300c-300d, U+4e00, U+4e0a, U+4e2d, U+4e8b, U+4eba, U+4f1a, U+5165, U+5168, U+5185, U+51fa, U+5206, U+5229, U+524d, U+52d5, U+5408, U+554f, U+5831, U+5834, U+5927, U+5b9a, U+5e74, U+5f0f, U+60c5, U+65b0, U+65b9, U+6642, U+6700, U+672c, U+682a, U+6b63, U+6c17, U+7121, U+751f, U+7528, U+753b, U+76ee, U+793e, U+884c, U+898b, U+8a18, U+9593, U+95a2, U+ff01, U+ff08-ff09;
+	unicode-range: U+4e, U+a0, U+3000, U+300c-300d, U+4e00, U+4e0a, U+4e2d, U+4e8b, U+4eba, U+4f1a, U+5165, U+5168, U+5185, U+51fa, U+5206, U+5229, U+524d, U+52d5, U+5408, U+554f, U+5831, U+5834, U+5927, U+5b9a, U+5e74, U+5f0f, U+60c5, U+65b0, U+65b9, U+6642, U+6700, U+672c, U+682a, U+6b63, U+6c17, U+7121, U+751f, U+7528, U+753b, U+76ee, U+793e, U+884c, U+898b, U+8a18, U+9593, U+95a2, U+ff01, U+ff08-ff09;
 }
 /* [117] */
 @font-face {
@@ -4316,15 +4289,6 @@ http://scripts.sil.org/OFL
 	font-weight: 400;
 	src: url(./woff2-dynamic-subset/PretendardJP-Regular.subset.118.woff2) format('woff2'), url(./woff-dynamic-subset/PretendardJP-Regular.subset.118.woff) format('woff');
 	unicode-range: U+20, U+2027, U+3001-3002, U+3041-307f, U+3081-308f, U+3091-3093, U+3099-309a, U+309d-309e, U+30a1-30e1, U+30e3-30ed, U+30ef-30f0, U+30f2-30f4, U+30fb-30fe, U+ff0c, U+ff0e;
-}
-/* [119] */
-@font-face {
-	font-family: 'Pretendard JP';
-	font-style: normal;
-	font-display: swap;
-	font-weight: 400;
-	src: url(./woff2-dynamic-subset/PretendardJP-Regular.subset.119.woff2) format('woff2'), url(./woff-dynamic-subset/PretendardJP-Regular.subset.119.woff) format('woff');
-	unicode-range: U+a0;
 }
 /* [0] */
 @font-face {
@@ -5377,7 +5341,7 @@ http://scripts.sil.org/OFL
 	font-display: swap;
 	font-weight: 500;
 	src: url(./woff2-dynamic-subset/PretendardJP-Medium.subset.116.woff2) format('woff2'), url(./woff-dynamic-subset/PretendardJP-Medium.subset.116.woff) format('woff');
-	unicode-range: U+4e, U+3000, U+300c-300d, U+4e00, U+4e0a, U+4e2d, U+4e8b, U+4eba, U+4f1a, U+5165, U+5168, U+5185, U+51fa, U+5206, U+5229, U+524d, U+52d5, U+5408, U+554f, U+5831, U+5834, U+5927, U+5b9a, U+5e74, U+5f0f, U+60c5, U+65b0, U+65b9, U+6642, U+6700, U+672c, U+682a, U+6b63, U+6c17, U+7121, U+751f, U+7528, U+753b, U+76ee, U+793e, U+884c, U+898b, U+8a18, U+9593, U+95a2, U+ff01, U+ff08-ff09;
+	unicode-range: U+4e, U+a0, U+3000, U+300c-300d, U+4e00, U+4e0a, U+4e2d, U+4e8b, U+4eba, U+4f1a, U+5165, U+5168, U+5185, U+51fa, U+5206, U+5229, U+524d, U+52d5, U+5408, U+554f, U+5831, U+5834, U+5927, U+5b9a, U+5e74, U+5f0f, U+60c5, U+65b0, U+65b9, U+6642, U+6700, U+672c, U+682a, U+6b63, U+6c17, U+7121, U+751f, U+7528, U+753b, U+76ee, U+793e, U+884c, U+898b, U+8a18, U+9593, U+95a2, U+ff01, U+ff08-ff09;
 }
 /* [117] */
 @font-face {
@@ -5396,15 +5360,6 @@ http://scripts.sil.org/OFL
 	font-weight: 500;
 	src: url(./woff2-dynamic-subset/PretendardJP-Medium.subset.118.woff2) format('woff2'), url(./woff-dynamic-subset/PretendardJP-Medium.subset.118.woff) format('woff');
 	unicode-range: U+20, U+2027, U+3001-3002, U+3041-307f, U+3081-308f, U+3091-3093, U+3099-309a, U+309d-309e, U+30a1-30e1, U+30e3-30ed, U+30ef-30f0, U+30f2-30f4, U+30fb-30fe, U+ff0c, U+ff0e;
-}
-/* [119] */
-@font-face {
-	font-family: 'Pretendard JP';
-	font-style: normal;
-	font-display: swap;
-	font-weight: 500;
-	src: url(./woff2-dynamic-subset/PretendardJP-Medium.subset.119.woff2) format('woff2'), url(./woff-dynamic-subset/PretendardJP-Medium.subset.119.woff) format('woff');
-	unicode-range: U+a0;
 }
 /* [0] */
 @font-face {
@@ -6457,7 +6412,7 @@ http://scripts.sil.org/OFL
 	font-display: swap;
 	font-weight: 600;
 	src: url(./woff2-dynamic-subset/PretendardJP-SemiBold.subset.116.woff2) format('woff2'), url(./woff-dynamic-subset/PretendardJP-SemiBold.subset.116.woff) format('woff');
-	unicode-range: U+4e, U+3000, U+300c-300d, U+4e00, U+4e0a, U+4e2d, U+4e8b, U+4eba, U+4f1a, U+5165, U+5168, U+5185, U+51fa, U+5206, U+5229, U+524d, U+52d5, U+5408, U+554f, U+5831, U+5834, U+5927, U+5b9a, U+5e74, U+5f0f, U+60c5, U+65b0, U+65b9, U+6642, U+6700, U+672c, U+682a, U+6b63, U+6c17, U+7121, U+751f, U+7528, U+753b, U+76ee, U+793e, U+884c, U+898b, U+8a18, U+9593, U+95a2, U+ff01, U+ff08-ff09;
+	unicode-range: U+4e, U+a0, U+3000, U+300c-300d, U+4e00, U+4e0a, U+4e2d, U+4e8b, U+4eba, U+4f1a, U+5165, U+5168, U+5185, U+51fa, U+5206, U+5229, U+524d, U+52d5, U+5408, U+554f, U+5831, U+5834, U+5927, U+5b9a, U+5e74, U+5f0f, U+60c5, U+65b0, U+65b9, U+6642, U+6700, U+672c, U+682a, U+6b63, U+6c17, U+7121, U+751f, U+7528, U+753b, U+76ee, U+793e, U+884c, U+898b, U+8a18, U+9593, U+95a2, U+ff01, U+ff08-ff09;
 }
 /* [117] */
 @font-face {
@@ -6476,15 +6431,6 @@ http://scripts.sil.org/OFL
 	font-weight: 600;
 	src: url(./woff2-dynamic-subset/PretendardJP-SemiBold.subset.118.woff2) format('woff2'), url(./woff-dynamic-subset/PretendardJP-SemiBold.subset.118.woff) format('woff');
 	unicode-range: U+20, U+2027, U+3001-3002, U+3041-307f, U+3081-308f, U+3091-3093, U+3099-309a, U+309d-309e, U+30a1-30e1, U+30e3-30ed, U+30ef-30f0, U+30f2-30f4, U+30fb-30fe, U+ff0c, U+ff0e;
-}
-/* [119] */
-@font-face {
-	font-family: 'Pretendard JP';
-	font-style: normal;
-	font-display: swap;
-	font-weight: 600;
-	src: url(./woff2-dynamic-subset/PretendardJP-SemiBold.subset.119.woff2) format('woff2'), url(./woff-dynamic-subset/PretendardJP-SemiBold.subset.119.woff) format('woff');
-	unicode-range: U+a0;
 }
 /* [0] */
 @font-face {
@@ -7537,7 +7483,7 @@ http://scripts.sil.org/OFL
 	font-display: swap;
 	font-weight: 700;
 	src: url(./woff2-dynamic-subset/PretendardJP-Bold.subset.116.woff2) format('woff2'), url(./woff-dynamic-subset/PretendardJP-Bold.subset.116.woff) format('woff');
-	unicode-range: U+4e, U+3000, U+300c-300d, U+4e00, U+4e0a, U+4e2d, U+4e8b, U+4eba, U+4f1a, U+5165, U+5168, U+5185, U+51fa, U+5206, U+5229, U+524d, U+52d5, U+5408, U+554f, U+5831, U+5834, U+5927, U+5b9a, U+5e74, U+5f0f, U+60c5, U+65b0, U+65b9, U+6642, U+6700, U+672c, U+682a, U+6b63, U+6c17, U+7121, U+751f, U+7528, U+753b, U+76ee, U+793e, U+884c, U+898b, U+8a18, U+9593, U+95a2, U+ff01, U+ff08-ff09;
+	unicode-range: U+4e, U+a0, U+3000, U+300c-300d, U+4e00, U+4e0a, U+4e2d, U+4e8b, U+4eba, U+4f1a, U+5165, U+5168, U+5185, U+51fa, U+5206, U+5229, U+524d, U+52d5, U+5408, U+554f, U+5831, U+5834, U+5927, U+5b9a, U+5e74, U+5f0f, U+60c5, U+65b0, U+65b9, U+6642, U+6700, U+672c, U+682a, U+6b63, U+6c17, U+7121, U+751f, U+7528, U+753b, U+76ee, U+793e, U+884c, U+898b, U+8a18, U+9593, U+95a2, U+ff01, U+ff08-ff09;
 }
 /* [117] */
 @font-face {
@@ -7556,15 +7502,6 @@ http://scripts.sil.org/OFL
 	font-weight: 700;
 	src: url(./woff2-dynamic-subset/PretendardJP-Bold.subset.118.woff2) format('woff2'), url(./woff-dynamic-subset/PretendardJP-Bold.subset.118.woff) format('woff');
 	unicode-range: U+20, U+2027, U+3001-3002, U+3041-307f, U+3081-308f, U+3091-3093, U+3099-309a, U+309d-309e, U+30a1-30e1, U+30e3-30ed, U+30ef-30f0, U+30f2-30f4, U+30fb-30fe, U+ff0c, U+ff0e;
-}
-/* [119] */
-@font-face {
-	font-family: 'Pretendard JP';
-	font-style: normal;
-	font-display: swap;
-	font-weight: 700;
-	src: url(./woff2-dynamic-subset/PretendardJP-Bold.subset.119.woff2) format('woff2'), url(./woff-dynamic-subset/PretendardJP-Bold.subset.119.woff) format('woff');
-	unicode-range: U+a0;
 }
 /* [0] */
 @font-face {
@@ -8617,7 +8554,7 @@ http://scripts.sil.org/OFL
 	font-display: swap;
 	font-weight: 800;
 	src: url(./woff2-dynamic-subset/PretendardJP-ExtraBold.subset.116.woff2) format('woff2'), url(./woff-dynamic-subset/PretendardJP-ExtraBold.subset.116.woff) format('woff');
-	unicode-range: U+4e, U+3000, U+300c-300d, U+4e00, U+4e0a, U+4e2d, U+4e8b, U+4eba, U+4f1a, U+5165, U+5168, U+5185, U+51fa, U+5206, U+5229, U+524d, U+52d5, U+5408, U+554f, U+5831, U+5834, U+5927, U+5b9a, U+5e74, U+5f0f, U+60c5, U+65b0, U+65b9, U+6642, U+6700, U+672c, U+682a, U+6b63, U+6c17, U+7121, U+751f, U+7528, U+753b, U+76ee, U+793e, U+884c, U+898b, U+8a18, U+9593, U+95a2, U+ff01, U+ff08-ff09;
+	unicode-range: U+4e, U+a0, U+3000, U+300c-300d, U+4e00, U+4e0a, U+4e2d, U+4e8b, U+4eba, U+4f1a, U+5165, U+5168, U+5185, U+51fa, U+5206, U+5229, U+524d, U+52d5, U+5408, U+554f, U+5831, U+5834, U+5927, U+5b9a, U+5e74, U+5f0f, U+60c5, U+65b0, U+65b9, U+6642, U+6700, U+672c, U+682a, U+6b63, U+6c17, U+7121, U+751f, U+7528, U+753b, U+76ee, U+793e, U+884c, U+898b, U+8a18, U+9593, U+95a2, U+ff01, U+ff08-ff09;
 }
 /* [117] */
 @font-face {
@@ -8636,15 +8573,6 @@ http://scripts.sil.org/OFL
 	font-weight: 800;
 	src: url(./woff2-dynamic-subset/PretendardJP-ExtraBold.subset.118.woff2) format('woff2'), url(./woff-dynamic-subset/PretendardJP-ExtraBold.subset.118.woff) format('woff');
 	unicode-range: U+20, U+2027, U+3001-3002, U+3041-307f, U+3081-308f, U+3091-3093, U+3099-309a, U+309d-309e, U+30a1-30e1, U+30e3-30ed, U+30ef-30f0, U+30f2-30f4, U+30fb-30fe, U+ff0c, U+ff0e;
-}
-/* [119] */
-@font-face {
-	font-family: 'Pretendard JP';
-	font-style: normal;
-	font-display: swap;
-	font-weight: 800;
-	src: url(./woff2-dynamic-subset/PretendardJP-ExtraBold.subset.119.woff2) format('woff2'), url(./woff-dynamic-subset/PretendardJP-ExtraBold.subset.119.woff) format('woff');
-	unicode-range: U+a0;
 }
 /* [0] */
 @font-face {
@@ -9697,7 +9625,7 @@ http://scripts.sil.org/OFL
 	font-display: swap;
 	font-weight: 900;
 	src: url(./woff2-dynamic-subset/PretendardJP-Black.subset.116.woff2) format('woff2'), url(./woff-dynamic-subset/PretendardJP-Black.subset.116.woff) format('woff');
-	unicode-range: U+4e, U+3000, U+300c-300d, U+4e00, U+4e0a, U+4e2d, U+4e8b, U+4eba, U+4f1a, U+5165, U+5168, U+5185, U+51fa, U+5206, U+5229, U+524d, U+52d5, U+5408, U+554f, U+5831, U+5834, U+5927, U+5b9a, U+5e74, U+5f0f, U+60c5, U+65b0, U+65b9, U+6642, U+6700, U+672c, U+682a, U+6b63, U+6c17, U+7121, U+751f, U+7528, U+753b, U+76ee, U+793e, U+884c, U+898b, U+8a18, U+9593, U+95a2, U+ff01, U+ff08-ff09;
+	unicode-range: U+4e, U+a0, U+3000, U+300c-300d, U+4e00, U+4e0a, U+4e2d, U+4e8b, U+4eba, U+4f1a, U+5165, U+5168, U+5185, U+51fa, U+5206, U+5229, U+524d, U+52d5, U+5408, U+554f, U+5831, U+5834, U+5927, U+5b9a, U+5e74, U+5f0f, U+60c5, U+65b0, U+65b9, U+6642, U+6700, U+672c, U+682a, U+6b63, U+6c17, U+7121, U+751f, U+7528, U+753b, U+76ee, U+793e, U+884c, U+898b, U+8a18, U+9593, U+95a2, U+ff01, U+ff08-ff09;
 }
 /* [117] */
 @font-face {
@@ -9716,13 +9644,4 @@ http://scripts.sil.org/OFL
 	font-weight: 900;
 	src: url(./woff2-dynamic-subset/PretendardJP-Black.subset.118.woff2) format('woff2'), url(./woff-dynamic-subset/PretendardJP-Black.subset.118.woff) format('woff');
 	unicode-range: U+20, U+2027, U+3001-3002, U+3041-307f, U+3081-308f, U+3091-3093, U+3099-309a, U+309d-309e, U+30a1-30e1, U+30e3-30ed, U+30ef-30f0, U+30f2-30f4, U+30fb-30fe, U+ff0c, U+ff0e;
-}
-/* [119] */
-@font-face {
-	font-family: 'Pretendard JP';
-	font-style: normal;
-	font-display: swap;
-	font-weight: 900;
-	src: url(./woff2-dynamic-subset/PretendardJP-Black.subset.119.woff2) format('woff2'), url(./woff-dynamic-subset/PretendardJP-Black.subset.119.woff) format('woff');
-	unicode-range: U+a0;
 }

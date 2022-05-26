@@ -15,13 +15,13 @@ Use the code below to use Pretendard as a webfonts in a Latin environment with l
 ###### cdnjs
 
 ```html
-<link rel="stylesheet" as="style" crossorigin href="https://cdnjs.cloudflare.com/ajax/libs/pretendard/1.3.2/static/pretendard-std.css" />
+<link rel="stylesheet" as="style" crossorigin href="https://cdnjs.cloudflare.com/ajax/libs/pretendard/1.3.3/static/pretendard-std.css" />
 ```
 
 ###### UNPKG
 
 ```html
-<link rel="stylesheet" as="style" crossorigin href="https://unpkg.com/pretendard@1.3.2/dist/web/static/pretendard-std.css" />
+<link rel="stylesheet" as="style" crossorigin href="https://unpkg.com/pretendard@1.3.3/dist/web/static/pretendard-std.css" />
 ```
 
 </details>
@@ -39,13 +39,13 @@ Use the code below to use Pretendard as a webfonts in a Latin environment with l
 ###### cdnjs
 
 ```css
-@import url('https://cdnjs.cloudflare.com/ajax/libs/pretendard/1.3.2/static/pretendard-std.css');
+@import url('https://cdnjs.cloudflare.com/ajax/libs/pretendard/1.3.3/static/pretendard-std.css');
 ```
 
 ###### UNPKG
 
 ```css
-@import url('https://unpkg.com/pretendard@1.3.2/dist/web/static/pretendard-std.css');
+@import url('https://unpkg.com/pretendard@1.3.3/dist/web/static/pretendard-std.css');
 ```
 
 </details>
@@ -69,13 +69,13 @@ Use the code below to use Pretendard faster by loads the font-slices required fr
 ###### cdnjs
 
 ```html
-<link rel="stylesheet" as="style" crossorigin href="https://cdnjs.cloudflare.com/ajax/libs/pretendard/1.3.2/static/pretendard-std-dynamic-subset.css" />
+<link rel="stylesheet" as="style" crossorigin href="https://cdnjs.cloudflare.com/ajax/libs/pretendard/1.3.3/static/pretendard-std-dynamic-subset.css" />
 ```
 
 ###### UNPKG
 
 ```html
-<link rel="stylesheet" as="style" crossorigin href="https://unpkg.com/pretendard@1.3.2/dist/web/static/pretendard-std-dynamic-subset.css" />
+<link rel="stylesheet" as="style" crossorigin href="https://unpkg.com/pretendard@1.3.3/dist/web/static/pretendard-std-dynamic-subset.css" />
 ```
 
 </details>
@@ -93,13 +93,13 @@ Use the code below to use Pretendard faster by loads the font-slices required fr
 ###### cdnjs
 
 ```css
-@import url('https://cdnjs.cloudflare.com/ajax/libs/pretendard/1.3.2/static/pretendard-std-dynamic-subset.css');
+@import url('https://cdnjs.cloudflare.com/ajax/libs/pretendard/1.3.3/static/pretendard-std-dynamic-subset.css');
 ```
 
 ###### UNPKG
 
 ```css
-@import url('https://unpkg.com/pretendard@1.3.2/dist/web/static/pretendard-std-dynamic-subset.css');
+@import url('https://unpkg.com/pretendard@1.3.3/dist/web/static/pretendard-std-dynamic-subset.css');
 ```
 
 </details>
@@ -123,13 +123,13 @@ Use the code below to use the variable weight property. Provided font-family nam
 ###### cdnjs
 
 ```html
-<link rel="stylesheet" as="style" crossorigin href="https://cdnjs.cloudflare.com/ajax/libs/pretendard/1.3.2/variable/pretendardvariable-std.css" />
+<link rel="stylesheet" as="style" crossorigin href="https://cdnjs.cloudflare.com/ajax/libs/pretendard/1.3.3/variable/pretendardvariable-std.css" />
 ```
 
 ###### UNPKG
 
 ```html
-<link rel="stylesheet" as="style" crossorigin href="https://unpkg.com/pretendard@1.3.2/dist/web/variable/pretendardvariable-std.css" />
+<link rel="stylesheet" as="style" crossorigin href="https://unpkg.com/pretendard@1.3.3/dist/web/variable/pretendardvariable-std.css" />
 ```
 
 </details>
@@ -147,13 +147,13 @@ Use the code below to use the variable weight property. Provided font-family nam
 ###### cdnjs
 
 ```css
-@import url('https://cdnjs.cloudflare.com/ajax/libs/pretendard/1.3.2/variable/pretendardvariable-std.css');
+@import url('https://cdnjs.cloudflare.com/ajax/libs/pretendard/1.3.3/variable/pretendardvariable-std.css');
 ```
 
 ###### UNPKG
 
 ```css
-@import url('https://unpkg.com/pretendard@1.3.2/dist/web/variable/pretendardvariable-std.css');
+@import url('https://unpkg.com/pretendard@1.3.3/dist/web/variable/pretendardvariable-std.css');
 ```
 
 </details>

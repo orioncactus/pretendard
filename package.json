@@ -4,9 +4,11 @@
   "repository": "https://github.com/orioncactus/pretendard",
   "author": "Kil Hyung-jin <orioncactus@gmail.com>",
   "license": "OFL-1.1",
-  "scripts": {
-    "dynamic-subset": "NODE_ENV=production node ./dynamic-subset.js",
-    "publish": "npm publish --access public"
+  "private": true,
+  "workspaces": {
+    "packages": [
+      "packages/*"
+    ]
   },
   "dependencies": {
     "font-range": "^0.2.0"

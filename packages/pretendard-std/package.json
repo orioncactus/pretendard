@@ -1,0 +1,22 @@
+{
+  "name": "pretendard-std",
+  "version": "1.3.3",
+  "author": "Kil Hyung-jin <orioncactus@gmail.com>",
+  "license": "OFL-1.1",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/orioncactus/pretendard",
+    "directory": "packages/pretendard-std"
+  },
+  "bugs": {
+    "url": "https://github.com/orioncactus/pretendard/issues"
+  },
+  "homepage": "https://cactus.tistory.com/306",
+  "scripts": {
+    "dynamic-subset": "NODE_ENV=production node ./dynamic-subset.js",
+    "publish": "npm publish --access public"
+  },
+  "dependencies": {
+    "font-range": "^0.2.0"
+  }
+}

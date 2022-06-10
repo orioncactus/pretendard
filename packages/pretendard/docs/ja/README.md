@@ -1,4 +1,4 @@
-[한국어](/README.md) | [English](/docs/readme/en/README.md) | [**日本語**](/docs/readme/ja/README.md)
+[한국어](/packages/pretendard/README.md) | [English](/packages/pretendard/docs/en/README.md) | [**日本語**](/packages/pretendard/docs/ja/README.md)
 
 # Pretendard
 
@@ -23,8 +23,8 @@ CDNを利用してPretendardを使用することができ、トグルをチェ�
 
 日本語およびKS漢字環境、またはラテン環境専用のPretendardのWebフォントを使用するには、以下をご覧ください。
 
--   [Pretendard JP](/docs/webfonts/ja/PretendardJP.md)
--   [Pretendard Std(英語)](/docs/webfonts/en/PretendardStd.md)
+-   [Pretendard JP](/packages/pretendard-jp/docs/ja/)
+-   [Pretendard Std(英語)](/packages/pretendard-std/docs/en/)
 
 ---
 

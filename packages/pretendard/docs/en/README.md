@@ -1,4 +1,4 @@
-[한국어](/README.md) | [**English**](/docs/readme/en/README.md) | [日本語](/docs/readme/ja/README.md)
+[한국어](/packages/pretendard/README.md) | [**English**](/packages/pretendard/docs/en/README.md) | [日本語](/packages/pretendard/docs/ja/README.md)
 
 # Pretendard
 
@@ -23,8 +23,8 @@ You can use Pretendard via CDN, and in addition to the jsDelivr recommended by d
 
 To use Pretendard webfonts for Japanese or Latin/Greek/Cyrillic-only, check below:
 
--   [Pretendard JP](/docs/webfonts/en/PretendardJP.md)
--   [Pretendard Std](/docs/webfonts/en/PretendardStd.md)
+-   [Pretendard JP](/packages/pretendard-jp/docs/en/)
+-   [Pretendard Std](/packages/pretendard-std/docs/en/)
 
 ---
 

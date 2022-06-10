@@ -1,3 +1,5 @@
+[**한국어**](/packages/pretendard-jp/README.md) | [English](/packages/pretendard-jp/docs/en/README.md) | [日本語](/packages/pretendard-jp/docs/ja/README.md)
+
 ## Pretendard JP
 
 일본어 환경에 적합하며, 모든 기능을 지원하는 Pretendard를 웹폰트로 사용하려면 아래 코드를 사용하세요. 사용하는 font-family 이름은 `'Pretendard JP'` 입니다.

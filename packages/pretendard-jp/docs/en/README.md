@@ -1,3 +1,5 @@
+[한국어](/packages/pretendard-jp/README.md) | [**English**](/packages/pretendard-jp/docs/en/README.md) | [日本語](/packages/pretendard-jp/docs/ja/README.md)
+
 ## Pretendard JP
 
 Use the code below to use Pretendard as a webfonts which is suitable for the Japanese environment and also supports all features. Provided font-family name is `'Pretendard JP'`.

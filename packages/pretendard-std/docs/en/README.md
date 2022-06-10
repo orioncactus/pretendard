@@ -1,3 +1,5 @@
+[한국어](/packages/pretendard-std/README.md) | [**English**](/packages/pretendard-std/docs/en/README.md)
+
 ## Pretendard Std
 
 Use the code below to use Pretendard as a webfonts in a Latin environment with less capacity. Provided font-family name is `'Pretendard Std'`.

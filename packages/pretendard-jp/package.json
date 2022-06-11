@@ -13,10 +13,10 @@
   },
   "homepage": "https://cactus.tistory.com/306",
   "scripts": {
-    "dynamic-subset": "NODE_ENV=production node ./dynamic-subset.js",
+    "subset": "NODE_ENV=production node ./subset.js",
     "publish": "npm publish --access public"
   },
-  "dependencies": {
-    "font-range": "^0.2.0"
+  "devDependencies": {
+    "subset-utils": "workspace:^"
   }
 }

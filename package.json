@@ -10,9 +10,6 @@
       "packages/*"
     ]
   },
-  "dependencies": {
-    "font-range": "^0.2.0"
-  },
   "volta": {
     "node": "18.3.0"
   },

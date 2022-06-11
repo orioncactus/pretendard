@@ -14,7 +14,7 @@
   "homepage": "https://cactus.tistory.com/306",
   "scripts": {
     "subset": "NODE_ENV=production node ./subset.js",
-    "publish": "npm publish --access public"
+    "publish": "yarn npm publish --access public"
   },
   "devDependencies": {
     "subset-utils": "workspace:^"

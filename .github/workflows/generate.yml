@@ -26,24 +26,27 @@ jobs:
       id: node-cache
       uses: actions/cache@v2
       with:
-        path: node_modules
-        key: ${{ runner.os }}-node-${{ hashFiles('**/package-lock.json') }}
+        path: |
+          .yarn/cache
+          **/tsconfig.tsbuildinfo
+        key: ${{ runner.os }}-node-${{ hashFiles('**/yarn.lock') }}
         restore-keys: |
           ${{ runner.os }}-node-
     - run: pip install -r ./requirements.txt
-    - name: npm install
-      if: steps.node-cache.outputs.cache-hit != 'true'
-      run: npm install
-    - run: npm ci --no-audit
+    - run: yarn install --immutable
+    - name: Build Dependency
+      run: |
+        yarn workspaces foreach -pt run build
     - name: Generate webfonts
-      run: ./subset.sh
+      run: |
+        yarn workspaces foreach -pt run subset
     - name: Update example assets
       run: |
-        cp -f ./dist/public/static/Pretendard-*.otf ./examples/flutter_pretendard/fonts
-        cp -f ./dist/public/static/Pretendard-*.otf ./examples/react_native_pretendard/assets/fonts
+        cp -f ./packages/pretendard/dist/public/static/Pretendard-*.otf ./examples/flutter_pretendard/fonts
+        cp -f ./packages/pretendard/dist/public/static/Pretendard-*.otf ./examples/react_native_pretendard/assets/fonts
     - name: Commit Build File
       uses: stefanzweifel/git-auto-commit-action@v4
       with:
         branch: main
-        file_pattern: dist/web/** examples/**
+        file_pattern: packages/*/dist/web/** examples/**
         commit_message: 'fix: Auto-generate assets'

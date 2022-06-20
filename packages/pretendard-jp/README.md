@@ -9,7 +9,7 @@
 #### HTML
 
 ```html
-<link rel="stylesheet" as="style" crossorigin href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard/dist/web/static/pretendard-jp.css" />
+<link rel="stylesheet" as="style" crossorigin href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.3/dist/web/static/pretendard-jp.css" />
 ```
 
 <details>
@@ -33,7 +33,7 @@
 #### CSS
 
 ```css
-@import url('https://cdn.jsdelivr.net/gh/orioncactus/pretendard/dist/web/static/pretendard-jp.css');
+@import url("https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.3/dist/web/static/pretendard-jp.css");
 ```
 
 <details>
@@ -43,13 +43,13 @@
 ###### cdnjs
 
 ```css
-@import url('https://cdnjs.cloudflare.com/ajax/libs/pretendard/1.3.3/static/pretendard-jp.css');
+@import url("https://cdnjs.cloudflare.com/ajax/libs/pretendard/1.3.3/static/pretendard-jp.css");
 ```
 
 ###### UNPKG
 
 ```css
-@import url('https://unpkg.com/pretendard@1.3.3/dist/web/static/pretendard-jp.css');
+@import url("https://unpkg.com/pretendard@1.3.3/dist/web/static/pretendard-jp.css");
 ```
 
 </details>
@@ -63,7 +63,7 @@
 #### HTML
 
 ```html
-<link rel="stylesheet" as="style" crossorigin href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard/dist/web/static/pretendard-jp-dynamic-subset.css" />
+<link rel="stylesheet" as="style" crossorigin href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.3/dist/web/static/pretendard-jp-dynamic-subset.css" />
 ```
 
 <details>
@@ -87,7 +87,7 @@
 #### CSS
 
 ```css
-@import url('https://cdn.jsdelivr.net/gh/orioncactus/pretendard/dist/web/static/pretendard-jp-dynamic-subset.css');
+@import url("https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.3/dist/web/static/pretendard-jp-dynamic-subset.css");
 ```
 
 <details>
@@ -97,13 +97,13 @@
 ###### cdnjs
 
 ```css
-@import url('https://cdnjs.cloudflare.com/ajax/libs/pretendard/1.3.3/static/pretendard-jp-dynamic-subset.css');
+@import url("https://cdnjs.cloudflare.com/ajax/libs/pretendard/1.3.3/static/pretendard-jp-dynamic-subset.css");
 ```
 
 ###### UNPKG
 
 ```css
-@import url('https://unpkg.com/pretendard@1.3.3/dist/web/static/pretendard-jp-dynamic-subset.css');
+@import url("https://unpkg.com/pretendard@1.3.3/dist/web/static/pretendard-jp-dynamic-subset.css");
 ```
 
 </details>
@@ -117,7 +117,7 @@
 #### HTML
 
 ```html
-<link rel="stylesheet" as="style" crossorigin href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard/dist/web/variable/pretendardvariable-jp.css" />
+<link rel="stylesheet" as="style" crossorigin href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.3/dist/web/variable/pretendardvariable-jp.css" />
 ```
 
 <details>
@@ -141,7 +141,7 @@
 #### CSS
 
 ```css
-@import url('https://cdn.jsdelivr.net/gh/orioncactus/pretendard/dist/web/variable/pretendardvariable-jp.css');
+@import url("https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.3/dist/web/variable/pretendardvariable-jp.css");
 ```
 
 <details>
@@ -151,13 +151,13 @@
 ###### cdnjs
 
 ```css
-@import url('https://cdnjs.cloudflare.com/ajax/libs/pretendard/1.3.3/variable/pretendardvariable-jp.css');
+@import url("https://cdnjs.cloudflare.com/ajax/libs/pretendard/1.3.3/variable/pretendardvariable-jp.css");
 ```
 
 ###### UNPKG
 
 ```css
-@import url('https://unpkg.com/pretendard@1.3.3/dist/web/variable/pretendardvariable-jp.css');
+@import url("https://unpkg.com/pretendard@1.3.3/dist/web/variable/pretendardvariable-jp.css");
 ```
 
 </details>
@@ -169,5 +169,5 @@
 어디서든 쾌적한 환경을 제공하고자 한다면 아래와 같은 font-family 구성을 추천합니다.
 
 ```css
-font-family: 'Pretendard JP', Pretendard, -apple-system, BlinkMacSystemFont, system-ui, Roboto, 'Helvetica Neue', 'Segoe UI', 'Hiragino Sans', 'Apple SD Gothic Neo', Meiryo, 'Noto Sans JP', 'Noto Sans KR', 'Malgun Gothic', Osaka, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', sans-serif;
+font-family: "Pretendard JP", Pretendard, -apple-system, BlinkMacSystemFont, system-ui, Roboto, "Helvetica Neue", "Segoe UI", "Hiragino Sans", "Apple SD Gothic Neo", Meiryo, "Noto Sans JP", "Noto Sans KR", "Malgun Gothic", Osaka, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", sans-serif;
 ```

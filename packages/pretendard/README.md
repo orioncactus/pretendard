@@ -23,8 +23,8 @@ CDN을 이용해 Pretendard를 사용할 수 있으며, 토글을 확인해 기�
 
 일본어 및 한국 한자 환경, 또는 라틴 환경 전용 Pretendard 웹폰트를 사용하려면 아래로 이동하세요:
 
--   [Pretendard JP](/packages/pretendard-jp/)
--   [Pretendard Std](/packages/pretendard-std/)
+- [Pretendard JP](/packages/pretendard-jp/)
+- [Pretendard Std](/packages/pretendard-std/)
 
 ---
 
@@ -33,7 +33,7 @@ CDN을 이용해 Pretendard를 사용할 수 있으며, 토글을 확인해 기�
 #### HTML
 
 ```html
-<link rel="stylesheet" as="style" crossorigin href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard/dist/web/static/pretendard.css" />
+<link rel="stylesheet" as="style" crossorigin href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.3/dist/web/static/pretendard.css" />
 ```
 
 <details>
@@ -57,7 +57,7 @@ CDN을 이용해 Pretendard를 사용할 수 있으며, 토글을 확인해 기�
 #### CSS
 
 ```css
-@import url('https://cdn.jsdelivr.net/gh/orioncactus/pretendard/dist/web/static/pretendard.css');
+@import url("https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.3/dist/web/static/pretendard.css");
 ```
 
 <details>
@@ -67,13 +67,13 @@ CDN을 이용해 Pretendard를 사용할 수 있으며, 토글을 확인해 기�
 ###### cdnjs
 
 ```css
-@import url('https://cdnjs.cloudflare.com/ajax/libs/pretendard/1.3.3/static/pretendard.css');
+@import url("https://cdnjs.cloudflare.com/ajax/libs/pretendard/1.3.3/static/pretendard.css");
 ```
 
 ###### UNPKG
 
 ```css
-@import url('https://unpkg.com/pretendard@1.3.3/dist/web/static/pretendard.css');
+@import url("https://unpkg.com/pretendard@1.3.3/dist/web/static/pretendard.css");
 ```
 
 </details>
@@ -87,7 +87,7 @@ Pretendard에서는 웹폰트 용량 문제를 해결하기 위한 방법으로 
 #### HTML
 
 ```html
-<link rel="stylesheet" as="style" crossorigin href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard/dist/web/static/pretendard-dynamic-subset.css" />
+<link rel="stylesheet" as="style" crossorigin href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.3/dist/web/static/pretendard-dynamic-subset.css" />
 ```
 
 <details>
@@ -111,7 +111,7 @@ Pretendard에서는 웹폰트 용량 문제를 해결하기 위한 방법으로 
 #### CSS
 
 ```css
-@import url('https://cdn.jsdelivr.net/gh/orioncactus/pretendard/dist/web/static/pretendard-dynamic-subset.css');
+@import url("https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.3/dist/web/static/pretendard-dynamic-subset.css");
 ```
 
 <details>
@@ -121,13 +121,13 @@ Pretendard에서는 웹폰트 용량 문제를 해결하기 위한 방법으로 
 ###### cdnjs
 
 ```css
-@import url('https://cdnjs.cloudflare.com/ajax/libs/pretendard/1.3.3/static/pretendard-dynamic-subset.css');
+@import url("https://cdnjs.cloudflare.com/ajax/libs/pretendard/1.3.3/static/pretendard-dynamic-subset.css");
 ```
 
 ###### UNPKG
 
 ```css
-@import url('https://unpkg.com/pretendard@1.3.3/dist/web/static/pretendard-dynamic-subset.css');
+@import url("https://unpkg.com/pretendard@1.3.3/dist/web/static/pretendard-dynamic-subset.css");
 ```
 
 </details>
@@ -141,7 +141,7 @@ Pretendard에서는 웹폰트 용량 문제를 해결하기 위한 방법으로 
 #### HTML
 
 ```html
-<link rel="stylesheet" as="style" crossorigin href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard/dist/web/variable/pretendardvariable.css" />
+<link rel="stylesheet" as="style" crossorigin href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.3/dist/web/variable/pretendardvariable.css" />
 ```
 
 <details>
@@ -165,7 +165,7 @@ Pretendard에서는 웹폰트 용량 문제를 해결하기 위한 방법으로 
 #### CSS
 
 ```css
-@import url('https://cdn.jsdelivr.net/gh/orioncactus/pretendard/dist/web/variable/pretendardvariable.css');
+@import url("https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.3/dist/web/variable/pretendardvariable.css");
 ```
 
 <details>
@@ -175,13 +175,13 @@ Pretendard에서는 웹폰트 용량 문제를 해결하기 위한 방법으로 
 ###### cdnjs
 
 ```css
-@import url('https://cdnjs.cloudflare.com/ajax/libs/pretendard/1.3.3/variable/pretendardvariable.css');
+@import url("https://cdnjs.cloudflare.com/ajax/libs/pretendard/1.3.3/variable/pretendardvariable.css");
 ```
 
 ###### UNPKG
 
 ```css
-@import url('https://unpkg.com/pretendard@1.3.3/dist/web/variable/pretendardvariable.css');
+@import url("https://unpkg.com/pretendard@1.3.3/dist/web/variable/pretendardvariable.css");
 ```
 
 </details>
@@ -193,26 +193,26 @@ Pretendard에서는 웹폰트 용량 문제를 해결하기 위한 방법으로 
 시스템에 가능한 맞추고자 한다면 아래와 같은 font-family 구성을 추천합니다.
 
 ```css
-font-family: -apple-system, BlinkMacSystemFont, 'Apple SD Gothic Neo', Pretendard, Roboto, 'Noto Sans KR', 'Segoe UI', 'Malgun Gothic', 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', sans-serif;
+font-family: -apple-system, BlinkMacSystemFont, "Apple SD Gothic Neo", Pretendard, Roboto, "Noto Sans KR", "Segoe UI", "Malgun Gothic", "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", sans-serif;
 ```
 
 어디서든 동일한 환경을 가지고자 한다면 아래와 같은 font-family 구성을 추천합니다.
 
 ```css
-font-family: Pretendard, -apple-system, BlinkMacSystemFont, system-ui, Roboto, 'Helvetica Neue', 'Segoe UI', 'Apple SD Gothic Neo', 'Noto Sans KR', 'Malgun Gothic', 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', sans-serif;
+font-family: Pretendard, -apple-system, BlinkMacSystemFont, system-ui, Roboto, "Helvetica Neue", "Segoe UI", "Apple SD Gothic Neo", "Noto Sans KR", "Malgun Gothic", "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", sans-serif;
 ```
 
 ## 패키지
 
 Pretendard는 아래와 같은 패키지 매니저에서 사용할 수 있습니다.
 
--   [npm](https://www.npmjs.com/package/pretendard)
+- [npm](https://www.npmjs.com/package/pretendard)
 
 ```bash
 npm i pretendard
 ```
 
--   [Yarn](https://yarnpkg.com/package/pretendard)
+- [Yarn](https://yarnpkg.com/package/pretendard)
 
 ```bash
 yarn add pretendard
@@ -331,6 +331,12 @@ Pretendard에 기여해주셔서 진심으로 감사드립니다.
    </a>
    <a href="https://www.wantedlab.com/#gh-dark-mode-only">
       <img src="https://user-images.githubusercontent.com/7247848/160057796-63bb66b4-efb9-4996-8241-eb2f0a74c8ab.png" align="center" height="50" alt="Wantedlab" hspace="16">
+   </a>
+   <a href="https://www.opencheongwadae.kr/#gh-light-mode-only">
+      <img src="https://user-images.githubusercontent.com/67222970/173811650-144cb28c-b783-4e34-94f9-4d5955839352.png" align="center" height="30" alt="청와대, 국민 품으로" hspace="16">
+   </a>
+   <a href="https://www.opencheongwadae.kr/#gh-dark-mode-only">
+      <img src="https://user-images.githubusercontent.com/67222970/173811541-d70e58d2-3fa8-4afe-b91a-942ce47a8dcf.png" align="center" height="30" alt="청와대, 국민 품으로" hspace="16">
    </a>
 </p>
 

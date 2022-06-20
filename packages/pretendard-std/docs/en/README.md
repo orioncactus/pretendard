@@ -7,7 +7,7 @@ Use the code below to use Pretendard as a webfonts in a Latin environment with l
 #### HTML
 
 ```html
-<link rel="stylesheet" as="style" crossorigin href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard/dist/web/static/pretendard-std.css" />
+<link rel="stylesheet" as="style" crossorigin href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.3/dist/web/static/pretendard-std.css" />
 ```
 
 <details>
@@ -31,7 +31,7 @@ Use the code below to use Pretendard as a webfonts in a Latin environment with l
 #### CSS
 
 ```css
-@import url('https://cdn.jsdelivr.net/gh/orioncactus/pretendard/dist/web/static/pretendard-std.css');
+@import url("https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.3/dist/web/static/pretendard-std.css");
 ```
 
 <details>
@@ -41,13 +41,13 @@ Use the code below to use Pretendard as a webfonts in a Latin environment with l
 ###### cdnjs
 
 ```css
-@import url('https://cdnjs.cloudflare.com/ajax/libs/pretendard/1.3.3/static/pretendard-std.css');
+@import url("https://cdnjs.cloudflare.com/ajax/libs/pretendard/1.3.3/static/pretendard-std.css");
 ```
 
 ###### UNPKG
 
 ```css
-@import url('https://unpkg.com/pretendard@1.3.3/dist/web/static/pretendard-std.css');
+@import url("https://unpkg.com/pretendard@1.3.3/dist/web/static/pretendard-std.css");
 ```
 
 </details>
@@ -61,7 +61,7 @@ Use the code below to use Pretendard faster by loads the font-slices required fr
 #### HTML
 
 ```html
-<link rel="stylesheet" as="style" crossorigin href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard/dist/web/static/pretendard-std-dynamic-subset.css" />
+<link rel="stylesheet" as="style" crossorigin href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.3/dist/web/static/pretendard-std-dynamic-subset.css" />
 ```
 
 <details>
@@ -85,7 +85,7 @@ Use the code below to use Pretendard faster by loads the font-slices required fr
 #### CSS
 
 ```css
-@import url('https://cdn.jsdelivr.net/gh/orioncactus/pretendard/dist/web/static/pretendard-std-dynamic-subset.css');
+@import url("https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.3/dist/web/static/pretendard-std-dynamic-subset.css");
 ```
 
 <details>
@@ -95,13 +95,13 @@ Use the code below to use Pretendard faster by loads the font-slices required fr
 ###### cdnjs
 
 ```css
-@import url('https://cdnjs.cloudflare.com/ajax/libs/pretendard/1.3.3/static/pretendard-std-dynamic-subset.css');
+@import url("https://cdnjs.cloudflare.com/ajax/libs/pretendard/1.3.3/static/pretendard-std-dynamic-subset.css");
 ```
 
 ###### UNPKG
 
 ```css
-@import url('https://unpkg.com/pretendard@1.3.3/dist/web/static/pretendard-std-dynamic-subset.css');
+@import url("https://unpkg.com/pretendard@1.3.3/dist/web/static/pretendard-std-dynamic-subset.css");
 ```
 
 </details>
@@ -115,7 +115,7 @@ Use the code below to use the variable weight property. Provided font-family nam
 #### HTML
 
 ```html
-<link rel="stylesheet" as="style" crossorigin href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard/dist/web/variable/pretendardvariable-std.css" />
+<link rel="stylesheet" as="style" crossorigin href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.3/dist/web/variable/pretendardvariable-std.css" />
 ```
 
 <details>
@@ -139,7 +139,7 @@ Use the code below to use the variable weight property. Provided font-family nam
 #### CSS
 
 ```css
-@import url('https://cdn.jsdelivr.net/gh/orioncactus/pretendard/dist/web/variable/pretendardvariable-std.css');
+@import url("https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.3/dist/web/variable/pretendardvariable-std.css");
 ```
 
 <details>
@@ -149,13 +149,13 @@ Use the code below to use the variable weight property. Provided font-family nam
 ###### cdnjs
 
 ```css
-@import url('https://cdnjs.cloudflare.com/ajax/libs/pretendard/1.3.3/variable/pretendardvariable-std.css');
+@import url("https://cdnjs.cloudflare.com/ajax/libs/pretendard/1.3.3/variable/pretendardvariable-std.css");
 ```
 
 ###### UNPKG
 
 ```css
-@import url('https://unpkg.com/pretendard@1.3.3/dist/web/variable/pretendardvariable-std.css');
+@import url("https://unpkg.com/pretendard@1.3.3/dist/web/variable/pretendardvariable-std.css");
 ```
 
 </details>
@@ -167,11 +167,11 @@ Use the code below to use the variable weight property. Provided font-family nam
 If you want to fit the system-font as much as possible, the following font-family are recommended:
 
 ```css
-font-family: -apple-system, BlinkMacSystemFont, 'Pretendard Std', Pretendard, Roboto, 'Segoe UI', 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', sans-serif;
+font-family: -apple-system, BlinkMacSystemFont, "Pretendard Std", Pretendard, Roboto, "Segoe UI", "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", sans-serif;
 ```
 
 If you want to provide the same environment anywhere, the following font-family are recommended:
 
 ```css
-font-family: 'Pretendard Std', Pretendard, -apple-system, BlinkMacSystemFont, system-ui, Roboto, 'Helvetica Neue', 'Segoe UI', 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', sans-serif;
+font-family: "Pretendard Std", Pretendard, -apple-system, BlinkMacSystemFont, system-ui, Roboto, "Helvetica Neue", "Segoe UI", "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", sans-serif;
 ```

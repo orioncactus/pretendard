@@ -10,8 +10,5 @@
       "packages/*"
     ]
   },
-  "volta": {
-    "node": "18.3.0"
-  },
   "packageManager": "yarn@3.2.1"
 }

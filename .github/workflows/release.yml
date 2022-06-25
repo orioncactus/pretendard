@@ -10,15 +10,23 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v2
+    - name: node cache
+      id: node-cache
+      uses: actions/cache@v2
+      with:
+        path: |
+          .yarn/cache
+          **/tsconfig.tsbuildinfo
+        key: ${{ runner.os }}-node-${{ hashFiles('**/yarn.lock') }}
+        restore-keys: |
+          ${{ runner.os }}-node-
+    - run: yarn install --immutable
     - name: Set env
       run: |
         RELEASE_VERSION=${GITHUB_REF#refs/*/}
         echo "RELEASE_NAME=${RELEASE_VERSION:1}" >> $GITHUB_ENV
     - name: Publish to NPM
       run: |
-        # Copy License
-        find -type d -wholename "./packages/**/dist" -exec cp  LICENSE  {}/LICENSE.txt \;
-
         # Publish
         yarn config set npmAuthToken ${{ secrets.NPM_TOKEN }}
         yarn workspaces foreach run publish

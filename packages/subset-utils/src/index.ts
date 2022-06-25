@@ -28,8 +28,11 @@ const FONTWEIGHTS = [
 ];
 
 // == Functions ===============================================================
-export function getFontList(familly: string, ext = "ttf") {
-  return FONTWEIGHTS.map(weight => familly + "-" + weight + `.${ext}`);
+export function getFontList(familly = FONTFAMILY.Pretendard, { ext = "ttf", variable = false } = {}) {
+  const extResult = `.${ext}`;
+  return variable
+    ? [ familly + "Variable" + extResult ]
+    : FONTWEIGHTS.map(weight => familly + "-" + weight + extResult);
 }
 
 export async function subsets<T>(...subsetList: Parameters<ISubsets<T>>[]) {

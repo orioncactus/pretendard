@@ -11,7 +11,7 @@ for packageDir in "${PACKAGE_LIST[@]}"; do
     kindDir="${srcDir}/web/${kind}/"
     distDir="${ROOT_DIR}/dist/web/${kind}/"
     faceURL_SRC="\./"
-    faceURL_DIST="../${kindDir}"
+    faceURL_DIST="../../../${kindDir}"
 
     cd "${ROOT_DIR}/${kindDir}"
     sed -i "s/${faceURL_SRC//\//\\\/}/${faceURL_DIST//\//\\\/}/g" *.css

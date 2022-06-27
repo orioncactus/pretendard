@@ -12,5 +12,5 @@ http://scripts.sil.org/OFL
 	font-weight: 45 920;
 	font-style: normal;
 	font-display: swap;
-	src: local('Pretendard JP Variable'), url('../packages/pretendard-jp/dist/web/variable/woff2/PretendardJPVariable.woff2') format('woff2-variations');
+	src: local('Pretendard JP Variable'), url('../../../packages/pretendard-jp/dist/web/variable/woff2/PretendardJPVariable.woff2') format('woff2-variations');
 }

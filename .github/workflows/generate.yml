@@ -49,3 +49,11 @@ jobs:
         branch: main
         file_pattern: packages/*/dist/web/** examples/**
         commit_message: 'fix: Auto-generate assets'
+    - name: Update dist stylesheets
+      run: ./distCSS.sh
+    - name: Commit updated dist stylesheets
+      uses: stefanzweifel/git-auto-commit-action@v4
+      with:
+        branch: main
+        file_pattern: dist/*
+        commit_message: 'fix: Update dist stylesheets'

@@ -2,9 +2,9 @@
 
 ## Pretendard JP
 
-일본어 환경에 적합하며, 모든 기능을 지원하는 Pretendard를 웹폰트로 사용하려면 아래 코드를 사용하세요. 사용하는 font-family 이름은 `'Pretendard JP'` 입니다.
+일본어 환경에 적합하며, 모든 기능을 지원하는 Pretendard를 웹폰트로 사용하려면 아래 코드를 사용하세요. 사용하는 font-family 이름은 `"Pretendard JP"` 입니다.
 
-한국에 맞는 모양을 사용하려면 스타일에 다음과 같은 코드를 추가하세요: `font-feature-settings: 'ss05';`
+한국에 맞는 모양을 사용하려면 스타일에 다음과 같은 코드를 추가하세요: `font-feature-settings: "ss05";`
 
 #### HTML
 
@@ -58,7 +58,7 @@
 
 ### 다이나믹 서브셋
 
-일본어 환경에서 페이지에 포함된 글자만 선택적으로 다운로드해 보다 빠르게 Pretendard를 표시하려면 아래 코드를 사용하세요. 사용하는 font-family 이름은 `'Pretendard JP'` 입니다.
+일본어 환경에서 페이지에 포함된 글자만 선택적으로 다운로드해 보다 빠르게 Pretendard를 표시하려면 아래 코드를 사용하세요. 사용하는 font-family 이름은 `"Pretendard JP"` 입니다.
 
 #### HTML
 
@@ -112,7 +112,7 @@
 
 ### 가변 글꼴
 
-가변 weight 속성을 사용하려면 아래 코드를 사용하세요. 사용하는 font-family 이름은 `'Pretendard JP Variable'` 입니다.
+가변 weight 속성을 사용하려면 아래 코드를 사용하세요. 사용하는 font-family 이름은 `"Pretendard JP Variable"` 입니다.
 
 #### HTML
 

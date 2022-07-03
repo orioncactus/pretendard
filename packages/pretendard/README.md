@@ -136,7 +136,7 @@ Pretendard에서는 웹폰트 용량 문제를 해결하기 위한 방법으로 
 
 ### 가변 글꼴
 
-가변 weight 속성을 사용하려면 아래 코드를 사용하세요. 사용하는 font-family 이름은 `'Pretendard Variable'` 입니다.
+가변 weight 속성을 사용하려면 아래 코드를 사용하세요. 사용하는 font-family 이름은 `"Pretendard Variable"` 입니다.
 
 #### HTML
 

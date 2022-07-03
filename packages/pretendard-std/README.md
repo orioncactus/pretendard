@@ -2,7 +2,7 @@
 
 ## Pretendard Std
 
-라틴 환경에서 보다 적은 용량으로 Pretendard를 웹폰트로 사용하려면 아래 코드를 사용하세요. 사용하는 font-family 이름은 `'Pretendard Std'` 입니다.
+라틴 환경에서 보다 적은 용량으로 Pretendard를 웹폰트로 사용하려면 아래 코드를 사용하세요. 사용하는 font-family 이름은 `"Pretendard Std"` 입니다.
 
 #### HTML
 
@@ -56,7 +56,7 @@
 
 ### 다이나믹 서브셋
 
-라틴 환경에서 최적화된 용량으로 보다 빠르게 Pretendard를 표시하려면 아래 코드를 사용하세요. 사용하는 font-family 이름은 `'Pretendard Std'` 입니다.
+라틴 환경에서 최적화된 용량으로 보다 빠르게 Pretendard를 표시하려면 아래 코드를 사용하세요. 사용하는 font-family 이름은 `"Pretendard Std"` 입니다.
 
 #### HTML
 
@@ -110,7 +110,7 @@
 
 ### 가변 글꼴
 
-가변 weight 속성을 사용하려면 아래 코드를 사용하세요. 사용하는 font-family 이름은 `'Pretendard Std Variable'` 입니다.
+가변 weight 속성을 사용하려면 아래 코드를 사용하세요. 사용하는 font-family 이름은 `"Pretendard Std Variable"` 입니다.
 
 #### HTML
 

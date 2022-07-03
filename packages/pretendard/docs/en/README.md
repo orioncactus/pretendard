@@ -136,7 +136,7 @@ Pretendard provides the dynamic subset same as Noto Sans Korean from Google Font
 
 ### Variable font
 
-Use the code below to use the variable weight property. Provided font-family name is `'Pretendard Variable'`.
+Use the code below to use the variable weight property. Provided font-family name is `"Pretendard Variable"`.
 
 #### HTML
 

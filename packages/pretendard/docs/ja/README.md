@@ -136,7 +136,7 @@ Pretendardは、Webフォントの容量の問題を解決するための方法�
 
 ### 可変フォント
 
-可変weightプロパティを使用するには、下記のコードを使用してください。使用するfont-family名は`'Pretendard Variable'`です。
+可変weightプロパティを使用するには、下記のコードを使用してください。使用するfont-family名は`"Pretendard Variable"`です。
 
 #### HTML
 

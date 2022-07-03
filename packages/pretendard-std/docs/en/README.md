@@ -2,7 +2,7 @@
 
 ## Pretendard Std
 
-Use the code below to use Pretendard as a webfonts in a Latin environment with less capacity. Provided font-family name is `'Pretendard Std'`.
+Use the code below to use Pretendard as a webfonts in a Latin environment with less capacity. Provided font-family name is `"Pretendard Std"`.
 
 #### HTML
 
@@ -56,7 +56,7 @@ Use the code below to use Pretendard as a webfonts in a Latin environment with l
 
 ### Dynamic subset
 
-Use the code below to use Pretendard faster by loads the font-slices required from the page in a Latin environment. Provided font-family name is `'Pretendard Std'`.
+Use the code below to use Pretendard faster by loads the font-slices required from the page in a Latin environment. Provided font-family name is `"Pretendard Std"`.
 
 #### HTML
 
@@ -110,7 +110,7 @@ Use the code below to use Pretendard faster by loads the font-slices required fr
 
 ### Variable font
 
-Use the code below to use the variable weight property. Provided font-family name is `'Pretendard Std Variable'`.
+Use the code below to use the variable weight property. Provided font-family name is `"Pretendard Std Variable"`.
 
 #### HTML
 

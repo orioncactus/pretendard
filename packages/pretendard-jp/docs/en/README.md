@@ -2,9 +2,9 @@
 
 ## Pretendard JP
 
-Use the code below to use Pretendard as a webfonts which is suitable for the Japanese environment and also supports all features. Provided font-family name is `'Pretendard JP'`.
+Use the code below to use Pretendard as a webfonts which is suitable for the Japanese environment and also supports all features. Provided font-family name is `"Pretendard JP"`.
 
-To use Korea-localized glyphs, add this code to stylesheets: `font-feature-settings: 'ss05';`
+To use Korea-localized glyphs, add this code to stylesheets: `font-feature-settings: "ss05";`
 
 #### HTML
 
@@ -58,7 +58,7 @@ To use Korea-localized glyphs, add this code to stylesheets: `font-feature-setti
 
 ### Dynamic subset
 
-Use the code below to use Pretendard faster by loads the font-slices required from the page in a Japanese environment. Provided font-family name is `'Pretendard JP`.
+Use the code below to use Pretendard faster by loads the font-slices required from the page in a Japanese environment. Provided font-family name is `"Pretendard JP"`.
 
 #### HTML
 
@@ -112,7 +112,7 @@ Use the code below to use Pretendard faster by loads the font-slices required fr
 
 ### Variable font
 
-Use the code below to use the variable weight property. Provided font-family name is `'Pretendard JP Variable'`.
+Use the code below to use the variable weight property. Provided font-family name is `"Pretendard JP Variable"`.
 
 #### HTML
 

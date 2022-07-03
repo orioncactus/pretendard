@@ -230,11 +230,11 @@ Pretendard에 기여해주셔서 진심으로 감사드립니다.
 
 [@leejh10003](https://github.com/leejh10003): Pretendard를 사용하는 [예시](/examples)를 제작해주셨습니다.
 
-[@black7375](https://github.com/black7375): 서브셋 및 동적 서브셋 빌드 자동화, 릴리즈 파일 생성 자동화를 제작해주셨습니다.
+[@black7375](https://github.com/black7375): 모든 웹폰트 빌드 자동화, npmjs 및 Yarn에 Publish 및 릴리즈 파일 생성 자동화, CDN URL에서 버저닝 개선, 그리고 모노레포 대응을 작업해주셨습니다.
 
 [@victorrica](https://github.com/victorrica): npm 및 Yarn 패키지 배포를 작업해주셨습니다.
 
-[@kms0219kms](https://github.com/kms0219kms): 웹폰트 CDN 배포 다중화, Readme 영어 및 일본어 문서화를 작업해주셨습니다.
+[@kms0219kms](https://github.com/kms0219kms): 웹폰트 CDN 배포 다중화, 문서 포매팅 개선, 그리고 영어 및 일본어 문서화를 작업해주셨습니다.
 
 [@Gamsake](https://github.com/Gamsake): 빌드 자동화를 개선해주셨습니다.
 

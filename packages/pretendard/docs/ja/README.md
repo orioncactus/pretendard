@@ -5,13 +5,13 @@
 ![Thumbnail](/thumbnail.svg#gh-light-mode-only)
 ![Thumbnail](/thumbnail-white.svg#gh-dark-mode-only)
 
-Pretendard は、クロスプラットフォームで製品を提供するとき、そして多言語タイポグラフィでも自然な現代的なフォントです。[Inter](https://github.com/rsms/inter)と[源ノ角ゴシック](https://fonts.adobe.com/fonts/source-han-sans-japanese)、そして[M PLUS 1p](https://github.com/coz-m/MPLUS_FONTS)に基づいて整えられた Pretendard は、読み込み環境で可読性と視覚補正のために追加の作業をする必要はありません。
+Pretendardは、クロスプラットフォームで製品を提供するとき、そして多言語タイポグラフィでも自然な現代的なフォントです。[Inter](https://github.com/rsms/inter)と[源ノ角ゴシック](https://fonts.adobe.com/fonts/source-han-sans-japanese)、そして[M PLUS 1p](https://github.com/coz-m/MPLUS_FONTS)に基づいて整えられたPretendardは、読み込み環境で可読性と視覚補正のために追加の作業をする必要はありません。
 
-Pretendard は 9 種類の太さで提供され、可変フォントにも対応しています。
+Pretendardは9種類の太さで提供され、可変フォントにも対応しています。
 
 ## 背景と概要
 
-Pretendard の背景や特徴、OpenType 機能などを説明する詳細な話は[こちら(韓国語)](https://cactus.tistory.com/306)で確認できます。
+Pretendardの背景や特徴、OpenType機能などを説明する詳細な話は[こちら(韓国語)](https://cactus.tistory.com/306)で確認できます。
 
 ## ダウンロード
 
@@ -19,16 +19,16 @@ Pretendard の背景や特徴、OpenType 機能などを説明する詳細な話
 
 ## Web フォント
 
-CDN を利用して Pretendard を使用することができ、トグルをチェックして基本的に推奨する jsDelivr 以外にも cdnjs と UNPKG の中でお好みの CDN を使用することができます。
+CDNを利用してPretendardを使用することができ、トグルをチェックして基本的に推奨するjsDelivr以外にもcdnjsとUNPKGの中でお好みのCDNを使用することができます。
 
-日本語および KS 漢字環境、またはラテン環境専用の Pretendard の Web フォントを使用するには、以下をご覧ください。
+日本語およびKS漢字環境、またはラテン環境専用のPretendardのWebフォントを使用するには、以下をご覧ください。
 
 - [Pretendard JP](/packages/pretendard-jp/docs/ja/)
 - [Pretendard Std(英語)](/packages/pretendard-std/docs/en/)
 
 ---
 
-すべての機能を含む Pretendard を Web フォントとして使用するには、下記のコードを使用してください。使用する font-family 名は`Pretendard`です。
+すべての機能を含むPretendardをWebフォントとして使用するには、下記のコードを使用してください。使用するfont-family名は`Pretendard`です。
 
 #### HTML
 
@@ -82,7 +82,7 @@ CDN を利用して Pretendard を使用することができ、トグルをチ�
 
 ### ダイナミックサブセット
 
-Pretendard は、Web フォントの容量の問題を解決するための方法として、Google Fonts で提供される Noto Sans JP と同じ方法で動的サブセットを提供します。ページに含まれている文字のみを選択的にダウンロードしてより早く Pretendard を表示するには、下記のコードを使用してください。使用する font-family 名は`Pretendard`です。
+Pretendardは、Webフォントの容量の問題を解決するための方法として、Google Fontsで提供されるNoto Sans JPと同じ方法で動的サブセットを提供します。ページに含まれている文字のみを選択的にダウンロードしてより早くPretendardを表示するには、下記のコードを使用してください。使用するfont-family名は`Pretendard`です。
 
 #### HTML
 
@@ -136,7 +136,7 @@ Pretendard は、Web フォントの容量の問題を解決するための方�
 
 ### 可変フォント
 
-可変 weight プロパティを使用するには、下記のコードを使用してください。使用する font-family 名は`'Pretendard Variable'`です。
+可変weightプロパティを使用するには、下記のコードを使用してください。使用するfont-family名は`'Pretendard Variable'`です。
 
 #### HTML
 
@@ -190,13 +190,13 @@ Pretendard は、Web フォントの容量の問題を解決するための方�
 
 ### font-family
 
-システムにできるだけ合わせたいなら、下記のような font-family 構成をおすすめします。
+システムにできるだけ合わせたいなら、下記のようなfont-family構成をおすすめします。
 
 ```css
 font-family: -apple-system, BlinkMacSystemFont, "Apple SD Gothic Neo", Pretendard, Roboto, "Noto Sans KR", "Segoe UI", "Malgun Gothic", "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", sans-serif;
 ```
 
-どこでも同じ環境を持ちたければ下記のような font-family 構成をおすすめします。
+どこでも同じ環境を持ちたければ下記のようなfont-family構成をおすすめします。
 
 ```css
 font-family: Pretendard, -apple-system, BlinkMacSystemFont, system-ui, Roboto, "Helvetica Neue", "Segoe UI", "Apple SD Gothic Neo", "Noto Sans KR", "Malgun Gothic", "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", sans-serif;
@@ -204,7 +204,7 @@ font-family: Pretendard, -apple-system, BlinkMacSystemFont, system-ui, Roboto, "
 
 ## パッケージ
 
-Pretendard は以下のパッケージマネージャで利用できます。
+Pretendardは以下のパッケージマネージャで利用できます。
 
 - [npm](https://www.npmjs.com/package/pretendard)
 
@@ -220,26 +220,26 @@ yarn add pretendard
 
 ## ライセンス
 
-Pretendard は[SIL Open Font License](https://scripts.sil.org/OFL)として配布されています。フォントの単独販売を除くすべての商業行為、修正、再配布が可能です。
+Pretendardは[SIL Open Font License](https://scripts.sil.org/OFL)として配布されています。フォントの単独販売を除くすべての商業行為、修正、再配布が可能です。
 
 ## コントリビューター
 
-Pretendard にコントリビュートしていただきありがとうございます。
+Pretendardにコントリビュートしていただきありがとうございます。
 
-[@hiddenest](https://github.com/hiddenest): Web フォントサービングと CDN アップデートの自動化、サブセット作業、そしてダイナミックサブセットを作成しました。
+[@hiddenest](https://github.com/hiddenest): WebフォントサービングとCDNアップデートの自動化、サブセット作業、そしてダイナミックサブセットを作成しました。
 
-[@leejh10003](https://github.com/leejh10003): Pretendard が使用された[例](/examples)を作成しました。
+[@leejh10003](https://github.com/leejh10003): Pretendardが使用された[例](/examples)を作成しました。
 
-[@black7375](https://github.com/black7375): サブセットとダイナミックサブセットビルド自動化、リリースファイル作成を自動化しました。
+[@black7375](https://github.com/black7375): すべてのWebフォントビルド自動化、npmjsおよびYarnにPublishおよびリリースファイル生成自動化、CDN URLでブザーニング改善、そしてmonorepo対応を作業してくださいました。
 
-[@victorrica](https://github.com/victorrica): npm と Yarn パッケージの配布を作業しました。
+[@victorrica](https://github.com/victorrica): npmとYarn パッケージの配布を作業しました。
 
-[@kms0219kms](https://github.com/kms0219kms): Web フォント CDN 配布多重化、Readme 英語及び日本語文書化を作業してくださいました。
+[@kms0219kms](https://github.com/kms0219kms): WebフォントCDN配布多重化、ReadmeでのFormattingの改善、Readmeの英語及び日本語文書化を作業してくださいました。
 
 [@Gamsake](https://github.com/Gamsake): ビルド自動化を改善しました。
 
-[@quiple](https://github.com/quiple): 日本語 Readme 翻訳を改善してくださいました。
+[@quiple](https://github.com/quiple): 日本語Readme翻訳を改善してくださいました。
 
 ## Issues
 
-解決が必要な場合は、 [Issues](https://github.com/orioncactus/pretendard/issues)で Issue を登録してください。
+解決が必要な場合は、[Issues](https://github.com/orioncactus/pretendard/issues)でIssueを登録してください。

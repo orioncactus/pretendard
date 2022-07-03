@@ -2,9 +2,9 @@
 
 ## Pretendard JP
 
-日本語環境に適しており、すべての機能に対応する Pretendard を Web フォントとして使用するには、下記のコードを使用してください。使用する font-family 名は`'Pretendard JP'`です。
+日本語環境に適しており、すべての機能に対応するPretendardをWebフォントとして使用するには、下記のコードを使用してください。使用するfont-family名は`'Pretendard JP'`です。
 
-韓国語環境に合った外観を使用するには、stylesheet に次のコードを追加してください。`font-feature-settings: 'ss05';`
+韓国語環境に合った外観を使用するには、stylesheetに次のコードを追加してください。`font-feature-settings: 'ss05';`
 
 #### HTML
 
@@ -58,7 +58,7 @@
 
 ### ダイナミックサブセット
 
-日本語環境でページに含まれている文字のみを選択的にダウンロードしてより早く Pretendard を表示するには、下記のコードを使用してください。使用する font-family 名は`'Pretendard JP'`です。
+日本語環境でページに含まれている文字のみを選択的にダウンロードしてより早くPretendardを表示するには、下記のコードを使用してください。使用するfont-family名は`'Pretendard JP'`です。
 
 #### HTML
 
@@ -112,7 +112,7 @@
 
 ### 可変フォント
 
-可変 weight プロパティを使用するには、下記のコードを使用してください。使用する font-family 名は`'Pretendard JP Variable'` です。
+可変weightプロパティを使用するには、下記のコードを使用してください。使用するfont-family名は`'Pretendard JP Variable'`です。
 
 #### HTML
 
@@ -166,7 +166,7 @@
 
 ### font-family
 
-どこでも快適な環境を提供したい場合は、下記のような font-family 構成をお勧めします。
+どこでも快適な環境を提供したい場合は、下記のようなfont-family構成をお勧めします。
 
 ```css
 font-family: "Pretendard JP", Pretendard, -apple-system, BlinkMacSystemFont, system-ui, Roboto, "Helvetica Neue", "Segoe UI", "Hiragino Sans", "Apple SD Gothic Neo", Meiryo, "Noto Sans JP", "Noto Sans KR", "Malgun Gothic", Osaka, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", sans-serif;

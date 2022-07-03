@@ -228,13 +228,13 @@ Thank you so much for your contribution to Pretendard.
 
 [@hiddenest](https://github.com/hiddenest): Worked webfonts serving, created CDN assets purge automation, Provided webfonts subset, and dynamic subsets.
 
-[@leejh10003](https://github.com/leejh10003): Made an [example](/examples) using Pretendard.
+[@leejh10003](https://github.com/leejh10003): Worked making an [example](/examples) using Pretendard.
 
-[@black7375](https://github.com/black7375): Created a build automation of making Subset and Dynamic Subset, and release file creation.
+[@black7375](https://github.com/black7375): Worked automating all Webfont builds, automating release file creation, automating publish on npmjs and Yarn, improving versioning from CDN URLs, and setting monorepo.
 
 [@victorrica](https://github.com/victorrica): Worked publishing npm and Yarn packages.
 
-[@kms0219kms](https://github.com/kms0219kms): Worked webfonts CDN multiplexing, and readme localization.
+[@kms0219kms](https://github.com/kms0219kms): Worked webfonts CDN multiplexing, improving formatting from documentation, and readme localization.
 
 [@Gamsake](https://github.com/Gamsake): Worked improving build automation.
 

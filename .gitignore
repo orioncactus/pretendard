@@ -310,3 +310,21 @@ buck-out/
 
 # CocoaPods
 /ios/Pods/
+
+# Yarn
+.yarn/*
+!.yarn/patches
+!.yarn/plugins
+!.yarn/releases
+!.yarn/sdks
+!.yarn/versions
+
+# Zero install
+# .pnp.* # If zero install
+# !.yarn/cache
+
+# TypeScript v1 declaration files
+typings/
+
+# TypeScript cache
+*.tsbuildinfo

@@ -12,5 +12,5 @@ http://scripts.sil.org/OFL
 	font-weight: 45 920;
 	font-style: normal;
 	font-display: swap;
-	src: local('Pretendard Variable'), url('./woff2/PretendardVariable.woff2') format('woff2-variations');
+	src: local('Pretendard Variable'), url('../../../packages/pretendard/dist/web/variable/woff2/PretendardVariable.woff2') format('woff2-variations');
 }

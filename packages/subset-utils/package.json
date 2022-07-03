@@ -1,0 +1,30 @@
+{
+  "name": "subset-utils",
+  "version": "1.0.0",
+  "author": "Kil Hyung-jin <orioncactus@gmail.com>",
+  "license": "OFL-1.1",
+  "private": true,
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/orioncactus/pretendard",
+    "directory": "packages/subset-utils"
+  },
+  "bugs": {
+    "url": "https://github.com/orioncactus/pretendard/issues"
+  },
+  "homepage": "https://cactus.tistory.com/306",
+  "main": "dist/index.js",
+  "typings": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsup src/index.ts --dts"
+  },
+  "dependencies": {
+    "font-range": "^0.2.1",
+    "tslib": "^2.4.0"
+  },
+  "devDependencies": {
+    "@types/node": "^17.0.41",
+    "tsup": "^6.1.2",
+    "typescript": "^4.7.3"
+  }
+}

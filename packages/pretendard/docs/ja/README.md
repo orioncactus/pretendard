@@ -33,7 +33,7 @@ CDN を利用して Pretendard を使用することができ、トグルをチ�
 #### HTML
 
 ```html
-<link rel="stylesheet" as="style" crossorigin href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.3/dist/web/static/pretendard.css" />
+<link rel="stylesheet" as="style" crossorigin href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.4/dist/web/static/pretendard.css" />
 ```
 
 <details>
@@ -43,13 +43,13 @@ CDN を利用して Pretendard を使用することができ、トグルをチ�
 ###### cdnjs
 
 ```html
-<link rel="stylesheet" as="style" crossorigin href="https://cdnjs.cloudflare.com/ajax/libs/pretendard/1.3.3/static/pretendard.css" />
+<link rel="stylesheet" as="style" crossorigin href="https://cdnjs.cloudflare.com/ajax/libs/pretendard/1.3.4/static/pretendard.css" />
 ```
 
 ###### UNPKG
 
 ```html
-<link rel="stylesheet" as="style" crossorigin href="https://unpkg.com/pretendard@1.3.3/dist/web/static/pretendard.css" />
+<link rel="stylesheet" as="style" crossorigin href="https://unpkg.com/pretendard@1.3.4/dist/web/static/pretendard.css" />
 ```
 
 </details>
@@ -57,7 +57,7 @@ CDN を利用して Pretendard を使用することができ、トグルをチ�
 #### CSS
 
 ```css
-@import url("https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.3/dist/web/static/pretendard.css");
+@import url("https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.4/dist/web/static/pretendard.css");
 ```
 
 <details>
@@ -67,13 +67,13 @@ CDN を利用して Pretendard を使用することができ、トグルをチ�
 ###### cdnjs
 
 ```css
-@import url("https://cdnjs.cloudflare.com/ajax/libs/pretendard/1.3.3/static/pretendard.css");
+@import url("https://cdnjs.cloudflare.com/ajax/libs/pretendard/1.3.4/static/pretendard.css");
 ```
 
 ###### UNPKG
 
 ```css
-@import url("https://unpkg.com/pretendard@1.3.3/dist/web/static/pretendard.css");
+@import url("https://unpkg.com/pretendard@1.3.4/dist/web/static/pretendard.css");
 ```
 
 </details>
@@ -87,7 +87,7 @@ Pretendard は、Web フォントの容量の問題を解決するための方�
 #### HTML
 
 ```html
-<link rel="stylesheet" as="style" crossorigin href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.3/dist/web/static/pretendard-dynamic-subset.css" />
+<link rel="stylesheet" as="style" crossorigin href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.4/dist/web/static/pretendard-dynamic-subset.css" />
 ```
 
 <details>
@@ -97,13 +97,13 @@ Pretendard は、Web フォントの容量の問題を解決するための方�
 ###### cdnjs
 
 ```html
-<link rel="stylesheet" as="style" crossorigin href="https://cdnjs.cloudflare.com/ajax/libs/pretendard/1.3.3/static/pretendard-dynamic-subset.css" />
+<link rel="stylesheet" as="style" crossorigin href="https://cdnjs.cloudflare.com/ajax/libs/pretendard/1.3.4/static/pretendard-dynamic-subset.css" />
 ```
 
 ###### UNPKG
 
 ```html
-<link rel="stylesheet" as="style" crossorigin href="https://unpkg.com/pretendard@1.3.3/dist/web/static/pretendard-dynamic-subset.css" />
+<link rel="stylesheet" as="style" crossorigin href="https://unpkg.com/pretendard@1.3.4/dist/web/static/pretendard-dynamic-subset.css" />
 ```
 
 </details>
@@ -111,7 +111,7 @@ Pretendard は、Web フォントの容量の問題を解決するための方�
 #### CSS
 
 ```css
-@import url("https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.3/dist/web/static/pretendard-dynamic-subset.css");
+@import url("https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.4/dist/web/static/pretendard-dynamic-subset.css");
 ```
 
 <details>
@@ -121,13 +121,13 @@ Pretendard は、Web フォントの容量の問題を解決するための方�
 ###### cdnjs
 
 ```css
-@import url("https://cdnjs.cloudflare.com/ajax/libs/pretendard/1.3.3/static/pretendard-dynamic-subset.css");
+@import url("https://cdnjs.cloudflare.com/ajax/libs/pretendard/1.3.4/static/pretendard-dynamic-subset.css");
 ```
 
 ###### UNPKG
 
 ```css
-@import url("https://unpkg.com/pretendard@1.3.3/dist/web/static/pretendard-dynamic-subset.css");
+@import url("https://unpkg.com/pretendard@1.3.4/dist/web/static/pretendard-dynamic-subset.css");
 ```
 
 </details>
@@ -141,7 +141,7 @@ Pretendard は、Web フォントの容量の問題を解決するための方�
 #### HTML
 
 ```html
-<link rel="stylesheet" as="style" crossorigin href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.3/dist/web/variable/pretendardvariable.css" />
+<link rel="stylesheet" as="style" crossorigin href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.4/dist/web/variable/pretendardvariable.css" />
 ```
 
 <details>
@@ -151,13 +151,13 @@ Pretendard は、Web フォントの容量の問題を解決するための方�
 ###### cdnjs
 
 ```html
-<link rel="stylesheet" as="style" crossorigin href="https://cdnjs.cloudflare.com/ajax/libs/pretendard/1.3.3/variable/pretendardvariable.css" />
+<link rel="stylesheet" as="style" crossorigin href="https://cdnjs.cloudflare.com/ajax/libs/pretendard/1.3.4/variable/pretendardvariable.css" />
 ```
 
 ###### UNPKG
 
 ```html
-<link rel="stylesheet" as="style" crossorigin href="https://unpkg.com/pretendard@1.3.3/dist/web/variable/pretendardvariable.css" />
+<link rel="stylesheet" as="style" crossorigin href="https://unpkg.com/pretendard@1.3.4/dist/web/variable/pretendardvariable.css" />
 ```
 
 </details>
@@ -165,7 +165,7 @@ Pretendard は、Web フォントの容量の問題を解決するための方�
 #### CSS
 
 ```css
-@import url("https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.3/dist/web/variable/pretendardvariable.css");
+@import url("https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.4/dist/web/variable/pretendardvariable.css");
 ```
 
 <details>
@@ -175,13 +175,13 @@ Pretendard は、Web フォントの容量の問題を解決するための方�
 ###### cdnjs
 
 ```css
-@import url("https://cdnjs.cloudflare.com/ajax/libs/pretendard/1.3.3/variable/pretendardvariable.css");
+@import url("https://cdnjs.cloudflare.com/ajax/libs/pretendard/1.3.4/variable/pretendardvariable.css");
 ```
 
 ###### UNPKG
 
 ```css
-@import url("https://unpkg.com/pretendard@1.3.3/dist/web/variable/pretendardvariable.css");
+@import url("https://unpkg.com/pretendard@1.3.4/dist/web/variable/pretendardvariable.css");
 ```
 
 </details>

@@ -171,3 +171,25 @@
 ```css
 font-family: "Pretendard JP", Pretendard, -apple-system, BlinkMacSystemFont, system-ui, Roboto, "Helvetica Neue", "Segoe UI", "Hiragino Sans", "Apple SD Gothic Neo", Meiryo, "Noto Sans JP", "Noto Sans KR", "Malgun Gothic", Osaka, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", sans-serif;
 ```
+
+## システムフォント
+
+Pretendard JPはデバイスにインストールしてシステムフォントとして使用できます。
+
+- [homebrew-cask-fonts](https://github.com/Homebrew/homebrew-cask-fonts)
+
+```bash
+brew tap homebrew/cask-fonts
+brew install font-pretendard-jp
+```
+
+- [nix](https://github.com/NixOS/nixpkgs)
+
+```nix
+# configuration.nix
+{
+  fonts.fonts = with pkgs; [
+    pretendard-jp
+  ];
+}
+```

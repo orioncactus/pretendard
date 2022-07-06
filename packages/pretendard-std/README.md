@@ -175,3 +175,25 @@ font-family: -apple-system, BlinkMacSystemFont, "Pretendard Std", Pretendard, Ro
 ```css
 font-family: "Pretendard Std", Pretendard, -apple-system, BlinkMacSystemFont, system-ui, Roboto, "Helvetica Neue", "Segoe UI", "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", sans-serif;
 ```
+
+## 시스템 폰트
+
+Pretendard Std를 기기에 설치해 시스템 폰트로 사용할 수 있습니다.
+
+- [homebrew-cask-fonts](https://github.com/Homebrew/homebrew-cask-fonts)
+
+```bash
+brew tap homebrew/cask-fonts
+brew install font-pretendard-std
+```
+
+- [nix](https://github.com/NixOS/nixpkgs)
+
+```nix
+# configuration.nix
+{
+  fonts.fonts = with pkgs; [
+    pretendard-std
+  ];
+}
+```

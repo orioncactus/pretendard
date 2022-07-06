@@ -218,6 +218,35 @@ npm i pretendard
 yarn add pretendard
 ```
 
+## System font
+
+Pretendard can be installed on the machine and used as a system font.
+
+- [homebrew-cask-fonts](https://github.com/Homebrew/homebrew-cask-fonts)
+
+```bash
+brew tap homebrew/cask-fonts
+brew install font-pretendard
+```
+
+- [nix](https://github.com/NixOS/nixpkgs)
+
+```nix
+# configuration.nix
+{
+  fonts.fonts = with pkgs; [
+    pretendard
+  ];
+}
+```
+
+- [AUR](https://aur.archlinux.org/packages?K=pretendard)
+
+```bash
+yay -S otf-pretendard
+yay -S ttf-pretendard
+```
+
 ## License
 
 Pretendard is distributed under the [SIL Open Fonts License](https://scripts.sil.org/OFL), which is allowed any commercial uses, modifications, and redistribution.

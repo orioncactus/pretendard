@@ -171,3 +171,25 @@ If you want to provide a comfortable environment anywhere, the following font-fa
 ```css
 font-family: "Pretendard JP", Pretendard, -apple-system, BlinkMacSystemFont, system-ui, Roboto, "Helvetica Neue", "Segoe UI", "Hiragino Sans", "Apple SD Gothic Neo", Meiryo,   "Noto Sans JP", "Noto Sans KR", "Malgun Gothic", Osaka, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", sans-serif;
 ```
+
+## System font
+
+Pretendard JP can be installed on the machine and used as a system font.
+
+- [homebrew-cask-fonts](https://github.com/Homebrew/homebrew-cask-fonts)
+
+```bash
+brew tap homebrew/cask-fonts
+brew install font-pretendard-jp
+```
+
+- [nix](https://github.com/NixOS/nixpkgs)
+
+```nix
+# configuration.nix
+{
+  fonts.fonts = with pkgs; [
+    pretendard-jp
+  ];
+}
+```

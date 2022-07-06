@@ -269,6 +269,8 @@ Pretendardにコントリビュートしていただきありがとうござい�
 
 [@quiple](https://github.com/quiple): 日本語Readme翻訳を改善してくださいました。
 
+[@sudosubin](https://github.com/sudosubin): homebrew-cask-fontsとnixにPretendardを追加しました。
+
 ## Issues
 
 解決が必要な場合は、[Issues](https://github.com/orioncactus/pretendard/issues)でIssueを登録してください。

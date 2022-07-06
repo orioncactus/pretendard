@@ -269,6 +269,8 @@ Pretendard에 기여해주셔서 진심으로 감사드립니다.
 
 [@quiple](https://github.com/quiple): 일본어 Readme 번역을 개선해주셨습니다.
 
+[@sudosubin](https://github.com/sudosubin): homebrew-cask-fonts 및 nix에 Pretendard를 추가해주셨습니다.
+
 ## Pretendard를 사용하는 곳
 
 <p align="center">

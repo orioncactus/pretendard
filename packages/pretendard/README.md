@@ -369,6 +369,9 @@ Pretendard에 기여해주셔서 진심으로 감사드립니다.
    <a href="https://www.opencheongwadae.kr/#gh-dark-mode-only">
       <img src="https://user-images.githubusercontent.com/67222970/173811541-d70e58d2-3fa8-4afe-b91a-942ce47a8dcf.png" align="center" height="30" alt="청와대, 국민 품으로" hspace="16">
    </a>
+   <a href="https://holix.com">
+      <img src="https://user-images.githubusercontent.com/7759511/178255186-32d8403d-cc25-4b63-b96e-1fd1c707957f.png" align="center" height="50" alt="HOLIX" hspace="16">
+   </a>
 </p>
 
 ## 의견 나누기

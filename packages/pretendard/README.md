@@ -364,16 +364,16 @@ Pretendard에 기여해주셔서 진심으로 감사드립니다.
       <img src="https://user-images.githubusercontent.com/7247848/160057796-63bb66b4-efb9-4996-8241-eb2f0a74c8ab.png" align="center" height="50" alt="Wantedlab" hspace="16">
    </a>
    <a href="https://www.opencheongwadae.kr/#gh-light-mode-only">
-      <img src="https://user-images.githubusercontent.com/67222970/173811650-144cb28c-b783-4e34-94f9-4d5955839352.png" align="center" height="30" alt="청와대, 국민 품으로" hspace="16">
+      <img src="https://user-images.githubusercontent.com/7247848/179357995-d7cced8a-d7e5-4590-80d4-c04dc9940a95.png" align="center" height="50" alt="청와대, 국민 품으로" hspace="16">
    </a>
    <a href="https://www.opencheongwadae.kr/#gh-dark-mode-only">
-      <img src="https://user-images.githubusercontent.com/67222970/173811541-d70e58d2-3fa8-4afe-b91a-942ce47a8dcf.png" align="center" height="30" alt="청와대, 국민 품으로" hspace="16">
+      <img src="https://user-images.githubusercontent.com/7247848/179357994-aa1597b7-44f5-495f-a5c2-0536f345a44f.png" align="center" height="50" alt="청와대, 국민 품으로" hspace="16">
    </a>
    <a href="https://holix.com">
       <img src="https://user-images.githubusercontent.com/7759511/178255186-32d8403d-cc25-4b63-b96e-1fd1c707957f.png" align="center" height="50" alt="HOLIX" hspace="16">
    </a>
    <a href="https://zep.us">
-      <img src="https://user-images.githubusercontent.com/67222970/178924790-f010b052-ad9b-43db-be28-5db623fe4e27.png" align="center" height="50" alt="ZEP" hspace="16">
+      <img src="https://user-images.githubusercontent.com/7247848/179358150-d4feb129-1122-450c-9eb7-0226aaeac0b6.png " align="center" height="50" alt="ZEP" hspace="16">
    </a>
 </p>
 

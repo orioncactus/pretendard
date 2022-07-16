@@ -372,6 +372,9 @@ Pretendard에 기여해주셔서 진심으로 감사드립니다.
    <a href="https://holix.com">
       <img src="https://user-images.githubusercontent.com/7759511/178255186-32d8403d-cc25-4b63-b96e-1fd1c707957f.png" align="center" height="50" alt="HOLIX" hspace="16">
    </a>
+   <a href="https://zep.us">
+      <img src="https://user-images.githubusercontent.com/67222970/178924790-f010b052-ad9b-43db-be28-5db623fe4e27.png" align="center" height="50" alt="ZEP" hspace="16">
+   </a>
 </p>
 
 ## 의견 나누기

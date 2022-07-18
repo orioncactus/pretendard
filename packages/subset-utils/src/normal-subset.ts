@@ -19,7 +19,7 @@ function font_subset(
     `--flavor=${format}`,
     "--with-zopfli",
     `--output-file=${outputPath}`,
-    "--layout-features='*'",
+    "--layout-features=*",
     "--glyph-names",
     "--symbol-cmap",
     "--legacy-cmap",
@@ -28,8 +28,8 @@ function font_subset(
     "--recommended-glyphs",
     "--name-legacy",
     "--drop-tables=",
-    "--name-IDs='*'",
-    "--name-languages='*'",
+    "--name-IDs=*",
+    "--name-languages=*",
     glyphOption ? GLYPH_OPTION :  NON_GLYPH_OPTION
   ];
 

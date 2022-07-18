@@ -375,6 +375,12 @@ Pretendard에 기여해주셔서 진심으로 감사드립니다.
    <a href="https://zep.us">
       <img src="https://user-images.githubusercontent.com/7247848/179358150-d4feb129-1122-450c-9eb7-0226aaeac0b6.png" align="center" height="50" alt="ZEP" hspace="16">
    </a>
+   <a href="https://class101.net/#gh-light-mode-only">
+      <img src="https://user-images.githubusercontent.com/7247848/179528001-724fbbcf-eee8-4911-b75a-4ba29e1ba19b.png" align="center" height="50" alt="CLASS101" hspace="16">
+   </a>
+   <a href="https://class101.net/#gh-dark-mode-only">
+      <img src="https://user-images.githubusercontent.com/7247848/179528009-b98bb489-090e-401a-ab02-568d10d33bca.png" align="center" height="50" alt="CLASS101" hspace="16">
+   </a>
 </p>
 
 ## 의견 나누기

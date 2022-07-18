@@ -390,6 +390,12 @@ Pretendard에 기여해주셔서 진심으로 감사드립니다.
    <a href="https://www.kbanknow.com/#gh-dark-mode-only">
       <img src="https://user-images.githubusercontent.com/7247848/179527318-82e966fa-8601-405a-a114-869f22669ccc.png" align="center" height="50" alt="Kbank" hspace="16">
    </a>
+   <a href="https://blimp.space//#gh-light-mode-only">
+      <img src="https://user-images.githubusercontent.com/7247848/179531911-d7b74140-c855-4280-b2f6-099937fe3345.png" align="center" height="50" alt="BLIMP" hspace="16">
+   </a>
+   <a href="https://blimp.space//#gh-dark-mode-only">
+      <img src="https://user-images.githubusercontent.com/7247848/179531916-faa0edc1-0356-4ac3-a167-d94a3691c061.png" align="center" height="50" alt="BLIMP" hspace="16">
+   </a>
 </p>
 
 ## 의견 나누기

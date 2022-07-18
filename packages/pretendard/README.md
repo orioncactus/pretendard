@@ -381,6 +381,9 @@ Pretendard에 기여해주셔서 진심으로 감사드립니다.
    <a href="https://class101.net/#gh-dark-mode-only">
       <img src="https://user-images.githubusercontent.com/7247848/179528009-b98bb489-090e-401a-ab02-568d10d33bca.png" align="center" height="50" alt="CLASS101" hspace="16">
    </a>
+   <a href="https://www.goodchoice.kr">
+      <img src="https://user-images.githubusercontent.com/7247848/179527313-a7ada75c-3dfb-4f65-a3c0-713ba4c5f7e1.png" align="center" height="50" alt="여기어때" hspace="16">
+   </a>
 </p>
 
 ## 의견 나누기

@@ -384,6 +384,12 @@ Pretendard에 기여해주셔서 진심으로 감사드립니다.
    <a href="https://www.goodchoice.kr">
       <img src="https://user-images.githubusercontent.com/7247848/179527313-a7ada75c-3dfb-4f65-a3c0-713ba4c5f7e1.png" align="center" height="50" alt="여기어때" hspace="16">
    </a>
+   <a href="https://www.kbanknow.com/#gh-light-mode-only">
+      <img src="https://user-images.githubusercontent.com/7247848/179527319-7431801e-a3c9-4260-858f-57c328cb9514.png" align="center" height="50" alt="Kbank" hspace="16">
+   </a>
+   <a href="https://www.kbanknow.com/#gh-dark-mode-only">
+      <img src="https://user-images.githubusercontent.com/7247848/179527318-82e966fa-8601-405a-a114-869f22669ccc.png" align="center" height="50" alt="Kbank" hspace="16">
+   </a>
 </p>
 
 ## 의견 나누기

@@ -8,5 +8,6 @@ subsets(
   ["static",    "woff2", fontList],
   ["dynamic",   "woff",  fontList],
   ["dynamic",   "woff2", fontList],
-  ["variable",  "woff2", variable]
+  ["dynamic",   "woff2", variable],
+  ["variable",  "woff2", variable],
 );

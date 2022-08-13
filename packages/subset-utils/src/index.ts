@@ -3,10 +3,17 @@ import { dynamic_subset } from "./dynamic-subset";
 
 // == Types ===================================================================
 export interface ISubsets<T>{
-  (kinds: TSubsetKinds, format: Tformat, fontList: string[]): T
+  (kinds: TSubsetKinds, format: Tformat, fontList: IFontInfo): T
 }
+export interface IFontInfo {
+  family: FONTFAMILY;
+  fontList: string[];
+  options: TFontListOptions;
+}
+
 type Tformat      = "woff" | "woff2"
 type TSubsetKinds = "static" | "glyph" | "variable" | "dynamic";
+type TFontListOptions = { ext?: "ttf"; variable?: boolean };
 
 // == Constants ===============================================================
 export enum FONTFAMILY {
@@ -28,20 +35,24 @@ const FONTWEIGHTS = [
 ];
 
 // == Functions ===============================================================
-export function getFontList(familly = FONTFAMILY.Pretendard, { ext = "ttf", variable = false } = {}) {
+export function getFontList(family = FONTFAMILY.Pretendard, options?: TFontListOptions) {
+  const { ext = "ttf", variable = false } = options ?? {};
+
   const extResult = `.${ext}`;
-  return variable
-    ? [ familly + "Variable" + extResult ]
-    : FONTWEIGHTS.map(weight => familly + "-" + weight + extResult);
+  const fontList  = variable
+    ? [ family + "Variable" + extResult ]
+    : FONTWEIGHTS.map(weight => family + "-" + weight + extResult);
+
+  return { family, fontList, options };
 }
 
 export async function subsets<T>(...subsetList: Parameters<ISubsets<T>>[]) {
-  const promises = subsetList.map(([kinds, format, fontList])=> {
+  const promises = subsetList.map(([kinds, format, font])=> {
     switch(kinds as TSubsetKinds) {
-      case "static":   return static_subset(format, fontList);
-      case "glyph":    return glyph_subset(format, fontList);
-      case "variable": return variable_subset(format, fontList);
-      case "dynamic":  return dynamic_subset(format, fontList);
+      case "static":   return static_subset(format, font);
+      case "glyph":    return glyph_subset(format, font);
+      case "variable": return variable_subset(format, font);
+      case "dynamic":  return dynamic_subset(format, font);
     }
   }).flat();
 

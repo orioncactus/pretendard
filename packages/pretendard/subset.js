@@ -10,5 +10,6 @@ subsets(
   ["glyph",     "woff2", fontList],
   ["dynamic",   "woff",  fontList],
   ["dynamic",   "woff2", fontList],
+  ["dynamic",   "woff2", variable],
   ["variable",  "woff2", variable]
 );

@@ -7,6 +7,7 @@ import {
   clearDir, getFontName,
   printSubsetKind, printConvertedPath
 } from "./shared";
+import type { IFontInfo } from '.';
 
 // == Subset ==================================================================
 const GLYPH_OPTION = "--text-file=./subset_glyphs.txt";
@@ -75,14 +76,14 @@ async function subset_wrapper(
 }
 
 // == Each Subset Setup  ======================================================
-export function static_subset(format: string, fontList: string[]) {
+export function static_subset(format: string, { fontList }: IFontInfo) {
   return subset_wrapper("Static", STATIC_PATH, STATIC_OUTPUT_PATH, format, fontList);
 }
 
-export function glyph_subset(format: string, fontList: string[]) {
+export function glyph_subset(format: string, { fontList }: IFontInfo) {
   return subset_wrapper("Static", STATIC_PATH, STATIC_OUTPUT_PATH, format, fontList, true);
 }
 
-export function variable_subset(format: string, fontList: string[]) {
+export function variable_subset(format: string, { fontList }: IFontInfo) {
   return subset_wrapper("Variable", VARIABLE_PATH, VARIABLE_OUTPUT_PATH, format, fontList);
 }

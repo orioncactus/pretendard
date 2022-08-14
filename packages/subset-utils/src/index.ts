@@ -1,4 +1,4 @@
-import { static_subset, glyph_subset, variable_subset } from "./normal-subset"; 
+import { static_subset, glyph_subset } from "./normal-subset"; 
 import { dynamic_subset } from "./dynamic-subset";
 
 // == Types ===================================================================
@@ -11,9 +11,9 @@ export interface IFontInfo {
   options: TFontListOptions;
 }
 
-type Tformat      = "woff" | "woff2"
-type TSubsetKinds = "static" | "glyph" | "variable" | "dynamic";
-type TFontListOptions = { ext?: "ttf"; variable?: boolean };
+export type Tformat      = "woff" | "woff2"
+export type TSubsetKinds = "static" | "glyph" | "dynamic";
+export type TFontListOptions = { ext?: "ttf"; variable?: boolean };
 
 // == Constants ===============================================================
 export enum FONTFAMILY {
@@ -51,7 +51,6 @@ export async function subsets<T>(...subsetList: Parameters<ISubsets<T>>[]) {
     switch(kinds as TSubsetKinds) {
       case "static":   return static_subset(format, font);
       case "glyph":    return glyph_subset(format, font);
-      case "variable": return variable_subset(format, font);
       case "dynamic":  return dynamic_subset(format, font);
     }
   }).flat();

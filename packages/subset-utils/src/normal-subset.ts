@@ -2,12 +2,11 @@ import { spawn } from "child_process";
 import { join } from "path";
 
 import {
-  STATIC_PATH, STATIC_OUTPUT_PATH,
-  VARIABLE_PATH, VARIABLE_OUTPUT_PATH,
   clearDir, getFontName,
+  getBasePath, getDistPath,
   printSubsetKind, printConvertedPath
 } from "./shared";
-import type { IFontInfo } from '.';
+import type { IFontInfo, Tformat } from '.';
 
 // == Subset ==================================================================
 const GLYPH_OPTION = "--text-file=./subset_glyphs.txt";
@@ -47,15 +46,22 @@ function font_subset(
 }
 
 async function subset_wrapper(
-  kinds: Parameters<typeof printSubsetKind>[0],
-  basePath: string, distPath: string, format: string, fontList: string[], glyphOption = false
+  format: Tformat, font: IFontInfo, glyphOption = false
 ) {
-  const outType = glyphOption ? `${format}-subset` : format;
-  const outDir  = join(distPath, outType);
+  const {
+    fontList,
+    options: fontOptions,
+  } = font;
+
+  const kinds    = fontOptions?.variable ? 'Variable' : 'Static';
+  const basePath = getBasePath(kinds);
+  const distPath = getDistPath(kinds);
+  const outType  = glyphOption ? `${format}-subset` : format;
+  const outDir   = join(distPath, outType);
 
   // Clear Files
   printSubsetKind(kinds, outType);
-  clearDir(outDir);
+  await clearDir(outDir);
 
   // Create Files
   const results: Promise<number | null>[] = [];
@@ -76,14 +82,10 @@ async function subset_wrapper(
 }
 
 // == Each Subset Setup  ======================================================
-export function static_subset(format: string, { fontList }: IFontInfo) {
-  return subset_wrapper("Static", STATIC_PATH, STATIC_OUTPUT_PATH, format, fontList);
+export function static_subset(format: Tformat, font: IFontInfo) {
+  return subset_wrapper(format, font);
 }
 
-export function glyph_subset(format: string, { fontList }: IFontInfo) {
-  return subset_wrapper("Static", STATIC_PATH, STATIC_OUTPUT_PATH, format, fontList, true);
-}
-
-export function variable_subset(format: string, { fontList }: IFontInfo) {
-  return subset_wrapper("Variable", VARIABLE_PATH, VARIABLE_OUTPUT_PATH, format, fontList);
+export function glyph_subset(format: Tformat, font: IFontInfo) {
+  return subset_wrapper(format, font, true);
 }

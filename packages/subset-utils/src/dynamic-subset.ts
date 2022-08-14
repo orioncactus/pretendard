@@ -2,34 +2,32 @@ import { join } from "path";
 import { fontRange } from "font-range";
 
 import { 
-  STATIC_PATH,
-  STATIC_OUTPUT_PATH,
-  VARIABLE_PATH,
-  VARIABLE_OUTPUT_PATH,
   clearDir, getFontName,
+  getBasePath, getDistPath,
   printSubsetKind, printConvertedPath
 } from "./shared";
-import type { IFontInfo } from ".";
+import type { IFontInfo, Tformat } from ".";
 
 // == Dynamic Subset ==========================================================
-export async function dynamic_subset(format: string, font: IFontInfo) {
+export async function dynamic_subset(format: Tformat, font: IFontInfo) {
   const {
     fontList = [],
     options: { variable = false } = {},
   } = font;
 
-  const inputPath = variable ? VARIABLE_PATH : STATIC_PATH;
-  const distPath  = variable ? VARIABLE_OUTPUT_PATH : STATIC_OUTPUT_PATH;
+  const kinds = variable ? "Variable" : "Static";
+  const inputPath = getBasePath(kinds);
+  const distPath  = getDistPath(kinds);
   const outType   = `${format}-dynamic-subset`;
   const outDir    = join(distPath, outType);
 
   // Clear Files
-  printSubsetKind(variable ? "Variable" : "Static", outType);
-  clearDir(outDir);
+  printSubsetKind(kinds, outType);
+  await clearDir(outDir);
 
   // Create Files
   const nameFormat = "{NAME}.subset.{INDEX}{EXT}";
-  const results: Promise<Buffer[]>[] = [];
+  const results: ReturnType<typeof fontRange>[] = [];
   for ( const fontFile of fontList ) {
     const fontName = getFontName(fontFile);
     const fontPath = join(inputPath, fontFile);

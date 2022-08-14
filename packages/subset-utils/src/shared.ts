@@ -1,5 +1,5 @@
 import { basename, extname, join } from "path";
-import { readdir, unlink } from "fs";
+import { mkdir, access, rmdir } from 'fs/promises';
 
 // == Constants ===============================================================
 export const STATIC_PATH          = join("dist", "public", "static", "alternative");
@@ -8,28 +8,26 @@ export const VARIABLE_PATH        = join("dist", "public", "variable");
 export const VARIABLE_OUTPUT_PATH = join("dist", "web", "variable");
 
 // == Functions ===============================================================
-function errCallback(err: NodeJS.ErrnoException | null) {
-  if(err) {
-    console.error(err);
-    return true;
+export async function clearDir(outDir: string) {
+  try {
+    await access(outDir);
+    await rmdir(outDir);
+    await mkdir(outDir);
+  } catch(err) {
+    await mkdir(outDir);
   }
-  return false;
-}
-
-export function clearDir(outDir: string) {
-  readdir(outDir, (err, fileLists) => {
-    if(errCallback(err)) {
-      return;
-    }
-    for( const fontFile of fileLists ) {
-      const fontPath = join(outDir, fontFile);
-      unlink(fontPath, errCallback);
-    }
-  });
 }
 
 export function getFontName(fontFile: string) {
   return basename(fontFile, extname(fontFile));
+}
+
+export function getBasePath(kinds: "Static" | "Variable") {
+  return kinds === "Static" ? STATIC_PATH : VARIABLE_PATH;
+}
+
+export function getDistPath(kinds: "Static" | "Variable") {
+  return kinds === "Static" ? STATIC_OUTPUT_PATH : VARIABLE_OUTPUT_PATH;
 }
 
 export function printSubsetKind(kinds: "Static" | "Variable", outPath: string) {

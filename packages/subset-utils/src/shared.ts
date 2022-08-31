@@ -1,17 +1,17 @@
 import { basename, extname, join } from "path";
-import { mkdir, access, rmdir } from 'fs/promises';
+import { mkdir, access, rm } from 'fs/promises';
 
 // == Constants ===============================================================
-export const STATIC_PATH          = join("dist", "public", "static", "alternative");
-export const STATIC_OUTPUT_PATH   = join("dist", "web", "static");
-export const VARIABLE_PATH        = join("dist", "public", "variable");
-export const VARIABLE_OUTPUT_PATH = join("dist", "web", "variable");
+export const STATIC_PATH          = join(process.cwd(), "dist", "public", "static", "alternative");
+export const STATIC_OUTPUT_PATH   = join(process.cwd(), "dist", "web", "static");
+export const VARIABLE_PATH        = join(process.cwd(), "dist", "public", "variable");
+export const VARIABLE_OUTPUT_PATH = join(process.cwd(), "dist", "web", "variable");
 
 // == Functions ===============================================================
 export async function clearDir(outDir: string) {
   try {
     await access(outDir);
-    await rmdir(outDir);
+    await rm(outDir, { recursive: true, force: true });
     await mkdir(outDir);
   } catch(err) {
     await mkdir(outDir);

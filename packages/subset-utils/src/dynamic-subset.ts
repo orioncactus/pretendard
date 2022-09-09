@@ -31,7 +31,7 @@ export async function dynamic_subset(format: Tformat, font: IFontInfo) {
   for ( const fontFile of fontList ) {
     const fontName = getFontName(fontFile);
     const fontPath = join(inputPath, fontFile);
-    const cssFile  = join(distPath, fontName + (variable ? "-subset" : "") + ".css");
+    const cssFile  = join(distPath, fontName + (variable ? "-VF" : "") + ".css");
     const outFile  = fontName + ".subset.n." + format;
 
     printConvertedPath(fontFile, outFile);

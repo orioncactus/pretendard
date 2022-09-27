@@ -402,6 +402,9 @@ Pretendard에 기여해주셔서 진심으로 감사드립니다.
    <a href="https://www.lunit.io/#gh-dark-mode-only">
       <img src="https://user-images.githubusercontent.com/36615680/191430575-704d18d9-95d9-41d6-836e-5fa400b51971.png" align="center" height="50" alt="Lunit" hspace="16">
    </a>
+   <a href="https://www.athenaslab.com/c56b1d9f-2bfa-47a5-a937-94f22d2fbc3b">
+      <img src="https://user-images.githubusercontent.com/15134041/192458191-80c6acf4-f063-48a8-a07f-00a5f2ad883c.png" align="center" height="50" alt="오늘학교" hspace="16">
+   </a>
 </p>
 
 ## 의견 나누기

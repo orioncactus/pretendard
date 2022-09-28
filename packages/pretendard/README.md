@@ -396,11 +396,17 @@ Pretendard에 기여해주셔서 진심으로 감사드립니다.
    <a href="https://blimp.space/#gh-dark-mode-only">
       <img src="https://user-images.githubusercontent.com/7247848/179531916-faa0edc1-0356-4ac3-a167-d94a3691c061.png" align="center" height="50" alt="BLIMP" hspace="16">
    </a>
+   <a href="https://www.lunit.io/#gh-light-mode-only">
+      <img src="https://user-images.githubusercontent.com/36615680/191430516-ad2f7efa-a6e7-4719-a01d-f9471ce9b6d5.png" align="center" height="50" alt="Lunit" hspace="16">
+   </a>
+   <a href="https://www.lunit.io/#gh-dark-mode-only">
+      <img src="https://user-images.githubusercontent.com/36615680/191430575-704d18d9-95d9-41d6-836e-5fa400b51971.png" align="center" height="50" alt="Lunit" hspace="16">
+   </a>
    <a href="https://www.iamport.kr/#gh-light-mode-only">
-      <img src="https://user-images.githubusercontent.com/67222970/191770669-4eefe0f5-8c61-45db-8d49-c39b1c34e9c0.png" align="center" height="30" alt="i'mport" hspace="16">
+      <img src="https://user-images.githubusercontent.com/67222970/191770669-4eefe0f5-8c61-45db-8d49-c39b1c34e9c0.png" align="center" height="30" alt="iamport" hspace="16">
    </a>
    <a href="https://www.iamport.kr/#gh-dark-mode-only">
-      <img src="https://user-images.githubusercontent.com/67222970/191770855-499e4268-42b8-4fd0-9aeb-1468928240e2.png" align="center" height="30" alt="i'mport" hspace="16">
+      <img src="https://user-images.githubusercontent.com/67222970/191770855-499e4268-42b8-4fd0-9aeb-1468928240e2.png" align="center" height="30" alt="iamport" hspace="16">
    </a>
 </p>
 

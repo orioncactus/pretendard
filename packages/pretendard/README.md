@@ -409,10 +409,10 @@ Pretendard에 기여해주셔서 진심으로 감사드립니다.
       <img src="https://user-images.githubusercontent.com/67222970/191770855-499e4268-42b8-4fd0-9aeb-1468928240e2.png" align="center" height="30" alt="iamport" hspace="16">
    </a>
    <a href="https://www.hancomdocs.com/#gh-light-mode-only">
-      <img src="https://user-images.githubusercontent.com/67222970/193015090-2988de41-a3f8-410c-9067-771725328ecd.png" align="center" height="30" alt="iamport" hspace="16">
+      <img src="https://user-images.githubusercontent.com/67222970/193015090-2988de41-a3f8-410c-9067-771725328ecd.png" align="center" height="30" alt="한컴독스" hspace="16">
    </a>
    <a href="https://www.hancomdocs.com/#gh-dark-mode-only">
-      <img src="https://user-images.githubusercontent.com/67222970/193015153-66ed803c-cf26-43fc-8f2e-dab8673e0774.png" align="center" height="30" alt="iamport" hspace="16">
+      <img src="https://user-images.githubusercontent.com/67222970/193015153-66ed803c-cf26-43fc-8f2e-dab8673e0774.png" align="center" height="30" alt="한컴독스" hspace="16">
    </a>
 </p>
 

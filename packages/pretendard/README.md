@@ -82,7 +82,7 @@ CDN을 이용해 Pretendard를 사용할 수 있으며, 토글을 확인해 기�
 
 ### 다이나믹 서브셋
 
-Pretendard에서는 웹폰트 용량 문제를 해결하기 위한 방법으로 Google Fonts에서 제공하는 Noto Sans KR와 동일한 방식으로 동적 서브셋을 제공합니다. 페이지에 포함된 글자만 선택적으로 다운로드해 보다 빠르게 Pretendard를 표시하려면 아래 코드를 사용하세요. 사용하는 font-family 이름은 `Pretendard` 입니다.
+Pretendard에서는 웹폰트 용량 문제를 해결하기 위한 방법으로 Google Fonts에서 제공하는 한글 글꼴과 동일한 방식으로 동적 서브셋을 제공합니다. 페이지에 포함된 글자만 선택적으로 다운로드해 보다 빠르게 Pretendard를 표시하려면 아래 코드를 사용하세요. 사용하는 font-family 이름은 `Pretendard` 입니다.
 
 #### HTML
 
@@ -128,6 +128,60 @@ Pretendard에서는 웹폰트 용량 문제를 해결하기 위한 방법으로 
 
 ```css
 @import url("https://unpkg.com/pretendard@1.3.6/dist/web/static/pretendard-dynamic-subset.css");
+```
+
+</details>
+
+---
+
+### 가변 다이나믹 서브셋
+
+가변 다이나믹 서브셋으로 가변 Weight 속성과 함께 기존 다이나믹 서브셋보다 현저히 적은 용량으로 Pretendard를 사용할 수 있습니다. 모던 브라우저에서 더욱 쾌적하게 Pretendard를 표시하려면 아래 코드를 사용하세요. 사용하는 font-family 이름은 `"Pretendard Variable"` 입니다.
+
+#### HTML
+
+```html
+<link rel="stylesheet" as="style" crossorigin href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.6/dist/web/variable/pretendardvariable-dynamic-subset.css" />
+```
+
+<details>
+
+<summary>cdnjs 및 UNPKG</summary>
+
+###### cdnjs
+
+```html
+<link rel="stylesheet" as="style" crossorigin href="https://cdnjs.cloudflare.com/ajax/libs/pretendard/1.3.6/variable/pretendardvariable-dynamic-subset.css" />
+```
+
+###### UNPKG
+
+```html
+<link rel="stylesheet" as="style" crossorigin href="https://unpkg.com/pretendard@1.3.6/dist/web/variable/pretendardvariable-dynamic-subset.css" />
+```
+
+</details>
+
+#### CSS
+
+```css
+@import url("https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.6/dist/web/variable/pretendardvariable-dynamic-subset.css");
+```
+
+<details>
+
+<summary>cdnjs 및 UNPKG</summary>
+
+###### cdnjs
+
+```css
+@import url("https://cdnjs.cloudflare.com/ajax/libs/pretendard/1.3.6/variable/pretendardvariable-dynamic-subset.css");
+```
+
+###### UNPKG
+
+```css
+@import url("https://unpkg.com/pretendard@1.3.6/dist/web/variable/pretendardvariable-dynamic-subset.css");
 ```
 
 </details>
@@ -192,14 +246,30 @@ Pretendard에서는 웹폰트 용량 문제를 해결하기 위한 방법으로 
 
 시스템에 가능한 맞추고자 한다면 아래와 같은 font-family 구성을 추천합니다.
 
+##### `Pretendard`
+
 ```css
 font-family: -apple-system, BlinkMacSystemFont, "Apple SD Gothic Neo", Pretendard, Roboto, "Noto Sans KR", "Segoe UI", "Malgun Gothic", "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", sans-serif;
 ```
 
+##### `Pretendard Variable`
+
+```css
+font-family: -apple-system, BlinkMacSystemFont, "Apple SD Gothic Neo", "Pretendard Variable", Roboto, "Noto Sans KR", "Segoe UI", "Malgun Gothic", "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", sans-serif;
+```
+
 어디서든 동일한 환경을 가지고자 한다면 아래와 같은 font-family 구성을 추천합니다.
+
+##### `Pretendard`
 
 ```css
 font-family: Pretendard, -apple-system, BlinkMacSystemFont, system-ui, Roboto, "Helvetica Neue", "Segoe UI", "Apple SD Gothic Neo", "Noto Sans KR", "Malgun Gothic", "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", sans-serif;
+```
+
+##### `Pretendard Variable`
+
+```css
+font-family: "Pretendard Variable", -apple-system, BlinkMacSystemFont, system-ui, Roboto, "Helvetica Neue", "Segoe UI", "Apple SD Gothic Neo", "Noto Sans KR", "Malgun Gothic", "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", sans-serif;
 ```
 
 ## 패키지

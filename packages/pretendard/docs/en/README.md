@@ -23,8 +23,8 @@ You can use Pretendard via CDN, and in addition to the jsDelivr recommended by d
 
 To use Pretendard webfonts for Japanese or Latin/Greek/Cyrillic-only, check below:
 
-- [Pretendard JP](/packages/pretendard-jp/docs/en/)
-- [Pretendard Std](/packages/pretendard-std/docs/en/)
+-   [Pretendard JP](/packages/pretendard-jp/docs/en/)
+-   [Pretendard Std](/packages/pretendard-std/docs/en/)
 
 ---
 
@@ -206,13 +206,13 @@ font-family: Pretendard, -apple-system, BlinkMacSystemFont, system-ui, Roboto, "
 
 Pretendard is available in the following package managers.
 
-- [npm](https://www.npmjs.com/package/pretendard)
+-   [npm](https://www.npmjs.com/package/pretendard)
 
 ```bash
 npm i pretendard
 ```
 
-- [Yarn](https://yarnpkg.com/package/pretendard)
+-   [Yarn](https://yarnpkg.com/package/pretendard)
 
 ```bash
 yarn add pretendard
@@ -222,14 +222,14 @@ yarn add pretendard
 
 Pretendard can be installed on the machine and used as a system font.
 
-- [homebrew-cask-fonts](https://github.com/Homebrew/homebrew-cask-fonts)
+-   [homebrew-cask-fonts](https://github.com/Homebrew/homebrew-cask-fonts)
 
 ```bash
 brew tap homebrew/cask-fonts
 brew install font-pretendard
 ```
 
-- [nix](https://github.com/NixOS/nixpkgs)
+-   [nix](https://github.com/NixOS/nixpkgs)
 
 ```nix
 # configuration.nix
@@ -240,7 +240,7 @@ brew install font-pretendard
 }
 ```
 
-- [AUR](https://aur.archlinux.org/packages?K=pretendard)
+-   [AUR](https://aur.archlinux.org/packages?K=pretendard)
 
 ```bash
 yay -S otf-pretendard

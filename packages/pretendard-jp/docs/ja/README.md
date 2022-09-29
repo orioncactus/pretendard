@@ -176,14 +176,14 @@ font-family: "Pretendard JP", Pretendard, -apple-system, BlinkMacSystemFont, sys
 
 Pretendard JPはデバイスにインストールしてシステムフォントとして使用できます。
 
-- [homebrew-cask-fonts](https://github.com/Homebrew/homebrew-cask-fonts)
+-   [homebrew-cask-fonts](https://github.com/Homebrew/homebrew-cask-fonts)
 
 ```bash
 brew tap homebrew/cask-fonts
 brew install font-pretendard-jp
 ```
 
-- [nix](https://github.com/NixOS/nixpkgs)
+-   [nix](https://github.com/NixOS/nixpkgs)
 
 ```nix
 # configuration.nix

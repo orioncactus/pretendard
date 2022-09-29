@@ -180,14 +180,14 @@ font-family: "Pretendard Std", Pretendard, -apple-system, BlinkMacSystemFont, sy
 
 Pretendard Std를 기기에 설치해 시스템 폰트로 사용할 수 있습니다.
 
-- [homebrew-cask-fonts](https://github.com/Homebrew/homebrew-cask-fonts)
+-   [homebrew-cask-fonts](https://github.com/Homebrew/homebrew-cask-fonts)
 
 ```bash
 brew tap homebrew/cask-fonts
 brew install font-pretendard-std
 ```
 
-- [nix](https://github.com/NixOS/nixpkgs)
+-   [nix](https://github.com/NixOS/nixpkgs)
 
 ```nix
 # configuration.nix

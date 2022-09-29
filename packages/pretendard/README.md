@@ -23,8 +23,8 @@ CDN을 이용해 Pretendard를 사용할 수 있으며, 토글을 확인해 기�
 
 일본어 및 한국 한자 환경, 또는 라틴 환경 전용 Pretendard 웹폰트를 사용하려면 아래로 이동하세요:
 
-- [Pretendard JP](/packages/pretendard-jp/)
-- [Pretendard Std](/packages/pretendard-std/)
+-   [Pretendard JP](/packages/pretendard-jp/)
+-   [Pretendard Std](/packages/pretendard-std/)
 
 ---
 
@@ -206,13 +206,13 @@ font-family: Pretendard, -apple-system, BlinkMacSystemFont, system-ui, Roboto, "
 
 Pretendard는 아래와 같은 패키지 매니저에서 사용할 수 있습니다.
 
-- [npm](https://www.npmjs.com/package/pretendard)
+-   [npm](https://www.npmjs.com/package/pretendard)
 
 ```bash
 npm i pretendard
 ```
 
-- [Yarn](https://yarnpkg.com/package/pretendard)
+-   [Yarn](https://yarnpkg.com/package/pretendard)
 
 ```bash
 yarn add pretendard
@@ -222,14 +222,14 @@ yarn add pretendard
 
 Pretendard를 기기에 설치해 시스템 폰트로 사용할 수 있습니다.
 
-- [homebrew-cask-fonts](https://github.com/Homebrew/homebrew-cask-fonts)
+-   [homebrew-cask-fonts](https://github.com/Homebrew/homebrew-cask-fonts)
 
 ```bash
 brew tap homebrew/cask-fonts
 brew install font-pretendard
 ```
 
-- [nix](https://github.com/NixOS/nixpkgs)
+-   [nix](https://github.com/NixOS/nixpkgs)
 
 ```nix
 # configuration.nix
@@ -240,7 +240,7 @@ brew install font-pretendard
 }
 ```
 
-- [AUR](https://aur.archlinux.org/packages?K=pretendard)
+-   [AUR](https://aur.archlinux.org/packages?K=pretendard)
 
 ```bash
 yay -S otf-pretendard

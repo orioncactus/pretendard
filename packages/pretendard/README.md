@@ -325,7 +325,7 @@ Pretendard는 [SIL 오픈 폰트 라이선스](https://scripts.sil.org/OFL)로 �
 
 Pretendard에 기여해주셔서 진심으로 감사드립니다.
 
-[@hiddenest](https://github.com/hiddenest): 웹폰트 서빙 및 CDN 업데이트 자동화, 서브셋 작업, 그리고 다이나믹 서브셋을 제작해주셨습니다.
+[@hiddenest](https://github.com/hiddenest): 웹폰트 서빙 및 CDN 업데이트 자동화, 서브셋 및 다이나믹 서브셋 제작, 그리고 가변 다이나믹 서브셋 자동화를 작업해주셨습니다.
 
 [@leejh10003](https://github.com/leejh10003): Pretendard를 사용하는 [예시](/examples)를 제작해주셨습니다.
 

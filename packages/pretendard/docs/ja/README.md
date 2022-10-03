@@ -308,7 +308,7 @@ Pretendardは[SIL Open Font License](https://scripts.sil.org/OFL)として配布
 
 Pretendardにコントリビュートしていただきありがとうございます。
 
-[@hiddenest](https://github.com/hiddenest): WebフォントサービングとCDNアップデートの自動化、サブセット作業、そしてダイナミックサブセットを作成しました。
+[@hiddenest](https://github.com/hiddenest): WebフォントサービングとCDNアップデートの自動化、サブセットとダイナミックサブセットの作業、そして可変ダイナミックサブセットの自動化を作業してくださいました。
 
 [@leejh10003](https://github.com/leejh10003): Pretendardが使用された[例](/examples)を作成しました。
 

@@ -309,7 +309,7 @@ Pretendard is distributed under the [SIL Open Fonts License](https://scripts.sil
 
 Thank you so much for your contribution to Pretendard.
 
-[@hiddenest](https://github.com/hiddenest): Worked webfonts serving, created CDN assets purge automation, Provided webfonts subset, and dynamic subsets.
+[@hiddenest](https://github.com/hiddenest): Worked serving webfonts, creating CDN assets purge automation, Providing webfonts subset and dynamic subset, and automating variable dynamic subset.
 
 [@leejh10003](https://github.com/leejh10003): Worked making an [example](/examples) using Pretendard.
 

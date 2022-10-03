@@ -58,7 +58,7 @@ To use Korea-localized glyphs, add this code to stylesheets: `font-feature-setti
 
 ### Dynamic subset
 
-Use the code below to use Pretendard faster by loads the font-slices required from the page in a Japanese environment. Provided font-family name is `"Pretendard JP"`.
+Use the code below to use Pretendard JP faster by loads the font-slices required from the page. Provided font-family name is `"Pretendard JP"`.
 
 #### HTML
 
@@ -110,9 +110,63 @@ Use the code below to use Pretendard faster by loads the font-slices required fr
 
 ---
 
-### Variable font
+### Variable dynamic subset
 
-Use the code below to use the variable weight property. Provided font-family name is `"Pretendard JP Variable"`.
+You can use Pretendard JP dynamic subset much faster and smaller file size with a variable weight axis. Use the code below to use Pretendard JP with the variable dynamic subset. Provided font-family name is `"Pretendard JP Variable"`.
+
+#### HTML
+
+```html
+<link rel="stylesheet" as="style" crossorigin href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.6/dist/web/variable/pretendardvariable-jp-dynamic-subset.css" />
+```
+
+<details>
+
+<summary>cdnjs, UNPKG</summary>
+
+###### cdnjs
+
+```html
+<link rel="stylesheet" as="style" crossorigin href="https://cdnjs.cloudflare.com/ajax/libs/pretendard/1.3.6/variable/pretendardvariable-jp-dynamic-subset.css" />
+```
+
+###### UNPKG
+
+```html
+<link rel="stylesheet" as="style" crossorigin href="https://unpkg.com/pretendard@1.3.6/dist/web/variable/pretendardvariable-jp-dynamic-subset.css" />
+```
+
+</details>
+
+#### CSS
+
+```css
+@import url("https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.6/dist/web/variable/pretendardvariable-jp-dynamic-subset.css");
+```
+
+<details>
+
+<summary>cdnjs, UNPKG</summary>
+
+###### cdnjs
+
+```css
+@import url("https://cdnjs.cloudflare.com/ajax/libs/pretendard/1.3.6/variable/pretendardvariable-jp-dynamic-subset.css");
+```
+
+###### UNPKG
+
+```css
+@import url("https://unpkg.com/pretendard@1.3.6/dist/web/variable/pretendardvariable-jp-dynamic-subset.css");
+```
+
+</details>
+
+---
+
+### Variable
+
+Use the code below to use Pretendard JP with a variable weight axis. Provided font-family name is `"Pretendard JP Variable"`.
 
 #### HTML
 
@@ -169,7 +223,7 @@ Use the code below to use the variable weight property. Provided font-family nam
 If you want to provide a comfortable environment anywhere, the following font-family are recommended:
 
 ```css
-font-family: "Pretendard JP", Pretendard, -apple-system, BlinkMacSystemFont, system-ui, Roboto, "Helvetica Neue", "Segoe UI", "Hiragino Sans", "Apple SD Gothic Neo", Meiryo,   "Noto Sans JP", "Noto Sans KR", "Malgun Gothic", Osaka, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", sans-serif;
+font-family: "Pretendard JP", Pretendard, -apple-system, BlinkMacSystemFont, system-ui, Roboto, "Helvetica Neue", "Segoe UI", "Hiragino Sans", "Apple SD Gothic Neo", Meiryo, "Noto Sans JP", "Noto Sans KR", "Malgun Gothic", Osaka, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", sans-serif;
 ```
 
 ## System font

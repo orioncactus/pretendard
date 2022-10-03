@@ -82,7 +82,7 @@ Use the code below to use Pretendard as a web font with entire features. Provide
 
 ### Dynamic subset
 
-Pretendard provides the dynamic subset same as Noto Sans Korean from Google Fonts to solve the webfonts capacity problem. Use the code below to use Pretendard faster by loads the font-slices required from the page. Provided font-family name is `Pretendard`.
+Use the code below to use Pretendard faster by loads the font-slices required from the page. Provided font-family name is `Pretendard`.
 
 #### HTML
 
@@ -134,9 +134,63 @@ Pretendard provides the dynamic subset same as Noto Sans Korean from Google Font
 
 ---
 
-### Variable font
+### Variable dynamic subset
 
-Use the code below to use the variable weight property. Provided font-family name is `"Pretendard Variable"`.
+You can use Pretendard dynamic subset much faster and smaller file size with a variable weight axis. Use the code below to use Pretendard with the variable dynamic subset. Provided font-family name is `"Pretendard Variable"`.
+
+#### HTML
+
+```html
+<link rel="stylesheet" as="style" crossorigin href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.6/dist/web/variable/pretendardvariable-dynamic-subset.css" />
+```
+
+<details>
+
+<summary>cdnjs, UNPKG</summary>
+
+###### cdnjs
+
+```html
+<link rel="stylesheet" as="style" crossorigin href="https://cdnjs.cloudflare.com/ajax/libs/pretendard/1.3.6/variable/pretendardvariable-dynamic-subset.css" />
+```
+
+###### UNPKG
+
+```html
+<link rel="stylesheet" as="style" crossorigin href="https://unpkg.com/pretendard@1.3.6/dist/web/variable/pretendardvariable-dynamic-subset.css" />
+```
+
+</details>
+
+#### CSS
+
+```css
+@import url("https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.6/dist/web/variable/pretendardvariable-dynamic-subset.css");
+```
+
+<details>
+
+<summary>cdnjs, UNPKG</summary>
+
+###### cdnjs
+
+```css
+@import url("https://cdnjs.cloudflare.com/ajax/libs/pretendard/1.3.6/variable/pretendardvariable-dynamic-subset.css");
+```
+
+###### UNPKG
+
+```css
+@import url("https://unpkg.com/pretendard@1.3.6/dist/web/variable/pretendardvariable-dynamic-subset.css");
+```
+
+</details>
+
+---
+
+### Variable
+
+Use the code below to use Pretendard with a variable weight axis. Provided font-family name is `"Pretendard Variable"`.
 
 #### HTML
 

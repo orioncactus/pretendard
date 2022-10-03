@@ -17,7 +17,7 @@ Pretendardの背景や特徴、OpenType機能などを説明する詳細な話�
 
 ### [最新バージョンをダウンロード](https://github.com/orioncactus/pretendard/releases/latest)
 
-## Web フォント
+## Webフォント
 
 CDNを利用してPretendardを使用することができ、トグルをチェックして基本的に推奨するjsDelivr以外にもcdnjsとUNPKGの中でお好みのCDNを使用することができます。
 
@@ -133,6 +133,59 @@ Pretendardは、Webフォントの容量の問題を解決するための方法�
 </details>
 
 ---
+
+### 可変ダイナミックサブセット
+
+従来のダイナミックサブセットより著しく少ない容量で可変Weight属性と共にPretendardを使用できます。 モダンブラウザでより快適にPretendardを使用するには、以下のコードを使用してください。 使用するfont-familyの名前は`"Pretendard Variable"`です。
+
+
+#### HTML
+
+```html
+<link rel="stylesheet" as="style" crossorigin href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.6/dist/web/variable/pretendardvariable-dynamic-subset.css" />
+```
+
+<details>
+
+<summary>cdnjsおよびUNPKG</summary>
+
+###### cdnjs
+
+```html
+<link rel="stylesheet" as="style" crossorigin href="https://cdnjs.cloudflare.com/ajax/libs/pretendard/1.3.6/variable/pretendardvariable-dynamic-subset.css" />
+```
+
+###### UNPKG
+
+```html
+<link rel="stylesheet" as="style" crossorigin href="https://unpkg.com/pretendard@1.3.6/dist/web/variable/pretendardvariable-dynamic-subset.css" />
+```
+
+</details>
+
+#### CSS
+
+```css
+@import url("https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.6/dist/web/variable/pretendardvariable-dynamic-subset.css");
+```
+
+<details>
+
+<summary>cdnjsおよびUNPKG</summary>
+
+###### cdnjs
+
+```css
+@import url("https://cdnjs.cloudflare.com/ajax/libs/pretendard/1.3.6/variable/pretendardvariable-dynamic-subset.css");
+```
+
+###### UNPKG
+
+```css
+@import url("https://unpkg.com/pretendard@1.3.6/dist/web/variable/pretendardvariable-dynamic-subset.css");
+```
+
+</details>
 
 ### 可変フォント
 

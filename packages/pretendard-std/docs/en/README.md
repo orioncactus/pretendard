@@ -2,7 +2,7 @@
 
 ## Pretendard Std
 
-Use the code below to use Pretendard as a webfonts in a Latin environment with less capacity. Provided font-family name is `"Pretendard Std"`.
+Use the code below to use Pretendard as a webfonts in a Latin environment with a small file size. Provided font-family name is `"Pretendard Std"`.
 
 #### HTML
 
@@ -56,7 +56,7 @@ Use the code below to use Pretendard as a webfonts in a Latin environment with l
 
 ### Dynamic subset
 
-Use the code below to use Pretendard faster by loads the font-slices required from the page in a Latin environment. Provided font-family name is `"Pretendard Std"`.
+Use the code below to use Pretendard Std faster by loads the font-slices required from the page. Provided font-family name is `"Pretendard Std"`.
 
 #### HTML
 
@@ -108,9 +108,63 @@ Use the code below to use Pretendard faster by loads the font-slices required fr
 
 ---
 
-### Variable font
+### Variable dynamic subset
 
-Use the code below to use the variable weight property. Provided font-family name is `"Pretendard Std Variable"`.
+You can use Pretendard Std dynamic subset much faster and smaller file size with a variable weight axis. Use the code below to use Pretendard Std with the variable dynamic subset. Provided font-family name is `"Pretendard Std Variable"`.
+
+#### HTML
+
+```html
+<link rel="stylesheet" as="style" crossorigin href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.6/dist/web/variable/pretendardvariable-std-dynamic-subset.css" />
+```
+
+<details>
+
+<summary>cdnjs, UNPKG</summary>
+
+###### cdnjs
+
+```html
+<link rel="stylesheet" as="style" crossorigin href="https://cdnjs.cloudflare.com/ajax/libs/pretendard/1.3.6/variable/pretendardvariable-std-dynamic-subset.css" />
+```
+
+###### UNPKG
+
+```html
+<link rel="stylesheet" as="style" crossorigin href="https://unpkg.com/pretendard@1.3.6/dist/web/variable/pretendardvariable-std-dynamic-subset.css" />
+```
+
+</details>
+
+#### CSS
+
+```css
+@import url("https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.6/dist/web/variable/pretendardvariable-std-dynamic-subset.css");
+```
+
+<details>
+
+<summary>cdnjs, UNPKG</summary>
+
+###### cdnjs
+
+```css
+@import url("https://cdnjs.cloudflare.com/ajax/libs/pretendard/1.3.6/variable/pretendardvariable-std-dynamic-subset.css");
+```
+
+###### UNPKG
+
+```css
+@import url("https://unpkg.com/pretendard@1.3.6/dist/web/variable/pretendardvariable-std-dynamic-subset.css");
+```
+
+</details>
+
+---
+
+### Variable
+
+Use the code below to use Pretendard Std with a variable weight axis. Provided font-family name is `"Pretendard Std Variable"`.
 
 #### HTML
 

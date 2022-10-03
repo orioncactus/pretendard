@@ -110,6 +110,61 @@
 
 ---
 
+### 可変ダイナミックサブセット
+
+従来のダイナミックサブセットより著しく少ない容量で可変Weight属性と共にPretendard JPを使用できます。 モダンブラウザでより快適にPretendard JPを使用するには、以下のコードを使用してください。 使用するfont-familyの名前は`"Pretendard JP Variable"`です。
+
+
+#### HTML
+
+```html
+<link rel="stylesheet" as="style" crossorigin href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.6/dist/web/variable/pretendardvariable-jp-dynamic-subset.css" />
+```
+
+<details>
+
+<summary>cdnjsおよびUNPKG</summary>
+
+###### cdnjs
+
+```html
+<link rel="stylesheet" as="style" crossorigin href="https://cdnjs.cloudflare.com/ajax/libs/pretendard/1.3.6/variable/pretendardvariable-jp-dynamic-subset.css" />
+```
+
+###### UNPKG
+
+```html
+<link rel="stylesheet" as="style" crossorigin href="https://unpkg.com/pretendard@1.3.6/dist/web/variable/pretendardvariable-jp-dynamic-subset.css" />
+```
+
+</details>
+
+#### CSS
+
+```css
+@import url("https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.6/dist/web/variable/pretendardvariable-jp-dynamic-subset.css");
+```
+
+<details>
+
+<summary>cdnjsおよびUNPKG</summary>
+
+###### cdnjs
+
+```css
+@import url("https://cdnjs.cloudflare.com/ajax/libs/pretendard/1.3.6/variable/pretendardvariable-jp-dynamic-subset.css");
+```
+
+###### UNPKG
+
+```css
+@import url("https://unpkg.com/pretendard@1.3.6/dist/web/variable/pretendardvariable-jp-dynamic-subset.css");
+```
+
+</details>
+
+---
+
 ### 可変フォント
 
 可変weightプロパティを使用するには、下記のコードを使用してください。使用するfont-family名は`"Pretendard JP Variable"`です。

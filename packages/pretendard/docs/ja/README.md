@@ -300,6 +300,24 @@ yay -S otf-pretendard
 yay -S ttf-pretendard
 ```
 
+## クレジット
+
+#### ベース
+
+[Inter](https://github.com/rsms/inter): Rasmus Andersson
+
+#### ハングルグリフ
+
+[Source Han Sans](https://github.com/adobe-fonts/source-han-sans): Adobe, Google, Sandoll Communications; Jang Soo-young and Kang Joo-yeon
+
+#### 仮名グリフ
+
+[M PLUS 1p](https://github.com/coz-m/MPLUS_FONTS): UNDERFOREST DESIGN; 森下浩司
+
+#### リデザインと制作
+
+Kil Hyung-jin
+
 ## ライセンス
 
 Pretendardは[SIL Open Font License](https://scripts.sil.org/OFL)として配布されています。フォントの単独販売を除くすべての商業行為、修正、再配布が可能です。

@@ -221,13 +221,13 @@ Use the code below to use Pretendard Std with a variable weight axis. Provided f
 If you want to fit the system-font as much as possible, the following font-family are recommended:
 
 ```css
-font-family: -apple-system, BlinkMacSystemFont, "Pretendard Std", Pretendard, Roboto, "Segoe UI", "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", sans-serif;
+font-family: -apple-system, BlinkMacSystemFont, "Pretendard Std Variable", "Pretendard Std", Pretendard, Roboto, "Segoe UI", "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", sans-serif;
 ```
 
 If you want to provide the same environment anywhere, the following font-family are recommended:
 
 ```css
-font-family: "Pretendard Std", Pretendard, -apple-system, BlinkMacSystemFont, system-ui, Roboto, "Helvetica Neue", "Segoe UI", "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", sans-serif;
+font-family: "Pretendard Std Variable", "Pretendard Std", Pretendard, -apple-system, BlinkMacSystemFont, system-ui, Roboto, "Helvetica Neue", "Segoe UI", "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", sans-serif;
 ```
 
 ## System font

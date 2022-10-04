@@ -219,13 +219,13 @@
 시스템에 가능한 맞추고자 한다면 아래와 같은 font-family 구성을 추천합니다.
 
 ```css
-font-family: -apple-system, BlinkMacSystemFont, "Pretendard Std", Pretendard, Roboto, "Segoe UI", "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", sans-serif;
+font-family: -apple-system, BlinkMacSystemFont, "Pretendard Std Variable", "Pretendard Std", Pretendard, Roboto, "Segoe UI", "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", sans-serif;
 ```
 
 어디서든 동일한 환경을 가지고자 한다면 아래와 같은 font-family 구성을 추천합니다.
 
 ```css
-font-family: "Pretendard Std", Pretendard, -apple-system, BlinkMacSystemFont, system-ui, Roboto, "Helvetica Neue", "Segoe UI", "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", sans-serif;
+font-family: "Pretendard Std Variable", "Pretendard Std", Pretendard, -apple-system, BlinkMacSystemFont, system-ui, Roboto, "Helvetica Neue", "Segoe UI", "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", sans-serif;
 ```
 
 ## 시스템 폰트

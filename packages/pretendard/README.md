@@ -188,6 +188,62 @@ Pretendard에서는 웹폰트 용량 문제를 해결하기 위한 방법으로 
 
 ---
 
+
+
+#### 다이나믹 서브셋
+
+Pretendard에서는 웹폰트 용량 문제를 해결하기 위한 방법으로 Google Fonts에서 제공하는 Noto Sans KR와 동일한 방식으로 동적 서브셋을 제공합니다. 페이지에 포함된 글자만 선택적으로 다운로드해 보다 빠르게 Pretendard를 표시하려면 아래 코드를 사용하세요. 사용하는 font-family 이름은 `Pretendard Variable` 입니다.
+
+##### HTML
+
+```html
+<link rel="stylesheet" as="style" crossorigin href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.5/dist/web/variable/pretendardvariable-dynamic-subset.css" />
+```
+
+<details>
+
+<summary>cdnjs 및 UNPKG</summary>
+
+##### cdnjs
+
+```html
+<link rel="stylesheet" as="style" crossorigin href="https://cdnjs.cloudflare.com/ajax/libs/pretendard/1.3.5/variable/pretendardvariable-dynamic-subset.css" />
+```
+
+##### UNPKG
+
+```html
+<link rel="stylesheet" as="style" crossorigin href="https://unpkg.com/pretendard@1.3.5/dist/web/variable/pretendardvariable-dynamic-subset.css" />
+```
+
+</details>
+
+#### CSS
+
+```css
+@import url("https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.5/dist/web/variable/pretendardvariable-dynamic-subset.css");
+```
+
+<details>
+
+<summary>cdnjs 및 UNPKG</summary>
+
+##### cdnjs
+
+```css
+@import url("https://cdnjs.cloudflare.com/ajax/libs/pretendard/1.3.5/variable/pretendardvariable-dynamic-subset.css");
+```
+
+##### UNPKG
+
+```css
+@import url("https://unpkg.com/pretendard@1.3.5/dist/web/variable/pretendardvariable-dynamic-subset.css");
+```
+
+</details>
+
+---
+
 ### font-family
 
 시스템에 가능한 맞추고자 한다면 아래와 같은 font-family 구성을 추천합니다.

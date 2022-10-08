@@ -23,8 +23,8 @@ CDN을 이용해 Pretendard를 사용할 수 있으며, 토글을 확인해 기�
 
 일본어 및 한국 한자 환경, 또는 라틴 환경 전용 Pretendard 웹폰트를 사용하려면 아래로 이동하세요:
 
-- [Pretendard JP](/packages/pretendard-jp/)
-- [Pretendard Std](/packages/pretendard-std/)
+-   [Pretendard JP](/packages/pretendard-jp/)
+-   [Pretendard Std](/packages/pretendard-std/)
 
 ---
 
@@ -33,7 +33,7 @@ CDN을 이용해 Pretendard를 사용할 수 있으며, 토글을 확인해 기�
 #### HTML
 
 ```html
-<link rel="stylesheet" as="style" crossorigin href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.5/dist/web/static/pretendard.css" />
+<link rel="stylesheet" as="style" crossorigin href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.6/dist/web/static/pretendard.css" />
 ```
 
 <details>
@@ -43,13 +43,13 @@ CDN을 이용해 Pretendard를 사용할 수 있으며, 토글을 확인해 기�
 ###### cdnjs
 
 ```html
-<link rel="stylesheet" as="style" crossorigin href="https://cdnjs.cloudflare.com/ajax/libs/pretendard/1.3.5/static/pretendard.css" />
+<link rel="stylesheet" as="style" crossorigin href="https://cdnjs.cloudflare.com/ajax/libs/pretendard/1.3.6/static/pretendard.css" />
 ```
 
 ###### UNPKG
 
 ```html
-<link rel="stylesheet" as="style" crossorigin href="https://unpkg.com/pretendard@1.3.5/dist/web/static/pretendard.css" />
+<link rel="stylesheet" as="style" crossorigin href="https://unpkg.com/pretendard@1.3.6/dist/web/static/pretendard.css" />
 ```
 
 </details>
@@ -57,7 +57,7 @@ CDN을 이용해 Pretendard를 사용할 수 있으며, 토글을 확인해 기�
 #### CSS
 
 ```css
-@import url("https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.5/dist/web/static/pretendard.css");
+@import url("https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.6/dist/web/static/pretendard.css");
 ```
 
 <details>
@@ -67,13 +67,13 @@ CDN을 이용해 Pretendard를 사용할 수 있으며, 토글을 확인해 기�
 ###### cdnjs
 
 ```css
-@import url("https://cdnjs.cloudflare.com/ajax/libs/pretendard/1.3.5/static/pretendard.css");
+@import url("https://cdnjs.cloudflare.com/ajax/libs/pretendard/1.3.6/static/pretendard.css");
 ```
 
 ###### UNPKG
 
 ```css
-@import url("https://unpkg.com/pretendard@1.3.5/dist/web/static/pretendard.css");
+@import url("https://unpkg.com/pretendard@1.3.6/dist/web/static/pretendard.css");
 ```
 
 </details>
@@ -82,12 +82,12 @@ CDN을 이용해 Pretendard를 사용할 수 있으며, 토글을 확인해 기�
 
 ### 다이나믹 서브셋
 
-Pretendard에서는 웹폰트 용량 문제를 해결하기 위한 방법으로 Google Fonts에서 제공하는 Noto Sans KR와 동일한 방식으로 동적 서브셋을 제공합니다. 페이지에 포함된 글자만 선택적으로 다운로드해 보다 빠르게 Pretendard를 표시하려면 아래 코드를 사용하세요. 사용하는 font-family 이름은 `Pretendard` 입니다.
+Pretendard에서는 웹폰트 용량 문제를 해결하기 위한 방법으로 Google Fonts에서 제공하는 한글 글꼴과 동일한 방식으로 동적 서브셋을 제공합니다. 페이지에 포함된 글자만 선택적으로 다운로드해 보다 빠르게 Pretendard를 사용하려면 아래 코드를 사용하세요. 사용하는 font-family 이름은 `Pretendard` 입니다.
 
 #### HTML
 
 ```html
-<link rel="stylesheet" as="style" crossorigin href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.5/dist/web/static/pretendard-dynamic-subset.css" />
+<link rel="stylesheet" as="style" crossorigin href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.6/dist/web/static/pretendard-dynamic-subset.css" />
 ```
 
 <details>
@@ -97,13 +97,13 @@ Pretendard에서는 웹폰트 용량 문제를 해결하기 위한 방법으로 
 ###### cdnjs
 
 ```html
-<link rel="stylesheet" as="style" crossorigin href="https://cdnjs.cloudflare.com/ajax/libs/pretendard/1.3.5/static/pretendard-dynamic-subset.css" />
+<link rel="stylesheet" as="style" crossorigin href="https://cdnjs.cloudflare.com/ajax/libs/pretendard/1.3.6/static/pretendard-dynamic-subset.css" />
 ```
 
 ###### UNPKG
 
 ```html
-<link rel="stylesheet" as="style" crossorigin href="https://unpkg.com/pretendard@1.3.5/dist/web/static/pretendard-dynamic-subset.css" />
+<link rel="stylesheet" as="style" crossorigin href="https://unpkg.com/pretendard@1.3.6/dist/web/static/pretendard-dynamic-subset.css" />
 ```
 
 </details>
@@ -111,7 +111,7 @@ Pretendard에서는 웹폰트 용량 문제를 해결하기 위한 방법으로 
 #### CSS
 
 ```css
-@import url("https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.5/dist/web/static/pretendard-dynamic-subset.css");
+@import url("https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.6/dist/web/static/pretendard-dynamic-subset.css");
 ```
 
 <details>
@@ -121,13 +121,67 @@ Pretendard에서는 웹폰트 용량 문제를 해결하기 위한 방법으로 
 ###### cdnjs
 
 ```css
-@import url("https://cdnjs.cloudflare.com/ajax/libs/pretendard/1.3.5/static/pretendard-dynamic-subset.css");
+@import url("https://cdnjs.cloudflare.com/ajax/libs/pretendard/1.3.6/static/pretendard-dynamic-subset.css");
 ```
 
 ###### UNPKG
 
 ```css
-@import url("https://unpkg.com/pretendard@1.3.5/dist/web/static/pretendard-dynamic-subset.css");
+@import url("https://unpkg.com/pretendard@1.3.6/dist/web/static/pretendard-dynamic-subset.css");
+```
+
+</details>
+
+---
+
+### 가변 다이나믹 서브셋
+
+가변 다이나믹 서브셋으로 가변 Weight 속성과 함께 기존 다이나믹 서브셋보다 현저히 적은 용량으로 Pretendard를 사용할 수 있습니다. 모던 브라우저에서 더욱 쾌적하게 Pretendard를 사용하려면 아래 코드를 사용하세요. 사용하는 font-family 이름은 `"Pretendard Variable"` 입니다.
+
+#### HTML
+
+```html
+<link rel="stylesheet" as="style" crossorigin href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.6/dist/web/variable/pretendardvariable-dynamic-subset.css" />
+```
+
+<details>
+
+<summary>cdnjs 및 UNPKG</summary>
+
+###### cdnjs
+
+```html
+<link rel="stylesheet" as="style" crossorigin href="https://cdnjs.cloudflare.com/ajax/libs/pretendard/1.3.6/variable/pretendardvariable-dynamic-subset.css" />
+```
+
+###### UNPKG
+
+```html
+<link rel="stylesheet" as="style" crossorigin href="https://unpkg.com/pretendard@1.3.6/dist/web/variable/pretendardvariable-dynamic-subset.css" />
+```
+
+</details>
+
+#### CSS
+
+```css
+@import url("https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.6/dist/web/variable/pretendardvariable-dynamic-subset.css");
+```
+
+<details>
+
+<summary>cdnjs 및 UNPKG</summary>
+
+###### cdnjs
+
+```css
+@import url("https://cdnjs.cloudflare.com/ajax/libs/pretendard/1.3.6/variable/pretendardvariable-dynamic-subset.css");
+```
+
+###### UNPKG
+
+```css
+@import url("https://unpkg.com/pretendard@1.3.6/dist/web/variable/pretendardvariable-dynamic-subset.css");
 ```
 
 </details>
@@ -141,7 +195,7 @@ Pretendard에서는 웹폰트 용량 문제를 해결하기 위한 방법으로 
 #### HTML
 
 ```html
-<link rel="stylesheet" as="style" crossorigin href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.5/dist/web/variable/pretendardvariable.css" />
+<link rel="stylesheet" as="style" crossorigin href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.6/dist/web/variable/pretendardvariable.css" />
 ```
 
 <details>
@@ -151,13 +205,13 @@ Pretendard에서는 웹폰트 용량 문제를 해결하기 위한 방법으로 
 ###### cdnjs
 
 ```html
-<link rel="stylesheet" as="style" crossorigin href="https://cdnjs.cloudflare.com/ajax/libs/pretendard/1.3.5/variable/pretendardvariable.css" />
+<link rel="stylesheet" as="style" crossorigin href="https://cdnjs.cloudflare.com/ajax/libs/pretendard/1.3.6/variable/pretendardvariable.css" />
 ```
 
 ###### UNPKG
 
 ```html
-<link rel="stylesheet" as="style" crossorigin href="https://unpkg.com/pretendard@1.3.5/dist/web/variable/pretendardvariable.css" />
+<link rel="stylesheet" as="style" crossorigin href="https://unpkg.com/pretendard@1.3.6/dist/web/variable/pretendardvariable.css" />
 ```
 
 </details>
@@ -165,7 +219,7 @@ Pretendard에서는 웹폰트 용량 문제를 해결하기 위한 방법으로 
 #### CSS
 
 ```css
-@import url("https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.5/dist/web/variable/pretendardvariable.css");
+@import url("https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.6/dist/web/variable/pretendardvariable.css");
 ```
 
 <details>
@@ -175,13 +229,13 @@ Pretendard에서는 웹폰트 용량 문제를 해결하기 위한 방법으로 
 ###### cdnjs
 
 ```css
-@import url("https://cdnjs.cloudflare.com/ajax/libs/pretendard/1.3.5/variable/pretendardvariable.css");
+@import url("https://cdnjs.cloudflare.com/ajax/libs/pretendard/1.3.6/variable/pretendardvariable.css");
 ```
 
 ###### UNPKG
 
 ```css
-@import url("https://unpkg.com/pretendard@1.3.5/dist/web/variable/pretendardvariable.css");
+@import url("https://unpkg.com/pretendard@1.3.6/dist/web/variable/pretendardvariable.css");
 ```
 
 </details>
@@ -193,26 +247,26 @@ Pretendard에서는 웹폰트 용량 문제를 해결하기 위한 방법으로 
 시스템에 가능한 맞추고자 한다면 아래와 같은 font-family 구성을 추천합니다.
 
 ```css
-font-family: -apple-system, BlinkMacSystemFont, "Apple SD Gothic Neo", Pretendard, Roboto, "Noto Sans KR", "Segoe UI", "Malgun Gothic", "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", sans-serif;
+font-family: -apple-system, BlinkMacSystemFont, "Apple SD Gothic Neo", "Pretendard Variable", Pretendard, Roboto, "Noto Sans KR", "Segoe UI", "Malgun Gothic", "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", sans-serif;
 ```
 
 어디서든 동일한 환경을 가지고자 한다면 아래와 같은 font-family 구성을 추천합니다.
 
 ```css
-font-family: Pretendard, -apple-system, BlinkMacSystemFont, system-ui, Roboto, "Helvetica Neue", "Segoe UI", "Apple SD Gothic Neo", "Noto Sans KR", "Malgun Gothic", "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", sans-serif;
+font-family: "Pretendard Variable", Pretendard, -apple-system, BlinkMacSystemFont, system-ui, Roboto, "Helvetica Neue", "Segoe UI", "Apple SD Gothic Neo", "Noto Sans KR", "Malgun Gothic", "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", sans-serif;
 ```
 
 ## 패키지
 
 Pretendard는 아래와 같은 패키지 매니저에서 사용할 수 있습니다.
 
-- [npm](https://www.npmjs.com/package/pretendard)
+-   [npm](https://www.npmjs.com/package/pretendard)
 
 ```bash
 npm i pretendard
 ```
 
-- [Yarn](https://yarnpkg.com/package/pretendard)
+-   [Yarn](https://yarnpkg.com/package/pretendard)
 
 ```bash
 yarn add pretendard
@@ -222,14 +276,14 @@ yarn add pretendard
 
 Pretendard를 기기에 설치해 시스템 폰트로 사용할 수 있습니다.
 
-- [homebrew-cask-fonts](https://github.com/Homebrew/homebrew-cask-fonts)
+-   [homebrew-cask-fonts](https://github.com/Homebrew/homebrew-cask-fonts)
 
 ```bash
 brew tap homebrew/cask-fonts
 brew install font-pretendard
 ```
 
-- [nix](https://github.com/NixOS/nixpkgs)
+-   [nix](https://github.com/NixOS/nixpkgs)
 
 ```nix
 # configuration.nix
@@ -240,12 +294,30 @@ brew install font-pretendard
 }
 ```
 
-- [AUR](https://aur.archlinux.org/packages?K=pretendard)
+-   [AUR](https://aur.archlinux.org/packages?K=pretendard)
 
 ```bash
 yay -S otf-pretendard
 yay -S ttf-pretendard
 ```
+
+## 크레딧
+
+#### 바탕
+
+[Inter](https://github.com/rsms/inter): Rasmus Andersson
+
+#### 한글 바탕
+
+[Source Han Sans](https://github.com/adobe-fonts/source-han-sans): Adobe, Google, 산돌커뮤니케이션; 장수영, 강주연
+
+#### 가나 바탕
+
+[M PLUS 1p](https://github.com/coz-m/MPLUS_FONTS): UNDERFOREST DESIGN; Coji Morishita
+
+#### 리디자인 및 제작
+
+길형진
 
 ## 라이선스
 
@@ -255,7 +327,7 @@ Pretendard는 [SIL 오픈 폰트 라이선스](https://scripts.sil.org/OFL)로 �
 
 Pretendard에 기여해주셔서 진심으로 감사드립니다.
 
-[@hiddenest](https://github.com/hiddenest): 웹폰트 서빙 및 CDN 업데이트 자동화, 서브셋 작업, 그리고 다이나믹 서브셋을 제작해주셨습니다.
+[@hiddenest](https://github.com/hiddenest): 웹폰트 서빙 및 CDN 업데이트 자동화, 서브셋 및 다이나믹 서브셋 제작, 그리고 가변 다이나믹 서브셋 자동화를 작업해주셨습니다.
 
 [@leejh10003](https://github.com/leejh10003): Pretendard를 사용하는 [예시](/examples)를 제작해주셨습니다.
 

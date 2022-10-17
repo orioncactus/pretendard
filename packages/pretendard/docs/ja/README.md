@@ -17,14 +17,14 @@ Pretendardの背景や特徴、OpenType機能などを説明する詳細な話�
 
 ### [最新バージョンをダウンロード](https://github.com/orioncactus/pretendard/releases/latest)
 
-## Web フォント
+## Webフォント
 
 CDNを利用してPretendardを使用することができ、トグルをチェックして基本的に推奨するjsDelivr以外にもcdnjsとUNPKGの中でお好みのCDNを使用することができます。
 
 日本語およびKS漢字環境、またはラテン環境専用のPretendardのWebフォントを使用するには、以下をご覧ください。
 
-- [Pretendard JP](/packages/pretendard-jp/docs/ja/)
-- [Pretendard Std(英語)](/packages/pretendard-std/docs/en/)
+-   [Pretendard JP](/packages/pretendard-jp/docs/ja/)
+-   [Pretendard Std(英語)](/packages/pretendard-std/docs/en/)
 
 ---
 
@@ -33,7 +33,7 @@ CDNを利用してPretendardを使用することができ、トグルをチェ�
 #### HTML
 
 ```html
-<link rel="stylesheet" as="style" crossorigin href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.5/dist/web/static/pretendard.css" />
+<link rel="stylesheet" as="style" crossorigin href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.6/dist/web/static/pretendard.css" />
 ```
 
 <details>
@@ -43,13 +43,13 @@ CDNを利用してPretendardを使用することができ、トグルをチェ�
 ###### cdnjs
 
 ```html
-<link rel="stylesheet" as="style" crossorigin href="https://cdnjs.cloudflare.com/ajax/libs/pretendard/1.3.5/static/pretendard.css" />
+<link rel="stylesheet" as="style" crossorigin href="https://cdnjs.cloudflare.com/ajax/libs/pretendard/1.3.6/static/pretendard.css" />
 ```
 
 ###### UNPKG
 
 ```html
-<link rel="stylesheet" as="style" crossorigin href="https://unpkg.com/pretendard@1.3.5/dist/web/static/pretendard.css" />
+<link rel="stylesheet" as="style" crossorigin href="https://unpkg.com/pretendard@1.3.6/dist/web/static/pretendard.css" />
 ```
 
 </details>
@@ -57,7 +57,7 @@ CDNを利用してPretendardを使用することができ、トグルをチェ�
 #### CSS
 
 ```css
-@import url("https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.5/dist/web/static/pretendard.css");
+@import url("https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.6/dist/web/static/pretendard.css");
 ```
 
 <details>
@@ -67,13 +67,13 @@ CDNを利用してPretendardを使用することができ、トグルをチェ�
 ###### cdnjs
 
 ```css
-@import url("https://cdnjs.cloudflare.com/ajax/libs/pretendard/1.3.5/static/pretendard.css");
+@import url("https://cdnjs.cloudflare.com/ajax/libs/pretendard/1.3.6/static/pretendard.css");
 ```
 
 ###### UNPKG
 
 ```css
-@import url("https://unpkg.com/pretendard@1.3.5/dist/web/static/pretendard.css");
+@import url("https://unpkg.com/pretendard@1.3.6/dist/web/static/pretendard.css");
 ```
 
 </details>
@@ -87,7 +87,7 @@ Pretendardは、Webフォントの容量の問題を解決するための方法�
 #### HTML
 
 ```html
-<link rel="stylesheet" as="style" crossorigin href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.5/dist/web/static/pretendard-dynamic-subset.css" />
+<link rel="stylesheet" as="style" crossorigin href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.6/dist/web/static/pretendard-dynamic-subset.css" />
 ```
 
 <details>
@@ -97,13 +97,13 @@ Pretendardは、Webフォントの容量の問題を解決するための方法�
 ###### cdnjs
 
 ```html
-<link rel="stylesheet" as="style" crossorigin href="https://cdnjs.cloudflare.com/ajax/libs/pretendard/1.3.5/static/pretendard-dynamic-subset.css" />
+<link rel="stylesheet" as="style" crossorigin href="https://cdnjs.cloudflare.com/ajax/libs/pretendard/1.3.6/static/pretendard-dynamic-subset.css" />
 ```
 
 ###### UNPKG
 
 ```html
-<link rel="stylesheet" as="style" crossorigin href="https://unpkg.com/pretendard@1.3.5/dist/web/static/pretendard-dynamic-subset.css" />
+<link rel="stylesheet" as="style" crossorigin href="https://unpkg.com/pretendard@1.3.6/dist/web/static/pretendard-dynamic-subset.css" />
 ```
 
 </details>
@@ -111,7 +111,7 @@ Pretendardは、Webフォントの容量の問題を解決するための方法�
 #### CSS
 
 ```css
-@import url("https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.5/dist/web/static/pretendard-dynamic-subset.css");
+@import url("https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.6/dist/web/static/pretendard-dynamic-subset.css");
 ```
 
 <details>
@@ -121,18 +121,71 @@ Pretendardは、Webフォントの容量の問題を解決するための方法�
 ###### cdnjs
 
 ```css
-@import url("https://cdnjs.cloudflare.com/ajax/libs/pretendard/1.3.5/static/pretendard-dynamic-subset.css");
+@import url("https://cdnjs.cloudflare.com/ajax/libs/pretendard/1.3.6/static/pretendard-dynamic-subset.css");
 ```
 
 ###### UNPKG
 
 ```css
-@import url("https://unpkg.com/pretendard@1.3.5/dist/web/static/pretendard-dynamic-subset.css");
+@import url("https://unpkg.com/pretendard@1.3.6/dist/web/static/pretendard-dynamic-subset.css");
 ```
 
 </details>
 
 ---
+
+### 可変ダイナミックサブセット
+
+従来のダイナミックサブセットより著しく少ない容量で可変Weight属性と共にPretendardを使用できます。 モダンブラウザでより快適にPretendardを使用するには、以下のコードを使用してください。 使用するfont-familyの名前は`"Pretendard Variable"`です。
+
+
+#### HTML
+
+```html
+<link rel="stylesheet" as="style" crossorigin href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.6/dist/web/variable/pretendardvariable-dynamic-subset.css" />
+```
+
+<details>
+
+<summary>cdnjsおよびUNPKG</summary>
+
+###### cdnjs
+
+```html
+<link rel="stylesheet" as="style" crossorigin href="https://cdnjs.cloudflare.com/ajax/libs/pretendard/1.3.6/variable/pretendardvariable-dynamic-subset.css" />
+```
+
+###### UNPKG
+
+```html
+<link rel="stylesheet" as="style" crossorigin href="https://unpkg.com/pretendard@1.3.6/dist/web/variable/pretendardvariable-dynamic-subset.css" />
+```
+
+</details>
+
+#### CSS
+
+```css
+@import url("https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.6/dist/web/variable/pretendardvariable-dynamic-subset.css");
+```
+
+<details>
+
+<summary>cdnjsおよびUNPKG</summary>
+
+###### cdnjs
+
+```css
+@import url("https://cdnjs.cloudflare.com/ajax/libs/pretendard/1.3.6/variable/pretendardvariable-dynamic-subset.css");
+```
+
+###### UNPKG
+
+```css
+@import url("https://unpkg.com/pretendard@1.3.6/dist/web/variable/pretendardvariable-dynamic-subset.css");
+```
+
+</details>
 
 ### 可変フォント
 
@@ -141,7 +194,7 @@ Pretendardは、Webフォントの容量の問題を解決するための方法�
 #### HTML
 
 ```html
-<link rel="stylesheet" as="style" crossorigin href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.5/dist/web/variable/pretendardvariable.css" />
+<link rel="stylesheet" as="style" crossorigin href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.6/dist/web/variable/pretendardvariable.css" />
 ```
 
 <details>
@@ -151,13 +204,13 @@ Pretendardは、Webフォントの容量の問題を解決するための方法�
 ###### cdnjs
 
 ```html
-<link rel="stylesheet" as="style" crossorigin href="https://cdnjs.cloudflare.com/ajax/libs/pretendard/1.3.5/variable/pretendardvariable.css" />
+<link rel="stylesheet" as="style" crossorigin href="https://cdnjs.cloudflare.com/ajax/libs/pretendard/1.3.6/variable/pretendardvariable.css" />
 ```
 
 ###### UNPKG
 
 ```html
-<link rel="stylesheet" as="style" crossorigin href="https://unpkg.com/pretendard@1.3.5/dist/web/variable/pretendardvariable.css" />
+<link rel="stylesheet" as="style" crossorigin href="https://unpkg.com/pretendard@1.3.6/dist/web/variable/pretendardvariable.css" />
 ```
 
 </details>
@@ -165,7 +218,7 @@ Pretendardは、Webフォントの容量の問題を解決するための方法�
 #### CSS
 
 ```css
-@import url("https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.5/dist/web/variable/pretendardvariable.css");
+@import url("https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.6/dist/web/variable/pretendardvariable.css");
 ```
 
 <details>
@@ -175,13 +228,13 @@ Pretendardは、Webフォントの容量の問題を解決するための方法�
 ###### cdnjs
 
 ```css
-@import url("https://cdnjs.cloudflare.com/ajax/libs/pretendard/1.3.5/variable/pretendardvariable.css");
+@import url("https://cdnjs.cloudflare.com/ajax/libs/pretendard/1.3.6/variable/pretendardvariable.css");
 ```
 
 ###### UNPKG
 
 ```css
-@import url("https://unpkg.com/pretendard@1.3.5/dist/web/variable/pretendardvariable.css");
+@import url("https://unpkg.com/pretendard@1.3.6/dist/web/variable/pretendardvariable.css");
 ```
 
 </details>
@@ -193,26 +246,26 @@ Pretendardは、Webフォントの容量の問題を解決するための方法�
 システムにできるだけ合わせたいなら、下記のようなfont-family構成をおすすめします。
 
 ```css
-font-family: -apple-system, BlinkMacSystemFont, "Apple SD Gothic Neo", Pretendard, Roboto, "Noto Sans KR", "Segoe UI", "Malgun Gothic", "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", sans-serif;
+font-family: -apple-system, BlinkMacSystemFont, "Apple SD Gothic Neo", "Pretendard Variable", Pretendard, Roboto, "Noto Sans KR", "Segoe UI", "Malgun Gothic", "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", sans-serif;
 ```
 
 どこでも同じ環境を持ちたければ下記のようなfont-family構成をおすすめします。
 
 ```css
-font-family: Pretendard, -apple-system, BlinkMacSystemFont, system-ui, Roboto, "Helvetica Neue", "Segoe UI", "Apple SD Gothic Neo", "Noto Sans KR", "Malgun Gothic", "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", sans-serif;
+font-family: "Pretendard Variable", Pretendard, -apple-system, BlinkMacSystemFont, system-ui, Roboto, "Helvetica Neue", "Segoe UI", "Apple SD Gothic Neo", "Noto Sans KR", "Malgun Gothic", "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", sans-serif;
 ```
 
 ## パッケージ
 
 Pretendardは以下のパッケージマネージャで利用できます。
 
-- [npm](https://www.npmjs.com/package/pretendard)
+-   [npm](https://www.npmjs.com/package/pretendard)
 
 ```bash
 npm i pretendard
 ```
 
-- [Yarn](https://yarnpkg.com/package/pretendard)
+-   [Yarn](https://yarnpkg.com/package/pretendard)
 
 ```bash
 yarn add pretendard
@@ -222,14 +275,14 @@ yarn add pretendard
 
 Pretendardはデバイスにインストールしてシステムフォントとして使用できます。
 
-- [homebrew-cask-fonts](https://github.com/Homebrew/homebrew-cask-fonts)
+-   [homebrew-cask-fonts](https://github.com/Homebrew/homebrew-cask-fonts)
 
 ```bash
 brew tap homebrew/cask-fonts
 brew install font-pretendard
 ```
 
-- [nix](https://github.com/NixOS/nixpkgs)
+-   [nix](https://github.com/NixOS/nixpkgs)
 
 ```nix
 # configuration.nix
@@ -240,12 +293,30 @@ brew install font-pretendard
 }
 ```
 
-- [AUR](https://aur.archlinux.org/packages?K=pretendard)
+-   [AUR](https://aur.archlinux.org/packages?K=pretendard)
 
 ```bash
 yay -S otf-pretendard
 yay -S ttf-pretendard
 ```
+
+## クレジット
+
+#### ベース
+
+[Inter](https://github.com/rsms/inter): Rasmus Andersson
+
+#### ハングルグリフ
+
+[Source Han Sans](https://github.com/adobe-fonts/source-han-sans): Adobe, Google, Sandoll Communications; Jang Soo-young and Kang Joo-yeon
+
+#### 仮名グリフ
+
+[M PLUS 1p](https://github.com/coz-m/MPLUS_FONTS): UNDERFOREST DESIGN; 森下浩司
+
+#### リデザインと制作
+
+Kil Hyung-jin
 
 ## ライセンス
 
@@ -255,7 +326,7 @@ Pretendardは[SIL Open Font License](https://scripts.sil.org/OFL)として配布
 
 Pretendardにコントリビュートしていただきありがとうございます。
 
-[@hiddenest](https://github.com/hiddenest): WebフォントサービングとCDNアップデートの自動化、サブセット作業、そしてダイナミックサブセットを作成しました。
+[@hiddenest](https://github.com/hiddenest): WebフォントサービングとCDNアップデートの自動化、サブセットとダイナミックサブセットの作業、そして可変ダイナミックサブセットの自動化を作業してくださいました。
 
 [@leejh10003](https://github.com/leejh10003): Pretendardが使用された[例](/examples)を作成しました。
 

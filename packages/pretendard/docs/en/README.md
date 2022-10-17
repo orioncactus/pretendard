@@ -23,8 +23,8 @@ You can use Pretendard via CDN, and in addition to the jsDelivr recommended by d
 
 To use Pretendard webfonts for Japanese or Latin/Greek/Cyrillic-only, check below:
 
-- [Pretendard JP](/packages/pretendard-jp/docs/en/)
-- [Pretendard Std](/packages/pretendard-std/docs/en/)
+-   [Pretendard JP](/packages/pretendard-jp/docs/en/)
+-   [Pretendard Std](/packages/pretendard-std/docs/en/)
 
 ---
 
@@ -33,7 +33,7 @@ Use the code below to use Pretendard as a web font with entire features. Provide
 #### HTML
 
 ```html
-<link rel="stylesheet" as="style" crossorigin href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.5/dist/web/static/pretendard.css" />
+<link rel="stylesheet" as="style" crossorigin href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.6/dist/web/static/pretendard.css" />
 ```
 
 <details>
@@ -43,13 +43,13 @@ Use the code below to use Pretendard as a web font with entire features. Provide
 ###### cdnjs
 
 ```html
-<link rel="stylesheet" as="style" crossorigin href="https://cdnjs.cloudflare.com/ajax/libs/pretendard/1.3.5/static/pretendard.css" />
+<link rel="stylesheet" as="style" crossorigin href="https://cdnjs.cloudflare.com/ajax/libs/pretendard/1.3.6/static/pretendard.css" />
 ```
 
 ###### UNPKG
 
 ```html
-<link rel="stylesheet" as="style" crossorigin href="https://unpkg.com/pretendard@1.3.5/dist/web/static/pretendard.css" />
+<link rel="stylesheet" as="style" crossorigin href="https://unpkg.com/pretendard@1.3.6/dist/web/static/pretendard.css" />
 ```
 
 </details>
@@ -57,7 +57,7 @@ Use the code below to use Pretendard as a web font with entire features. Provide
 #### CSS
 
 ```css
-@import url("https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.5/dist/web/static/pretendard.css");
+@import url("https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.6/dist/web/static/pretendard.css");
 ```
 
 <details>
@@ -67,13 +67,13 @@ Use the code below to use Pretendard as a web font with entire features. Provide
 ###### cdnjs
 
 ```css
-@import url("https://cdnjs.cloudflare.com/ajax/libs/pretendard/1.3.5/static/pretendard.css");
+@import url("https://cdnjs.cloudflare.com/ajax/libs/pretendard/1.3.6/static/pretendard.css");
 ```
 
 ###### UNPKG
 
 ```css
-@import url("https://unpkg.com/pretendard@1.3.5/dist/web/static/pretendard.css");
+@import url("https://unpkg.com/pretendard@1.3.6/dist/web/static/pretendard.css");
 ```
 
 </details>
@@ -82,12 +82,12 @@ Use the code below to use Pretendard as a web font with entire features. Provide
 
 ### Dynamic subset
 
-Pretendard provides the dynamic subset same as Noto Sans Korean from Google Fonts to solve the webfonts capacity problem. Use the code below to use Pretendard faster by loads the font-slices required from the page. Provided font-family name is `Pretendard`.
+Use the code below to use Pretendard faster by loads the font-slices required from the page. Provided font-family name is `Pretendard`.
 
 #### HTML
 
 ```html
-<link rel="stylesheet" as="style" crossorigin href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.5/dist/web/static/pretendard-dynamic-subset.css" />
+<link rel="stylesheet" as="style" crossorigin href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.6/dist/web/static/pretendard-dynamic-subset.css" />
 ```
 
 <details>
@@ -97,13 +97,13 @@ Pretendard provides the dynamic subset same as Noto Sans Korean from Google Font
 ###### cdnjs
 
 ```html
-<link rel="stylesheet" as="style" crossorigin href="https://cdnjs.cloudflare.com/ajax/libs/pretendard/1.3.5/static/pretendard-dynamic-subset.css" />
+<link rel="stylesheet" as="style" crossorigin href="https://cdnjs.cloudflare.com/ajax/libs/pretendard/1.3.6/static/pretendard-dynamic-subset.css" />
 ```
 
 ###### UNPKG
 
 ```html
-<link rel="stylesheet" as="style" crossorigin href="https://unpkg.com/pretendard@1.3.5/dist/web/static/pretendard-dynamic-subset.css" />
+<link rel="stylesheet" as="style" crossorigin href="https://unpkg.com/pretendard@1.3.6/dist/web/static/pretendard-dynamic-subset.css" />
 ```
 
 </details>
@@ -111,7 +111,7 @@ Pretendard provides the dynamic subset same as Noto Sans Korean from Google Font
 #### CSS
 
 ```css
-@import url("https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.5/dist/web/static/pretendard-dynamic-subset.css");
+@import url("https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.6/dist/web/static/pretendard-dynamic-subset.css");
 ```
 
 <details>
@@ -121,43 +121,43 @@ Pretendard provides the dynamic subset same as Noto Sans Korean from Google Font
 ###### cdnjs
 
 ```css
-@import url("https://cdnjs.cloudflare.com/ajax/libs/pretendard/1.3.5/static/pretendard-dynamic-subset.css");
+@import url("https://cdnjs.cloudflare.com/ajax/libs/pretendard/1.3.6/static/pretendard-dynamic-subset.css");
 ```
 
 ###### UNPKG
 
 ```css
-@import url("https://unpkg.com/pretendard@1.3.5/dist/web/static/pretendard-dynamic-subset.css");
+@import url("https://unpkg.com/pretendard@1.3.6/dist/web/static/pretendard-dynamic-subset.css");
 ```
 
 </details>
 
 ---
 
-### Variable font
+### Variable dynamic subset
 
-Use the code below to use the variable weight property. Provided font-family name is `"Pretendard Variable"`.
+You can use Pretendard dynamic subset much faster and smaller file size with a variable weight axis. Use the code below to use Pretendard with the variable dynamic subset. Provided font-family name is `"Pretendard Variable"`.
 
 #### HTML
 
 ```html
-<link rel="stylesheet" as="style" crossorigin href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.5/dist/web/variable/pretendardvariable.css" />
+<link rel="stylesheet" as="style" crossorigin href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.6/dist/web/variable/pretendardvariable-dynamic-subset.css" />
 ```
 
 <details>
 
-<summary> cdnjs and UNPKG</summary>
+<summary>cdnjs, UNPKG</summary>
 
 ###### cdnjs
 
 ```html
-<link rel="stylesheet" as="style" crossorigin href="https://cdnjs.cloudflare.com/ajax/libs/pretendard/1.3.5/variable/pretendardvariable.css" />
+<link rel="stylesheet" as="style" crossorigin href="https://cdnjs.cloudflare.com/ajax/libs/pretendard/1.3.6/variable/pretendardvariable-dynamic-subset.css" />
 ```
 
 ###### UNPKG
 
 ```html
-<link rel="stylesheet" as="style" crossorigin href="https://unpkg.com/pretendard@1.3.5/dist/web/variable/pretendardvariable.css" />
+<link rel="stylesheet" as="style" crossorigin href="https://unpkg.com/pretendard@1.3.6/dist/web/variable/pretendardvariable-dynamic-subset.css" />
 ```
 
 </details>
@@ -165,7 +165,61 @@ Use the code below to use the variable weight property. Provided font-family nam
 #### CSS
 
 ```css
-@import url("https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.5/dist/web/variable/pretendardvariable.css");
+@import url("https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.6/dist/web/variable/pretendardvariable-dynamic-subset.css");
+```
+
+<details>
+
+<summary>cdnjs, UNPKG</summary>
+
+###### cdnjs
+
+```css
+@import url("https://cdnjs.cloudflare.com/ajax/libs/pretendard/1.3.6/variable/pretendardvariable-dynamic-subset.css");
+```
+
+###### UNPKG
+
+```css
+@import url("https://unpkg.com/pretendard@1.3.6/dist/web/variable/pretendardvariable-dynamic-subset.css");
+```
+
+</details>
+
+---
+
+### Variable
+
+Use the code below to use Pretendard with a variable weight axis. Provided font-family name is `"Pretendard Variable"`.
+
+#### HTML
+
+```html
+<link rel="stylesheet" as="style" crossorigin href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.6/dist/web/variable/pretendardvariable.css" />
+```
+
+<details>
+
+<summary> cdnjs and UNPKG</summary>
+
+###### cdnjs
+
+```html
+<link rel="stylesheet" as="style" crossorigin href="https://cdnjs.cloudflare.com/ajax/libs/pretendard/1.3.6/variable/pretendardvariable.css" />
+```
+
+###### UNPKG
+
+```html
+<link rel="stylesheet" as="style" crossorigin href="https://unpkg.com/pretendard@1.3.6/dist/web/variable/pretendardvariable.css" />
+```
+
+</details>
+
+#### CSS
+
+```css
+@import url("https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.6/dist/web/variable/pretendardvariable.css");
 ```
 
 <details>
@@ -175,13 +229,13 @@ Use the code below to use the variable weight property. Provided font-family nam
 ###### cdnjs
 
 ```css
-@import url("https://cdnjs.cloudflare.com/ajax/libs/pretendard/1.3.5/variable/pretendardvariable.css");
+@import url("https://cdnjs.cloudflare.com/ajax/libs/pretendard/1.3.6/variable/pretendardvariable.css");
 ```
 
 ###### UNPKG
 
 ```css
-@import url("https://unpkg.com/pretendard@1.3.5/dist/web/variable/pretendardvariable.css");
+@import url("https://unpkg.com/pretendard@1.3.6/dist/web/variable/pretendardvariable.css");
 ```
 
 </details>
@@ -193,26 +247,26 @@ Use the code below to use the variable weight property. Provided font-family nam
 If you want to fit the system-font as much as possible, the following font-family are recommended:
 
 ```css
-font-family: -apple-system, BlinkMacSystemFont, "Apple SD Gothic Neo", Pretendard, Roboto, "Noto Sans KR", "Segoe UI", "Malgun Gothic", "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", sans-serif;
+font-family: -apple-system, BlinkMacSystemFont, "Apple SD Gothic Neo", "Pretendard Variable", Pretendard, Roboto, "Noto Sans KR", "Segoe UI", "Malgun Gothic", "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", sans-serif;
 ```
 
 If you want to provide the same environment anywhere, the following font-family are recommended:
 
 ```css
-font-family: Pretendard, -apple-system, BlinkMacSystemFont, system-ui, Roboto, "Helvetica Neue", "Segoe UI", "Apple SD Gothic Neo", "Noto Sans KR", "Malgun Gothic", "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", sans-serif;
+font-family: "Pretendard Variable", Pretendard, -apple-system, BlinkMacSystemFont, system-ui, Roboto, "Helvetica Neue", "Segoe UI", "Apple SD Gothic Neo", "Noto Sans KR", "Malgun Gothic", "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", sans-serif;
 ```
 
 ## Package
 
 Pretendard is available in the following package managers.
 
-- [npm](https://www.npmjs.com/package/pretendard)
+-   [npm](https://www.npmjs.com/package/pretendard)
 
 ```bash
 npm i pretendard
 ```
 
-- [Yarn](https://yarnpkg.com/package/pretendard)
+-   [Yarn](https://yarnpkg.com/package/pretendard)
 
 ```bash
 yarn add pretendard
@@ -222,14 +276,14 @@ yarn add pretendard
 
 Pretendard can be installed on the machine and used as a system font.
 
-- [homebrew-cask-fonts](https://github.com/Homebrew/homebrew-cask-fonts)
+-   [homebrew-cask-fonts](https://github.com/Homebrew/homebrew-cask-fonts)
 
 ```bash
 brew tap homebrew/cask-fonts
 brew install font-pretendard
 ```
 
-- [nix](https://github.com/NixOS/nixpkgs)
+-   [nix](https://github.com/NixOS/nixpkgs)
 
 ```nix
 # configuration.nix
@@ -240,12 +294,30 @@ brew install font-pretendard
 }
 ```
 
-- [AUR](https://aur.archlinux.org/packages?K=pretendard)
+-   [AUR](https://aur.archlinux.org/packages?K=pretendard)
 
 ```bash
 yay -S otf-pretendard
 yay -S ttf-pretendard
 ```
+
+## Credit
+
+#### Base
+
+[Inter](https://github.com/rsms/inter): Rasmus Andersson
+
+#### Hangul glyphs
+
+[Source Han Sans](https://github.com/adobe-fonts/source-han-sans): Adobe, Google, Sandoll Communications; Jang Soo-young and Kang Joo-yeon
+
+#### Kana glyphs
+
+[M PLUS 1p](https://github.com/coz-m/MPLUS_FONTS): UNDERFOREST DESIGN; Coji Morishita
+
+#### Combine and redesign
+
+Kil Hyung-jin
 
 ## License
 
@@ -255,7 +327,7 @@ Pretendard is distributed under the [SIL Open Fonts License](https://scripts.sil
 
 Thank you so much for your contribution to Pretendard.
 
-[@hiddenest](https://github.com/hiddenest): Worked webfonts serving, created CDN assets purge automation, Provided webfonts subset, and dynamic subsets.
+[@hiddenest](https://github.com/hiddenest): Worked serving webfonts, creating CDN assets purge automation, Providing webfonts subset and dynamic subset, and automating variable dynamic subset.
 
 [@leejh10003](https://github.com/leejh10003): Worked making an [example](/examples) using Pretendard.
 

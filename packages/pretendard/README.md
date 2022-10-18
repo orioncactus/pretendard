@@ -486,6 +486,12 @@ Pretendard에 기여해주셔서 진심으로 감사드립니다.
    <a href="https://www.hancomdocs.com/#gh-dark-mode-only">
       <img src="https://user-images.githubusercontent.com/67222970/193015153-66ed803c-cf26-43fc-8f2e-dab8673e0774.png" align="center" height="30" alt="한컴독스" hspace="16">
    </a>
+   <a href="https://academy.prompie.com/today-school/#gh-light-mode-only">
+      <img src="https://user-images.githubusercontent.com/15134041/192709482-44d72b31-1e1e-409c-b60c-3911b8ea440d.png" align="center" height="50" alt="오늘학교" hspace="16">
+   </a>
+   <a href="https://academy.prompie.com/today-school/#gh-dark-mode-only">
+      <img src="https://user-images.githubusercontent.com/15134041/192709465-7a4d2192-d78e-456d-acb3-a471766cb153.png" align="center" height="50" alt="오늘학교" hspace="16">
+   </a>
 </p>
 
 ## 의견 나누기

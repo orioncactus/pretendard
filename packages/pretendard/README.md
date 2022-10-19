@@ -492,6 +492,9 @@ Pretendard에 기여해주셔서 진심으로 감사드립니다.
    <a href="https://academy.prompie.com/today-school/#gh-dark-mode-only">
       <img src="https://user-images.githubusercontent.com/15134041/192709465-7a4d2192-d78e-456d-acb3-a471766cb153.png" align="center" height="50" alt="오늘학교" hspace="16">
    </a>
+   <a href="https://inflearn.com">
+      <img src="https://user-images.githubusercontent.com/76927618/196689071-a8e888a9-b607-4663-b6b2-2ccb3fbdd011.png" align="center" height="30" alt="인프런" hspace="16">
+   </a>
 </p>
 
 ## 의견 나누기

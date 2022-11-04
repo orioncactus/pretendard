@@ -495,6 +495,12 @@ Pretendard에 기여해주셔서 진심으로 감사드립니다.
    <a href="https://inflearn.com">
       <img src="https://user-images.githubusercontent.com/76927618/196689071-a8e888a9-b607-4663-b6b2-2ccb3fbdd011.png" align="center" height="30" alt="인프런" hspace="16">
    </a>
+   <a href="https://airbridge.io/ko#gh-light-mode-only">
+      <img src="https://user-images.githubusercontent.com/8682478/199910898-3e789881-35dd-4190-959c-e879b8c85b90.png" align="center" height="40" alt="Airbridge" hspace="16">
+   </a>
+   <a href="https://airbridge.io/ko#gh-dark-mode-only">
+      <img src="https://user-images.githubusercontent.com/8682478/199910793-6268c402-6275-4a06-912d-956011c24e53.png" align="center" height="40" alt="Airbridge" hspace="16">
+   </a>
 </p>
 
 ## 의견 나누기

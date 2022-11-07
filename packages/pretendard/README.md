@@ -515,6 +515,24 @@ Pretendard에 기여해주셔서 진심으로 감사드립니다.
          <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/7247848/200340184-4e2e41d9-e7c0-42d2-9544-568f81936f7b.png">
          <img src="https://user-images.githubusercontent.com/7247848/200340176-b012e2c1-1200-46fe-ae9d-35f35c17ee58.png" align="center" height="50" alt="Airbridge" hspace="16">
       </picture>
+   </a> 
+   <a href="https://rememberapp.co.kr">
+      <picture>
+         <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/7247848/200341496-435d6724-991d-4e96-bff1-337667b44765.png">
+         <img src="https://user-images.githubusercontent.com/7247848/200341488-e5d3cd7c-59a4-4ff7-ba4e-e4c07b4ded10.png" align="center" height="50" alt="Remember" hspace="16">
+      </picture>
+   </a>
+   <a href="http://www.ag.co.kr">
+      <picture>
+         <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/7247848/200342024-13e66aa2-7584-40aa-9067-9c5e714b01b5.png">
+         <img src="https://user-images.githubusercontent.com/7247848/200342028-dcb8d2ab-4a10-4985-b790-431acc53e717.png" align="center" height="50" alt="AG" hspace="16">
+      </picture>
+   </a>
+   <a href="http://sema.seoul.go.kr">
+      <picture>
+         <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/7247848/200342734-4f0833e2-75c6-43a7-a8e2-38c80dfa835d.png">
+         <img src="https://user-images.githubusercontent.com/7247848/200342728-7aa0fdaf-e8e4-4e7f-b558-240283401e91.png" align="center" height="50" alt="SeMA" hspace="16">
+      </picture>
    </a>
 </p>
 

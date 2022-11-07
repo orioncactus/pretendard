@@ -475,31 +475,31 @@ Pretendard에 기여해주셔서 진심으로 감사드립니다.
       <img src="https://user-images.githubusercontent.com/36615680/191430575-704d18d9-95d9-41d6-836e-5fa400b51971.png" align="center" height="50" alt="Lunit" hspace="16">
    </a>
    <a href="https://www.iamport.kr/#gh-light-mode-only">
-      <img src="https://user-images.githubusercontent.com/67222970/191770669-4eefe0f5-8c61-45db-8d49-c39b1c34e9c0.png" align="center" height="30" alt="iamport" hspace="16">
+      <img src="https://user-images.githubusercontent.com/7247848/200340516-4216b834-6f0e-4e66-8cca-4e5d7a830cc6.png" align="center" height="50" alt="iamport" hspace="16">
    </a>
    <a href="https://www.iamport.kr/#gh-dark-mode-only">
-      <img src="https://user-images.githubusercontent.com/67222970/191770855-499e4268-42b8-4fd0-9aeb-1468928240e2.png" align="center" height="30" alt="iamport" hspace="16">
+      <img src="https://user-images.githubusercontent.com/7247848/200340512-aad72431-66da-4ee7-85de-e89f845fdc0c.png" align="center" height="50" alt="iamport" hspace="16">
    </a>
    <a href="https://www.hancomdocs.com/#gh-light-mode-only">
-      <img src="https://user-images.githubusercontent.com/67222970/193015090-2988de41-a3f8-410c-9067-771725328ecd.png" align="center" height="30" alt="한컴독스" hspace="16">
+      <img src="https://user-images.githubusercontent.com/7247848/200340399-d4821752-7c29-4a54-acc3-dbc76676597c.png" align="center" height="50" alt="한컴독스" hspace="16">
    </a>
    <a href="https://www.hancomdocs.com/#gh-dark-mode-only">
-      <img src="https://user-images.githubusercontent.com/67222970/193015153-66ed803c-cf26-43fc-8f2e-dab8673e0774.png" align="center" height="30" alt="한컴독스" hspace="16">
+      <img src="https://user-images.githubusercontent.com/7247848/200340404-ff5bbd60-7bbe-4faf-8360-d96afcc08f33.png" align="center" height="50" alt="한컴독스" hspace="16">
    </a>
    <a href="https://academy.prompie.com/today-school/#gh-light-mode-only">
-      <img src="https://user-images.githubusercontent.com/15134041/192709482-44d72b31-1e1e-409c-b60c-3911b8ea440d.png" align="center" height="50" alt="오늘학교" hspace="16">
+      <img src="https://user-images.githubusercontent.com/7247848/200340301-b33eddc3-1565-480d-aa1a-d87bed12e03f.png" align="center" height="50" alt="오늘학교" hspace="16">
    </a>
    <a href="https://academy.prompie.com/today-school/#gh-dark-mode-only">
-      <img src="https://user-images.githubusercontent.com/15134041/192709465-7a4d2192-d78e-456d-acb3-a471766cb153.png" align="center" height="50" alt="오늘학교" hspace="16">
+      <img src="https://user-images.githubusercontent.com/7247848/200340305-7dc9ee77-325a-46fe-a3c3-db81c87990ca.png" align="center" height="50" alt="오늘학교" hspace="16">
    </a>
    <a href="https://inflearn.com">
-      <img src="https://user-images.githubusercontent.com/76927618/196689071-a8e888a9-b607-4663-b6b2-2ccb3fbdd011.png" align="center" height="30" alt="인프런" hspace="16">
+      <img src="https://user-images.githubusercontent.com/7247848/200340051-6e9f692f-0bfb-432c-8a88-f4b2ebf64274.png" align="center" height="50" alt="인프런" hspace="16">
    </a>
    <a href="https://airbridge.io/ko#gh-light-mode-only">
-      <img src="https://user-images.githubusercontent.com/8682478/199910898-3e789881-35dd-4190-959c-e879b8c85b90.png" align="center" height="40" alt="Airbridge" hspace="16">
+      <img src="https://user-images.githubusercontent.com/7247848/200340176-b012e2c1-1200-46fe-ae9d-35f35c17ee58.png" align="center" height="50" alt="Airbridge" hspace="16">
    </a>
    <a href="https://airbridge.io/ko#gh-dark-mode-only">
-      <img src="https://user-images.githubusercontent.com/8682478/199910793-6268c402-6275-4a06-912d-956011c24e53.png" align="center" height="40" alt="Airbridge" hspace="16">
+      <img src="https://user-images.githubusercontent.com/7247848/200340184-4e2e41d9-e7c0-42d2-9544-568f81936f7b.png" align="center" height="50" alt="Airbridge" hspace="16">
    </a>
 </p>
 

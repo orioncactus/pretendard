@@ -10,12 +10,12 @@ jobs:
     runs-on: ubuntu-latest
     if: contains(github.event.head_commit.message, 'release:')
     steps:
-    - uses: actions/checkout@v2
+    - uses: actions/checkout@v3
       with:
         fetch-depth: '0'
     - name: pip cache
       id: pip-cache
-      uses: actions/cache@v2
+      uses: actions/cache@v3
       with:
         path: ~/.cache/pip
         key: ${{ runner.os }}-pip-${{ hashFiles('**/requirements.txt') }}
@@ -23,7 +23,7 @@ jobs:
           ${{ runner.os }}-pip-
     - name: node cache
       id: node-cache
-      uses: actions/cache@v2
+      uses: actions/cache@v3
       with:
         path: |
           .yarn/cache

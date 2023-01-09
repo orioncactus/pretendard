@@ -9,10 +9,10 @@ jobs:
   upload:
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@v2
+    - uses: actions/checkout@v3
     - name: node cache
       id: node-cache
-      uses: actions/cache@v2
+      uses: actions/cache@v3
       with:
         path: |
           .yarn/cache
@@ -56,7 +56,7 @@ jobs:
     needs: upload
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@v2
+    - uses: actions/checkout@v3
     - name: Purge jsDelivr cache
       run: |
         curl https://purge.jsdelivr.net/gh/orioncactus/pretendard/dist/web/static

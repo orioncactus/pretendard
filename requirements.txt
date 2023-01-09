@@ -1,7 +1,10 @@
+## pip-outdated requirements.txt
+# https://pypi.org/project/pip-outdated/
+
 appdirs~=1.4.4
-six~=1.10
+six~=1.16.0
 fs<3,>=2.2.0
-pytz~=2021.1
-fonttools~=4.25.2
+pytz~=2022.7
+fonttools~=4.38.0
 Brotli~=1.0.9
-zopfli~=0.1.8
+zopfli~=0.2.2

@@ -6,54 +6,140 @@ on:
       - main
 
 jobs:
-  auto-update:
+  pretendard:
     runs-on: ubuntu-latest
     if: contains(github.event.head_commit.message, 'release:')
+    strategy:
+      matrix:
+        shard: ["1/6", "2/6", "3/6", "4/6", "5/6", "6/6"]
+        include:
+          - shard: "1/6"
+            branch: "ori-1"
+          - shard: "2/6"
+            branch: "ori-2"
+          - shard: "3/6"
+            branch: "ori-3"
+          - shard: "4/6"
+            branch: "ori-4"
+          - shard: "5/6"
+            branch: "ori-5"
+          - shard: "6/6"
+            branch: "ori-6"
     steps:
     - uses: actions/checkout@v3
       with:
         fetch-depth: '0'
-    - name: pip cache
-      id: pip-cache
-      uses: actions/cache@v3
+    - uses: ./.github/actions/setup-pip
+    - uses: ./.github/actions/setup-yarn
+    - uses: ./.github/actions/subset-push
       with:
-        path: ~/.cache/pip
-        key: ${{ runner.os }}-pip-${{ hashFiles('**/requirements.txt') }}
-        restore-keys: |
-          ${{ runner.os }}-pip-
-    - name: node cache
-      id: node-cache
-      uses: actions/cache@v3
+        workspace: pretendard
+        shard: ${{ matrix.shard }}
+        branch: ${{ matrix.branch }}
+
+  pretendard-jp:
+    runs-on: ubuntu-latest
+    if: contains(github.event.head_commit.message, 'release:')
+    strategy:
+      matrix:
+        shard: ["1/8", "2/8", "3/8", "4/8", "5/8", "6/8", "7/8", "8/8"]
+        include:
+          - shard: "1/8"
+            branch: "jp-1"
+          - shard: "2/8"
+            branch: "jp-2"
+          - shard: "3/8"
+            branch: "jp-3"
+          - shard: "4/8"
+            branch: "jp-4"
+          - shard: "5/8"
+            branch: "jp-5"
+          - shard: "6/8"
+            branch: "jp-6"
+          - shard: "7/8"
+            branch: "jp-7"
+          - shard: "8/8"
+            branch: "jp-8"
+    steps:
+    - uses: actions/checkout@v3
       with:
-        path: |
-          .yarn/cache
-          **/tsconfig.tsbuildinfo
-        key: ${{ runner.os }}-node-${{ hashFiles('**/yarn.lock') }}
-        restore-keys: |
-          ${{ runner.os }}-node-
-    - run: pip install -r ./requirements.txt
-    - run: yarn install --immutable
-    - name: Build Dependency
-      run: |
-        yarn workspaces foreach -pt run build
-    - name: Generate webfonts
-      run: |
-        yarn workspaces foreach -pt run subset
+        fetch-depth: '0'
+    - uses: ./.github/actions/setup-pip
+    - uses: ./.github/actions/setup-yarn
+    - uses: ./.github/actions/subset-push
+      with:
+        workspace: pretendard-jp
+        shard: ${{ matrix.shard }}
+        branch: ${{ matrix.branch }}
+
+  pretendard-std:
+    runs-on: ubuntu-latest
+    if: contains(github.event.head_commit.message, 'release:')
+    strategy:
+      matrix:
+        shard: ["1/1"]
+        include:
+          - shard: "1/1"
+            branch: "std-1"
+    steps:
+    - uses: actions/checkout@v3
+      with:
+        fetch-depth: '0'
+    - uses: ./.github/actions/setup-pip
+    - uses: ./.github/actions/setup-yarn
     - name: Update example assets
       run: |
         cp -f ./packages/pretendard/dist/public/static/Pretendard-*.otf ./examples/flutter_pretendard/fonts
         cp -f ./packages/pretendard/dist/public/static/Pretendard-*.otf ./examples/react_native_pretendard/assets/fonts
-    - name: Commit Build File
-      uses: stefanzweifel/git-auto-commit-action@v4
+    - uses: ./.github/actions/subset-push
       with:
-        branch: main
-        file_pattern: packages/*/dist/web/** examples/**
-        commit_message: 'fix: Auto-generate assets'
+        workspace: pretendard-std
+        shard: ${{ matrix.shard }}
+        branch: ${{ matrix.branch }}
+
+  auto-update:
+    needs: [pretendard, pretendard-jp, pretendard-std]
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v3
+      with:
+        fetch-depth: '0'
+    - name: Commit Build File
+      shell: bash
+      run: |
+        # From ../actions/auto-commit
+        git config user.name "github-actions[bot]"
+        git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+        LAST_COMMIT_NAME="$(git log -n 1 --pretty=format:%an)"
+        LAST_COMMIT_EMAIL="$(git log -n 1 --pretty=format:%ae)"
+        LAST_COMMIT_AUTHOR="Co-authored-by: ${LAST_COMMIT_NAME} <${LAST_COMMIT_EMAIL}>"
+
+        BRANCHES=("ori-1" "ori-2" "ori-3" "ori-4" "ori-5" "ori-6" "jp-1" "jp-2" "jp-3" "jp-4" "jp-5" "jp-6" "jp-7" "jp-8" "std-1")
+        for BRANCH in "${BRANCHES[@]}"; do
+          if [[ "$(git rev-parse --verify origin/${BRANCH} 2>/dev/null)" ]]; then
+            echo "${BRANCH}"
+            git rebase "origin/${BRANCH}"
+            git push origin --delete "${BRANCH}"
+          fi
+        done
+
+        LOG="fix: Auto-generate assets"
+        while [[ "$(git log -2 --pretty=%B | tail -2)" == "${LOG}" ]]; do
+          TWO_LOG="$(git log -2 --pretty=%B)"
+          if [[ "$(echo ${TWO_LOG} | head -1)" ==  "$(echo ${TWO_LOG} | tail -1)" ]]; then
+            git reset --soft "HEAD~1"
+            git commit --amend -m "${LOG}" -m "${LAST_COMMIT_AUTHOR}"
+          fi
+        done
+
+        if [[ "$(git log @{push}..)" != "" ]]; then
+          git push
+        fi
     - name: Update dist stylesheets
       run: ./distCSS.sh
     - name: Commit updated dist stylesheets
-      uses: stefanzweifel/git-auto-commit-action@v4
+      uses: ./.github/actions/auto-commit
       with:
-        branch: main
         file_pattern: dist/*
-        commit_message: 'fix: Update dist stylesheets'
+        message: "fix: Update dist stylesheets"
+        branch: main

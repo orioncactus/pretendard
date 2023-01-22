@@ -124,8 +124,8 @@ jobs:
         done
 
         LOG="fix: Auto-generate assets"
-        while [[ "$(git log -2 --pretty=%B | tail -2)" == "${LOG}" ]]; do
-          TWO_LOG="$(git log -2 --pretty=%B)"
+        while [[ "$(git log -2 --pretty=%s | tail -1)" == "${LOG}" ]]; do
+          TWO_LOG="$(git log -2 --pretty=%s)"
           if [[ "$(echo ${TWO_LOG} | head -1)" ==  "$(echo ${TWO_LOG} | tail -1)" ]]; then
             git reset --soft "HEAD~1"
             git commit --amend -m "${LOG}" -m "${LAST_COMMIT_AUTHOR}"

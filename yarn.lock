@@ -916,9 +916,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"font-range@npm:^1.0.0":
-  version: 1.0.0
-  resolution: "font-range@npm:1.0.0"
+"font-range@npm:^1.0.2":
+  version: 1.0.2
+  resolution: "font-range@npm:1.0.2"
   dependencies:
     "@esm2cjs/execa": ^6.1.1-cjs.1
     "@esm2cjs/node-fetch": ^3.2.10
@@ -926,7 +926,7 @@ __metadata:
     css-tree: ^2.3.1
     piscina: ^3.2.0
     tslib: ^2.4.1
-  checksum: 9cc3285fb436de369301f6cda649813d844c315b2dd568df217d88d0eb8e7ed4f8cf65d95931c40bb0a2dc7e4763ca175dd3ef6b3bdd3bae05bbd598bf9e922f
+  checksum: 86810d6db31bb61de88f66168523a3abfaa6883c43582024235093c3cb610d3ab407fa0d4f82a87fb4d1472a1bc01044ff16dba6040873325a425449fbcc5ea4
   languageName: node
   linkType: hard
 
@@ -1990,7 +1990,7 @@ __metadata:
   dependencies:
     "@swc/core": ^1.3.25
     "@types/node": ^18.11.18
-    font-range: ^1.0.0
+    font-range: ^1.0.2
     tslib: ^2.4.1
     tsup: ^6.5.0
     typescript: ^4.9.4

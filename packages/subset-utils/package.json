@@ -19,7 +19,7 @@
     "build": "tsup src/index.ts --dts"
   },
   "dependencies": {
-    "font-range": "^1.0.0",
+    "font-range": "^1.0.2",
     "tslib": "^2.4.1"
   },
   "devDependencies": {

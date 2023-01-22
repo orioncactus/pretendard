@@ -88,7 +88,7 @@ async function createOption(kinds: TSubsetKinds, format: Tformat, fontInfo: IFon
   const baseLogFormat  = "Convert {ORIGIN} -> {OUTPUT}";
   const groupLogFormat = `\n== ${kinds} ${outType} ======\n` + baseLogFormat;
   const baseOption     = {
-    format,
+    format: format === "woff" ? "woff-zopfli" : format,
     saveDir: outDir,
     nameFormat: outName
   };

@@ -9,18 +9,8 @@ jobs:
   upload:
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@v2
-    - name: node cache
-      id: node-cache
-      uses: actions/cache@v2
-      with:
-        path: |
-          .yarn/cache
-          **/tsconfig.tsbuildinfo
-        key: ${{ runner.os }}-node-${{ hashFiles('**/yarn.lock') }}
-        restore-keys: |
-          ${{ runner.os }}-node-
-    - run: yarn install --immutable
+    - uses: actions/checkout@v3
+    - uses: ./.github/actions/setup-yarn
     - name: Set env
       run: |
         RELEASE_VERSION=${GITHUB_REF#refs/*/}
@@ -51,12 +41,6 @@ jobs:
           packages/Pretendard-${{ env.RELEASE_NAME }}.zip
           packages/PretendardJP-${{ env.RELEASE_NAME }}.zip
           packages/PretendardStd-${{ env.RELEASE_NAME }}.zip
-
-  cache-invalidation:
-    needs: upload
-    runs-on: ubuntu-latest
-    steps:
-    - uses: actions/checkout@v2
     - name: Purge jsDelivr cache
       run: |
         curl https://purge.jsdelivr.net/gh/orioncactus/pretendard/dist/web/static

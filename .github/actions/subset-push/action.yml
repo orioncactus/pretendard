@@ -1,0 +1,32 @@
+name: "subset and push"
+description: "Subset workspace's font"
+
+inputs:
+  workspace:
+    description: "Target workspace"
+    require: true
+  shard:
+    description: "Sharding definition like <index>/<total>"
+    require: true
+  branch:
+    description: "Upload branch"
+    require: true
+
+runs:
+  using: "composite"
+  steps:
+    - name: Build Dependency
+      shell: bash
+      run: |
+        yarn workspace subset-utils run build
+    - name: Generate webfonts
+      shell: bash
+      run: |
+        yarn workspace ${{ inputs.workspace }} run subset
+      env:
+        SHARD: ${{ inputs.shard }}
+    - uses: ./.github/actions/auto-commit
+      with:
+        file_pattern: packages/*/dist/web/** examples/**
+        message: "fix: Auto-generate assets"
+        branch: ${{ inputs.branch }}

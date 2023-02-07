@@ -1,0 +1,19 @@
+name: "setup yarn"
+description: "Setup yarn cache & install"
+
+runs:
+  using: "composite"
+  steps:
+    - name: node cache
+      id: node-cache
+      uses: actions/cache@v3
+      with:
+        path: |
+          .yarn/cache
+          **/tsconfig.tsbuildinfo
+        key: ${{ runner.os }}-node-${{ hashFiles('**/yarn.lock') }}
+        restore-keys: |
+          ${{ runner.os }}-node-${{ hashFiles('**/yarn.lock') }}
+          ${{ runner.os }}-node-
+    - run: yarn install --immutable
+      shell: bash

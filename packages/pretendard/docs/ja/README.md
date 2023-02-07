@@ -330,7 +330,7 @@ Pretendardにコントリビュートしていただきありがとうござい�
 
 [@leejh10003](https://github.com/leejh10003): Pretendardが使用された[例](/examples)を作成しました。
 
-[@black7375](https://github.com/black7375): すべてのWebフォントビルド自動化、npmjsおよびYarnにPublishおよびリリースファイル生成自動化、CDN URLでブザーニング改善、そしてmonorepo対応を作業してくださいました。
+[@black7375](https://github.com/black7375): すべてのWebフォントビルド自動化、npmjsおよびYarnにPublishおよびリリースファイル生成自動化、CDN URLでブザーニング改善、monorepo対応、そしてビルドパフォーマンスの向上を作業してくださいました。
 
 [@victorrica](https://github.com/victorrica): npmとYarn パッケージの配布を作業しました。
 

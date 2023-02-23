@@ -2,8 +2,10 @@
 
 # Pretendard
 
-![Thumbnail](/thumbnail.svg#gh-light-mode-only)
-![Thumbnail](/thumbnail-white.svg#gh-dark-mode-only)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="/thumbnail-white.svg">
+  <img src="/thumbnail.svg" alt="Thumbnail">
+</picture>
 
 Pretendard는 크로스 플랫폼으로 제품을 제공할 때, 그리고 다국어 타이포그래피에서도 자연스러운 현대적인 글꼴입니다. [Inter](https://github.com/rsms/inter)와 [본고딕](https://fonts.adobe.com/fonts/source-han-sans-korean), 그리고 [M PLUS 1p](https://github.com/coz-m/MPLUS_FONTS)을 바탕으로 다듬어진 Pretendard는 읽기 환경에서 가독성과 시각 보정을 위해 추가적인 작업을 하지 않아도 됩니다.
 
@@ -487,10 +489,10 @@ Pretendard에 기여해주셔서 진심으로 감사드립니다.
          <img src="https://user-images.githubusercontent.com/36615680/191430516-ad2f7efa-a6e7-4719-a01d-f9471ce9b6d5.png" align="center" height="50" alt="Lunit" hspace="16">
       </picture>
    </a>
-   <a href="https://www.iamport.kr">
+   <a href="https://portone.io">
       <picture>
-         <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/7247848/200340512-aad72431-66da-4ee7-85de-e89f845fdc0c.png">
-         <img src="https://user-images.githubusercontent.com/7247848/200340516-4216b834-6f0e-4e66-8cca-4e5d7a830cc6.png" align="center" height="50" alt="iamport" hspace="16">
+         <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/67222970/220677075-5f4f7a60-4e57-44c6-8590-0a46df45a1c4.svg">
+         <img src="https://user-images.githubusercontent.com/67222970/220676914-74c6c4db-ede4-44f6-99fd-7719dd9ef1f6.svg" align="center" height="35" alt="portone" hspace="16">
       </picture>
    </a>
    <a href="https://www.hancomdocs.com">

@@ -414,6 +414,8 @@ Pretendard에 기여해주셔서 진심으로 감사드립니다.
    <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/7247848/148690293-793bfc62-9708-4d26-9a73-8adc47bee2ca.png">
       <img src="https://user-images.githubusercontent.com/7247848/148688409-8d658514-cf4f-486b-bd81-c7f94dff9618.png" align="center" height="50" alt="kakaobank" hspace="16">
+     </picture>
+  </a>
    <a href="https://kakaostyle.com">
       <picture>
          <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/7247848/148689407-9d994b6d-d9b6-47d3-8d93-f7fa1836f160.png">
@@ -534,6 +536,12 @@ Pretendard에 기여해주셔서 진심으로 감사드립니다.
       <picture>
          <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/7247848/200342734-4f0833e2-75c6-43a7-a8e2-38c80dfa835d.png">
          <img src="https://user-images.githubusercontent.com/7247848/200342728-7aa0fdaf-e8e4-4e7f-b558-240283401e91.png" align="center" height="50" alt="SeMA" hspace="16">
+      </picture>
+   </a>
+   <a href="https://workspace.wesub.io/">
+      <picture>
+         <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/67222970/223708059-32c90573-2d61-48fe-bd79-53935582c345.png">
+         <img src="https://user-images.githubusercontent.com/67222970/223707937-8dbc201d-9914-48fa-a316-789047d4b1d1.png" align="center" height="50" alt="감람스톤" hspace="16">
       </picture>
    </a>
 </p>

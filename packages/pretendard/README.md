@@ -544,6 +544,9 @@ Pretendard에 기여해주셔서 진심으로 감사드립니다.
          <img src="https://user-images.githubusercontent.com/67222970/223707937-8dbc201d-9914-48fa-a316-789047d4b1d1.png" align="center" height="50" alt="감람스톤" hspace="16">
       </picture>
    </a>
+   <a href="https://www.miricanvas.com/">
+      <img src="https://user-images.githubusercontent.com/67222970/227726203-0502c826-6387-4013-9ef8-08e14271960a.svg" align="center" height="18" alt="미리캔버스" hspace="16">
+   </a>
 </p>
 
 ## 의견 나누기

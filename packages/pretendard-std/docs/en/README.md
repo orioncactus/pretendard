@@ -23,7 +23,7 @@ Use the code below to use Pretendard as a webfonts in a Latin environment with a
 ###### UNPKG
 
 ```html
-<link rel="stylesheet" as="style" crossorigin href="https://unpkg.com/pretendard@1.3.6/dist/web/static/pretendard-std.css" />
+<link rel="stylesheet" as="style" crossorigin href="https://unpkg.com/pretendard-std@1.3.6/dist/web/static/pretendard-std.css" />
 ```
 
 </details>
@@ -47,7 +47,7 @@ Use the code below to use Pretendard as a webfonts in a Latin environment with a
 ###### UNPKG
 
 ```css
-@import url("https://unpkg.com/pretendard@1.3.6/dist/web/static/pretendard-std.css");
+@import url("https://unpkg.com/pretendard-std@1.3.6/dist/web/static/pretendard-std.css");
 ```
 
 </details>
@@ -77,7 +77,7 @@ Use the code below to use Pretendard Std faster by loads the font-slices require
 ###### UNPKG
 
 ```html
-<link rel="stylesheet" as="style" crossorigin href="https://unpkg.com/pretendard@1.3.6/dist/web/static/pretendard-std-dynamic-subset.css" />
+<link rel="stylesheet" as="style" crossorigin href="https://unpkg.com/pretendard-std@1.3.6/dist/web/static/pretendard-std-dynamic-subset.css" />
 ```
 
 </details>
@@ -101,7 +101,7 @@ Use the code below to use Pretendard Std faster by loads the font-slices require
 ###### UNPKG
 
 ```css
-@import url("https://unpkg.com/pretendard@1.3.6/dist/web/static/pretendard-std-dynamic-subset.css");
+@import url("https://unpkg.com/pretendard-std@1.3.6/dist/web/static/pretendard-std-dynamic-subset.css");
 ```
 
 </details>
@@ -131,7 +131,7 @@ You can use Pretendard Std dynamic subset much faster and smaller file size with
 ###### UNPKG
 
 ```html
-<link rel="stylesheet" as="style" crossorigin href="https://unpkg.com/pretendard@1.3.6/dist/web/variable/pretendardvariable-std-dynamic-subset.css" />
+<link rel="stylesheet" as="style" crossorigin href="https://unpkg.com/pretendard-std@1.3.6/dist/web/variable/pretendardvariable-std-dynamic-subset.css" />
 ```
 
 </details>
@@ -155,7 +155,7 @@ You can use Pretendard Std dynamic subset much faster and smaller file size with
 ###### UNPKG
 
 ```css
-@import url("https://unpkg.com/pretendard@1.3.6/dist/web/variable/pretendardvariable-std-dynamic-subset.css");
+@import url("https://unpkg.com/pretendard-std@1.3.6/dist/web/variable/pretendardvariable-std-dynamic-subset.css");
 ```
 
 </details>
@@ -185,7 +185,7 @@ Use the code below to use Pretendard Std with a variable weight axis. Provided f
 ###### UNPKG
 
 ```html
-<link rel="stylesheet" as="style" crossorigin href="https://unpkg.com/pretendard@1.3.6/dist/web/variable/pretendardvariable-std.css" />
+<link rel="stylesheet" as="style" crossorigin href="https://unpkg.com/pretendard-std@1.3.6/dist/web/variable/pretendardvariable-std.css" />
 ```
 
 </details>
@@ -209,7 +209,7 @@ Use the code below to use Pretendard Std with a variable weight axis. Provided f
 ###### UNPKG
 
 ```css
-@import url("https://unpkg.com/pretendard@1.3.6/dist/web/variable/pretendardvariable-std.css");
+@import url("https://unpkg.com/pretendard-std@1.3.6/dist/web/variable/pretendardvariable-std.css");
 ```
 
 </details>

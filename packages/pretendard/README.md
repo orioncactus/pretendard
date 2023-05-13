@@ -526,25 +526,25 @@ Pretendard에 기여해주셔서 진심으로 감사드립니다.
          <img src="https://user-images.githubusercontent.com/7247848/200341488-e5d3cd7c-59a4-4ff7-ba4e-e4c07b4ded10.png" align="center" height="50" alt="Remember" hspace="16">
       </picture>
    </a>
-   <a href="http://www.ag.co.kr">
+   <a href="https://www.ag.co.kr">
       <picture>
          <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/7247848/200342024-13e66aa2-7584-40aa-9067-9c5e714b01b5.png">
          <img src="https://user-images.githubusercontent.com/7247848/200342028-dcb8d2ab-4a10-4985-b790-431acc53e717.png" align="center" height="50" alt="AG" hspace="16">
       </picture>
    </a>
-   <a href="http://sema.seoul.go.kr">
+   <a href="https://sema.seoul.go.kr">
       <picture>
          <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/7247848/200342734-4f0833e2-75c6-43a7-a8e2-38c80dfa835d.png">
          <img src="https://user-images.githubusercontent.com/7247848/200342728-7aa0fdaf-e8e4-4e7f-b558-240283401e91.png" align="center" height="50" alt="SeMA" hspace="16">
       </picture>
    </a>
-   <a href="https://workspace.wesub.io/">
+   <a href="https://workspace.wesub.io">
       <picture>
          <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/67222970/223708059-32c90573-2d61-48fe-bd79-53935582c345.png">
          <img src="https://user-images.githubusercontent.com/67222970/223707937-8dbc201d-9914-48fa-a316-789047d4b1d1.png" align="center" height="50" alt="감람스톤" hspace="16">
       </picture>
    </a>
-   <a href="https://www.miricanvas.com/">
+   <a href="https://www.miricanvas.com">
       <img src="https://github.com/orioncactus/pretendard/assets/7247848/13ce5c74-e5e3-4b3c-a964-77d88115ce2e" align="center" height="50" alt="미리캔버스" hspace="16">
    </a>
 </p>

@@ -353,7 +353,7 @@ Pretendard에 기여해주셔서 진심으로 감사드립니다.
          <img src="https://user-images.githubusercontent.com/7247848/148687957-9102924d-5282-4526-a8c6-baddd9f26c39.png" align="center" height="50" alt="PocketLesson" hspace="16">
       </picture>
    </a>
-   <a href="https://careerly.onelink.me/Gbs9/4ac8fc9d">
+   <a href="https://careerly.co.kr">
       <picture>
          <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/7247848/148689872-466b0f53-5901-44c6-94c2-8c2775733b4b.png">
          <img src="https://user-images.githubusercontent.com/7247848/148687456-dfd8939e-0728-4551-9a79-cb434b389e82.png" align="center" height="50" alt="Careerly" hspace="16">
@@ -383,8 +383,8 @@ Pretendard에 기여해주셔서 진심으로 감사드립니다.
    </a>
    <a href="https://projectlion.io">
       <picture>
-         <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/7247848/148690212-967f0c1e-c62d-460b-bd43-ba119e5b695a.png" alig>
-         <img src="https://user-images.githubusercontent.com/7247848/148688058-4d0dda62-b405-4002-a0b9-159c1f18afa6.png" align="center" height="50" alt="PROJECT LION" hspace="16">
+         <source media="(prefers-color-scheme: dark)" srcset="https://github-production-user-asset-6210df.s3.amazonaws.com/7247848/238135127-dabd4989-d26a-4c61-bfd2-af46f977c83e.png">
+         <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/7247848/238135121-2f677a50-d00b-4db9-91aa-b95fdde224d0.png" align="center" height="50" alt="TECHIT" hspace="16">
       </picture>
    </a>
    <a href="https://www.sandollcloud.com/font/16951.html">
@@ -416,12 +416,12 @@ Pretendard에 기여해주셔서 진심으로 감사드립니다.
       <img src="https://user-images.githubusercontent.com/7247848/148688409-8d658514-cf4f-486b-bd81-c7f94dff9618.png" align="center" height="50" alt="kakaobank" hspace="16">
      </picture>
   </a>
-   <a href="https://kakaostyle.com">
+   <a href="https://zigzag.kr">
       <picture>
-         <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/7247848/148689407-9d994b6d-d9b6-47d3-8d93-f7fa1836f160.png">
-         <img src="https://user-images.githubusercontent.com/7247848/148689267-accacc26-3639-4b47-a7d8-9f0bbef94384.png" align="center" height="50" alt="kakaostyle" hspace="16">
+         <source media="(prefers-color-scheme: dark)" srcset="https://github-production-user-asset-6210df.s3.amazonaws.com/7247848/238135774-8bd3bcd7-1a0c-4d3a-acbd-9596cd05601e.png">
+         <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/7247848/238135775-f1c2a78e-c1b2-4eb2-94cb-68848b0dc1a6.png" align="center" height="50" alt="ZIGZAG" hspace="16">
       </picture>
-   </a>
+  </a>
    <a href="https://solved.ac">
       <picture>
          <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/7247848/148689350-ef59e5f6-5e27-4c58-9264-d2c04200ff17.png" alig>
@@ -503,7 +503,7 @@ Pretendard에 기여해주셔서 진심으로 감사드립니다.
          <img src="https://user-images.githubusercontent.com/7247848/200340399-d4821752-7c29-4a54-acc3-dbc76676597c.png" align="center" height="50" alt="한컴독스" hspace="16">
       </picture>
    </a>
-   <a href="https://academy.prompie.com/today-school">
+   <a href="https://apps.apple.com/kr/app/오늘학교-초중고-자동-시간표/id1529825567">
       <picture>
          <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/7247848/200340305-7dc9ee77-325a-46fe-a3c3-db81c87990ca.png">
          <img src="https://user-images.githubusercontent.com/7247848/200340301-b33eddc3-1565-480d-aa1a-d87bed12e03f.png" align="center" height="50" alt="오늘학교" hspace="16">
@@ -526,26 +526,81 @@ Pretendard에 기여해주셔서 진심으로 감사드립니다.
          <img src="https://user-images.githubusercontent.com/7247848/200341488-e5d3cd7c-59a4-4ff7-ba4e-e4c07b4ded10.png" align="center" height="50" alt="Remember" hspace="16">
       </picture>
    </a>
-   <a href="http://www.ag.co.kr">
+   <a href="https://www.ag.co.kr">
       <picture>
          <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/7247848/200342024-13e66aa2-7584-40aa-9067-9c5e714b01b5.png">
          <img src="https://user-images.githubusercontent.com/7247848/200342028-dcb8d2ab-4a10-4985-b790-431acc53e717.png" align="center" height="50" alt="AG" hspace="16">
       </picture>
    </a>
-   <a href="http://sema.seoul.go.kr">
+   <a href="https://sema.seoul.go.kr">
       <picture>
          <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/7247848/200342734-4f0833e2-75c6-43a7-a8e2-38c80dfa835d.png">
          <img src="https://user-images.githubusercontent.com/7247848/200342728-7aa0fdaf-e8e4-4e7f-b558-240283401e91.png" align="center" height="50" alt="SeMA" hspace="16">
       </picture>
    </a>
-   <a href="https://workspace.wesub.io/">
+   <a href="https://workspace.wesub.io">
       <picture>
          <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/67222970/223708059-32c90573-2d61-48fe-bd79-53935582c345.png">
          <img src="https://user-images.githubusercontent.com/67222970/223707937-8dbc201d-9914-48fa-a316-789047d4b1d1.png" align="center" height="50" alt="감람스톤" hspace="16">
       </picture>
    </a>
-   <a href="https://www.miricanvas.com/">
-      <img src="https://user-images.githubusercontent.com/67222970/227726203-0502c826-6387-4013-9ef8-08e14271960a.svg" align="center" height="18" alt="미리캔버스" hspace="16">
+   <a href="https://www.miricanvas.com">
+      <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/7247848/238135191-13ce5c74-e5e3-4b3c-a964-77d88115ce2e.png" align="center" height="50" alt="미리캔버스" hspace="16">
+   </a>
+   <a href="https://www.ssfshop.com">
+      <picture>
+         <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/7247848/238137900-a95f7d92-9f0b-4070-a42b-77f1a488e4f5.png" align="center" height="50" alt="SSF SHOP" hspace="16">
+      </picture>
+   </a>
+   <a href="https://apps.apple.com/us/app/직방-아파트-원룸-오피스텔-빌라/id503098735">
+      <picture>
+         <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/7247848/238137913-2b8796b4-262e-472d-87c0-eb54568f96a9.png" align="center" height="50" alt="Zigbang" hspace="16">
+      </picture>
+   </a>
+   <a href="https://agbook.co.kr">
+      <picture>
+         <source media="(prefers-color-scheme: dark)" srcset="https://github-production-user-asset-6210df.s3.amazonaws.com/7247848/238137895-fef6eda9-2e18-4e48-bc84-cae2f90a56b7.png">
+         <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/7247848/238137912-43e782d7-bb29-4861-9852-209bffda0cfa.png" align="center" height="50" alt="안그라픽스" hspace="16">
+      </picture>
+   </a>
+   <a href="https://comic.naver.com">
+      <picture>
+         <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/7247848/238137911-f46e5952-9ff4-478d-8d6c-a741bbbe6d1b.png" align="center" height="50" alt="Naver Webtoon" hspace="16">
+      </picture>
+   </a>
+   <a href="https://apps.apple.com/kr/app/번개장터/id395672275">
+      <picture>
+         <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/7247848/238137906-b8338e38-c6f0-4844-b705-570fe248cc56.png" align="center" height="50" alt="번개장터" hspace="16">
+      </picture>
+   </a>
+   <a href="https://hankookilbo.com">
+      <picture>
+         <source media="(prefers-color-scheme: dark)" srcset="https://github-production-user-asset-6210df.s3.amazonaws.com/7247848/238138402-7bef2ab2-b017-401d-bc7d-4cce0a7f266d.png">
+         <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/7247848/238138401-1dfdcada-946a-4576-a3b3-3c4b56a67b19.png" align="center" height="50" alt="한국일보" hspace="16">
+      </picture>
+   </a>
+   <a href="https://vogue.co.kr">
+      <picture>
+         <source media="(prefers-color-scheme: dark)" srcset="https://github-production-user-asset-6210df.s3.amazonaws.com/7247848/238137902-9639822f-e956-4228-973a-d01659bb12d6.png">
+         <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/7247848/238137904-2b4f9ed4-7911-45cf-b231-a6e99d15fa96.png" align="center" height="50" alt="Vogue Korea" hspace="16">
+      </picture>
+   </a>
+   <a href="https://apps.apple.com/us/app/네이버-블로그-naver-blog/id328813873">
+      <picture>
+         <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/7247848/238137897-73297eae-0a66-4fb1-84c2-df1f5b510d45.png" align="center" height="50" alt="Naver Blog" hspace="16">
+      </picture>
+   </a>
+   <a href="https://wadiz.kr">
+      <picture>
+         <source media="(prefers-color-scheme: dark)" srcset="https://github-production-user-asset-6210df.s3.amazonaws.com/7247848/238137909-7b48fcb5-e275-4d22-8a8f-3801925c0d48.png">
+         <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/7247848/238137910-e6fddecc-d11b-40e5-9fde-d76bbb429baa.png" align="center" height="50" alt="wadiz" hspace="16">
+      </picture>
+   </a>
+   <a href="https://apps.apple.com/kr/app/id1599450372">
+      <picture>
+         <source media="(prefers-color-scheme: dark)" srcset="https://github-production-user-asset-6210df.s3.amazonaws.com/7247848/238141261-e0f5498e-b55c-40a7-bd39-2fef91d27b94.png">
+         <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/7247848/238140309-e26336cb-fa6a-409f-8663-c02ea0d15a2b.png" align="center" height="50" alt="모바일 신분증" hspace="16">
+      </picture>
    </a>
 </p>
 

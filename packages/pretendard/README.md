@@ -563,6 +563,11 @@ Pretendard에 기여해주셔서 진심으로 감사드립니다.
          <img src="https://github.com/orioncactus/pretendard/assets/7247848/43e782d7-bb29-4861-9852-209bffda0cfa" align="center" height="50" alt="안그라픽스" hspace="16">
       </picture>
    </a>
+   <a href="https://comic.naver.com">
+      <picture>
+         <img src="https://github.com/orioncactus/pretendard/assets/7247848/f46e5952-9ff4-478d-8d6c-a741bbbe6d1b" align="center" height="50" alt="Naver Webtoon" hspace="16">
+      </picture>
+   </a>
 </p>
 
 ## 의견 나누기

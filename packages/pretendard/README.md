@@ -552,6 +552,11 @@ Pretendard에 기여해주셔서 진심으로 감사드립니다.
          <img src="https://github.com/orioncactus/pretendard/assets/7247848/a95f7d92-9f0b-4070-a42b-77f1a488e4f5" align="center" height="50" alt="SSF SHOP" hspace="16">
       </picture>
    </a>
+   <a href="https://apps.apple.com/us/app/직방-아파트-원룸-오피스텔-빌라/id503098735">
+      <picture>
+         <img src="https://github.com/orioncactus/pretendard/assets/7247848/2b8796b4-262e-472d-87c0-eb54568f96a9" align="center" height="50" alt="Zigbang" hspace="16">
+      </picture>
+   </a>
 </p>
 
 ## 의견 나누기

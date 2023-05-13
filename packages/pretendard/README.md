@@ -596,6 +596,12 @@ Pretendard에 기여해주셔서 진심으로 감사드립니다.
          <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/7247848/238137910-e6fddecc-d11b-40e5-9fde-d76bbb429baa.png" align="center" height="50" alt="wadiz" hspace="16">
       </picture>
    </a>
+   <a href="https://apps.apple.com/kr/app/id1599450372">
+      <picture>
+         <source media="(prefers-color-scheme: dark)" srcset="https://github-production-user-asset-6210df.s3.amazonaws.com/7247848/238141261-e0f5498e-b55c-40a7-bd39-2fef91d27b94.png">
+         <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/7247848/238140309-e26336cb-fa6a-409f-8663-c02ea0d15a2b.png" align="center" height="50" alt="모바일 신분증" hspace="16">
+      </picture>
+   </a>
 </p>
 
 ## 의견 나누기

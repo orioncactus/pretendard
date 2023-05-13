@@ -383,8 +383,8 @@ Pretendard에 기여해주셔서 진심으로 감사드립니다.
    </a>
    <a href="https://projectlion.io">
       <picture>
-         <source media="(prefers-color-scheme: dark)" srcset="https://github.com/orioncactus/pretendard/assets/7247848/dabd4989-d26a-4c61-bfd2-af46f977c83e">
-         <img src="https://github.com/orioncactus/pretendard/assets/7247848/2f677a50-d00b-4db9-91aa-b95fdde224d0" align="center" height="50" alt="PROJECT LION" hspace="16">
+         <source media="(prefers-color-scheme: dark)" srcset="https://github-production-user-asset-6210df.s3.amazonaws.com/7247848/238135127-dabd4989-d26a-4c61-bfd2-af46f977c83e.png">
+         <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/7247848/238135121-2f677a50-d00b-4db9-91aa-b95fdde224d0.png" align="center" height="50" alt="PROJECT LION" hspace="16">
       </picture>
    </a>
    <a href="https://www.sandollcloud.com/font/16951.html">
@@ -418,8 +418,8 @@ Pretendard에 기여해주셔서 진심으로 감사드립니다.
   </a>
    <a href="https://zigzag.kr">
       <picture>
-         <source media="(prefers-color-scheme: dark)" srcset="https://github.com/orioncactus/pretendard/assets/7247848/8bd3bcd7-1a0c-4d3a-acbd-9596cd05601e">
-         <img src="https://github.com/orioncactus/pretendard/assets/7247848/f1c2a78e-c1b2-4eb2-94cb-68848b0dc1a6" align="center" height="50" alt="kakaostyle" hspace="16">
+         <source media="(prefers-color-scheme: dark)" srcset="https://github-production-user-asset-6210df.s3.amazonaws.com/7247848/238135774-8bd3bcd7-1a0c-4d3a-acbd-9596cd05601e.png">
+         <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/7247848/238135775-f1c2a78e-c1b2-4eb2-94cb-68848b0dc1a6.png" align="center" height="50" alt="kakaostyle" hspace="16">
       </picture>
   </a>
    <a href="https://solved.ac">
@@ -545,55 +545,55 @@ Pretendard에 기여해주셔서 진심으로 감사드립니다.
       </picture>
    </a>
    <a href="https://www.miricanvas.com">
-      <img src="https://github.com/orioncactus/pretendard/assets/7247848/13ce5c74-e5e3-4b3c-a964-77d88115ce2e" align="center" height="50" alt="미리캔버스" hspace="16">
+      <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/7247848/238135191-13ce5c74-e5e3-4b3c-a964-77d88115ce2e.png" align="center" height="50" alt="미리캔버스" hspace="16">
    </a>
    <a href="https://www.ssfshop.com">
       <picture>
-         <img src="https://github.com/orioncactus/pretendard/assets/7247848/a95f7d92-9f0b-4070-a42b-77f1a488e4f5" align="center" height="50" alt="SSF SHOP" hspace="16">
+         <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/7247848/238137900-a95f7d92-9f0b-4070-a42b-77f1a488e4f5.png" align="center" height="50" alt="SSF SHOP" hspace="16">
       </picture>
    </a>
    <a href="https://apps.apple.com/us/app/직방-아파트-원룸-오피스텔-빌라/id503098735">
       <picture>
-         <img src="https://github.com/orioncactus/pretendard/assets/7247848/2b8796b4-262e-472d-87c0-eb54568f96a9" align="center" height="50" alt="Zigbang" hspace="16">
+         <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/7247848/238137913-2b8796b4-262e-472d-87c0-eb54568f96a9.png" align="center" height="50" alt="Zigbang" hspace="16">
       </picture>
    </a>
    <a href="https://agbook.co.kr">
       <picture>
-         <source media="(prefers-color-scheme: dark)" srcset="https://github.com/orioncactus/pretendard/assets/7247848/fef6eda9-2e18-4e48-bc84-cae2f90a56b7">
-         <img src="https://github.com/orioncactus/pretendard/assets/7247848/43e782d7-bb29-4861-9852-209bffda0cfa" align="center" height="50" alt="안그라픽스" hspace="16">
+         <source media="(prefers-color-scheme: dark)" srcset="https://github-production-user-asset-6210df.s3.amazonaws.com/7247848/238137895-fef6eda9-2e18-4e48-bc84-cae2f90a56b7.png">
+         <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/7247848/238137912-43e782d7-bb29-4861-9852-209bffda0cfa.png" align="center" height="50" alt="안그라픽스" hspace="16">
       </picture>
    </a>
    <a href="https://comic.naver.com">
       <picture>
-         <img src="https://github.com/orioncactus/pretendard/assets/7247848/f46e5952-9ff4-478d-8d6c-a741bbbe6d1b" align="center" height="50" alt="Naver Webtoon" hspace="16">
+         <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/7247848/238137911-f46e5952-9ff4-478d-8d6c-a741bbbe6d1b.png" align="center" height="50" alt="Naver Webtoon" hspace="16">
       </picture>
    </a>
    <a href="https://apps.apple.com/kr/app/번개장터/id395672275">
       <picture>
-         <img src="https://github.com/orioncactus/pretendard/assets/7247848/b8338e38-c6f0-4844-b705-570fe248cc56" align="center" height="50" alt="번개장터" hspace="16">
+         <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/7247848/238137906-b8338e38-c6f0-4844-b705-570fe248cc56.png" align="center" height="50" alt="번개장터" hspace="16">
       </picture>
    </a>
    <a href="https://hankookilbo.com">
       <picture>
-         <source media="(prefers-color-scheme: dark)" srcset="https://github.com/orioncactus/pretendard/assets/7247848/7bef2ab2-b017-401d-bc7d-4cce0a7f266d">
-         <img src="https://github.com/orioncactus/pretendard/assets/7247848/1dfdcada-946a-4576-a3b3-3c4b56a67b19" align="center" height="50" alt="한국일보" hspace="16">
+         <source media="(prefers-color-scheme: dark)" srcset="https://github-production-user-asset-6210df.s3.amazonaws.com/7247848/238138402-7bef2ab2-b017-401d-bc7d-4cce0a7f266d.png">
+         <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/7247848/238138401-1dfdcada-946a-4576-a3b3-3c4b56a67b19.png" align="center" height="50" alt="한국일보" hspace="16">
       </picture>
    </a>
    <a href="https://vogue.co.kr">
       <picture>
-         <source media="(prefers-color-scheme: dark)" srcset="https://github.com/orioncactus/pretendard/assets/7247848/9639822f-e956-4228-973a-d01659bb12d6">
-         <img src="https://github.com/orioncactus/pretendard/assets/7247848/2b4f9ed4-7911-45cf-b231-a6e99d15fa96" align="center" height="50" alt="Vogue Korea" hspace="16">
+         <source media="(prefers-color-scheme: dark)" srcset="https://github-production-user-asset-6210df.s3.amazonaws.com/7247848/238137902-9639822f-e956-4228-973a-d01659bb12d6.png">
+         <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/7247848/238137904-2b4f9ed4-7911-45cf-b231-a6e99d15fa96.png" align="center" height="50" alt="Vogue Korea" hspace="16">
       </picture>
    </a>
    <a href="https://apps.apple.com/us/app/네이버-블로그-naver-blog/id328813873">
       <picture>
-         <img src="https://github.com/orioncactus/pretendard/assets/7247848/73297eae-0a66-4fb1-84c2-df1f5b510d45" align="center" height="50" alt="Naver Blog" hspace="16">
+         <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/7247848/238137897-73297eae-0a66-4fb1-84c2-df1f5b510d45.png" align="center" height="50" alt="Naver Blog" hspace="16">
       </picture>
    </a>
    <a href="https://wadiz.kr">
       <picture>
-         <source media="(prefers-color-scheme: dark)" srcset="https://github.com/orioncactus/pretendard/assets/7247848/7b48fcb5-e275-4d22-8a8f-3801925c0d48">
-         <img src="https://github.com/orioncactus/pretendard/assets/7247848/e6fddecc-d11b-40e5-9fde-d76bbb429baa" align="center" height="50" alt="wadiz" hspace="16">
+         <source media="(prefers-color-scheme: dark)" srcset="https://github-production-user-asset-6210df.s3.amazonaws.com/7247848/238137909-7b48fcb5-e275-4d22-8a8f-3801925c0d48.png">
+         <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/7247848/238137910-e6fddecc-d11b-40e5-9fde-d76bbb429baa.png" align="center" height="50" alt="wadiz" hspace="16">
       </picture>
    </a>
 </p>

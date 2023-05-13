@@ -585,6 +585,11 @@ Pretendard에 기여해주셔서 진심으로 감사드립니다.
          <img src="https://github.com/orioncactus/pretendard/assets/7247848/2b4f9ed4-7911-45cf-b231-a6e99d15fa96" align="center" height="50" alt="Vogue Korea" hspace="16">
       </picture>
    </a>
+   <a href="https://apps.apple.com/us/app/네이버-블로그-naver-blog/id328813873">
+      <picture>
+         <img src="https://github.com/orioncactus/pretendard/assets/7247848/73297eae-0a66-4fb1-84c2-df1f5b510d45" align="center" height="50" alt="Naver Blog" hspace="16">
+      </picture>
+   </a>
 </p>
 
 ## 의견 나누기

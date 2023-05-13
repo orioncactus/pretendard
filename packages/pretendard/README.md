@@ -419,7 +419,7 @@ Pretendard에 기여해주셔서 진심으로 감사드립니다.
    <a href="https://zigzag.kr">
       <picture>
          <source media="(prefers-color-scheme: dark)" srcset="https://github-production-user-asset-6210df.s3.amazonaws.com/7247848/238135774-8bd3bcd7-1a0c-4d3a-acbd-9596cd05601e.png">
-         <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/7247848/238135775-f1c2a78e-c1b2-4eb2-94cb-68848b0dc1a6.png" align="center" height="50" alt="kakaostyle" hspace="16">
+         <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/7247848/238135775-f1c2a78e-c1b2-4eb2-94cb-68848b0dc1a6.png" align="center" height="50" alt="ZIGZAG" hspace="16">
       </picture>
   </a>
    <a href="https://solved.ac">

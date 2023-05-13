@@ -384,7 +384,7 @@ Pretendard에 기여해주셔서 진심으로 감사드립니다.
    <a href="https://projectlion.io">
       <picture>
          <source media="(prefers-color-scheme: dark)" srcset="https://github-production-user-asset-6210df.s3.amazonaws.com/7247848/238135127-dabd4989-d26a-4c61-bfd2-af46f977c83e.png">
-         <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/7247848/238135121-2f677a50-d00b-4db9-91aa-b95fdde224d0.png" align="center" height="50" alt="PROJECT LION" hspace="16">
+         <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/7247848/238135121-2f677a50-d00b-4db9-91aa-b95fdde224d0.png" align="center" height="50" alt="TECHIT" hspace="16">
       </picture>
    </a>
    <a href="https://www.sandollcloud.com/font/16951.html">

@@ -590,6 +590,12 @@ Pretendard에 기여해주셔서 진심으로 감사드립니다.
          <img src="https://github.com/orioncactus/pretendard/assets/7247848/73297eae-0a66-4fb1-84c2-df1f5b510d45" align="center" height="50" alt="Naver Blog" hspace="16">
       </picture>
    </a>
+   <a href="https://wadiz.kr">
+      <picture>
+         <source media="(prefers-color-scheme: dark)" srcset="https://github.com/orioncactus/pretendard/assets/7247848/7b48fcb5-e275-4d22-8a8f-3801925c0d48">
+         <img src="https://github.com/orioncactus/pretendard/assets/7247848/e6fddecc-d11b-40e5-9fde-d76bbb429baa" align="center" height="50" alt="wadiz" hspace="16">
+      </picture>
+   </a>
 </p>
 
 ## 의견 나누기

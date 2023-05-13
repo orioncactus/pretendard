@@ -547,6 +547,11 @@ Pretendard에 기여해주셔서 진심으로 감사드립니다.
    <a href="https://www.miricanvas.com">
       <img src="https://github.com/orioncactus/pretendard/assets/7247848/13ce5c74-e5e3-4b3c-a964-77d88115ce2e" align="center" height="50" alt="미리캔버스" hspace="16">
    </a>
+   <a href="https://www.ssfshop.com">
+      <picture>
+         <img src="https://github.com/orioncactus/pretendard/assets/7247848/a95f7d92-9f0b-4070-a42b-77f1a488e4f5" align="center" height="50" alt="SSF SHOP" hspace="16">
+      </picture>
+   </a>
 </p>
 
 ## 의견 나누기

@@ -573,6 +573,12 @@ Pretendard에 기여해주셔서 진심으로 감사드립니다.
          <img src="https://github.com/orioncactus/pretendard/assets/7247848/b8338e38-c6f0-4844-b705-570fe248cc56" align="center" height="50" alt="번개장터" hspace="16">
       </picture>
    </a>
+   <a href="https://hankookilbo.com">
+      <picture>
+         <source media="(prefers-color-scheme: dark)" srcset="https://github.com/orioncactus/pretendard/assets/7247848/7bef2ab2-b017-401d-bc7d-4cce0a7f266d">
+         <img src="https://github.com/orioncactus/pretendard/assets/7247848/1dfdcada-946a-4576-a3b3-3c4b56a67b19" align="center" height="50" alt="한국일보" hspace="16">
+      </picture>
+   </a>
 </p>
 
 ## 의견 나누기

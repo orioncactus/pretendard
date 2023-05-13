@@ -353,7 +353,7 @@ Pretendard에 기여해주셔서 진심으로 감사드립니다.
          <img src="https://user-images.githubusercontent.com/7247848/148687957-9102924d-5282-4526-a8c6-baddd9f26c39.png" align="center" height="50" alt="PocketLesson" hspace="16">
       </picture>
    </a>
-   <a href="https://careerly.onelink.me/Gbs9/4ac8fc9d">
+   <a href="https://careerly.co.kr">
       <picture>
          <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/7247848/148689872-466b0f53-5901-44c6-94c2-8c2775733b4b.png">
          <img src="https://user-images.githubusercontent.com/7247848/148687456-dfd8939e-0728-4551-9a79-cb434b389e82.png" align="center" height="50" alt="Careerly" hspace="16">
@@ -383,8 +383,8 @@ Pretendard에 기여해주셔서 진심으로 감사드립니다.
    </a>
    <a href="https://projectlion.io">
       <picture>
-         <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/7247848/148690212-967f0c1e-c62d-460b-bd43-ba119e5b695a.png" alig>
-         <img src="https://user-images.githubusercontent.com/7247848/148688058-4d0dda62-b405-4002-a0b9-159c1f18afa6.png" align="center" height="50" alt="PROJECT LION" hspace="16">
+         <source media="(prefers-color-scheme: dark)" srcset="https://github.com/orioncactus/pretendard/assets/7247848/dabd4989-d26a-4c61-bfd2-af46f977c83e">
+         <img src="https://github.com/orioncactus/pretendard/assets/7247848/2f677a50-d00b-4db9-91aa-b95fdde224d0" align="center" height="50" alt="PROJECT LION" hspace="16">
       </picture>
    </a>
    <a href="https://www.sandollcloud.com/font/16951.html">
@@ -416,10 +416,10 @@ Pretendard에 기여해주셔서 진심으로 감사드립니다.
       <img src="https://user-images.githubusercontent.com/7247848/148688409-8d658514-cf4f-486b-bd81-c7f94dff9618.png" align="center" height="50" alt="kakaobank" hspace="16">
      </picture>
   </a>
-   <a href="https://kakaostyle.com">
+   <a href="https://zigzag.kr">
       <picture>
-         <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/7247848/148689407-9d994b6d-d9b6-47d3-8d93-f7fa1836f160.png">
-         <img src="https://user-images.githubusercontent.com/7247848/148689267-accacc26-3639-4b47-a7d8-9f0bbef94384.png" align="center" height="50" alt="kakaostyle" hspace="16">
+         <source media="(prefers-color-scheme: dark)" srcset="https://github.com/orioncactus/pretendard/assets/7247848/6297a0f9-7197-4c86-8f8d-840a9a39a39d">
+         <img src="https://github.com/orioncactus/pretendard/assets/7247848/eb0d12e6-7a7b-415b-988f-065ccd5ca966" align="center" height="50" alt="kakaostyle" hspace="16">
       </picture>
    </a>
    <a href="https://solved.ac">
@@ -503,7 +503,7 @@ Pretendard에 기여해주셔서 진심으로 감사드립니다.
          <img src="https://user-images.githubusercontent.com/7247848/200340399-d4821752-7c29-4a54-acc3-dbc76676597c.png" align="center" height="50" alt="한컴독스" hspace="16">
       </picture>
    </a>
-   <a href="https://academy.prompie.com/today-school">
+   <a href="https://apps.apple.com/kr/app/오늘학교-초중고-자동-시간표/id1529825567">
       <picture>
          <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/7247848/200340305-7dc9ee77-325a-46fe-a3c3-db81c87990ca.png">
          <img src="https://user-images.githubusercontent.com/7247848/200340301-b33eddc3-1565-480d-aa1a-d87bed12e03f.png" align="center" height="50" alt="오늘학교" hspace="16">
@@ -545,7 +545,7 @@ Pretendard에 기여해주셔서 진심으로 감사드립니다.
       </picture>
    </a>
    <a href="https://www.miricanvas.com/">
-      <img src="https://user-images.githubusercontent.com/67222970/227726203-0502c826-6387-4013-9ef8-08e14271960a.svg" align="center" height="18" alt="미리캔버스" hspace="16">
+      <img src="https://github.com/orioncactus/pretendard/assets/7247848/13ce5c74-e5e3-4b3c-a964-77d88115ce2e" align="center" height="50" alt="미리캔버스" hspace="16">
    </a>
 </p>
 

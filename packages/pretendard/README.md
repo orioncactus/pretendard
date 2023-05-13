@@ -557,6 +557,12 @@ Pretendard에 기여해주셔서 진심으로 감사드립니다.
          <img src="https://github.com/orioncactus/pretendard/assets/7247848/2b8796b4-262e-472d-87c0-eb54568f96a9" align="center" height="50" alt="Zigbang" hspace="16">
       </picture>
    </a>
+   <a href="https://agbook.co.kr">
+      <picture>
+         <source media="(prefers-color-scheme: dark)" srcset="https://github.com/orioncactus/pretendard/assets/7247848/fef6eda9-2e18-4e48-bc84-cae2f90a56b7">
+         <img src="https://github.com/orioncactus/pretendard/assets/7247848/43e782d7-bb29-4861-9852-209bffda0cfa" align="center" height="50" alt="안그라픽스" hspace="16">
+      </picture>
+   </a>
 </p>
 
 ## 의견 나누기

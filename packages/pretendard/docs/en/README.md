@@ -19,14 +19,17 @@ You can read a detailed story about Pretendard’s background, features, and Ope
 
 ### [Download latest version](https://github.com/orioncactus/pretendard/releases/latest)
 
+## Family
+
+To use Pretendard suitable for a specific environment, check below:
+
+-   [Pretendard JP](/packages/pretendard-jp/docs/en/): Suitable for the Japanese environment and can be used for Korean Han environments with OpenType features.
+-   [Pretendard Std](/packages/pretendard-std/docs/en/): Suitable for Latin/Greek/Cyrillic-only environments.
+-   [Pretendard GOV(Korean)](/packages/pretendard-gov): Suitable for the public service environment in Republic of Korea.
+
 ## Webfonts
 
 You can use Pretendard via CDN, and in addition to the jsDelivr recommended by default, you can choose alternative CDNs you want, cdnjs or UNPKG by checking the toggle.
-
-To use Pretendard webfonts for Japanese or Latin/Greek/Cyrillic-only, check below:
-
--   [Pretendard JP](/packages/pretendard-jp/docs/en/)
--   [Pretendard Std](/packages/pretendard-std/docs/en/)
 
 ---
 

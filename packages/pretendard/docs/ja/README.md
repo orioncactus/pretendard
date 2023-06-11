@@ -19,14 +19,17 @@ Pretendardの背景や特徴、OpenType機能などを説明する詳細な話�
 
 ### [最新バージョンをダウンロード](https://github.com/orioncactus/pretendard/releases/latest)
 
+## ファミリー
+
+特定の環境に適したPretendardを使用するには、以下をご覧ください
+
+-   [Pretendard JP](/packages/pretendard-jp/docs/ja/)：日本の環境に適しており、韓国の漢字環境に対応するOpenType機能があります。
+-   [Pretendard Std(英語)](/packages/pretendard-std/docs/en/)：ラテン環境に適しています。
+-   [Pretendard GOV(韓国語)](/packages/pretendard-gov/)：韓国の公共サービス環境に適しています。
+
 ## Webフォント
 
 CDNを利用してPretendardを使用することができ、トグルをチェックして基本的に推奨するjsDelivr以外にもcdnjsとUNPKGの中でお好みのCDNを使用することができます。
-
-日本語およびKS漢字環境、またはラテン環境専用のPretendardのWebフォントを使用するには、以下をご覧ください。
-
--   [Pretendard JP](/packages/pretendard-jp/docs/ja/)
--   [Pretendard Std(英語)](/packages/pretendard-std/docs/en/)
 
 ---
 

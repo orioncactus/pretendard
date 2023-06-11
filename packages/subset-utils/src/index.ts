@@ -26,7 +26,8 @@ const VARIABLE_OUTPUT_PATH = join(process.cwd(), "dist", "web",    "variable");
 export enum FONTFAMILY {
   Pretendard    = "Pretendard",
   PretendardJP  = "PretendardJP",
-  PretendardStd = "PretendardStd"
+  PretendardStd = "PretendardStd",
+  PretendardGOV = "PretendardGOV"
 };
 
 const FONTWEIGHTS = [

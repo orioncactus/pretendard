@@ -25,13 +25,14 @@ jobs:
         cd packages
 
         # Remove Dynamic Subset Files
-        find -wholename "**/web/static/*dynamic-subset*" -delete
-        find -wholename "**/web/static/Pretendard*.css"  -delete
+        find -wholename "**/web/*/*dynamic-subset*" -delete
+        find -wholename "**/web/*/Pretendard*.css"  -delete
 
         # Zip
         (cd pretendard/dist && zip -rv - .) > Pretendard-${{ env.RELEASE_NAME }}.zip
         (cd pretendard-jp/dist && zip -rv - .) > PretendardJP-${{ env.RELEASE_NAME }}.zip
         (cd pretendard-std/dist && zip -rv - .) > PretendardStd-${{ env.RELEASE_NAME }}.zip
+        (cd pretendard-gov/dist && zip -rv - .) > PretendardGOV-${{ env.RELEASE_NAME }}.zip
     - uses: softprops/action-gh-release@v1 # actions/create-release, actions/upload-release-asset is deprecated
       if: startsWith(github.ref, 'refs/tags/')
       env:
@@ -41,6 +42,7 @@ jobs:
           packages/Pretendard-${{ env.RELEASE_NAME }}.zip
           packages/PretendardJP-${{ env.RELEASE_NAME }}.zip
           packages/PretendardStd-${{ env.RELEASE_NAME }}.zip
+          packages/PretendardGOV-${{ env.RELEASE_NAME }}.zip
     - name: Purge jsDelivr cache
       run: |
         curl https://purge.jsdelivr.net/gh/orioncactus/pretendard/dist/web/static

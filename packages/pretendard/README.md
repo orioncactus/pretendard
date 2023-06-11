@@ -35,7 +35,7 @@ CDN을 이용해 Pretendard를 사용할 수 있으며, 토글을 확인해 기�
 #### HTML
 
 ```html
-<link rel="stylesheet" as="style" crossorigin href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.6/dist/web/static/pretendard.css" />
+<link rel="stylesheet" as="style" crossorigin href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.7/dist/web/static/pretendard.css" />
 ```
 
 <details>
@@ -45,13 +45,13 @@ CDN을 이용해 Pretendard를 사용할 수 있으며, 토글을 확인해 기�
 ###### cdnjs
 
 ```html
-<link rel="stylesheet" as="style" crossorigin href="https://cdnjs.cloudflare.com/ajax/libs/pretendard/1.3.6/static/pretendard.css" />
+<link rel="stylesheet" as="style" crossorigin href="https://cdnjs.cloudflare.com/ajax/libs/pretendard/1.3.7/static/pretendard.css" />
 ```
 
 ###### UNPKG
 
 ```html
-<link rel="stylesheet" as="style" crossorigin href="https://unpkg.com/pretendard@1.3.6/dist/web/static/pretendard.css" />
+<link rel="stylesheet" as="style" crossorigin href="https://unpkg.com/pretendard@1.3.7/dist/web/static/pretendard.css" />
 ```
 
 </details>
@@ -59,7 +59,7 @@ CDN을 이용해 Pretendard를 사용할 수 있으며, 토글을 확인해 기�
 #### CSS
 
 ```css
-@import url("https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.6/dist/web/static/pretendard.css");
+@import url("https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.7/dist/web/static/pretendard.css");
 ```
 
 <details>
@@ -69,13 +69,13 @@ CDN을 이용해 Pretendard를 사용할 수 있으며, 토글을 확인해 기�
 ###### cdnjs
 
 ```css
-@import url("https://cdnjs.cloudflare.com/ajax/libs/pretendard/1.3.6/static/pretendard.css");
+@import url("https://cdnjs.cloudflare.com/ajax/libs/pretendard/1.3.7/static/pretendard.css");
 ```
 
 ###### UNPKG
 
 ```css
-@import url("https://unpkg.com/pretendard@1.3.6/dist/web/static/pretendard.css");
+@import url("https://unpkg.com/pretendard@1.3.7/dist/web/static/pretendard.css");
 ```
 
 </details>
@@ -89,7 +89,7 @@ Pretendard에서는 웹폰트 용량 문제를 해결하기 위한 방법으로 
 #### HTML
 
 ```html
-<link rel="stylesheet" as="style" crossorigin href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.6/dist/web/static/pretendard-dynamic-subset.css" />
+<link rel="stylesheet" as="style" crossorigin href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.7/dist/web/static/pretendard-dynamic-subset.css" />
 ```
 
 <details>
@@ -99,13 +99,13 @@ Pretendard에서는 웹폰트 용량 문제를 해결하기 위한 방법으로 
 ###### cdnjs
 
 ```html
-<link rel="stylesheet" as="style" crossorigin href="https://cdnjs.cloudflare.com/ajax/libs/pretendard/1.3.6/static/pretendard-dynamic-subset.css" />
+<link rel="stylesheet" as="style" crossorigin href="https://cdnjs.cloudflare.com/ajax/libs/pretendard/1.3.7/static/pretendard-dynamic-subset.css" />
 ```
 
 ###### UNPKG
 
 ```html
-<link rel="stylesheet" as="style" crossorigin href="https://unpkg.com/pretendard@1.3.6/dist/web/static/pretendard-dynamic-subset.css" />
+<link rel="stylesheet" as="style" crossorigin href="https://unpkg.com/pretendard@1.3.7/dist/web/static/pretendard-dynamic-subset.css" />
 ```
 
 </details>
@@ -113,7 +113,7 @@ Pretendard에서는 웹폰트 용량 문제를 해결하기 위한 방법으로 
 #### CSS
 
 ```css
-@import url("https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.6/dist/web/static/pretendard-dynamic-subset.css");
+@import url("https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.7/dist/web/static/pretendard-dynamic-subset.css");
 ```
 
 <details>
@@ -123,13 +123,13 @@ Pretendard에서는 웹폰트 용량 문제를 해결하기 위한 방법으로 
 ###### cdnjs
 
 ```css
-@import url("https://cdnjs.cloudflare.com/ajax/libs/pretendard/1.3.6/static/pretendard-dynamic-subset.css");
+@import url("https://cdnjs.cloudflare.com/ajax/libs/pretendard/1.3.7/static/pretendard-dynamic-subset.css");
 ```
 
 ###### UNPKG
 
 ```css
-@import url("https://unpkg.com/pretendard@1.3.6/dist/web/static/pretendard-dynamic-subset.css");
+@import url("https://unpkg.com/pretendard@1.3.7/dist/web/static/pretendard-dynamic-subset.css");
 ```
 
 </details>
@@ -143,7 +143,7 @@ Pretendard에서는 웹폰트 용량 문제를 해결하기 위한 방법으로 
 #### HTML
 
 ```html
-<link rel="stylesheet" as="style" crossorigin href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.6/dist/web/variable/pretendardvariable-dynamic-subset.css" />
+<link rel="stylesheet" as="style" crossorigin href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.7/dist/web/variable/pretendardvariable-dynamic-subset.css" />
 ```
 
 <details>
@@ -153,13 +153,13 @@ Pretendard에서는 웹폰트 용량 문제를 해결하기 위한 방법으로 
 ###### cdnjs
 
 ```html
-<link rel="stylesheet" as="style" crossorigin href="https://cdnjs.cloudflare.com/ajax/libs/pretendard/1.3.6/variable/pretendardvariable-dynamic-subset.css" />
+<link rel="stylesheet" as="style" crossorigin href="https://cdnjs.cloudflare.com/ajax/libs/pretendard/1.3.7/variable/pretendardvariable-dynamic-subset.css" />
 ```
 
 ###### UNPKG
 
 ```html
-<link rel="stylesheet" as="style" crossorigin href="https://unpkg.com/pretendard@1.3.6/dist/web/variable/pretendardvariable-dynamic-subset.css" />
+<link rel="stylesheet" as="style" crossorigin href="https://unpkg.com/pretendard@1.3.7/dist/web/variable/pretendardvariable-dynamic-subset.css" />
 ```
 
 </details>
@@ -167,7 +167,7 @@ Pretendard에서는 웹폰트 용량 문제를 해결하기 위한 방법으로 
 #### CSS
 
 ```css
-@import url("https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.6/dist/web/variable/pretendardvariable-dynamic-subset.css");
+@import url("https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.7/dist/web/variable/pretendardvariable-dynamic-subset.css");
 ```
 
 <details>
@@ -177,13 +177,13 @@ Pretendard에서는 웹폰트 용량 문제를 해결하기 위한 방법으로 
 ###### cdnjs
 
 ```css
-@import url("https://cdnjs.cloudflare.com/ajax/libs/pretendard/1.3.6/variable/pretendardvariable-dynamic-subset.css");
+@import url("https://cdnjs.cloudflare.com/ajax/libs/pretendard/1.3.7/variable/pretendardvariable-dynamic-subset.css");
 ```
 
 ###### UNPKG
 
 ```css
-@import url("https://unpkg.com/pretendard@1.3.6/dist/web/variable/pretendardvariable-dynamic-subset.css");
+@import url("https://unpkg.com/pretendard@1.3.7/dist/web/variable/pretendardvariable-dynamic-subset.css");
 ```
 
 </details>
@@ -197,7 +197,7 @@ Pretendard에서는 웹폰트 용량 문제를 해결하기 위한 방법으로 
 #### HTML
 
 ```html
-<link rel="stylesheet" as="style" crossorigin href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.6/dist/web/variable/pretendardvariable.css" />
+<link rel="stylesheet" as="style" crossorigin href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.7/dist/web/variable/pretendardvariable.css" />
 ```
 
 <details>
@@ -207,13 +207,13 @@ Pretendard에서는 웹폰트 용량 문제를 해결하기 위한 방법으로 
 ###### cdnjs
 
 ```html
-<link rel="stylesheet" as="style" crossorigin href="https://cdnjs.cloudflare.com/ajax/libs/pretendard/1.3.6/variable/pretendardvariable.css" />
+<link rel="stylesheet" as="style" crossorigin href="https://cdnjs.cloudflare.com/ajax/libs/pretendard/1.3.7/variable/pretendardvariable.css" />
 ```
 
 ###### UNPKG
 
 ```html
-<link rel="stylesheet" as="style" crossorigin href="https://unpkg.com/pretendard@1.3.6/dist/web/variable/pretendardvariable.css" />
+<link rel="stylesheet" as="style" crossorigin href="https://unpkg.com/pretendard@1.3.7/dist/web/variable/pretendardvariable.css" />
 ```
 
 </details>
@@ -221,7 +221,7 @@ Pretendard에서는 웹폰트 용량 문제를 해결하기 위한 방법으로 
 #### CSS
 
 ```css
-@import url("https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.6/dist/web/variable/pretendardvariable.css");
+@import url("https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.7/dist/web/variable/pretendardvariable.css");
 ```
 
 <details>
@@ -231,13 +231,13 @@ Pretendard에서는 웹폰트 용량 문제를 해결하기 위한 방법으로 
 ###### cdnjs
 
 ```css
-@import url("https://cdnjs.cloudflare.com/ajax/libs/pretendard/1.3.6/variable/pretendardvariable.css");
+@import url("https://cdnjs.cloudflare.com/ajax/libs/pretendard/1.3.7/variable/pretendardvariable.css");
 ```
 
 ###### UNPKG
 
 ```css
-@import url("https://unpkg.com/pretendard@1.3.6/dist/web/variable/pretendardvariable.css");
+@import url("https://unpkg.com/pretendard@1.3.7/dist/web/variable/pretendardvariable.css");
 ```
 
 </details>

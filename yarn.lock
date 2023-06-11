@@ -1697,6 +1697,14 @@ __metadata:
   languageName: node
   linkType: hard
 
+"pretendard-gov@workspace:packages/pretendard-gov":
+  version: 0.0.0-use.local
+  resolution: "pretendard-gov@workspace:packages/pretendard-gov"
+  dependencies:
+    subset-utils: "workspace:^"
+  languageName: unknown
+  linkType: soft
+
 "pretendard-jp@workspace:packages/pretendard-jp":
   version: 0.0.0-use.local
   resolution: "pretendard-jp@workspace:packages/pretendard-jp"

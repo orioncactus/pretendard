@@ -1,6 +1,6 @@
 #!/bin/bash
 ROOT_DIR="$PWD"
-PACKAGE_LIST=("pretendard" "pretendard-jp" "pretendard-std")
+PACKAGE_LIST=("pretendard" "pretendard-jp" "pretendard-std" "pretendard-gov")
 KIND_LIST=("static" "variable")
 
 rm -rf ./dist

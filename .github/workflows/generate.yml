@@ -87,18 +87,49 @@ jobs:
         fetch-depth: '0'
     - uses: ./.github/actions/setup-pip
     - uses: ./.github/actions/setup-yarn
-    - name: Update example assets
-      run: |
-        cp -f ./packages/pretendard/dist/public/static/Pretendard-*.otf ./examples/flutter_pretendard/fonts
-        cp -f ./packages/pretendard/dist/public/static/Pretendard-*.otf ./examples/react_native_pretendard/assets/fonts
     - uses: ./.github/actions/subset-push
       with:
         workspace: pretendard-std
         shard: ${{ matrix.shard }}
         branch: ${{ matrix.branch }}
 
+  pretendard-gov:
+    runs-on: ubuntu-latest
+    if: contains(github.event.head_commit.message, 'release:')
+    strategy:
+      matrix:
+        shard: ["1/8", "2/8", "3/8", "4/8", "5/8", "6/8", "7/8", "8/8"]
+        include:
+          - shard: "1/8"
+            branch: "gov-1"
+          - shard: "2/8"
+            branch: "gov-2"
+          - shard: "3/8"
+            branch: "gov-3"
+          - shard: "4/8"
+            branch: "gov-4"
+          - shard: "5/8"
+            branch: "gov-5"
+          - shard: "6/8"
+            branch: "gov-6"
+          - shard: "7/8"
+            branch: "gov-7"
+          - shard: "8/8"
+            branch: "gov-8"
+    steps:
+    - uses: actions/checkout@v3
+      with:
+        fetch-depth: '0'
+    - uses: ./.github/actions/setup-pip
+    - uses: ./.github/actions/setup-yarn
+    - uses: ./.github/actions/subset-push
+      with:
+        workspace: pretendard-gov
+        shard: ${{ matrix.shard }}
+        branch: ${{ matrix.branch }}
+
   auto-update:
-    needs: [pretendard, pretendard-jp, pretendard-std]
+    needs: [pretendard, pretendard-jp, pretendard-std, pretendard-gov]
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v3
@@ -114,7 +145,7 @@ jobs:
         LAST_COMMIT_EMAIL="$(git log -n 1 --pretty=format:%ae)"
         LAST_COMMIT_AUTHOR="Co-authored-by: ${LAST_COMMIT_NAME} <${LAST_COMMIT_EMAIL}>"
 
-        BRANCHES=("ori-1" "ori-2" "ori-3" "ori-4" "ori-5" "ori-6" "jp-1" "jp-2" "jp-3" "jp-4" "jp-5" "jp-6" "jp-7" "jp-8" "std-1")
+        BRANCHES=("ori-1" "ori-2" "ori-3" "ori-4" "ori-5" "ori-6" "jp-1" "jp-2" "jp-3" "jp-4" "jp-5" "jp-6" "jp-7" "jp-8" "std-1" "gov-1" "gov-2" "gov-3" "gov-4" "gov-5" "gov-6" "gov-7" "gov-8")
         for BRANCH in "${BRANCHES[@]}"; do
           if [[ "$(git rev-parse --verify origin/${BRANCH} 2>/dev/null)" ]]; then
             echo "${BRANCH}"
@@ -135,6 +166,16 @@ jobs:
         if [[ "$(git log @{push}..)" != "" ]]; then
           git push
         fi
+    - name: Update example assets
+      run: |
+        cp -f ./packages/pretendard/dist/public/static/Pretendard-*.otf ./examples/flutter_pretendard/fonts
+        cp -f ./packages/pretendard/dist/public/static/Pretendard-*.otf ./examples/react_native_pretendard/assets/fonts
+    - name: Commit updated example assets
+      uses: ./.github/actions/auto-commit
+      with:
+        file_pattern: examples/*
+        message: "fix: Update example assets"
+        branch: main
     - name: Update dist stylesheets
       run: ./distCSS.sh
     - name: Commit updated dist stylesheets

@@ -608,8 +608,8 @@ Pretendard에 기여해주셔서 진심으로 감사드립니다.
    <a href="https://www.musinsa.com/">
       <picture>
          <source media="(prefers-color-scheme: dark)" srcset="https://github.com/orioncactus/pretendard/assets/4019262/e17aed65-e52d-46a5-a3fc-9358b9382f7f">
-         <img src="https://github.com/orioncactus/pretendard/assets/4019262/e17aed65-e52d-46a5-a3fc-9358b9382f7f"
-         align="center" height="30" alt="무신사" hspace="16">
+         <img src="https://github.com/orioncactus/pretendard/assets/25581533/216609df-5c14-4ea6-92b8-7a202d360126"
+         align="center" height="22" alt="무신사" hspace="16">
       </picture>
    </a>
 </p>

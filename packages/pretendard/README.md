@@ -615,7 +615,7 @@ Pretendard에 기여해주셔서 진심으로 감사드립니다.
 
    <a href="https://wakmusic.xyz/">
       <picture>
-         <source media="(prefers-color-scheme: dark)" srcset="https://media.discordapp.net/attachments/1000059544002625727/1121691355970797628/logo_02_dark.png">
+         <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/61264156/248294502-b5fc2485-6106-4516-8d33-e42e49eb3923.png">
          <img src="https://user-images.githubusercontent.com/61264156/248294502-b5fc2485-6106-4516-8d33-e42e49eb3923.png"
          align="center" height="45" alt="왁타버스 뮤직" hspace="16">
       </picture>

@@ -607,20 +607,18 @@ Pretendard에 기여해주셔서 진심으로 감사드립니다.
    </a>
    <a href="https://www.musinsa.com/">
       <picture>
-         <source media="(prefers-color-scheme: dark)" srcset="https://github.com/orioncactus/pretendard/assets/4019262/e17aed65-e52d-46a5-a3fc-9358b9382f7f">
-         <img src="https://github.com/orioncactus/pretendard/assets/25581533/216609df-5c14-4ea6-92b8-7a202d360126"
-         align="center" height="22" alt="무신사" hspace="16">
+         <source media="(prefers-color-scheme: dark)" srcset="https://github-production-user-asset-6210df.s3.amazonaws.com/7247848/248793922-6cb4ea9d-a00f-4f0b-89b9-41f12468b2a7.png">
+         <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/7247848/248793907-a3436f1a-b086-404d-9eba-03c39bc0c817.png"
+         align="center" height="50" alt="무신사" hspace="16">
       </picture>
-   </a>
-
-   <a href="https://wakmusic.xyz/">
+  </a>
+  <a href="https://wakmusic.xyz/">
       <picture>
-         <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/61264156/248294502-b5fc2485-6106-4516-8d33-e42e49eb3923.png">
-         <img src="https://user-images.githubusercontent.com/61264156/248429317-a8bbb72c-5d0a-43c8-90ea-2d6bc719f8bb.png"
+         <source media="(prefers-color-scheme: dark)" srcset="https://github-production-user-asset-6210df.s3.amazonaws.com/7247848/248793911-b0da2d43-7865-4a24-ae7f-bd0e8a459833.png">
+         <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/7247848/248793917-6ee7ddb7-3510-4e6b-ac43-5b47c343f41e.png"
          align="center" height="45" alt="왁타버스 뮤직" hspace="16">
       </picture>
    </a>
-
 </p>
 
 ## 의견 나누기

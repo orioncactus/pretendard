@@ -3,8 +3,8 @@
 # Pretendard
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="/thumbnail-white.svg">
-  <img src="/thumbnail.svg" alt="Thumbnail">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/orioncactus/pretendard/ed71995e50e97c34f92fbb33a46f44eb615d98e4/thumbnail-white.svg">
+  <img src="https://raw.githubusercontent.com/orioncactus/pretendard/ed71995e50e97c34f92fbb33a46f44eb615d98e4/thumbnail.svg" alt="Thumbnail">
 </picture>
 
 Pretendardは、クロスプラットフォームで製品を提供するとき、そして多言語タイポグラフィでも自然な現代的なフォントです。[Inter](https://github.com/rsms/inter)と[源ノ角ゴシック](https://fonts.adobe.com/fonts/source-han-sans-japanese)、そして[M PLUS 1p](https://github.com/coz-m/MPLUS_FONTS)に基づいて整えられたPretendardは、読み込み環境で可読性と視覚補正のために追加の作業をする必要はありません。

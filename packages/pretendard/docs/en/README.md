@@ -3,8 +3,8 @@
 # Pretendard
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="/thumbnail-white.svg">
-  <img src="/thumbnail.svg" alt="Thumbnail">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/orioncactus/pretendard/ed71995e50e97c34f92fbb33a46f44eb615d98e4/thumbnail-white.svg">
+  <img src="https://raw.githubusercontent.com/orioncactus/pretendard/ed71995e50e97c34f92fbb33a46f44eb615d98e4/thumbnail.svg" alt="Thumbnail">
 </picture>
 
 Pretendard is a Neo-grotesque typeface suitable for cross-platform applications and multilingual typography. Pretendard is designed based on [Inter](https://github.com/rsms/inter), [Source Han Sans](https://fonts.adobe.com/fonts/source-han-sans-korean), and [M PLUS 1p](https://github.com/coz-m/MPLUS_FONTS). It provides enhanced text legibility without requiring further adjustments of scaling, letter-spacing, optical adjustments.

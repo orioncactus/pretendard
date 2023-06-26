@@ -12,5 +12,5 @@ http://scripts.sil.org/OFL
 	font-weight: 45 920;
 	font-style: normal;
 	font-display: swap;
-	src: local('Pretendard GOV Variable'), url('./woff2/PretendardGOVVariable.woff2') format('woff2-variations');
+	src: url('./woff2/PretendardGOVVariable.woff2') format('woff2-variations');
 }

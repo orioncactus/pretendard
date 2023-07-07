@@ -619,6 +619,13 @@ Pretendard에 기여해주셔서 진심으로 감사드립니다.
          align="center" height="45" alt="왁타버스 뮤직" hspace="16">
       </picture>
    </a>
+  <a href="https://pagecall.com/">
+      <picture>
+         <source media="(prefers-color-scheme: dark)" srcset="https://github.com/orioncactus/pretendard/assets/66673866/1177156a-5e5f-4270-b150-57e5333eea24">
+         <img src="https://github.com/orioncactus/pretendard/assets/66673866/7961fe5e-23b3-48c0-9abb-6719cc2c133f"
+         align="center" height="32" alt="페이지콜" hspace="16">
+      </picture>
+   </a>
 </p>
 
 ## 의견 나누기

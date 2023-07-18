@@ -84,26 +84,11 @@ featurePrefixes = (
 {
 automatic = 1;
 code = "languagesystem DFLT dflt;
-
-languagesystem hani dflt;
-languagesystem hani JAN;
-languagesystem hani ZHH;
-languagesystem hani ZHS;
-languagesystem hani ZHT;
 ";
 name = Languagesystems;
 }
 );
 features = (
-{
-automatic = 1;
-code = "feature locl;
-feature jp78;
-feature jp83;
-feature nlck;
-";
-tag = aalt;
-},
 {
 automatic = 1;
 code = "script hani;
@@ -650,6 +635,7 @@ lookup locl_hani_3 {
 	sub uni51DE by uni51DE.loclZHT;
 } locl_hani_3;
 ";
+disabled = 1;
 tag = locl;
 },
 {
@@ -660,18 +646,21 @@ sub uni7A3D by uni7A3D.jp78;
 sub uni958F by uni958F.jp78;
 sub uni9699 by uni9699.jp78;
 ";
+disabled = 1;
 tag = jp78;
 },
 {
 automatic = 1;
 code = "sub uni2F14 by uni2F14.jp83;
 ";
+disabled = 1;
 tag = jp83;
 },
 {
 automatic = 1;
 code = "sub uni53F1 by uni53F1.nlck;
 ";
+disabled = 1;
 tag = nlck;
 }
 );

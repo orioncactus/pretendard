@@ -3891,10 +3891,6 @@ languagesystem hani dflt;
 languagesystem hani JAN;
 ";
 name = Languagesystems;
-},
-{
-code = "";
-name = LookupHan;
 }
 );
 features = (

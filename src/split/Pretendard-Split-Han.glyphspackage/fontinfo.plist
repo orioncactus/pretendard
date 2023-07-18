@@ -7,6 +7,3808 @@ name = Weight;
 tag = wght;
 }
 );
+classes = (
+{
+code = "uni2EDD
+uni5002
+uni501C
+uni5070
+uni514D
+uni5192
+uni5193
+uni526A
+uni5272
+uni52C7
+uni5305
+uni537B
+uni5396
+uni5440
+uni5448
+uni548E
+uni559E
+uni570D
+uni5914
+uni5922
+uni5A35
+uni5BAC
+uni5BD0
+uni5CEF
+uni5ED0
+uni605D
+uni60C6
+uni60D8
+uni6168
+uni618A
+uni2F3E
+uni6249
+uni6414
+uni6577
+uni65C3
+uni65E3
+uni6600
+uni6832
+uni6834
+uni688F
+uni69EA
+uni6A89
+uni6BD2
+uni6C13
+uni6E67
+uni6EB2
+uni6F54
+uni6F94
+uni6FCA
+uni7006
+uni701B
+uni70B7
+uni7258
+uni7259
+uni72A2
+uni73F5
+uni73F9
+uni74B5
+uni7547
+uni7662
+uni7664
+uni778E
+uni77AC
+uni7962
+uni7A0B
+uni7A20
+uni7A62
+uni7A7F
+uni7A96
+uni7AC4
+uni7AC7
+uni7C3F
+uni7D73
+uni7DA2
+uni7E69
+uni7E9B
+uni7F54
+uni7FB8
+uni7FCC
+uni7FD2
+uni7FE6
+uni7FEB
+uni7FFC
+uni8056
+uni8093
+uni8174
+uni81FE
+uni821E
+uni832B
+uni83DF
+uni8438
+uni867B
+uni868C
+uni86A4
+uni8729
+uni8983
+uni8988
+uni89BF
+uni8A1D
+uni8AA5
+uni8ACF
+uni8B80
+uni8C41
+uni8D16
+uni8F1E
+uni8F27
+uni8F44
+uni9020
+uni9022
+uni9031
+uni9051
+uni9055
+uni9069
+uni9099
+uni90A6
+uni9115
+uni9130
+uni93D6
+uni966C
+uni968D
+uni96D5
+uni2FAE
+uni9760
+uni9761
+uni9A4E
+uni9B23
+uni9D09
+uni9D70
+uni9E9F
+uni9EF7
+uni9F07
+uni9F2C
+uni5951
+uni6B04
+uni862D
+uni865C
+uni6BBA
+uni65C5
+uni84EE
+uni9023
+uni5EC9
+uni907C
+uni985E
+uni9686
+uni7CD6
+uni6674
+uni51DE
+uni732A
+uni76CA
+uni795E
+uni7965
+uni798F
+uni9756
+uni7CBE
+uni7FBD
+uni8AF8
+uni90FD
+uni98EF
+uni98FC
+uni9928
+uni4FAE
+uni50E7
+uni52C9
+uni52E4
+uni5351
+uni559D
+uni5606
+uni5668
+uni5840
+uni58A8
+uni5C64
+uni6094
+uni618E
+uni654F
+uni6691
+uni6885
+uni6D77
+uni6E1A
+uni6F22
+uni716E
+uni7422
+uni7891
+uni793E
+uni7949
+uni7948
+uni7950
+uni7956
+uni795D
+uni798D
+uni798E
+uni7A40
+uni7A81
+uni7DF4
+uni7E41
+uni7F72
+uni8005
+uni81ED
+uni8457
+uni8910
+uni8996
+uni8B01
+uni8B39
+uni8CD3
+uni8D08
+uni9038
+uni96E3
+uni983B
+uni518D
+uni51AC
+uni59EC
+uni5DFD
+uni6CBF
+uni7228
+uni7D63
+uni8AED
+uni8F38
+uni514E
+uni53DF
+uni5632
+uni5EDF
+uni5F98
+uni63C3
+uni646F
+uni6753
+uni707C
+uni714E
+uni7BAD
+uni8258
+uni8292
+uni8511
+uni8A3B
+uni8AB9
+uni8C79
+uni9699
+uni9D60
+uni4E73
+uni4F34
+uni4FB5
+uni5049
+uni504F
+uni5091
+uni50CA
+uni50ED
+uni5168
+uni516C
+uni5177
+uni517C
+uni5203
+uni5206
+uni5224
+uni5238
+uni524A
+uni52DD
+uni5316
+uni534A
+uni535A
+uni53CA
+uni5438
+uni54B2
+uni5510
+uni5533
+uni5539
+uni5544
+uni5553
+uni55AB
+uni56AE
+uni576A
+uni5819
+uni5858
+uni585A
+uni589C
+uni5953
+uni59A5
+uni59FF
+uni5A1C
+uni5A66
+uni5A9B
+uni5ABE
+uni5ACC
+uni5B7C
+uni5BB5
+uni5BD2
+uni5BE7
+uni5C0A
+uni5C0B
+uni5C0E
+uni5C28
+uni5DE1
+uni5DE8
+uni5E3D
+uni5E43
+uni5E63
+uni5E73
+uni5EE0
+uni5EF6
+uni5F0A
+uni5F31
+uni5F69
+uni5FAE
+uni5FB5
+uni5FCD
+uni6025
+uni60C5
+uni6109
+uni6167
+uni61F2
+uni623F
+uni6240
+uni6247
+uni6248
+uni6271
+uni62B1
+uni62D0
+uni62D2
+uni62F3
+uni6368
+uni6369
+uni6383
+uni63A1
+uni63F4
+uni6406
+uni6428
+uni6469
+uni65BC
+uni6667
+uni6677
+uni6696
+uni66C1
+uni66D9
+uni66DC
+uni6715
+uni677E
+uni67CA
+uni6813
+uni689B
+uni68A2
+uni69BB
+uni69CB
+uni6B21
+uni6CE1
+uni6D3E
+uni6D6E
+uni6D78
+uni6D88
+uni6DE4
+uni6E2F
+uni6E6E
+uni6E9D
+uni6ECB
+uni6ED5
+uni6EEC
+uni6EFE
+uni6F5B
+uni6F64
+uni6FEF
+uni7070
+uni7159
+uni7162
+uni71FF
+uni7235
+uni7336
+uni73ED
+uni74B0
+uni7504
+uni7554
+uni7626
+uni7652
+uni76C6
+uni77E9
+uni7832
+uni785D
+uni78E8
+uni7A31
+uni7A74
+uni7BC0
+uni7BE0
+uni7C50
+uni7C89
+uni7D0D
+uni7D1A
+uni7D1B
+uni7D42
+uni7DAE
+uni7DCF
+uni7DE8
+uni7DE9
+uni7DEF
+uni7E1B
+uni7E22
+uni7E2B
+uni7E6D
+uni7E8C
+uni7FC1
+uni7FD4
+uni7FE0
+uni7FE9
+uni7FFB
+uni8000
+uni8015
+uni8017
+uni8061
+uni8087
+uni8096
+uni80A9
+uni80BA
+uni80DE
+uni8108
+uni821B
+uni821C
+uni8239
+uni82B1
+uni82D2
+uni82E3
+uni83DC
+uni84F4
+uni8563
+uni8584
+uni85E4
+uni8650
+uni865E
+uni8759
+uni87BD
+uni87D2
+uni8846
+uni8853
+uni885B
+uni889E
+uni890A
+uni8941
+uni89AF
+uni8A1F
+uni8A55
+uni8A8D
+uni8A95
+uni8AA4
+uni8ACB
+uni8ADE
+uni8AEE
+uni8B04
+uni8B19
+uni8B1B
+uni8B56
+uni8CA0
+uni8CA7
+uni8CA8
+uni8CC7
+uni8CCA
+uni8CFC
+uni8D0F
+uni8DDD
+uni8E8D
+uni8FBC
+uni8FC5
+uni8FCE
+uni8FD1
+uni8FD4
+uni8FEA
+uni8FEB
+uni8FED
+uni8FF0
+uni8FF7
+uni8FFD
+uni9000
+uni9001
+uni9003
+uni9006
+uni900F
+uni9010
+uni9014
+uni901A
+uni901D
+uni901E
+uni901F
+uni902E
+uni9032
+uni9054
+uni9042
+uni9047
+uni904A
+uni904B
+uni904D
+uni904E
+uni9053
+uni9058
+uni9060
+uni9063
+uni906D
+uni906E
+uni9075
+uni9077
+uni9078
+uni907A
+uni907F
+uni9083
+uni9084
+uni90A3
+uni90A8
+uni91C1
+uni91C7
+uni925B
+uni938C
+uni9396
+uni95BC
+uni964D
+uni968A
+uni96A3
+uni96C7
+uni96EA
+uni96F0
+uni976D
+uni9774
+uni97FF
+uni980C
+uni9811
+uni9812
+uni9867
+uni98E2
+uni98FD
+uni98FE
+uni990A
+uni9913
+uni9A30
+uni9A5F
+uni9B2E
+uni9B4D
+uni9B54
+uni9B97
+uni9E97
+uni9EBB
+uni9EBF
+uni9EDB
+uni9F08
+uni9F3B
+uni9F9C
+uni9F9D
+uni5ECA
+uni6717
+";
+name = LOCL_JAN_L;
+},
+{
+code = "uni2FB7
+uni5002.loclZHH
+uni501C.loclJAN
+uni5070.loclJAN
+uni514D.loclJAN
+uni5192.loclJAN
+uni5193.loclZHH
+uni526A.loclJAN
+uni5272.loclJAN
+uni52C7.loclJAN
+uni5305.loclJAN
+uni533E.loclJAN
+uni5396.loclZHH
+uni5440.loclJAN
+uni5448.loclZHS
+uni548E.loclZHH
+uni559E.loclJAN
+uni570D.loclJAN
+uni5914.loclJAN
+uni5922.loclJAN
+uni5A35.loclJAN
+uni5BAC.loclJAN
+uni5BD0.loclJAN
+uni5CEF.loclJAN
+uni5ED0.loclJAN
+uni605D.loclJAN
+uni60C6.loclJAN
+uni60D8.loclJAN
+uni6168.loclJAN
+uni618A.loclJAN
+uni6238
+uni6249.loclJAN
+uni6414.loclJAN
+uni6577.loclJAN
+uni65C3.loclJAN
+uni65E3.loclJAN
+uni6600.loclZHH
+uni6832.loclJAN
+uni6834.loclJAN
+uni688F.loclJAN
+uni69EA.loclJAN
+uni6A89.loclZHH
+uni6BD2.loclJAN
+uni6C13.loclJAN
+uni6E67.loclJAN
+uni6EB2.loclJAN
+uni6F54.loclJAN
+uni6F94.loclJAN
+uni6FCA.loclZHH
+uni7006.loclZHH
+uni701B.loclJAN
+uni70B7.loclJAN
+uni7258.loclJAN
+uni2F5B
+uni72A2.loclZHH
+uni73F5.loclZHH
+uni73F9.loclJAN
+uni74B5.loclJAN
+uni7547.loclZHH
+uni7662.loclJAN
+uni7664.loclJAN
+uni778E.loclJAN
+uni77AC.loclJAN
+uni7962.loclJAN
+uni7A0B.loclZHS
+uni7A20.loclJAN
+uni7A62.loclZHH
+uni7A7F.loclJAN
+uni7A96.loclJAN
+uni7AC4.loclJAN
+uni7AC7.loclJAN
+uni7C3F.loclJAN
+uni7D73.loclJAN
+uni7DA2.loclJAN
+uni7E69.loclJAN
+uni7E9B.loclJAN
+uni7F54.loclJAN
+uni7FB8.loclJAN
+uni7FCC.loclJAN
+uni7FD2.loclZHH
+uni7FE6.loclJAN
+uni7FEB.loclJAN
+uni7FFC.loclZHH
+uni8056.uv023
+uni8093.loclJAN
+uni8174.loclJAN
+uni81FE.loclJAN
+uni821E.loclJAN
+uni832B.loclJAN
+uni83DF.loclJAN
+uni8438.loclJAN
+uni867B.loclJAN
+uni868C.loclZHS
+uni86A4.loclJAN
+uni8729.loclJAN
+uni8983.loclJAN
+uni8988.loclJAN
+uni89BF.loclZHH
+uni8A1D.loclJAN
+uni8AA5.loclJAN
+uni8ACF.loclJAN
+uni8B80.loclJAN
+uni8C41.loclJAN
+uni8D16.loclZHH
+uni8F1E.loclJAN
+uni8F27.loclZHH
+uni8F44.loclJAN
+uni9020.loclJAN
+uni9022.loclJAN
+uni9031.loclJAN
+uni9051.loclJAN
+uni9055.loclJAN
+uni9069.loclJAN
+uni9099.loclJAN
+uni90A6.loclZHS
+uni9115.loclJAN
+uni9130.loclJAN
+uni93D6.loclJAN
+uni966C.loclJAN
+uni968D.loclZHH
+uni96D5.loclJAN
+uni2FAE.loclJAN
+uni9760.loclJAN
+uni9761.loclJAN
+uni9A4E.loclJAN
+uni9B23.loclJAN
+uni9D09.loclJAN
+uni9D70.loclJAN
+uni9E9F.loclJAN
+uni9EF7.loclJAN
+uni9F07.loclJAN
+uni9F2C.loclJAN
+uni5951.loclJAN
+uni6B04.loclJAN
+uni862D.loclJAN
+uni865C.uv022
+uni6BBA.loclJAN
+uni65C5.loclJAN
+uni84EE.loclJAN
+uni9023.loclJAN
+uni5EC9.loclJAN
+uni907C.loclJAN
+uni985E.loclJAN
+uni9686.loclJAN
+uni7CD6.loclJAN
+uni6674.uv022
+uni51DE.loclZHT
+uni732A.loclZHH
+uni76CA.loclJAN
+uni795E.loclJAN
+uni7965.loclJAN
+uni798F.loclJAN
+uni9756.loclJAN
+uni7CBE.loclZHH
+uni2F7B
+uni8AF8.loclJAN
+uni90FD.loclZHH
+uni98EF.loclJAN
+uni98FC.loclJAN
+uni9928.loclJAN
+uni4FAE.loclJAN
+uni50E7.loclJAN
+uni52C9.loclJAN
+uni52E4.loclJAN
+uni5351.loclJAN
+uni559D.loclJAN
+uni5606.loclJAN
+uni5668.loclJAN
+uni5840.loclJAN
+uni58A8.loclJAN
+uni5C64.loclJAN
+uni6094.loclJAN
+uni618E.loclJAN
+uni654F.loclJAN
+uni6691.loclZHH
+uni6885.loclJAN
+uni6D77.uv022
+uni6E1A.loclZHH
+uni6F22.loclJAN
+uni716E.loclZHH
+uni7422.loclJAN
+uni7891.loclJAN
+uni793E.loclJAN
+uni7949.loclJAN
+uni7948.loclJAN
+uni7950.loclJAN
+uni7956.loclJAN
+uni795D.loclJAN
+uni798D.loclJAN
+uni798E.loclJAN
+uni7A40.loclJAN
+uni7A81.loclJAN
+uni7DF4.loclJAN
+uni7E41.loclJAN
+uni7F72.loclZHH
+uni8005.loclZHH
+uni81ED.loclJAN
+uni8457.loclZHS
+uni8910.loclJAN
+uni8996.loclJAN
+uni8B01.loclJAN
+uni8B39.loclJAN
+uni8CD3.loclJAN
+uni8D08.loclJAN
+uni9038.loclJAN
+uni96E3.loclJAN
+uni983B.loclJAN
+uni518D.loclZHH
+uni51AC.loclJAN
+uni59EC.loclJAN
+uni5DFD.loclJAN
+uni6CBF.loclJAN
+uni7228.loclJAN
+uni7D63.loclJAN
+uni8AED.loclJAN
+uni8F38.loclJAN
+uni514E.loclZHH
+uni53DF.loclJAN
+uni5632.loclJAN
+uni5EDF.loclJAN
+uni5F98.loclJAN
+uni63C3.loclJAN
+uni646F.loclJAN
+uni6753.loclJAN
+uni707C.loclJAN
+uni714E.loclJAN
+uni7BAD.loclJAN
+uni8258.loclJAN
+uni8292.loclJAN
+uni8511.loclJAN
+uni8A3B.loclJAN
+uni8AB9.loclJAN
+uni8C79.loclJAN
+uni9699.loclZHS
+uni9D60.loclJAN
+uni4E73.loclJAN
+uni4F34.loclZHH
+uni4FB5.loclJAN
+uni5049.loclJAN
+uni504F.loclJAN
+uni5091.loclJAN
+uni50CA.loclZHS
+uni50ED.loclJAN
+uni5168.loclJAN
+uni516C.loclJAN
+uni5177.loclJAN
+uni517C.loclZHH
+uni5203.loclJAN
+uni5206.loclJAN
+uni5224.loclJAN
+uni5238.loclJAN
+uni524A.loclZHH
+uni52DD.loclJAN
+uni5316.loclZHH
+uni534A.loclZHH
+uni535A.loclJAN
+uni53CA.loclJAN
+uni5438.loclJAN
+uni54B2.loclZHS
+uni5510.loclJAN
+uni5533.loclJAN
+uni5539.loclJAN
+uni5544.loclJAN
+uni5553.loclJAN
+uni55AB.loclJAN
+uni56AE.loclJAN
+uni576A.loclZHH
+uni5819.loclZHS
+uni5858.loclJAN
+uni585A.loclJAN
+uni589C.loclJAN
+uni5953.loclJAN
+uni59A5.loclJAN
+uni59FF.loclJAN
+uni5A1C.loclJAN
+uni5A66.loclJAN
+uni5A9B.loclJAN
+uni5ABE.loclJAN
+uni5ACC.loclJAN
+uni5B7C.loclJAN
+uni5BB5.loclJAN
+uni5BD2.loclJAN
+uniF95F
+uni5C0A.loclZHS
+uni5C0B.loclZHS
+uni5C0E.loclJAN
+uni5C28.loclZHH
+uni5DE1.loclJAN
+uni5DE8.loclJAN
+uni5E3D.loclJAN
+uni5E43.loclJAN
+uni5E63.loclJAN
+uni5E73.loclZHH
+uni5EE0.loclJAN
+uni5EF6.loclJAN
+uni5F0A.loclZHS
+uni5F31.loclJAN
+uni5F69.loclZHH
+uni5FAE.loclJAN
+uni5FB5.loclJAN
+uni5FCD.loclJAN
+uni6025.loclJAN
+uni60C5.loclZHH
+uni6109.loclJAN
+uni6167.loclJAN
+uni61F2.loclJAN
+uni623F.loclJAN
+uni6240.loclJAN
+uni6247.loclJAN
+uni6248.loclJAN
+uni6271.loclJAN
+uni62B1.loclJAN
+uni62D0.loclZHH
+uni62D2.loclJAN
+uni62F3.loclJAN
+uni6368.loclJAN
+uni6369.loclJAN
+uni6383.loclZHS
+uni63A1.loclZHH
+uni63F4.loclZHH
+uni6406.loclZHH
+uni6428.loclJAN
+uni6469.loclJAN
+uni65BC.loclJAN
+uni6667.loclJAN
+uni6677.loclZHH
+uni6696.loclZHH
+uni66C1.loclJAN
+uni66D9.loclZHH
+uni66DC.loclJAN
+uni6715.loclZHS
+uni677E.loclJAN
+uni67CA.loclZHH
+uni6813.loclJAN
+uni689B.loclZHH
+uni68A2.loclZHH
+uni69BB.loclJAN
+uni69CB.loclZHH
+uni6B21.loclJAN
+uni6CE1.loclJAN
+uni6D3E.loclJAN
+uni6D6E.loclJAN
+uni6D78.loclJAN
+uni6D88.loclZHH
+uni6DE4.loclJAN
+uni6E2F.loclJAN
+uni6E6E.loclZHS
+uni6E9D.loclZHH
+uni6ECB.loclJAN
+uni6ED5.loclJAN
+uni6EEC.loclJAN
+uni6EFE.loclJAN
+uni6F5B.loclJAN
+uni6F64.loclZHH
+uni6FEF.loclJAN
+uni7070.loclJAN
+uni7159.loclZHS
+uni7162.loclZHS
+uni71FF.loclJAN
+uni7235.loclJAN
+uni7336.loclZHS
+uni73ED.loclJAN
+uni74B0.loclJAN
+uni7504.loclJAN
+uni7554.loclZHH
+uni7626.loclJAN
+uni7652.loclJAN
+uni76C6.loclZHH
+uni77E9.loclJAN
+uni7832.loclJAN
+uni785D.loclZHH
+uni78E8.loclJAN
+uni7A31.loclJAN
+uni2F73
+uni7BC0.loclJAN
+uni7BE0.loclJAN
+uni7C50.loclJAN
+uni7C89.loclZHH
+uni7D0D.loclJAN
+uni7D1A.loclJAN
+uni7D1B.loclJAN
+uni7D42.loclJAN
+uni7DAE.loclJAN
+uni7DCF.loclJAN
+uni7DE8.loclJAN
+uni7DE9.loclJAN
+uni7DEF.loclJAN
+uni7E1B.loclJAN
+uni7E22.loclJAN
+uni7E2B.loclJAN
+uni7E6D.loclJAN
+uni7E8C.loclJAN
+uni7FC1.loclJAN
+uni7FD4.loclJAN
+uni7FE0.loclJAN
+uni7FE9.loclJAN
+uni7FFB.loclZHS
+uni8000.loclJAN
+uni8015.loclZHS
+uni8017.loclZHS
+uni8061.loclJAN
+uni8087.loclJAN
+uni8096.loclZHH
+uni80A9.loclJAN
+uni80BA.loclJAN
+uni80DE.loclJAN
+uni8108.loclJAN
+uni2F87
+uni821C.loclJAN
+uni8239.loclJAN
+uni82B1.loclJAN
+uni82D2.loclZHS
+uni82E3.loclJAN
+uni83DC.loclZHS
+uni84F4.loclJAN
+uni8563.loclJAN
+uni8584.loclJAN
+uni85E4.loclJAN
+uni8650.loclJAN
+uni865E.loclJAN
+uni8759.loclJAN
+uni87BD.loclJAN
+uni87D2.loclJAN
+uni8846.loclJAN
+uni8853.loclJAN
+uni885B.loclJAN
+uni889E.loclJAN
+uni890A.loclJAN
+uni8941.uv021
+uni89AF.loclZHH
+uni8A1F.loclJAN
+uni8A55.loclJAN
+uni8A8D.loclJAN
+uni8A95.loclJAN
+uni8AA4.loclJAN
+uni8ACB.uv022
+uni8ADE.loclJAN
+uni8AEE.loclJAN
+uni8B04.loclJAN
+uni8B19.loclJAN
+uni8B1B.loclJAN
+uni8B56.loclJAN
+uni8CA0.loclZHH
+uni8CA7.loclZHH
+uni8CA8.loclZHH
+uni8CC7.loclJAN
+uni8CCA.loclJAN
+uni8CFC.loclZHH
+uni8D0F.loclJAN
+uni8DDD.loclJAN
+uni8E8D.loclJAN
+uni8FBC.loclJAN
+uni8FC5.loclJAN
+uni8FCE.loclJAN
+uni8FD1.loclJAN
+uni8FD4.loclJAN
+uni8FEA.loclJAN
+uni8FEB.loclJAN
+uni8FED.loclJAN
+uni8FF0.loclJAN
+uni8FF7.loclJAN
+uni8FFD.loclJAN
+uni9000.loclJAN
+uni9001.loclJAN
+uni9003.loclJAN
+uni9006.loclJAN
+uni900F.loclJAN
+uni9010.loclJAN
+uni9014.loclJAN
+uni901A.loclJAN
+uni901D.loclJAN
+uni901E.loclJAN
+uni901F.loclJAN
+uni902E.loclJAN
+uni9032.loclJAN
+uni9054.loclJAN
+uni9042.loclJAN
+uni9047.loclJAN
+uni904A.loclJAN
+uni904B.loclJAN
+uni904D.loclJAN
+uni904E.loclJAN
+uni9053.loclJAN
+uni9058.loclJAN
+uni9060.loclJAN
+uni9063.loclJAN
+uni906D.loclJAN
+uni906E.loclJAN
+uni9075.loclJAN
+uni9077.loclJAN
+uni9078.loclJAN
+uni907A.loclJAN
+uni907F.loclJAN
+uni9083.loclJAN
+uni9084.loclJAN
+uni90A3.loclZHH
+uni90A8.loclJAN
+uni91C1.loclJAN
+uni91C7.loclZHH
+uni925B.loclJAN
+uni938C.loclJAN
+uni9396.loclJAN
+uni95BC.loclJAN
+uni964D.loclJAN
+uni968A.loclJAN
+uni96A3.loclJAN
+uni96C7.loclJAN
+uni96EA.loclZHS
+uni96F0.loclZHS
+uni976D.loclJAN
+uni9774.loclZHH
+uni97FF.loclJAN
+uni980C.loclJAN
+uni9811.loclJAN
+uni9812.loclJAN
+uni9867.loclJAN
+uni98E2.loclJAN
+uni98FD.loclJAN
+uni98FE.loclJAN
+uni990A.loclJAN
+uni9913.loclJAN
+uni9A30.loclJAN
+uni9A5F.loclJAN
+uni9B2E.loclJAN
+uni9B4D.loclJAN
+uni9B54.loclJAN
+uni9B97.loclZHH
+uni9E97.loclJAN
+uni2FC7
+uni9EBF.loclJAN
+uni9EDB.loclJAN
+uni9F08.loclJAN
+uni2FD0
+uni9F9C.loclJAN
+uni9F9D.loclJAN
+uni5ECA.loclJAN
+uni6717.loclJAN
+";
+name = LOCL_JAN_R;
+},
+{
+code = "uni4E08
+uni4EA4
+uni4F7F
+uni4FA0
+uni4FAD
+uni4FBF
+uni5049
+uni5065
+uni5085
+uni5091
+uni50CF
+uni5118
+uni5146
+uni514E
+uni5154
+uni516C
+uni5189
+uni5193
+uni5195
+uni51B4
+uni51CB
+uni51DB
+uni5206
+uni5265
+uni5275
+uni2F14
+uni5340
+uni53A9
+uni53C9
+uni53CE
+uni53DB
+uni53DF
+uni53F1
+uni53F2
+uni540F
+uni54AC
+uni5516
+uni5533
+uni5539
+uni5544
+uni559D
+uni55A9
+uni55E4
+uni565B
+uni5674
+uni5678
+uni56A2
+uni56A5
+uni56C0
+uni56C1
+uni570D
+uni5747
+uni57F4
+uni580B
+uni5858
+uni585A
+uni586B
+uni58AB
+uni58F7
+uni58FA
+uni59C9
+uni59DA
+uni5A36
+uni5A9B
+uni5ABE
+uni5ACC
+uni5BB3
+uni5BC3
+uni5C4F
+uni5C61
+uni5D4E
+uni5D87
+uni5DC9
+uni5DCC
+uni5DD3
+uni5DFD
+uni5E30
+uni5E64
+uni5EAD
+uni5EE0
+uni5EF6
+uni5EF7
+uni5EFA
+uni5EFB
+uni5F2D
+uni6062
+uni6065
+uni6097
+uni60B2
+uni60D8
+uni6167
+uni6168
+uni61A4
+uni61FE
+uni6241
+uni6248
+uni6249
+uni6268
+uni62CF
+uni62D0
+uni62F7
+uni633A
+uni634C
+uni6367
+uni6369
+uni636E
+uni6392
+uni63B4
+uni63BB
+uni63C3
+uni6406
+uni640F
+uni6442
+uni646F
+uni64B9
+uni64F2
+uni6505
+uni651D
+uni652A
+uni655D
+uni6562
+uni6583
+uni6590
+uni65A7
+uni6602
+uni665F
+uni66D9
+uni66F4
+uni6756
+uni677E
+uni67A6
+uni67A9
+uni67B4
+uni67CA
+uni67D4
+uni67E7
+uni67F5
+uni6813
+uni6821
+uni6843
+uni685D
+uni6867
+uni688D
+uni6897
+uni689B
+uni68A2
+uni68BC
+uni68DA
+uni690D
+uni6930
+uni696B
+uni6982
+uni69A7
+uni6A44
+uni6A8E
+uni6A90
+uni6A9C
+uni6AAE
+uni6B1D
+uni6B4E
+uni6BBB
+uni6C08
+uni6C13
+uni6C72
+uni6CBF
+uni6CE1
+uni6D3E
+uni6D9B
+uni6D9C
+uni6E1A
+uni6E23
+uni6E6E
+uni6E7E
+uni6E8C
+uni6E9D
+uni6EA2
+uni6EFE
+uni6F11
+uni6F3E
+uni6F45
+uni6F97
+uni6FE4
+uni6FEF
+uni704C
+uni7078
+uni7114
+uni717D
+uni7194
+uni71D7
+uni71FF
+uni7228
+uni2F57
+uni723A
+uni2F5B
+uni72E1
+uni7337
+uni73CA
+uni73CE
+uni73E5
+uni73ED
+uni7422
+uni7432
+uni745F
+uni74E0
+uni7504
+uni750C
+uni750D
+uni7511
+uni7515
+uni7526
+uni75BC
+uni75E9
+uni7652
+uni7672
+uni7693
+uni76C6
+uni773A
+uni77AC
+uni783A
+uni783F
+uni786C
+uni787C
+uni78D4
+uni7926
+uni792A
+uni7977
+uni79BA
+uni7A19
+uni7A31
+uni7A3D
+uni2F73
+uni7A7F
+uni7A95
+uni7AAE
+uni7AC3
+uni7AC8
+uni7B08
+uni7B75
+uni7B99
+uni7BAA
+uni7BAD
+uni7BC7
+uni7BDD
+uni7BED
+uni7C3E
+uni7C60
+uni7C7E
+uni7C82
+uni7C89
+uni7C90
+uni7CAE
+uni7CF2
+uni7D1B
+uni7D5E
+uni7D73
+uni7D9B
+uni7D9F
+uni7DAE
+uni7DCB
+uni7DCF
+uni7DDD
+uni7DEF
+uni7E35
+uni7E4B
+uni7E4D
+uni7F6A
+uni7FAE
+uni7FC1
+uni7FD4
+uni7FE0
+uni7FE1
+uni7FFC
+uni8000
+uni8003
+uni8036
+uni805A
+uni805F
+uni8061
+uni806F
+uni8070
+uni8073
+uni8074
+uni8076
+uni8077
+uni807E
+uni8108
+uni8153
+uni8171
+uni818A
+uni81B5
+uni81CD
+uni821C
+uni822E
+uni8239
+uni8247
+uni8258
+uni828D
+uni8292
+uni82BD
+uni82D2
+uni8323
+uni8328
+uni834A
+uni8375
+uni83B1
+uni83DF
+uni83F2
+uni847A
+uni848B
+uni84EE
+uni8511
+uni8517
+uni854A
+uni8555
+uni85AE
+uni85D5
+uni85DC
+uni85EA
+uni8602
+uni8654
+uni86CE
+uni86DB
+uni8703
+uni871A
+uni8749
+uni874B
+uni877F
+uni8782
+uni87D2
+uni8805
+uni8823
+uni8836
+uni885B
+uni889E
+uni88D8
+uni88F4
+uni890A
+uni892B
+uni893B
+uni896A
+uni896F
+uni89AA
+uni89AF
+uni8A0A
+uni8A1D
+uni8A1F
+uni8A95
+uni8ACC
+uni8ADE
+uni8AEB
+uni8B1D
+uni8B41
+uni8C79
+uni8CA7
+uni8CAB
+uni8CCE
+uni8CE4
+uni8CFC
+uni8D05
+uni8D0F
+uni8DDA
+uni8DF3
+uni8E09
+uni8E91
+uni8EA1
+uni8EAF
+uni8ECC
+uni8F13
+uni8F29
+uni8F2F
+uni8FE9
+uni8FEA
+uni9003
+uni900E
+uni901D
+uni9041
+uni9042
+uni9052
+uni9055
+uni9058
+uni906E
+uni907C
+uni9087
+uni9089
+uni90A3
+uni90AA
+uni9130
+uni9156
+uni9158
+uni9165
+uni9172
+uni9173
+uni9197
+uni91A2
+uni91A4
+uni91AA
+uni91AF
+uni91B4
+uni91BA
+uni91C1
+uni91C7
+uni91DC
+uni9237
+uni925B
+uni9375
+uni9477
+uni958F
+uni95BB
+uni964D
+uni9698
+uni9699
+uni96A3
+uni96C5
+uni96CE
+uni96D9
+uni96F0
+uni9724
+uni973D
+uni9760
+uni976D
+uni9771
+uni9774
+uni97AD
+uni980C
+uni9811
+uni9812
+uni9813
+uni981A
+uni9824
+uni982C
+uni9838
+uni983B
+uni985B
+uni9873
+uni98C3
+uni990C
+uni9910
+uni9957
+uni99C1
+uni9A19
+uni9A28
+uni9A45
+uni9B2E
+uni9B4D
+uni9B58
+uni9B97
+uni9BAB
+uni9BC6
+uni9BE1
+uni9BF1
+uni9BF2
+uni9BF5
+uni9C3A
+uni9C48
+uni9D07
+uni9D09
+uni9D0E
+uni9D2C
+uni9D48
+uni9DAF
+uni9DCF
+uni9E78
+uni9E97
+uni9E9F
+uni9EAA
+uni9EB9
+uni9EBA
+uni9EDB
+uni9F08
+uni9F4E
+uni9F9C.uv024
+uni9F9D
+uni5026.uv017
+uni50C5.uv017
+uni5132.uv017
+uni51A4.uv017
+uni537F.uv018
+uni53A9.uv017
+uni54E8.uv017
+uni55B0.uv017
+uni5632.uv017
+uni5642.uv017
+uni564C.uv017
+uni5835.uv017
+uni5A29.uv017
+uni5C51.uv017
+uni5C60.uv017
+uni5DF7.uv017
+uni5E96.uv017
+uni5EDF.uv017
+uni5F98.uv017
+uni5FBD.uv017
+uni6062.uv017
+uni6108.uv017
+uni633D.uv017
+uni6357.uv017
+uni6372.uv017
+uni647A.uv017
+uni64B0.uv017
+uni64E2.uv017
+uni6666.uv017
+uni6753.uv017
+uni6962.uv017
+uni696F.uv017
+uni698A.uv017
+uni6994.uv017
+uni69CC.uv017
+uni6A0B.uv017
+uni6A3D.uv017
+uni6ADB.uv018
+uni6DEB.uv017
+uni6EA2.uv017
+uni6EBA.uv017
+uni6F23.uv018
+uni7015.uv017
+uni701E.uv017
+uni7026.uv017
+uni7058.uv017
+uni707C.uv017
+uni7149.uv018
+uni714E.uv017
+uni717D.uv017
+uni724C.uv017
+uni7337.uv017
+uni7511.uv017
+uni7515.uv017
+uni77A5.uv017
+uni7941.uv017
+uni7947.uv017
+uni79B0.uv017
+uni79E4.uv017
+uni7A17.uv017
+uni7AC8.uv017
+uni7BB8.uv017
+uni7C7E.uv017
+uni7FEB.uv017
+uni7FF0.uv017
+uni817F.uv017
+uni82A6.uv017
+uni845B.uv017
+uni84EC.uv017
+uni853D.uv017
+uni85A9.uv017
+uni85AF.uv017
+uni85F7.uv017
+uni86F8.uv017
+uni8755.uv017
+uni8805.uv017
+uni8956.uv017
+uni8A1D.uv017
+uni8A3B.uv017
+uni8A6E.uv017
+uni8AB9.uv017
+uni8AFA.uv017
+uni8B0E.uv017
+uni8B2C.uv017
+uni8CED.uv017
+uni8FBB.uv017
+uni8FBF.uv017
+uni8FC2.uv017
+uni8FC4.uv017
+uni8FE6.uv017
+uni9017.uv017
+uni9019.uv017
+uni9022.uv017
+uni903C.uv017
+uni9041.uv017
+uni905C.uv017
+uni9061.uv017
+uni912D.uv017
+uni914B.uv017
+uni9306.uv017
+uni939A.uv017
+uni9453.uv017
+uni9699.uv017
+uni9771.uv017
+uni9784.uv017
+uni9798.uv017
+uni98F4.uv017
+uni9905.uv017
+uni990C.uv017
+uni9BD6.uv017
+uni9C2F.uv017
+uni9C52.uv017
+uni9D60.uv017
+uni9F9C";
+name = JP78_L;
+},
+{
+code = "uni4E08.uv018
+uni4EA4.uv018
+uni4F7F.uv018
+uni4FE0
+uni5118
+uni4FBF.uv018
+uni5049.uv018
+uni5065.uv018
+uni5085.uv018
+uni5091.uv018
+uni50CF.uv018
+uni4FAD
+uni5146.uv018
+uni514E.uv017
+uni5154.uv017
+uni516C.uv018
+uni5189.uv018
+uni5193.uv018
+uni5195.uv017
+uni51B4.uv018
+uni51CB.uv018
+uni51DB.uv018
+uni5206.uv018
+uni525D
+uni5275.uv018
+uni2F14.jp83
+uni5340.uv018
+uni53A9.uv018
+uni53C9.uv017
+uni53CE.uv018
+uni53DB.uv017
+uni53DF.uv017
+uni53F1.uv018
+uni53F2.uv018
+uni540F.uv018
+uni54AC.uv017
+uni555E
+uni5533.uv018
+uni5539.uv018
+uni5544.uv018
+uni559D.uv001
+uni55A9.uv019
+uni55E4.uv018
+uni5699
+uni5674.uv018
+uni5678.uv018
+uni56CA
+uni56A5.uv018
+uni56C0.uv017
+uni56C1.uv018
+uni570D.uv018
+uni5747.uv018
+uni57F4.uv018
+uni580B.uv018
+uni5858.uv018
+uni585A.uv001
+uni5861
+uni58AB.uv018
+uni58FA
+uni58F7
+uni59C9.uv018
+uni59DA.uv018
+uni5A36.uv018
+uni5A9B.uv018
+uni5ABE.uv018
+uni5ACC.uv018
+uni5BB3.uv018
+uni5BC3.jp78
+uni5C5B
+uni5C62
+uni5D4E.uv018
+uni5D87.uv018
+uni5DC9.uv018
+uni5DCC.uv018
+uni5DD3.uv018
+uni5DFD.uv017
+uni5E30.uv018
+uni5E64.uv018
+uni5EAD.uv018
+uni5EE0.uv018
+uni5EF6.uv018
+uni5EF7.uv018
+uni5EFA.uv018
+uni5EFB.uv017
+uni5F2D.uv018
+uni6062.uv018
+uni6065.uv018
+uni6097.uv018
+uni60B2.uv018
+uni60D8.uv018
+uni6167.uv018
+uni6168.uv019
+uni61A4.uv018
+uni61FE.uv018
+uni6241.uv017
+uni6248.uv018
+uni6249.uv018
+uni6268.uv018
+uni62CF.uv018
+uni62D0.uv018
+uni62F7.uv018
+uni633A.uv017
+uni634C.uv018
+uni6367.uv018
+uni6369.uv018
+uni636E.uv018
+uni6392.uv018
+uni6451
+uni6414
+uni63C3.uv017
+uni6406.uv018
+uni640F.uv018
+uni6442.uv018
+uni646F.uv017
+uni652A
+uni64F2.uv018
+uni6522
+uni651D.uv018
+uni64B9
+uni655D.uv018
+uni6562.uv018
+uni6583.uv018
+uni6590.uv018
+uni65A7.uv017
+uni663B
+uni665F.uv018
+uni66D9.uv018
+uni66F4.uv018
+uni6756.uv017
+uni677E.uv018
+uni67A6.uv018
+uni67A9.uv018
+uni67FA
+uni67CA.uv018
+uni67D4.uv018
+uni67E7.uv018
+uni6805
+uni6813.uv018
+uni6821.uv018
+uni6843.uv018
+uni685D.uv018
+uni6A9C
+uni688E
+uni6897.uv017
+uni689B.uv018
+uni68A2.uv018
+uni6AAE
+uni68DA.uv018
+uni690D.uv018
+uni6930.uv018
+uni696B.uv018
+uni6982.uv018
+uni69A7.uv018
+uni6A44.uv018
+uni6A8E.uv018
+uni6A90.uv018
+uni6867
+uni68BC
+uni6B1D.uv018
+uni6B4E.uv017
+uni6BBB.uv018
+uni6C08.uv019
+uni6C13.uv018
+uni6C72.uv017
+uni6CBF.uv019
+uni6CE1.uv018
+uni6D3E.uv018
+uni6FE4
+uni7006
+uni6E1A.uv017
+uni6E23.uv019
+uni6E6E.uv018
+uni6E7E.uv018
+uni6F51
+uni6E9D.uv018
+uni6EA2.uv019
+uni6EFE.uv018
+uni6F11.uv018
+uni6F3E.uv018
+uni704C
+uni3D4E
+uni6D9B
+uni6FEF.uv018
+uni6F45
+uni7078.uv017
+uni7130
+uni717D.uv018
+uni7194.uv018
+uni71D7.jp78
+uni71FF.uv018
+uni7228.uv017
+uni2F57.uv018
+uni723A.uv017
+uni2F5B.uv017
+uni72E1.uv017
+uni7337.uv018
+uni73CA.uv018
+uni73CE.uv018
+uni73E5.uv018
+uni73ED.uv018
+uni7422.uv017
+uni7432.uv018
+uni745F.uv018
+uni74E0.uv018
+uni7504.uv018
+uni750C.uv018
+uni750D.uv018
+uni7511.uv018
+uni7515.uv018
+uni7526.uv017
+uni75BC.uv017
+uni7626.uv018
+uni7652.uv018
+uni7672.uv018
+uni7693.uv018
+uni76C6.uv018
+uni773A.uv018
+uni77AC.uv018
+uni792A.uv018
+uni7926
+uni786C.uv018
+uni787C.uv018
+uni78D4.uv018
+uni783F
+uni783A
+uni79B1
+uni79BA.uv018
+uni7A19.uv018
+uni7A31.uv018
+uni7A3D.jp78
+uni2F73.uv018
+uni7A7F.uv017
+uni7A95.uv018
+uni7AAE.uv018
+uni7AC8.uv017
+uni7AC3
+uni7B08.uv017
+uni7B75.uv017
+uni7B99.uv018
+uni7C1E
+uni7BAD.uv017
+uni7BC7.uv017
+uni7BDD.uv017
+uni7C60
+uni7C3E.uv017
+uni7BED
+uni7C7E.uv018
+uni7C82.uv017
+uni7C89.uv018
+uni7C90.uv018
+uni7CAE.uv018
+uni7CF2.uv018
+uni7D1B.uv018
+uni7D5E.uv018
+uni7D73.uv018
+uni7D9B.uv018
+uni7D9F.uv018
+uni7DAE.uv018
+uni7DCB.uv018
+uni7DCF.uv018
+uni7DDD.uv018
+uni7DEF.uv018
+uni7E35.uv018
+uni7E6B
+uni7E61
+uni7F6A.uv018
+uni7FAE.uv018
+uni7FC1.uv018
+uni7FD4.uv018
+uni7FE0.uv018
+uni7FE1.uv018
+uni7FFC.uv018
+uni8000.uv018
+uni8003.uv018
+uni8036.uv018
+uni805A.uv018
+uni805F.uv018
+uni8061.uv018
+uni806F.uv018
+uni8070.uv018
+uni8073.uv018
+uni8074.uv018
+uni8076.uv018
+uni8077.uv018
+uni807E.uv018
+uni8108.uv018
+uni8153.uv018
+uni8171.uv017
+uni818A.uv018
+uni81B5.uv018
+uni81CD.uv018
+uni821C.uv018
+uni822E.uv018
+uni8239.uv018
+uni8247.uv018
+uni8258.uv017
+uni828D.uv018
+uni8292.uv017
+uni82BD.uv019
+uni82D2.uv018
+uni8323.uv018
+uni8328.uv017
+uni8346
+uni8375.uv018
+uni840A
+uni83DF.uv018
+uni83F2.uv018
+uni847A.uv018
+uni8523
+uni84EE.uv017
+uni8511.uv017
+uni8517.uv018
+uni8602
+uni8555.uv018
+uni85EA
+uni85D5.uv018
+uni853E
+uni85AE
+uni854A
+uni8654.uv017
+uni8823
+uni86DB.uv018
+uni8703.uv017
+uni871A.uv018
+uni87EC
+uni881F
+uni8805.uv017
+uni8782.uv018
+uni87D2.uv018
+uni877F
+uni86CE
+uni8836.uv018
+uni885B.uv018
+uni889E.uv018
+uni88D8.uv018
+uni88F4.uv018
+uni890A.uv018
+uni892B.uv018
+uni893B.uv018
+uni896A.uv018
+uni896F.uv018
+uni89AA.uv018
+uni89AF.uv018
+uni8A0A.uv017
+uni8A1D.uv018
+uni8A1F.uv018
+uni8A95.uv018
+uni8AEB
+uni8ADE.uv018
+uni8ACC
+uni8B1D.uv018
+uni8B41.uv018
+uni8C79.uv017
+uni8CA7.uv018
+uni8CAB.uv018
+uni8CE4
+uni8CCE
+uni8CFC.uv018
+uni8D05.uv018
+uni8D0F.uv018
+uni8DDA.uv018
+uni8DF3.uv018
+uni8E09.uv018
+uni8E91.uv018
+uni8EA1.uv018
+uni8EC0
+uni8ECC.uv018
+uni8F13.uv018
+uni8F29.uv018
+uni8F2F.uv018
+uni9087
+uni8FEA.uv018
+uni9003.uv018
+uni900E.uv018
+uni901D.uv018
+uni9041.uv018
+uni9042.uv018
+uni9052.uv018
+uni9055.uv018
+uni9058.uv018
+uni906E.uv018
+uni907C.uv018
+uni8FE9.uv018
+uni9089.uv018
+uni90A3.uv018
+uni90AA.uv018
+uni9130.uv018
+uni9156.uv018
+uni9158.uv018
+uni9165.uv018
+uni9172.uv018
+uni9173.uv018
+uni91B1
+uni91A2.uv018
+uni91AC
+uni91AA.uv018
+uni91AF.uv018
+uni91B4.uv018
+uni91BA.uv018
+uni91C1.uv018
+uni91C7.uv018
+uni91DC.uv017
+uni9237.uv018
+uni925B.uv018
+uni9375.uv017
+uni9477.uv018
+uni958F.jp78
+uni95BB.uv018
+uni964D.uv018
+uni9698.uv018
+uni9699.jp78
+uni96A3.uv018
+uni96C5.uv018
+uni7762
+uni96D9.uv018
+uni96F0.uv018
+uni9724.uv018
+uni973D.uv018
+uni9760.uv018
+uni9771.uv018
+uni976D.uv018
+uni9774.uv018
+uni97AD.uv017
+uni980C.uv018
+uni9811.uv018
+uni9812.uv018
+uni9813.uv018
+uni9838
+uni9824.uv018
+uni9830
+uni981A
+uni983B.uv017
+uni985A
+uni9873.uv018
+uni98C3.uv018
+uni990C.uv018
+uni9910.uv017
+uni9957.uv017
+uni99C1.uv017
+uni9A19.uv017
+uni9A52
+uni9A45.uv018
+uni9B2E.uv018
+uni9B4D.uv018
+uni9B58.uv018
+uni9B97.uv018
+uni9BAB.uv017
+uni9BC6.uv018
+uni9BE1.uv018
+uni9BF1.uv018
+uni9BF2.uv018
+uni9C3A
+uni9BF5
+uni9C48.uv018
+uni9D07.uv018
+uni9D09.uv017
+uni9DD7
+uni9DAF
+uni9D48.uv018
+uni9D2C
+uni9DCF.uv018
+uni9E7C
+uni9E97.uv018
+uni9E9F.uv018
+uni9EAA.uv018
+uni9EB4
+uni9EB5
+uni9EDB.uv018
+uni9F08.uv018
+uni9F4E.uv018
+uni2FD4.uv018
+uni9F9D.uv018
+uni5026
+uni50C5
+uni5132
+uni51A4
+uni537F
+uni53A9.uv018
+uni54E8
+uni55B0
+uni5632
+uni5642
+uni564C
+uni5835
+uni5A29
+uni5C51
+uni5C60
+uni5DF7
+uni5E96
+uni5EDF
+uni5F98
+uni5FBD
+uni6062.uv018
+uni6108
+uni633D
+uni6357
+uni6372
+uni647A
+uni64B0
+uni64E2
+uni6666
+uni6753
+uni6962
+uni696F
+uni698A
+uni6994
+uni69CC
+uni6A0B
+uni6A3D
+uni6ADB
+uni6DEB
+uni6EA2.uv019
+uni6EBA
+uni6F23
+uni7015
+uni701E
+uni7026
+uni7058
+uni707C
+uni7149
+uni714E
+uni717D.uv018
+uni724C
+uni7337.uv018
+uni7511.uv018
+uni7515.uv018
+uni77A5
+uni7941
+uni7947
+uni79B0
+uni79E4
+uni7A17
+uni7AC3
+uni7BB8
+uni7C7E.uv018
+uni7FEB
+uni7FF0
+uni817F
+uni82A6
+uni845B
+uni84EC
+uni853D
+uni85A9
+uni85AF
+uni85F7
+uni86F8
+uni8755
+uni877F
+uni8956
+uni8A1D.uv018
+uni8A3B
+uni8A6E
+uni8AB9
+uni8AFA
+uni8B0E
+uni8B2C
+uni8CED
+uni8FBB
+uni8FBF
+uni8FC2
+uni8FC4
+uni8FE6
+uni9017
+uni9019
+uni9022
+uni903C
+uni9041.uv018
+uni905C
+uni9061
+uni912D
+uni914B
+uni9306
+uni939A
+uni9453
+uni9699.jp78
+uni976D.uv018
+uni9784
+uni9798
+uni98F4
+uni9905
+uni990C.uv018
+uni9BD6
+uni9C2F
+uni9C52
+uni9D60
+uni9F9C.loclJAN";
+name = JP78_R;
+},
+{
+code = "uni4E08
+uni4EA4
+uni4F7F
+uni4FBF
+uni5026
+uni5049
+uni5065
+uni5085
+uni5091
+uni50C5
+uni50CF
+uni5132
+uni5146
+uni514E
+uni516C
+uni5193
+uni51A4
+uni51DB
+uni5206
+uni2F14
+uni5340
+uni537F
+uni53A9
+uni53C9
+uni53CE
+uni53DB
+uni53DF
+uni53F2
+uni540F
+uni54AC
+uni54E8
+uni55A9
+uni55B0
+uni5632
+uni5642
+uni564C
+uni5674
+uni56C0
+uni56C1
+uni570D
+uni5747
+uni57F4
+uni5835
+uni58AB
+uni59C9
+uni59DA
+uni5A29
+uni5A36
+uni5ABE
+uni5BB3
+uni5C51
+uni5C60
+uni5D4E
+uni5D87
+uni5DC9
+uni5DCC
+uni5DD3
+uni5DF7
+uni5E30
+uni5E96
+uni5EAD
+uni5EDF
+uni5EF6
+uni5EF7
+uni5EFA
+uni5EFB
+uni5F2D
+uni5FBD
+uni6062
+uni6065
+uni60B2
+uni60D8
+uni6108
+uni613D
+uni6168
+uni61A4
+uni61FE
+uni6241
+uni6249
+uni6268
+uni62CF
+uni62F7
+uni633A
+uni633D
+uni6357
+uni6367
+uni636E
+uni6372
+uni6392
+uni63C3
+uni640F
+uni6442
+uni646F
+uni647A
+uni64B0
+uni64E2
+uni64F2
+uni651D
+uni655D
+uni6562
+uni6590
+uni65A7
+uni665F
+uni6666
+uni66F4
+uni6753
+uni6756
+uni677E
+uni67A9
+uni67D4
+uni67E7
+uni6821
+uni6843
+uni685D
+uni6897
+uni690D
+uni6930
+uni6962
+uni696B
+uni6982
+uni698A
+uni6994
+uni69A7
+uni69CC
+uni6A0B
+uni6A3D
+uni6A44
+uni6A8E
+uni6A90
+uni6ADB
+uni6B4E
+uni6BBB
+uni6C08
+uni6C13
+uni6C72
+uni6CBF
+uni6D3E
+uni6DEB
+uni6E23
+uni6E7E
+uni6EA2
+uni6EBA
+uni6EFE
+uni6F11
+uni6F23
+uni6F3E
+uni7015
+uni701E
+uni7026
+uni7058
+uni7078
+uni707C
+uni7149
+uni714E
+uni717D
+uni71FF
+uni2F57
+uni723A
+uni724C
+uni2F5B
+uni72E1
+uni7337
+uni73E5
+uni73ED
+uni7432
+uni745F
+uni74E0
+uni750C
+uni7511
+uni7515
+uni7526
+uni75BC
+uni7672
+uni76C6
+uni773A
+uni77A5
+uni77AC
+uni786C
+uni78D4
+uni792A
+uni7941
+uni7947
+uni79B0
+uni79BA
+uni79E4
+uni7A17
+uni7A19
+uni2F73
+uni7A7F
+uni7A95
+uni7AAE
+uni7AC8
+uni7B08
+uni7B75
+uni7BAD
+uni7BB8
+uni7BC7
+uni7BDD
+uni7C3E
+uni7C7E
+uni7C82
+uni7C89
+uni7CF2
+uni7D1B
+uni7D5E
+uni7D73
+uni7DCB
+uni7DCF
+uni7DDD
+uni7DEF
+uni7E35
+uni7F6A
+uni7FAE
+uni7FC1
+uni7FE1
+uni7FEB
+uni7FF0
+uni7FFC
+uni8003
+uni8036
+uni805A
+uni805F
+uni8061
+uni806F
+uni8070
+uni8073
+uni8074
+uni8076
+uni8077
+uni807E
+uni8108
+uni8153
+uni8171
+uni817F
+uni818A
+uni81B5
+uni81CD
+uni821C
+uni8239
+uni8247
+uni8258
+uni8292
+uni82A6
+uni82BD
+uni8328
+uni83F2
+uni845B
+uni847A
+uni84EC
+uni8511
+uni853D
+uni8555
+uni85A9
+uni85AF
+uni85D5
+uni85F7
+uni8654
+uni86F8
+uni8703
+uni871A
+uni8755
+uni8805
+uni8836
+uni885B
+uni889E
+uni88D8
+uni88F4
+uni892B
+uni893B
+uni8956
+uni896A
+uni896F
+uni89AA
+uni8A0A
+uni8A1D
+uni8A1F
+uni8A3B
+uni8A6E
+uni8A95
+uni8AFA
+uni8B0E
+uni8B1D
+uni8B2C
+uni8C79
+uni8CA7
+uni8CAB
+uni8CED
+uni8CFC
+uni8D05
+uni8D0F
+uni8DF3
+uni8E91
+uni8EA1
+uni8ECC
+uni8F29
+uni8F2F
+uni8FBB
+uni8FBF
+uni8FC2
+uni8FC4
+uni8FE6
+uni9003
+uni900E
+uni9017
+uni9019
+uni9022
+uni903C
+uni9041
+uni9042
+uni9052
+uni9055
+uni905C
+uni9061
+uni90AA
+uni912D
+uni9130
+uni914B
+uni9156
+uni9158
+uni9165
+uni9172
+uni9173
+uni91A2
+uni91AA
+uni91AF
+uni91B4
+uni91BA
+uni91DC
+uni9237
+uni925B
+uni9306
+uni9375
+uni939A
+uni9453
+uni9477
+uni964D
+uni9698
+uni9699
+uni96A3
+uni96C5
+uni96D9
+uni96F0
+uni973D
+uni9760
+uni9784
+uni9798
+uni97AD
+uni980C
+uni9811
+uni9812
+uni9873
+uni98C3
+uni98F4
+uni9905
+uni990C
+uni9910
+uni9957
+uni99C1
+uni9A19
+uni9A45
+uni9B4D
+uni9B58
+uni9BAB
+uni9BC6
+uni9BD6
+uni9BE1
+uni9BF1
+uni9C2F
+uni9C52
+uni9D09
+uni9D48
+uni9D60
+uni9DCF
+uni9E97
+uni9E9F
+uni9F08
+uni9F4E
+uni53A9.uv017
+uni5F98.uv017
+uni696F.uv017
+uni853D.uv017
+uni8A1D.uv017
+uni8AB9.uv017
+uni9022.uv017
+uni9771.uv017
+uni990C.uv017";
+name = JP83_L;
+},
+{
+code = "uni4E08.uv018
+uni4EA4.uv018
+uni4F7F.uv018
+uni4FBF.uv018
+uni5026.uv017
+uni5049.uv018
+uni5065.uv018
+uni5085.uv018
+uni5091.uv018
+uni50C5.uv017
+uni50CF.uv018
+uni5132.uv017
+uni5146.uv018
+uni514E.uv017
+uni516C.uv018
+uni5193.uv018
+uni51A4.uv017
+uni51DB.uv018
+uni5206.uv018
+uni2F14.jp83
+uni5340.uv018
+uni537F.uv018
+uni53A9.uv020
+uni53C9.uv017
+uni53CE.uv018
+uni53DB.uv017
+uni53DF.uv017
+uni53F2.uv018
+uni540F.uv018
+uni54AC.uv017
+uni54E8.uv017
+uni55A9.uv019
+uni55B0.uv017
+uni5632.uv017
+uni5642.uv017
+uni564C.uv017
+uni5674.uv018
+uni56C0.uv017
+uni56C1.uv018
+uni570D.uv018
+uni5747.uv018
+uni57F4.uv018
+uni5835.uv017
+uni58AB.uv018
+uni59C9.uv018
+uni59DA.uv018
+uni5A29.uv017
+uni5A36.uv018
+uni5ABE.uv019
+uni5BB3.uv018
+uni5C51.uv017
+uni5C60.uv017
+uni5D4E.uv018
+uni5D87.uv018
+uni5DC9.uv018
+uni5DCC.uv018
+uni5DD3.uv018
+uni5DF7.uv017
+uni5E30.uv018
+uni5E96.uv017
+uni5EAD.uv018
+uni5EDF.uv017
+uni5EF6.uv018
+uni5EF7.uv018
+uni5EFA.uv018
+uni5EFB.uv017
+uni5F2D.uv018
+uni5FBD.uv017
+uni6062.uv017
+uni6065.uv018
+uni60B2.uv018
+uni60D8.uv018
+uni6108.uv017
+uni613D.uv018
+uni6168.uv019
+uni61A4.uv018
+uni61FE.uv018
+uni6241.uv017
+uni6249.uv019
+uni6268.uv018
+uni62CF.uv018
+uni62F7.uv018
+uni633A.uv017
+uni633D.uv017
+uni6357.uv017
+uni6367.uv018
+uni636E.uv018
+uni6372.uv017
+uni6392.uv018
+uni63C3.uv017
+uni640F.uv018
+uni6442.uv018
+uni646F.uv017
+uni647A.uv017
+uni64B0.uv017
+uni64E2.uv017
+uni64F2.uv018
+uni651D.uv018
+uni655D.uv018
+uni6562.uv018
+uni6590.uv018
+uni65A7.uv017
+uni665F.uv018
+uni6666.uv017
+uni66F4.uv018
+uni6753.uv017
+uni6756.uv017
+uni677E.uv018
+uni67A9.uv018
+uni67D4.uv018
+uni67E7.uv018
+uni6821.uv018
+uni6843.uv018
+uni685D.uv018
+uni6897.uv017
+uni690D.uv018
+uni6930.uv018
+uni6962.uv017
+uni696B.uv018
+uni6982.uv019
+uni698A.uv017
+uni6994.uv017
+uni69A7.uv018
+uni69CC.uv017
+uni6A0B.uv017
+uni6A3D.uv017
+uni6A44.uv018
+uni6A8E.uv018
+uni6A90.uv018
+uni6ADB.uv018
+uni6B4E.uv017
+uni6BBB.uv018
+uni6C08.uv019
+uni6C13.uv018
+uni6C72.uv017
+uni6CBF.uv019
+uni6D3E.uv018
+uni6DEB.uv017
+uni6E23.uv019
+uni6E7E.uv018
+uni6EA2.uv017
+uni6EBA.uv017
+uni6EFE.uv018
+uni6F11.uv018
+uni6F23.uv018
+uni6F3E.uv018
+uni7015.uv017
+uni701E.uv017
+uni7026.uv017
+uni7058.uv017
+uni7078.uv017
+uni707C.uv017
+uni7149.uv018
+uni714E.uv017
+uni717D.uv017
+uni71FF.uv018
+uni2F57.uv018
+uni723A.uv017
+uni724C.uv017
+uni2F5B.uv017
+uni72E1.uv017
+uni7337.uv017
+uni73E5.uv018
+uni73ED.uv018
+uni7432.uv018
+uni745F.uv018
+uni74E0.uv018
+uni750C.uv018
+uni7511.uv017
+uni7515.uv017
+uni7526.uv017
+uni75BC.uv017
+uni7672.uv018
+uni76C6.uv018
+uni773A.uv018
+uni77A5.uv017
+uni77AC.uv018
+uni786C.uv018
+uni78D4.uv018
+uni792A.uv018
+uni7941.uv017
+uni7947.uv017
+uni79B0.uv017
+uni79BA.uv018
+uni79E4.uv017
+uni7A17.uv017
+uni7A19.uv018
+uni2F73.uv018
+uni7A7F.uv017
+uni7A95.uv018
+uni7AAE.uv018
+uni7AC8.uv017
+uni7B08.uv017
+uni7B75.uv017
+uni7BAD.uv017
+uni7BB8.uv017
+uni7BC7.uv017
+uni7BDD.uv017
+uni7C3E.uv017
+uni7C7E.uv017
+uni7C82.uv017
+uni7C89.uv018
+uni7CF2.uv018
+uni7D1B.uv018
+uni7D5E.uv018
+uni7D73.uv018
+uni7DCB.uv018
+uni7DCF.uv018
+uni7DDD.uv018
+uni7DEF.uv018
+uni7E35.uv018
+uni7F6A.uv018
+uni7FAE.uv018
+uni7FC1.uv018
+uni7FE1.uv018
+uni7FEB.uv017
+uni7FF0.uv017
+uni7FFC.uv018
+uni8003.uv018
+uni8036.uv018
+uni805A.uv018
+uni805F.uv018
+uni8061.uv018
+uni806F.uv018
+uni8070.uv018
+uni8073.uv018
+uni8074.uv018
+uni8076.uv018
+uni8077.uv018
+uni807E.uv018
+uni8108.uv018
+uni8153.uv018
+uni8171.uv017
+uni817F.uv017
+uni818A.uv018
+uni81B5.uv018
+uni81CD.uv018
+uni821C.uv018
+uni8239.uv018
+uni8247.uv018
+uni8258.uv017
+uni8292.uv017
+uni82A6.uv017
+uni82BD.uv019
+uni8328.uv017
+uni83F2.uv018
+uni845B.uv017
+uni847A.uv018
+uni84EC.uv017
+uni8511.uv017
+uni853D.uv019
+uni8555.uv018
+uni85A9.uv017
+uni85AF.uv017
+uni85D5.uv018
+uni85F7.uv017
+uni8654.uv017
+uni86F8.uv017
+uni8703.uv017
+uni871A.uv018
+uni8755.uv017
+uni8805.uv017
+uni8836.uv018
+uni885B.uv018
+uni889E.uv018
+uni88D8.uv018
+uni88F4.uv018
+uni892B.uv018
+uni893B.uv018
+uni8956.uv017
+uni896A.uv018
+uni896F.uv018
+uni89AA.uv018
+uni8A0A.uv017
+uni8A1D.uv018
+uni8A1F.uv018
+uni8A3B.uv017
+uni8A6E.uv017
+uni8A95.uv018
+uni8AFA.uv017
+uni8B0E.uv017
+uni8B1D.uv018
+uni8B2C.uv017
+uni8C79.uv017
+uni8CA7.uv018
+uni8CAB.uv018
+uni8CED.uv017
+uni8CFC.uv018
+uni8D05.uv018
+uni8D0F.uv018
+uni8DF3.uv018
+uni8E91.uv018
+uni8EA1.uv018
+uni8ECC.uv018
+uni8F29.uv018
+uni8F2F.uv018
+uni8FBB.uv017
+uni8FBF.uv017
+uni8FC2.uv017
+uni8FC4.uv017
+uni8FE6.uv017
+uni9003.uv018
+uni900E.uv018
+uni9017.uv017
+uni9019.uv017
+uni9022.uv019
+uni903C.uv017
+uni9041.uv017
+uni9042.uv018
+uni9052.uv018
+uni9055.uv018
+uni905C.uv017
+uni9061.uv017
+uni90AA.uv018
+uni912D.uv017
+uni9130.uv018
+uni914B.uv017
+uni9156.uv018
+uni9158.uv018
+uni9165.uv018
+uni9172.uv018
+uni9173.uv018
+uni91A2.uv018
+uni91AA.uv018
+uni91AF.uv018
+uni91B4.uv018
+uni91BA.uv018
+uni91DC.uv017
+uni9237.uv018
+uni925B.uv018
+uni9306.uv017
+uni9375.uv017
+uni939A.uv017
+uni9453.uv017
+uni9477.uv018
+uni964D.uv018
+uni9698.uv018
+uni9699.uv017
+uni96A3.uv018
+uni96C5.uv018
+uni96D9.uv018
+uni96F0.uv018
+uni973D.uv018
+uni9760.uv019
+uni9784.uv017
+uni9798.uv017
+uni97AD.uv017
+uni980C.uv018
+uni9811.uv018
+uni9812.uv018
+uni9873.uv018
+uni98C3.uv018
+uni98F4.uv017
+uni9905.uv017
+uni990C.uv019
+uni9910.uv017
+uni9957.uv017
+uni99C1.uv017
+uni9A19.uv017
+uni9A45.uv018
+uni9B4D.uv018
+uni9B58.uv018
+uni9BAB.uv017
+uni9BC6.uv018
+uni9BD6.uv017
+uni9BE1.uv018
+uni9BF1.uv018
+uni9C2F.uv017
+uni9C52.uv017
+uni9D09.uv017
+uni9D48.uv018
+uni9D60.uv017
+uni9DCF.uv018
+uni9E97.uv018
+uni9E9F.uv018
+uni9F08.uv018
+uni9F4E.uv018
+uni53A9.uv020
+uni5F98
+uni696F
+uni853D.uv019
+uni8A1D.uv018
+uni8AB9
+uni9022.uv019
+uni9771
+uni990C.uv019";
+name = JP83_R;
+},
+{
+code = "uni5026
+uni50C5
+uni5132
+uni514E
+uni51A4
+uni537F
+uni53A9
+uni53C9
+uni53DB
+uni53DF
+uni54AC
+uni54E8
+uni55B0
+uni5632
+uni5642
+uni564C
+uni56C0
+uni5835
+uni5A29
+uni5C51
+uni5C60
+uni5DF7
+uni5E96
+uni5EDF
+uni5EFB
+uni5F98
+uni5FBD
+uni6062
+uni6108
+uni6241
+uni633A
+uni633D
+uni6357
+uni6372
+uni63C3
+uni647A
+uni64B0
+uni64E2
+uni65A7
+uni6666
+uni6753
+uni6756
+uni6897
+uni6962
+uni696F
+uni698A
+uni6994
+uni69CC
+uni6A0B
+uni6A3D
+uni6ADB
+uni6B4E
+uni6C72
+uni6DEB
+uni6EA2
+uni6EBA
+uni6F23
+uni7015
+uni701E
+uni7026
+uni7058
+uni7078
+uni707C
+uni7149
+uni714E
+uni717D
+uni723A
+uni724C
+uni2F5B
+uni72E1
+uni7337
+uni7511
+uni7515
+uni7526
+uni75BC
+uni77A5
+uni7941
+uni7947
+uni79B0
+uni79E4
+uni7A17
+uni7A7F
+uni7AC8
+uni7B08
+uni7B75
+uni7BAD
+uni7BB8
+uni7BC7
+uni7BDD
+uni7C3E
+uni7C7E
+uni7C82
+uni7FEB
+uni7FF0
+uni8171
+uni817F
+uni8258
+uni8292
+uni82A6
+uni8328
+uni845B
+uni84EC
+uni8511
+uni853D
+uni85A9
+uni85AF
+uni85F7
+uni8654
+uni86F8
+uni8703
+uni8755
+uni8805
+uni8956
+uni8A0A
+uni8A1D
+uni8A3B
+uni8A6E
+uni8AB9
+uni8AFA
+uni8B0E
+uni8B2C
+uni8C79
+uni8CED
+uni8FBB
+uni8FBF
+uni8FC2
+uni8FC4
+uni8FE6
+uni9017
+uni9019
+uni9022
+uni903C
+uni9041
+uni905C
+uni9061
+uni912D
+uni914B
+uni91DC
+uni9306
+uni9375
+uni939A
+uni9453
+uni9699
+uni9771
+uni9784
+uni9798
+uni97AD
+uni98F4
+uni9905
+uni990C
+uni9910
+uni9957
+uni99C1
+uni9A19
+uni9BAB
+uni9BD6
+uni9C2F
+uni9C52
+uni9D09
+uni9D60";
+name = JP90_L;
+},
+{
+code = "uni5026.uv017
+uni50C5.uv017
+uni5132.uv017
+uni514E.uv017
+uni51A4.uv017
+uni537F.uv018
+uni53A9.uv017
+uni53C9.uv017
+uni53DB.uv017
+uni53DF.uv017
+uni54AC.uv017
+uni54E8.uv017
+uni55B0.uv017
+uni5632.uv017
+uni5642.uv017
+uni564C.uv017
+uni56C0.uv017
+uni5835.uv017
+uni5A29.uv017
+uni5C51.uv017
+uni5C60.uv017
+uni5DF7.uv017
+uni5E96.uv017
+uni5EDF.uv017
+uni5EFB.uv017
+uni5F98.uv017
+uni5FBD.uv017
+uni6062.uv017
+uni6108.uv017
+uni6241.uv017
+uni633A.uv017
+uni633D.uv017
+uni6357.uv017
+uni6372.uv017
+uni63C3.uv017
+uni647A.uv017
+uni64B0.uv017
+uni64E2.uv017
+uni65A7.uv017
+uni6666.uv017
+uni6753.uv017
+uni6756.uv017
+uni6897.uv017
+uni6962.uv017
+uni696F.uv017
+uni698A.uv017
+uni6994.uv017
+uni69CC.uv017
+uni6A0B.uv017
+uni6A3D.uv017
+uni6ADB.uv018
+uni6B4E.uv017
+uni6C72.uv017
+uni6DEB.uv017
+uni6EA2.uv017
+uni6EBA.uv017
+uni6F23.uv018
+uni7015.uv017
+uni701E.uv017
+uni7026.uv017
+uni7058.uv017
+uni7078.uv017
+uni707C.uv017
+uni7149.uv018
+uni714E.uv017
+uni717D.uv017
+uni723A.uv017
+uni724C.uv017
+uni2F5B.uv017
+uni72E1.uv017
+uni7337.uv017
+uni7511.uv017
+uni7515.uv017
+uni7526.uv017
+uni75BC.uv017
+uni77A5.uv017
+uni7941.uv017
+uni7947.uv017
+uni79B0.uv017
+uni79E4.uv017
+uni7A17.uv017
+uni7A7F.uv017
+uni7AC8.uv017
+uni7B08.uv017
+uni7B75.uv017
+uni7BAD.uv017
+uni7BB8.uv017
+uni7BC7.uv017
+uni7BDD.uv017
+uni7C3E.uv017
+uni7C7E.uv017
+uni7C82.uv017
+uni7FEB.uv017
+uni7FF0.uv017
+uni8171.uv017
+uni817F.uv017
+uni8258.uv017
+uni8292.uv017
+uni82A6.uv017
+uni8328.uv017
+uni845B.uv017
+uni84EC.uv017
+uni8511.uv017
+uni853D.uv017
+uni85A9.uv017
+uni85AF.uv017
+uni85F7.uv017
+uni8654.uv017
+uni86F8.uv017
+uni8703.uv017
+uni8755.uv017
+uni8805.uv017
+uni8956.uv017
+uni8A0A.uv017
+uni8A1D.uv017
+uni8A3B.uv017
+uni8A6E.uv017
+uni8AB9.uv017
+uni8AFA.uv017
+uni8B0E.uv017
+uni8B2C.uv017
+uni8C79.uv017
+uni8CED.uv017
+uni8FBB.uv017
+uni8FBF.uv017
+uni8FC2.uv017
+uni8FC4.uv017
+uni8FE6.uv017
+uni9017.uv017
+uni9019.uv017
+uni9022.uv017
+uni903C.uv017
+uni9041.uv017
+uni905C.uv017
+uni9061.uv017
+uni912D.uv017
+uni914B.uv017
+uni91DC.uv017
+uni9306.uv017
+uni9375.uv017
+uni939A.uv017
+uni9453.uv017
+uni9699.uv017
+uni9771.uv017
+uni9784.uv017
+uni9798.uv017
+uni97AD.uv017
+uni98F4.uv017
+uni9905.uv017
+uni990C.uv017
+uni9910.uv017
+uni9957.uv017
+uni99C1.uv017
+uni9A19.uv017
+uni9BAB.uv017
+uni9BD6.uv017
+uni9C2F.uv017
+uni9C52.uv017
+uni9D09.uv017
+uni9D60.uv017";
+name = JP90_R;
+},
+{
+code = "uni4FA0
+uni5036
+uni5265
+uni53F1
+uni5451
+uni5516
+uni5618
+uni565B
+uni56A2
+uni586B
+uni598D
+uni5C4F
+uni5C61
+uni5E76
+uni5F2F
+uni63B4
+uni63BB
+uni64B9
+uni6505
+uni66FD
+uni685D
+uni6CAA
+uni6D9C
+uni6E8C
+uni7114
+uni75E9
+uni7977
+uni7BAA
+uni7E4B
+uni7E4D
+uni81C8
+uni82A6
+uni8346
+uni83B1
+uni848B
+uni8749
+uni874B
+uni8EAF
+uni9197
+uni91A4
+uni976D
+uni982C
+uni9834
+uni985B
+uni9A28
+uni9D0E
+uni9E78
+uni9EB9
+uni9EBA
+uni5349.001
+uni7A3D.jp78
+uni5026.uv017
+uni50C5.uv017
+uni5132.uv017
+uni514E.uv017
+uni51A4.uv017
+uni537F.uv018
+uni53A9.uv017
+uni53C9.uv017
+uni53DB.uv017
+uni53DF.uv017
+uni54AC.uv017
+uni54E8.uv017
+uni55B0.uv017
+uni5632.uv017
+uni5642.uv017
+uni564C.uv017
+uni56C0.uv017
+uni5835.uv017
+uni5A29.uv017
+uni5C51.uv017
+uni5C60.uv017
+uni5DF7.uv017
+uni5E96.uv017
+uni5EDF.uv017
+uni5EFB.uv017
+uni5F98.uv017
+uni5FBD.uv017
+uni6062.uv017
+uni6108.uv017
+uni6241.uv017
+uni633A.uv017
+uni633D.uv017
+uni6357.uv017
+uni6372.uv017
+uni63C3.uv017
+uni646F.uv017
+uni647A.uv017
+uni64B0.uv017
+uni64E2.uv017
+uni65A7.uv017
+uni6666.uv017
+uni6753.uv017
+uni6756.uv017
+uni6897.uv017
+uni6962.uv017
+uni696F.uv017
+uni698A.uv017
+uni6994.uv017
+uni69CC.uv017
+uni6A0B.uv017
+uni6A3D.uv017
+uni6ADB.uv018
+uni6B4E.uv017
+uni6C72.uv017
+uni6DEB.uv017
+uni6EA2.uv017
+uni6EBA.uv017
+uni6F23.uv018
+uni7015.uv017
+uni701E.uv017
+uni7026.uv017
+uni7058.uv017
+uni7078.uv017
+uni707C.uv017
+uni7149.uv018
+uni714E.uv017
+uni717D.uv017
+uni723A.uv017
+uni724C.uv017
+uni2F5B.uv017
+uni72E1.uv017
+uni7337.uv017
+uni7511.uv017
+uni7515.uv017
+uni7526.uv017
+uni75BC.uv017
+uni77A5.uv017
+uni7941.uv017
+uni7947.uv017
+uni79B0.uv017
+uni79E4.uv017
+uni7A17.uv017
+uni7A7F.uv017
+uni7AC8.uv017
+uni7B08.uv017
+uni7B75.uv017
+uni7BAD.uv017
+uni7BB8.uv017
+uni7BC7.uv017
+uni7BDD.uv017
+uni7C3E.uv017
+uni7C7E.uv017
+uni7C82.uv017
+uni7FEB.uv017
+uni7FF0.uv017
+uni8171.uv017
+uni817F.uv017
+uni8258.uv017
+uni8292.uv017
+uni82A6.uv017
+uni8328.uv017
+uni845B.uv017
+uni84EC.uv017
+uni8511.uv017
+uni853D.uv017
+uni85A9.uv017
+uni85AF.uv017
+uni85F7.uv017
+uni8654.uv017
+uni86F8.uv017
+uni8703.uv017
+uni8755.uv017
+uni8805.uv017
+uni8956.uv017
+uni8A0A.uv017
+uni8A1D.uv017
+uni8A3B.uv017
+uni8A6E.uv017
+uni8AB9.uv017
+uni8AFA.uv017
+uni8B0E.uv017
+uni8B2C.uv017
+uni8C79.uv017
+uni8CED.uv017
+uni8FBB.uv017
+uni8FBF.uv017
+uni8FC2.uv017
+uni8FC4.uv017
+uni8FE6.uv017
+uni9017.uv017
+uni9019.uv017
+uni9022.uv017
+uni903C.uv017
+uni9041.uv017
+uni905C.uv017
+uni9061.uv017
+uni912D.uv017
+uni914B.uv017
+uni91DC.uv017
+uni9306.uv017
+uni9375.uv017
+uni939A.uv017
+uni9453.uv017
+uni9699.uv017
+uni9771.uv017
+uni9784.uv017
+uni9798.uv017
+uni97AD.uv017
+uni98F4.uv017
+uni9905.uv017
+uni990C.uv017
+uni9910.uv017
+uni9957.uv017
+uni99C1.uv017
+uni9A19.uv017
+uni9BAB.uv017
+uni9BD6.uv017
+uni9C2F.uv017
+uni9C52.uv017
+uni9D09.uv017
+uni9D60.uv017
+uni8106.uv018
+uni8154.uv018
+uni976D.uv019";
+name = NLCK_L;
+},
+{
+code = "uni4FE0
+uni4FF1
+uni525D
+uni53F1.nlck
+uni541E
+uni555E
+uni5653
+uni5699
+uni56CA
+uni5861
+uni59F8
+uni5C5B
+uni5C62
+uni5E77
+uni5F4E
+uni6451
+uni6414
+uni652A
+uni6522
+uni66FE
+uni67A1
+uni6FFE
+uni7006
+uni6F51
+uni7130
+uni7626
+uni79B1
+uni7C1E
+uni7E6B
+uni7E61
+uniFA1F
+uni8606
+uni834A
+uni840A
+uni8523
+uni87EC
+uni881F
+uni8EC0
+uni91B1
+uni91AC
+uni9771
+uni9830
+uni7A4E
+uni985A
+uni9A52
+uni9DD7
+uni9E7C
+uni9EB4
+uni9EB5
+uni5349
+uni7A3D
+uni5026
+uni50C5
+uni5132
+uni514E
+uni51A4
+uni537F
+uni53A9
+uni53C9
+uni53DB
+uni53DF
+uni54AC
+uni54E8
+uni55B0
+uni5632
+uni5642
+uni564C
+uni56C0
+uni5835
+uni5A29
+uni5C51
+uni5C60
+uni5DF7
+uni5E96
+uni5EDF
+uni5EFB
+uni5F98
+uni5FBD
+uni6062
+uni6108
+uni6241
+uni633A
+uni633D
+uni6357
+uni6372
+uni63C3
+uni646F
+uni647A
+uni64B0
+uni64E2
+uni65A7
+uni6666
+uni6753
+uni6756
+uni6897
+uni6962
+uni696F
+uni698A
+uni6994
+uni69CC
+uni6A0B
+uni6A3D
+uni6ADB
+uni6B4E
+uni6C72
+uni6DEB
+uni6EA2
+uni6EBA
+uni6F23
+uni7015
+uni701E
+uni7026
+uni7058
+uni7078
+uni707C
+uni7149
+uni714E
+uni717D
+uni723A
+uni724C
+uni2F5B
+uni72E1
+uni7337
+uni7511
+uni7515
+uni7526
+uni75BC
+uni77A5
+uni7941
+uni7947
+uni79B0
+uni79E4
+uni7A17
+uni7A7F
+uni7AC8
+uni7B08
+uni7B75
+uni7BAD
+uni7BB8
+uni7BC7
+uni7BDD
+uni7C3E
+uni7C7E
+uni7C82
+uni7FEB
+uni7FF0
+uni8171
+uni817F
+uni8258
+uni8292
+uni8606
+uni8328
+uni845B
+uni84EC
+uni8511
+uni853D
+uni85A9
+uni85AF
+uni85F7
+uni8654
+uni86F8
+uni8703
+uni8755
+uni8805
+uni8956
+uni8A0A
+uni8A1D
+uni8A3B
+uni8A6E
+uni8AB9
+uni8AFA
+uni8B0E
+uni8B2C
+uni8C79
+uni8CED
+uni8FBB
+uni8FBF
+uni8FC2
+uni8FC4
+uni8FE6
+uni9017
+uni9019
+uni9022
+uni903C
+uni9041
+uni905C
+uni9061
+uni912D
+uni914B
+uni91DC
+uni9306
+uni9375
+uni939A
+uni9453
+uni9699
+uni9771
+uni9784
+uni9798
+uni97AD
+uni98F4
+uni9905
+uni990C
+uni9910
+uni9957
+uni99C1
+uni9A19
+uni9BAB
+uni9BD6
+uni9C2F
+uni9C52
+uni9D09
+uni9D60
+uni8106
+uni8154
+uni9771";
+name = NLCK_R;
+}
+);
 customParameters = (
 {
 name = openTypeHeadFlags;
@@ -78,589 +3880,73 @@ name = ROS;
 value = "Adobe-Identity-0";
 }
 );
-date = "2023-07-17 15:00:14 +0000";
+date = "2023-06-11 15:00:30 +0000";
 familyName = "Pretendard Split Han";
 featurePrefixes = (
 {
 automatic = 1;
 code = "languagesystem DFLT dflt;
+
+languagesystem hani dflt;
+languagesystem hani JAN;
 ";
 name = Languagesystems;
+},
+{
+code = "";
+name = LookupHan;
 }
 );
 features = (
 {
 automatic = 1;
-code = "script hani;
-language JAN;
-lookup locl_hani_0 {
-	sub uni4E73 by uni4E73.loclJAN;
-	sub uni4FAE by uni4FAE.loclJAN;
-	sub uni4FB5 by uni4FB5.loclJAN;
-	sub uni501C by uni501C.loclJAN;
-	sub uni5049 by uni5049.loclJAN;
-	sub uni504F by uni504F.loclJAN;
-	sub uni5070 by uni5070.loclJAN;
-	sub uni5091 by uni5091.loclJAN;
-	sub uni50E7 by uni50E7.loclJAN;
-	sub uni50ED by uni50ED.loclJAN;
-	sub uni514D by uni514D.loclJAN;
-	sub uni5168 by uni5168.loclJAN;
-	sub uni516C by uni516C.loclJAN;
-	sub uni5177 by uni5177.loclJAN;
-	sub uni5192 by uni5192.loclJAN;
-	sub uni51AC by uni51AC.loclJAN;
-	sub uni5203 by uni5203.loclJAN;
-	sub uni5206 by uni5206.loclJAN;
-	sub uni5224 by uni5224.loclJAN;
-	sub uni5238 by uni5238.loclJAN;
-	sub uni526A by uni526A.loclJAN;
-	sub uni5272 by uni5272.loclJAN;
-	sub uni52C7 by uni52C7.loclJAN;
-	sub uni52C9 by uni52C9.loclJAN;
-	sub uni52DD by uni52DD.loclJAN;
-	sub uni52E4 by uni52E4.loclJAN;
-	sub uni5305 by uni5305.loclJAN;
-	sub uni5351 by uni5351.loclJAN;
-	sub uni535A by uni535A.loclJAN;
-	sub uni53CA by uni53CA.loclJAN;
-	sub uni53DF by uni53DF.loclJAN;
-	sub uni5438 by uni5438.loclJAN;
-	sub uni5440 by uni5440.loclJAN;
-	sub uni5510 by uni5510.loclJAN;
-	sub uni5533 by uni5533.loclJAN;
-	sub uni5539 by uni5539.loclJAN;
-	sub uni5544 by uni5544.loclJAN;
-	sub uni5553 by uni5553.loclJAN;
-	sub uni559D by uni559D.loclJAN;
-	sub uni559E by uni559E.loclJAN;
-	sub uni55AB by uni55AB.loclJAN;
-	sub uni5606 by uni5606.loclJAN;
-	sub uni5632 by uni5632.loclJAN;
-	sub uni5668 by uni5668.loclJAN;
-	sub uni56AE by uni56AE.loclJAN;
-	sub uni570D by uni570D.loclJAN;
-	sub uni5840 by uni5840.loclJAN;
-	sub uni5858 by uni5858.loclJAN;
-	sub uni585A by uni585A.loclJAN;
-	sub uni589C by uni589C.loclJAN;
-	sub uni58A8 by uni58A8.loclJAN;
-	sub uni5914 by uni5914.loclJAN;
-	sub uni5922 by uni5922.loclJAN;
-	sub uni5951 by uni5951.loclJAN;
-	sub uni5953 by uni5953.loclJAN;
-	sub uni59A5 by uni59A5.loclJAN;
-	sub uni59EC by uni59EC.loclJAN;
-	sub uni59FF by uni59FF.loclJAN;
-	sub uni5A1C by uni5A1C.loclJAN;
-	sub uni5A35 by uni5A35.loclJAN;
-	sub uni5A66 by uni5A66.loclJAN;
-	sub uni5A9B by uni5A9B.loclJAN;
-	sub uni5ABE by uni5ABE.loclJAN;
-	sub uni5ACC by uni5ACC.loclJAN;
-	sub uni5B7C by uni5B7C.loclJAN;
-	sub uni5BAC by uni5BAC.loclJAN;
-	sub uni5BB5 by uni5BB5.loclJAN;
-	sub uni5BD0 by uni5BD0.loclJAN;
-	sub uni5BD2 by uni5BD2.loclJAN;
-	sub uni5C0E by uni5C0E.loclJAN;
-	sub uni5C64 by uni5C64.loclJAN;
-	sub uni5CEF by uni5CEF.loclJAN;
-	sub uni5DE1 by uni5DE1.loclJAN;
-	sub uni5DE8 by uni5DE8.loclJAN;
-	sub uni5DFD by uni5DFD.loclJAN;
-	sub uni5E3D by uni5E3D.loclJAN;
-	sub uni5E43 by uni5E43.loclJAN;
-	sub uni5E63 by uni5E63.loclJAN;
-	sub uni5EC9 by uni5EC9.loclJAN;
-	sub uni5ECA by uni5ECA.loclJAN;
-	sub uni5ED0 by uni5ED0.loclJAN;
-	sub uni5EDF by uni5EDF.loclJAN;
-	sub uni5EE0 by uni5EE0.loclJAN;
-	sub uni5EF6 by uni5EF6.loclJAN;
-	sub uni5F31 by uni5F31.loclJAN;
-	sub uni5F98 by uni5F98.loclJAN;
-	sub uni5FAE by uni5FAE.loclJAN;
-	sub uni5FB5 by uni5FB5.loclJAN;
-	sub uni5FCD by uni5FCD.loclJAN;
-	sub uni6025 by uni6025.loclJAN;
-	sub uni605D by uni605D.loclJAN;
-	sub uni6094 by uni6094.loclJAN;
-	sub uni60C6 by uni60C6.loclJAN;
-	sub uni60D8 by uni60D8.loclJAN;
-	sub uni6109 by uni6109.loclJAN;
-	sub uni6167 by uni6167.loclJAN;
-	sub uni6168 by uni6168.loclJAN;
-	sub uni618A by uni618A.loclJAN;
-	sub uni618E by uni618E.loclJAN;
-	sub uni61F2 by uni61F2.loclJAN;
-	sub uni623F by uni623F.loclJAN;
-	sub uni6240 by uni6240.loclJAN;
-	sub uni6247 by uni6247.loclJAN;
-	sub uni6248 by uni6248.loclJAN;
-	sub uni6249 by uni6249.loclJAN;
-	sub uni6271 by uni6271.loclJAN;
-	sub uni62B1 by uni62B1.loclJAN;
-	sub uni62D2 by uni62D2.loclJAN;
-	sub uni62F3 by uni62F3.loclJAN;
-	sub uni6368 by uni6368.loclJAN;
-	sub uni6369 by uni6369.loclJAN;
-	sub uni63C3 by uni63C3.loclJAN;
-	sub uni6414 by uni6414.loclJAN;
-	sub uni6428 by uni6428.loclJAN;
-	sub uni6469 by uni6469.loclJAN;
-	sub uni646F by uni646F.loclJAN;
-	sub uni654F by uni654F.loclJAN;
-	sub uni6577 by uni6577.loclJAN;
-	sub uni65BC by uni65BC.loclJAN;
-	sub uni65C3 by uni65C3.loclJAN;
-	sub uni65C5 by uni65C5.loclJAN;
-	sub uni65E3 by uni65E3.loclJAN;
-	sub uni6667 by uni6667.loclJAN;
-	sub uni66C1 by uni66C1.loclJAN;
-	sub uni66DC by uni66DC.loclJAN;
-	sub uni6717 by uni6717.loclJAN;
-	sub uni6753 by uni6753.loclJAN;
-	sub uni677E by uni677E.loclJAN;
-	sub uni6813 by uni6813.loclJAN;
-	sub uni6832 by uni6832.loclJAN;
-	sub uni6834 by uni6834.loclJAN;
-	sub uni6885 by uni6885.loclJAN;
-	sub uni688F by uni688F.loclJAN;
-	sub uni69BB by uni69BB.loclJAN;
-	sub uni69EA by uni69EA.loclJAN;
-	sub uni6B04 by uni6B04.loclJAN;
-	sub uni6B21 by uni6B21.loclJAN;
-	sub uni6BBA by uni6BBA.loclJAN;
-	sub uni6BD2 by uni6BD2.loclJAN;
-	sub uni6C13 by uni6C13.loclJAN;
-	sub uni6CBF by uni6CBF.loclJAN;
-	sub uni6CE1 by uni6CE1.loclJAN;
-	sub uni6D3E by uni6D3E.loclJAN;
-	sub uni6D6E by uni6D6E.loclJAN;
-	sub uni6D78 by uni6D78.loclJAN;
-	sub uni6DE4 by uni6DE4.loclJAN;
-	sub uni6E2F by uni6E2F.loclJAN;
-	sub uni6E67 by uni6E67.loclJAN;
-	sub uni6EB2 by uni6EB2.loclJAN;
-	sub uni6ECB by uni6ECB.loclJAN;
-	sub uni6ED5 by uni6ED5.loclJAN;
-	sub uni6EEC by uni6EEC.loclJAN;
-	sub uni6EFE by uni6EFE.loclJAN;
-	sub uni6F22 by uni6F22.loclJAN;
-	sub uni6F54 by uni6F54.loclJAN;
-	sub uni6F5B by uni6F5B.loclJAN;
-	sub uni6F94 by uni6F94.loclJAN;
-	sub uni6FEF by uni6FEF.loclJAN;
-	sub uni701B by uni701B.loclJAN;
-	sub uni7070 by uni7070.loclJAN;
-	sub uni707C by uni707C.loclJAN;
-	sub uni70B7 by uni70B7.loclJAN;
-	sub uni714E by uni714E.loclJAN;
-	sub uni71FF by uni71FF.loclJAN;
-	sub uni7228 by uni7228.loclJAN;
-	sub uni7235 by uni7235.loclJAN;
-	sub uni7258 by uni7258.loclJAN;
-	sub uni73ED by uni73ED.loclJAN;
-	sub uni73F9 by uni73F9.loclJAN;
-	sub uni7422 by uni7422.loclJAN;
-	sub uni74B0 by uni74B0.loclJAN;
-	sub uni74B5 by uni74B5.loclJAN;
-	sub uni7504 by uni7504.loclJAN;
-	sub uni7626 by uni7626.loclJAN;
-	sub uni7652 by uni7652.loclJAN;
-	sub uni7662 by uni7662.loclJAN;
-	sub uni7664 by uni7664.loclJAN;
-	sub uni76CA by uni76CA.loclJAN;
-	sub uni778E by uni778E.loclJAN;
-	sub uni77AC by uni77AC.loclJAN;
-	sub uni77E9 by uni77E9.loclJAN;
-	sub uni7832 by uni7832.loclJAN;
-	sub uni7891 by uni7891.loclJAN;
-	sub uni78E8 by uni78E8.loclJAN;
-	sub uni793E by uni793E.loclJAN;
-	sub uni7948 by uni7948.loclJAN;
-	sub uni7949 by uni7949.loclJAN;
-	sub uni7950 by uni7950.loclJAN;
-	sub uni7956 by uni7956.loclJAN;
-	sub uni795D by uni795D.loclJAN;
-	sub uni795E by uni795E.loclJAN;
-	sub uni7962 by uni7962.loclJAN;
-	sub uni7965 by uni7965.loclJAN;
-	sub uni798D by uni798D.loclJAN;
-	sub uni798E by uni798E.loclJAN;
-	sub uni798F by uni798F.loclJAN;
-	sub uni7A20 by uni7A20.loclJAN;
-	sub uni7A31 by uni7A31.loclJAN;
-	sub uni7A40 by uni7A40.loclJAN;
-	sub uni7A7F by uni7A7F.loclJAN;
-	sub uni7A81 by uni7A81.loclJAN;
-	sub uni7A96 by uni7A96.loclJAN;
-	sub uni7AC4 by uni7AC4.loclJAN;
-	sub uni7AC7 by uni7AC7.loclJAN;
-	sub uni7BAD by uni7BAD.loclJAN;
-	sub uni7BC0 by uni7BC0.loclJAN;
-	sub uni7BE0 by uni7BE0.loclJAN;
-	sub uni7C3F by uni7C3F.loclJAN;
-	sub uni7C50 by uni7C50.loclJAN;
-	sub uni7CD6 by uni7CD6.loclJAN;
-	sub uni7D0D by uni7D0D.loclJAN;
-	sub uni7D1A by uni7D1A.loclJAN;
-	sub uni7D1B by uni7D1B.loclJAN;
-	sub uni7D42 by uni7D42.loclJAN;
-	sub uni7D63 by uni7D63.loclJAN;
-	sub uni7D73 by uni7D73.loclJAN;
-	sub uni7DA2 by uni7DA2.loclJAN;
-	sub uni7DAE by uni7DAE.loclJAN;
-	sub uni7DCF by uni7DCF.loclJAN;
-	sub uni7DE8 by uni7DE8.loclJAN;
-	sub uni7DE9 by uni7DE9.loclJAN;
-	sub uni7DEF by uni7DEF.loclJAN;
-	sub uni7DF4 by uni7DF4.loclJAN;
-	sub uni7E1B by uni7E1B.loclJAN;
-	sub uni7E22 by uni7E22.loclJAN;
-	sub uni7E2B by uni7E2B.loclJAN;
-	sub uni7E41 by uni7E41.loclJAN;
-	sub uni7E69 by uni7E69.loclJAN;
-	sub uni7E6D by uni7E6D.loclJAN;
-	sub uni7E8C by uni7E8C.loclJAN;
-	sub uni7E9B by uni7E9B.loclJAN;
-	sub uni7F54 by uni7F54.loclJAN;
-	sub uni7FB8 by uni7FB8.loclJAN;
-	sub uni7FC1 by uni7FC1.loclJAN;
-	sub uni7FCC by uni7FCC.loclJAN;
-	sub uni7FD4 by uni7FD4.loclJAN;
-	sub uni7FE0 by uni7FE0.loclJAN;
-	sub uni7FE6 by uni7FE6.loclJAN;
-	sub uni7FE9 by uni7FE9.loclJAN;
-	sub uni7FEB by uni7FEB.loclJAN;
-	sub uni8000 by uni8000.loclJAN;
-	sub uni8061 by uni8061.loclJAN;
-	sub uni8087 by uni8087.loclJAN;
-	sub uni8093 by uni8093.loclJAN;
-	sub uni80A9 by uni80A9.loclJAN;
-	sub uni80BA by uni80BA.loclJAN;
-	sub uni80DE by uni80DE.loclJAN;
-	sub uni8108 by uni8108.loclJAN;
-	sub uni8174 by uni8174.loclJAN;
-	sub uni81ED by uni81ED.loclJAN;
-	sub uni81FE by uni81FE.loclJAN;
-	sub uni821C by uni821C.loclJAN;
-	sub uni821E by uni821E.loclJAN;
-	sub uni8239 by uni8239.loclJAN;
-	sub uni8258 by uni8258.loclJAN;
-	sub uni8292 by uni8292.loclJAN;
-	sub uni82B1 by uni82B1.loclJAN;
-	sub uni82E3 by uni82E3.loclJAN;
-	sub uni832B by uni832B.loclJAN;
-	sub uni83DF by uni83DF.loclJAN;
-	sub uni8438 by uni8438.loclJAN;
-	sub uni84EE by uni84EE.loclJAN;
-	sub uni84F4 by uni84F4.loclJAN;
-	sub uni8511 by uni8511.loclJAN;
-	sub uni8563 by uni8563.loclJAN;
-	sub uni8584 by uni8584.loclJAN;
-	sub uni85E4 by uni85E4.loclJAN;
-	sub uni862D by uni862D.loclJAN;
-	sub uni8650 by uni8650.loclJAN;
-	sub uni865E by uni865E.loclJAN;
-	sub uni867B by uni867B.loclJAN;
-	sub uni86A4 by uni86A4.loclJAN;
-	sub uni8729 by uni8729.loclJAN;
-	sub uni8759 by uni8759.loclJAN;
-	sub uni87BD by uni87BD.loclJAN;
-	sub uni87D2 by uni87D2.loclJAN;
-	sub uni8846 by uni8846.loclJAN;
-	sub uni8853 by uni8853.loclJAN;
-	sub uni885B by uni885B.loclJAN;
-	sub uni889E by uni889E.loclJAN;
-	sub uni890A by uni890A.loclJAN;
-	sub uni8910 by uni8910.loclJAN;
-	sub uni8983 by uni8983.loclJAN;
-	sub uni8988 by uni8988.loclJAN;
-	sub uni8996 by uni8996.loclJAN;
-	sub uni8A1D by uni8A1D.loclJAN;
-	sub uni8A1F by uni8A1F.loclJAN;
-	sub uni8A3B by uni8A3B.loclJAN;
-	sub uni8A55 by uni8A55.loclJAN;
-	sub uni8A8D by uni8A8D.loclJAN;
-	sub uni8A95 by uni8A95.loclJAN;
-	sub uni8AA4 by uni8AA4.loclJAN;
-	sub uni8AA5 by uni8AA5.loclJAN;
-	sub uni8AB9 by uni8AB9.loclJAN;
-	sub uni8ACF by uni8ACF.loclJAN;
-	sub uni8ADE by uni8ADE.loclJAN;
-	sub uni8AED by uni8AED.loclJAN;
-	sub uni8AEE by uni8AEE.loclJAN;
-	sub uni8AF8 by uni8AF8.loclJAN;
-	sub uni8B01 by uni8B01.loclJAN;
-	sub uni8B04 by uni8B04.loclJAN;
-	sub uni8B19 by uni8B19.loclJAN;
-	sub uni8B1B by uni8B1B.loclJAN;
-	sub uni8B39 by uni8B39.loclJAN;
-	sub uni8B56 by uni8B56.loclJAN;
-	sub uni8B80 by uni8B80.loclJAN;
-	sub uni8C41 by uni8C41.loclJAN;
-	sub uni8C79 by uni8C79.loclJAN;
-	sub uni8CC7 by uni8CC7.loclJAN;
-	sub uni8CCA by uni8CCA.loclJAN;
-	sub uni8CD3 by uni8CD3.loclJAN;
-	sub uni8D08 by uni8D08.loclJAN;
-	sub uni8D0F by uni8D0F.loclJAN;
-	sub uni8DDD by uni8DDD.loclJAN;
-	sub uni8E8D by uni8E8D.loclJAN;
-	sub uni8F1E by uni8F1E.loclJAN;
-	sub uni8F38 by uni8F38.loclJAN;
-	sub uni8F44 by uni8F44.loclJAN;
-	sub uni8FBC by uni8FBC.loclJAN;
-	sub uni8FC5 by uni8FC5.loclJAN;
-	sub uni8FCE by uni8FCE.loclJAN;
-	sub uni8FD1 by uni8FD1.loclJAN;
-	sub uni8FD4 by uni8FD4.loclJAN;
-	sub uni8FEA by uni8FEA.loclJAN;
-	sub uni8FEB by uni8FEB.loclJAN;
-	sub uni8FED by uni8FED.loclJAN;
-	sub uni8FF0 by uni8FF0.loclJAN;
-	sub uni8FF7 by uni8FF7.loclJAN;
-	sub uni8FFD by uni8FFD.loclJAN;
-	sub uni9000 by uni9000.loclJAN;
-	sub uni9001 by uni9001.loclJAN;
-	sub uni9003 by uni9003.loclJAN;
-	sub uni9006 by uni9006.loclJAN;
-	sub uni900F by uni900F.loclJAN;
-	sub uni9010 by uni9010.loclJAN;
-	sub uni9014 by uni9014.loclJAN;
-	sub uni901A by uni901A.loclJAN;
-	sub uni901D by uni901D.loclJAN;
-	sub uni901E by uni901E.loclJAN;
-	sub uni901F by uni901F.loclJAN;
-	sub uni9020 by uni9020.loclJAN;
-	sub uni9022 by uni9022.loclJAN;
-	sub uni9023 by uni9023.loclJAN;
-	sub uni902E by uni902E.loclJAN;
-	sub uni9031 by uni9031.loclJAN;
-	sub uni9032 by uni9032.loclJAN;
-	sub uni9038 by uni9038.loclJAN;
-	sub uni9042 by uni9042.loclJAN;
-	sub uni9047 by uni9047.loclJAN;
-	sub uni904A by uni904A.loclJAN;
-	sub uni904B by uni904B.loclJAN;
-	sub uni904D by uni904D.loclJAN;
-	sub uni904E by uni904E.loclJAN;
-	sub uni9051 by uni9051.loclJAN;
-	sub uni9053 by uni9053.loclJAN;
-	sub uni9054 by uni9054.loclJAN;
-	sub uni9055 by uni9055.loclJAN;
-	sub uni9058 by uni9058.loclJAN;
-	sub uni9060 by uni9060.loclJAN;
-	sub uni9063 by uni9063.loclJAN;
-	sub uni9069 by uni9069.loclJAN;
-	sub uni906D by uni906D.loclJAN;
-	sub uni906E by uni906E.loclJAN;
-	sub uni9075 by uni9075.loclJAN;
-	sub uni9077 by uni9077.loclJAN;
-	sub uni9078 by uni9078.loclJAN;
-	sub uni907A by uni907A.loclJAN;
-	sub uni907C by uni907C.loclJAN;
-	sub uni907F by uni907F.loclJAN;
-	sub uni9083 by uni9083.loclJAN;
-	sub uni9084 by uni9084.loclJAN;
-	sub uni9099 by uni9099.loclJAN;
-	sub uni90A8 by uni90A8.loclJAN;
-	sub uni9115 by uni9115.loclJAN;
-	sub uni9130 by uni9130.loclJAN;
-	sub uni91C1 by uni91C1.loclJAN;
-	sub uni925B by uni925B.loclJAN;
-	sub uni938C by uni938C.loclJAN;
-	sub uni9396 by uni9396.loclJAN;
-	sub uni93D6 by uni93D6.loclJAN;
-	sub uni95BC by uni95BC.loclJAN;
-	sub uni964D by uni964D.loclJAN;
-	sub uni966C by uni966C.loclJAN;
-	sub uni9686 by uni9686.loclJAN;
-	sub uni968A by uni968A.loclJAN;
-	sub uni96A3 by uni96A3.loclJAN;
-	sub uni96C7 by uni96C7.loclJAN;
-	sub uni96D5 by uni96D5.loclJAN;
-	sub uni96E3 by uni96E3.loclJAN;
-	sub uni9756 by uni9756.loclJAN;
-	sub uni9760 by uni9760.loclJAN;
-	sub uni9761 by uni9761.loclJAN;
-	sub uni976D by uni976D.loclJAN;
-	sub uni97FF by uni97FF.loclJAN;
-	sub uni980C by uni980C.loclJAN;
-	sub uni9811 by uni9811.loclJAN;
-	sub uni9812 by uni9812.loclJAN;
-	sub uni983B by uni983B.loclJAN;
-	sub uni985E by uni985E.loclJAN;
-	sub uni9867 by uni9867.loclJAN;
-	sub uni98E2 by uni98E2.loclJAN;
-	sub uni98EF by uni98EF.loclJAN;
-	sub uni98FC by uni98FC.loclJAN;
-	sub uni98FD by uni98FD.loclJAN;
-	sub uni98FE by uni98FE.loclJAN;
-	sub uni990A by uni990A.loclJAN;
-	sub uni9913 by uni9913.loclJAN;
-	sub uni9928 by uni9928.loclJAN;
-	sub uni9A30 by uni9A30.loclJAN;
-	sub uni9A4E by uni9A4E.loclJAN;
-	sub uni9A5F by uni9A5F.loclJAN;
-	sub uni9B23 by uni9B23.loclJAN;
-	sub uni9B2E by uni9B2E.loclJAN;
-	sub uni9B4D by uni9B4D.loclJAN;
-	sub uni9B54 by uni9B54.loclJAN;
-	sub uni9D09 by uni9D09.loclJAN;
-	sub uni9D60 by uni9D60.loclJAN;
-	sub uni9D70 by uni9D70.loclJAN;
-	sub uni9E97 by uni9E97.loclJAN;
-	sub uni9E9F by uni9E9F.loclJAN;
-	sub uni9EBF by uni9EBF.loclJAN;
-	sub uni9EDB by uni9EDB.loclJAN;
-	sub uni9EF7 by uni9EF7.loclJAN;
-	sub uni9F07 by uni9F07.loclJAN;
-	sub uni9F08 by uni9F08.loclJAN;
-	sub uni9F2C by uni9F2C.loclJAN;
-	sub uni9F9C by uni9F9C.loclJAN;
-	sub uni9F9D by uni9F9D.loclJAN;
-	sub uni2FAE by uni2FAE.loclJAN;
-} locl_hani_0;
-
-script hani;
-language ZHH;
-lookup locl_hani_1 {
-	sub uni4F34 by uni4F34.loclZHH;
-	sub uni5002 by uni5002.loclZHH;
-	sub uni514E by uni514E.loclZHH;
-	sub uni517C by uni517C.loclZHH;
-	sub uni518D by uni518D.loclZHH;
-	sub uni5193 by uni5193.loclZHH;
-	sub uni524A by uni524A.loclZHH;
-	sub uni5316 by uni5316.loclZHH;
-	sub uni534A by uni534A.loclZHH;
-	sub uni5396 by uni5396.loclZHH;
-	sub uni548E by uni548E.loclZHH;
-	sub uni576A by uni576A.loclZHH;
-	sub uni5C28 by uni5C28.loclZHH;
-	sub uni5E73 by uni5E73.loclZHH;
-	sub uni5ECA by uni5ECA.loclZHH;
-	sub uni5F69 by uni5F69.loclZHH;
-	sub uni60C5 by uni60C5.loclZHH;
-	sub uni62D0 by uni62D0.loclZHH;
-	sub uni63A1 by uni63A1.loclZHH;
-	sub uni63F4 by uni63F4.loclZHH;
-	sub uni6406 by uni6406.loclZHH;
-	sub uni6600 by uni6600.loclZHH;
-	sub uni665A by uni665A.loclZHH;
-	sub uni6677 by uni6677.loclZHH;
-	sub uni6691 by uni6691.loclZHH;
-	sub uni6696 by uni6696.loclZHH;
-	sub uni66D9 by uni66D9.loclZHH;
-	sub uni6717 by uni6717.loclZHH;
-	sub uni67CA by uni67CA.loclZHH;
-	sub uni689B by uni689B.loclZHH;
-	sub uni68A2 by uni68A2.loclZHH;
-	sub uni69CB by uni69CB.loclZHH;
-	sub uni6A89 by uni6A89.loclZHH;
-	sub uni6D88 by uni6D88.loclZHH;
-	sub uni6E1A by uni6E1A.loclZHH;
-	sub uni6E9D by uni6E9D.loclZHH;
-	sub uni6F64 by uni6F64.loclZHH;
-	sub uni6FCA by uni6FCA.loclZHH;
-	sub uni7006 by uni7006.loclZHH;
-	sub uni716E by uni716E.loclZHH;
-	sub uni72A2 by uni72A2.loclZHH;
-	sub uni732A by uni732A.loclZHH;
-	sub uni73F5 by uni73F5.loclZHH;
-	sub uni7547 by uni7547.loclZHH;
-	sub uni7554 by uni7554.loclZHH;
-	sub uni76C6 by uni76C6.loclZHH;
-	sub uni785D by uni785D.loclZHH;
-	sub uni7A62 by uni7A62.loclZHH;
-	sub uni7C89 by uni7C89.loclZHH;
-	sub uni7CBE by uni7CBE.loclZHH;
-	sub uni7F72 by uni7F72.loclZHH;
-	sub uni7FD2 by uni7FD2.loclZHH;
-	sub uni7FFC by uni7FFC.loclZHH;
-	sub uni8005 by uni8005.loclZHH;
-	sub uni8096 by uni8096.loclZHH;
-	sub uni89AF by uni89AF.loclZHH;
-	sub uni89BF by uni89BF.loclZHH;
-	sub uni8CA0 by uni8CA0.loclZHH;
-	sub uni8CA7 by uni8CA7.loclZHH;
-	sub uni8CA8 by uni8CA8.loclZHH;
-	sub uni8CFC by uni8CFC.loclZHH;
-	sub uni8D16 by uni8D16.loclZHH;
-	sub uni8F27 by uni8F27.loclZHH;
-	sub uni90A3 by uni90A3.loclZHH;
-	sub uni90FD by uni90FD.loclZHH;
-	sub uni91C7 by uni91C7.loclZHH;
-	sub uni968D by uni968D.loclZHH;
-	sub uni9774 by uni9774.loclZHH;
-	sub uni9B97 by uni9B97.loclZHH;
-} locl_hani_1;
-
-script hani;
-language ZHS;
-lookup locl_hani_2 {
-	sub uni50CA by uni50CA.loclZHS;
-	sub uni5448 by uni5448.loclZHS;
-	sub uni54B2 by uni54B2.loclZHS;
-	sub uni5819 by uni5819.loclZHS;
-	sub uni5C0A by uni5C0A.loclZHS;
-	sub uni5C0B by uni5C0B.loclZHS;
-	sub uni5F0A by uni5F0A.loclZHS;
-	sub uni6383 by uni6383.loclZHS;
-	sub uni6715 by uni6715.loclZHS;
-	sub uni6E6E by uni6E6E.loclZHS;
-	sub uni7159 by uni7159.loclZHS;
-	sub uni7162 by uni7162.loclZHS;
-	sub uni7336 by uni7336.loclZHS;
-	sub uni7A0B by uni7A0B.loclZHS;
-	sub uni7FFB by uni7FFB.loclZHS;
-	sub uni8015 by uni8015.loclZHS;
-	sub uni8017 by uni8017.loclZHS;
-	sub uni82D2 by uni82D2.loclZHS;
-	sub uni83DC by uni83DC.loclZHS;
-	sub uni8457 by uni8457.loclZHS;
-	sub uni868C by uni868C.loclZHS;
-	sub uni90A6 by uni90A6.loclZHS;
-	sub uni9699 by uni9699.loclZHS;
-	sub uni96EA by uni96EA.loclZHS;
-	sub uni96F0 by uni96F0.loclZHS;
-} locl_hani_2;
-
-script hani;
-language ZHT;
-lookup locl_hani_3 {
-	sub uni51DE by uni51DE.loclZHT;
-} locl_hani_3;
+code = "feature locl;
+feature ss05;
+feature jp78;
+feature jp83;
+feature jp90;
+feature nlck;
 ";
-disabled = 1;
+tag = aalt;
+},
+{
+code = "lookup locl_kana {
+	script hani;
+	language JAN;
+	sub @LOCL_JAN_L by @LOCL_JAN_R;
+} locl_kana;
+";
 tag = locl;
 },
 {
-automatic = 1;
-code = "sub uni5BC3 by uni5BC3.jp78;
-sub uni71D7 by uni71D7.jp78;
-sub uni7A3D by uni7A3D.jp78;
-sub uni958F by uni958F.jp78;
-sub uni9699 by uni9699.jp78;
+code = "# Hanja localization
+sub @LOCL_JAN_R by @LOCL_JAN_L;
 ";
-disabled = 1;
+labels = (
+{
+language = dflt;
+value = "";
+}
+);
+tag = ss05;
+},
+{
+code = "sub @JP78_L by @JP78_R;";
 tag = jp78;
 },
 {
-automatic = 1;
-code = "sub uni2F14 by uni2F14.jp83;
+code = "sub @JP83_L by @JP83_R;
 ";
-disabled = 1;
 tag = jp83;
 },
 {
-automatic = 1;
-code = "sub uni53F1 by uni53F1.nlck;
+code = "sub @JP90_L by @JP90_R;
 ";
-disabled = 1;
+tag = jp90;
+},
+{
+code = "sub @NLCK_L by @NLCK_R;
+";
 tag = nlck;
 }
 );

@@ -328,3 +328,7 @@ typings/
 
 # TypeScript cache
 *.tsbuildinfo
+
+# Glyphs files
+*(Autosaved).*
+UIState.plist

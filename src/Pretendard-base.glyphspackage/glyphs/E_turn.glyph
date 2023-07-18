@@ -1,0 +1,88 @@
+{
+glyphname = Eturn;
+kernRight = H;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+pos = (824,0);
+},
+{
+name = cedilla;
+pos = (828,0);
+},
+{
+name = top;
+pos = (872,2304);
+}
+);
+layerId = "B1F27B51-9973-4381-9301-4FE46FE1CA59";
+shapes = (
+{
+angle = 180;
+pos = (1580,2048);
+ref = E;
+}
+);
+width = 1580;
+},
+{
+anchors = (
+{
+name = bottom;
+pos = (844,0);
+},
+{
+name = cedilla;
+pos = (848,0);
+},
+{
+name = top;
+pos = (864,2304);
+}
+);
+layerId = "C698F293-3EC0-4A5A-A3A0-0FDB1F5CF265";
+shapes = (
+{
+angle = 180;
+pos = (1640,2048);
+ref = E;
+}
+);
+width = 1640;
+},
+{
+anchors = (
+{
+name = bottom;
+pos = (876,0);
+},
+{
+name = cedilla;
+pos = (880,0);
+},
+{
+name = top;
+pos = (876,2304);
+}
+);
+layerId = "5C20EF92-B63D-42A8-8878-93C2863E0093";
+shapes = (
+{
+angle = 180;
+pos = (1752,2048);
+ref = E;
+}
+);
+width = 1752;
+}
+);
+unicode = 398;
+userData = {
+interface.gridadjust.original = "{'width': 1601, 'leftMargin': 95, 'rightMargin': 229}";
+"interface.width-adjustments" = (
+-16
+);
+};
+}

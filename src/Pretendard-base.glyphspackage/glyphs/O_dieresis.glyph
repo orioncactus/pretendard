@@ -1,0 +1,64 @@
+{
+glyphname = Odieresis;
+kernLeft = C;
+kernRight = D;
+layers = (
+{
+layerId = "B1F27B51-9973-4381-9301-4FE46FE1CA59";
+shapes = (
+{
+alignment = -1;
+ref = O;
+},
+{
+alignment = -1;
+pos = (124,64);
+ref = casedieresis.cn;
+}
+);
+width = 2040;
+},
+{
+guides = (
+{
+pos = (1652,1556);
+}
+);
+layerId = "C698F293-3EC0-4A5A-A3A0-0FDB1F5CF265";
+shapes = (
+{
+alignment = -1;
+ref = O;
+},
+{
+alignment = -1;
+pos = (240,24);
+ref = casedieresis.cn;
+}
+);
+width = 2100;
+},
+{
+layerId = "5C20EF92-B63D-42A8-8878-93C2863E0093";
+shapes = (
+{
+alignment = -1;
+ref = O;
+},
+{
+alignment = -1;
+pos = (420,44);
+ref = casedieresis.cn;
+}
+);
+width = 2240;
+}
+);
+unicode = 214;
+userData = {
+com.typemytype.robofont.guideline.magnetic.MDaFEnfneI = 5;
+"interface.width-adjustments" = (
+-16
+);
+};
+}

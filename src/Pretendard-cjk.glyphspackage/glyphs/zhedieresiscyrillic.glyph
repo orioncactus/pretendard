@@ -1,0 +1,59 @@
+{
+glyphname = zhedieresiscyrillic;
+layers = (
+{
+layerId = "5C20EF92-B63D-42A8-8878-93C2863E0093";
+shapes = (
+{
+ref = zhecyrillic;
+},
+{
+pos = (584,0);
+ref = dieresis;
+}
+);
+width = 2568;
+},
+{
+layerId = "B1F27B51-9973-4381-9301-4FE46FE1CA59";
+shapes = (
+{
+ref = zhecyrillic;
+},
+{
+pos = (180,0);
+ref = dieresis;
+}
+);
+width = 2152;
+},
+{
+associatedMasterId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
+layerId = "C557BC1B-AAFB-4C65-94C2-47F0A831064A";
+shapes = (
+{
+ref = zhecyrillic;
+},
+{
+pos = (336,0);
+ref = dieresis;
+}
+);
+width = 2294;
+},
+{
+layerId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
+shapes = (
+{
+ref = zhecyrillic;
+},
+{
+pos = (336,0);
+ref = dieresis;
+}
+);
+width = 2294;
+}
+);
+unicode = 1245;
+}

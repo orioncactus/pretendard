@@ -1,0 +1,206 @@
+{
+color = (219,235,247,1);
+glyphname = E;
+kernLeft = B;
+kernRight = E;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+pos = (876,0);
+},
+{
+name = cedilla;
+pos = (880,0);
+},
+{
+name = ogonek;
+pos = (1604,0);
+},
+{
+name = tonos;
+pos = (76,2048);
+},
+{
+name = top;
+pos = (876,2304);
+}
+);
+guides = (
+{
+pos = (-136,1360);
+},
+{
+orientation = center;
+angle = 90;
+pos = (788,620);
+}
+);
+layerId = "5C20EF92-B63D-42A8-8878-93C2863E0093";
+shapes = (
+{
+closed = 1;
+nodes = (
+(1604,0,l),
+(1604,448,l),
+(688,448,l),
+(688,800,l),
+(1532,800,l),
+(1532,1248,l),
+(688,1248,l),
+(688,1600,l),
+(1608,1600,l),
+(1608,2048,l),
+(132,2048,l),
+(132,0,l)
+);
+}
+);
+width = 1752;
+},
+{
+anchors = (
+{
+name = bottom;
+pos = (792,0);
+},
+{
+name = cedilla;
+pos = (796,0);
+},
+{
+name = ogonek;
+pos = (1408,0);
+},
+{
+name = tonos;
+pos = (216,2048);
+},
+{
+name = top;
+pos = (840,2304);
+}
+);
+layerId = "B1F27B51-9973-4381-9301-4FE46FE1CA59";
+shapes = (
+{
+closed = 1;
+nodes = (
+(1408,0,l),
+(1408,64,l),
+(352,64,l),
+(352,992,l),
+(1320,992,l),
+(1320,1056,l),
+(352,1056,l),
+(352,1984,l),
+(1380,1984,l),
+(1380,2048,l),
+(288,2048,l),
+(288,0,l)
+);
+}
+);
+width = 1580;
+},
+{
+anchors = (
+{
+name = bottom;
+pos = (812,0);
+},
+{
+name = cedilla;
+pos = (816,0);
+},
+{
+name = ogonek;
+pos = (1470,0);
+},
+{
+name = tonos;
+pos = (150,2048);
+},
+{
+name = top;
+pos = (832,2304);
+}
+);
+associatedMasterId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
+layerId = "470D1FE7-FBF4-498D-BECC-3FC81B353159";
+shapes = (
+{
+closed = 1;
+nodes = (
+(1470,0,l),
+(1470,226,l),
+(468,226,l),
+(468,914,l),
+(1390,914,l),
+(1390,1138,l),
+(468,1138,l),
+(468,1822,l),
+(1456,1822,l),
+(1456,2048,l),
+(214,2048,l),
+(214,0,l)
+);
+}
+);
+width = 1622.06038;
+},
+{
+anchors = (
+{
+name = bottom;
+pos = (824,0);
+},
+{
+name = cedilla;
+pos = (828,0);
+},
+{
+name = ogonek;
+pos = (1482,0);
+},
+{
+name = tonos;
+pos = (162,2048);
+},
+{
+name = top;
+pos = (844,2304);
+}
+);
+layerId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
+shapes = (
+{
+closed = 1;
+nodes = (
+(1482,0,l),
+(1482,226,l),
+(480,226,l),
+(480,914,l),
+(1402,914,l),
+(1402,1138,l),
+(480,1138,l),
+(480,1822,l),
+(1468,1822,l),
+(1468,2048,l),
+(226,2048,l),
+(226,0,l)
+);
+}
+);
+width = 1644;
+}
+);
+metricLeft = H;
+unicode = 69;
+userData = {
+"interface.width-adjustments" = (
+-16
+);
+};
+}

@@ -1,0 +1,47 @@
+{
+export = 0;
+glyphname = Gcircumflex.gov;
+kernLeft = C;
+kernRight = G;
+layers = (
+{
+layerId = "B1F27B51-9973-4381-9301-4FE46FE1CA59";
+shapes = (
+{
+ref = G.gov;
+},
+{
+pos = (448,512);
+ref = circumflex;
+}
+);
+width = 2032;
+},
+{
+layerId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
+shapes = (
+{
+ref = G.gov;
+},
+{
+pos = (420,512);
+ref = circumflex;
+}
+);
+width = 2072;
+},
+{
+layerId = "5C20EF92-B63D-42A8-8878-93C2863E0093";
+shapes = (
+{
+ref = G.gov;
+},
+{
+pos = (220,512);
+ref = circumflex;
+}
+);
+width = 2204;
+}
+);
+}

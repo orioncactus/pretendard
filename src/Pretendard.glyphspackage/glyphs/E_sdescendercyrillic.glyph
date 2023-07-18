@@ -1,0 +1,61 @@
+{
+glyphname = Esdescendercyrillic;
+kernLeft = C;
+kernRight = C;
+layers = (
+{
+layerId = "5C20EF92-B63D-42A8-8878-93C2863E0093";
+shapes = (
+{
+ref = C;
+},
+{
+pos = (472,8);
+ref = cedilla;
+}
+);
+width = 2164;
+},
+{
+layerId = "B1F27B51-9973-4381-9301-4FE46FE1CA59";
+shapes = (
+{
+ref = C;
+},
+{
+pos = (758,0);
+ref = cedilla;
+}
+);
+width = 1972;
+},
+{
+associatedMasterId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
+layerId = "7A0504EA-1CCA-47F4-AB8B-7DFC4DF74720";
+shapes = (
+{
+ref = C;
+},
+{
+pos = (686,-16);
+ref = cedilla;
+}
+);
+width = 2008;
+},
+{
+layerId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
+shapes = (
+{
+ref = C;
+},
+{
+pos = (686,-16);
+ref = cedilla;
+}
+);
+width = 2008;
+}
+);
+unicode = 1194;
+}

@@ -1,0 +1,164 @@
+{
+color = (204,240,242,1);
+glyphname = brokenbar;
+layers = (
+{
+guides = (
+{
+pos = (680,1092);
+},
+{
+pos = (716,576);
+}
+);
+layerId = "5C20EF92-B63D-42A8-8878-93C2863E0093";
+shapes = (
+{
+closed = 1;
+nodes = (
+(300,-288,l),
+(840,-288,l),
+(840,776,l),
+(300,776,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(300,2336,l),
+(300,1276,l),
+(840,1276,l),
+(840,2336,l)
+);
+}
+);
+width = 1140;
+},
+{
+layerId = "B1F27B51-9973-4381-9301-4FE46FE1CA59";
+shapes = (
+{
+closed = 1;
+nodes = (
+(320,-288,l),
+(384,-288,l),
+(384,776,l),
+(320,776,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(320,2336,l),
+(320,1276,l),
+(384,1276,l),
+(384,2336,l)
+);
+}
+);
+width = 704;
+},
+{
+layerId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
+shapes = (
+{
+closed = 1;
+nodes = (
+(338,-288,l),
+(546,-288,l),
+(546,776,l),
+(338,776,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(338,2336,l),
+(338,1276,l),
+(546,1276,l),
+(546,2336,l)
+);
+}
+);
+width = 884;
+},
+{
+associatedMasterId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
+layerId = "D512D09E-40FE-4B1B-B8CA-E4A54612DB63";
+name = "Jun 16, 21 23:13";
+width = 690;
+},
+{
+associatedMasterId = "5C20EF92-B63D-42A8-8878-93C2863E0093";
+guides = (
+{
+pos = (680,1092);
+},
+{
+pos = (716,576);
+}
+);
+layerId = "E7E52D30-7B52-46F2-A490-99D5FA503719";
+name = "Jun 16, 21 23:13";
+shapes = (
+{
+closed = 1;
+nodes = (
+(316,-384,l),
+(804,-384,l),
+(804,584,l),
+(316,584,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(316,2048,l),
+(316,1084,l),
+(804,1084,l),
+(804,2048,l)
+);
+}
+);
+width = 1120;
+},
+{
+associatedMasterId = "B1F27B51-9973-4381-9301-4FE46FE1CA59";
+layerId = "A0F997F1-CA4B-4672-A8EA-686A285B918B";
+name = "Jun 16, 21 23:13";
+shapes = (
+{
+closed = 1;
+nodes = (
+(198,-384,l),
+(262,-384,l),
+(262,532,l),
+(198,532,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(198,2048,l),
+(198,1136,l),
+(262,1136,l),
+(262,2048,l)
+);
+}
+);
+width = 462;
+}
+);
+metricLeft = bar;
+metricRight = bar;
+unicode = 166;
+userData = {
+com.typemytype.robofont.guideline.magnetic.7XIyiEEc60 = 5;
+com.typemytype.robofont.guideline.magnetic.MxvJVkfsW3 = 5;
+com.typemytype.robofont.guideline.magnetic.YQqXyZ7Bm4 = 5;
+interface.gridadjust.original = "{'width': 690, 'leftMargin': 199, 'rightMargin': 216}";
+"interface.width-adjustments" = (
+-16
+);
+};
+}

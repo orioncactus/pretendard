@@ -1,0 +1,61 @@
+{
+glyphname = uni1FB3;
+kernLeft = c;
+kernRight = alphagreek;
+layers = (
+{
+layerId = "5C20EF92-B63D-42A8-8878-93C2863E0093";
+shapes = (
+{
+ref = alpha;
+},
+{
+pos = (428,0);
+ref = uni1FBE;
+}
+);
+width = 1856;
+},
+{
+layerId = "B1F27B51-9973-4381-9301-4FE46FE1CA59";
+shapes = (
+{
+ref = alpha;
+},
+{
+pos = (584,0);
+ref = uni1FBE;
+}
+);
+width = 1710;
+},
+{
+associatedMasterId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
+layerId = "A9FF8946-2797-4FAA-A925-04724719110A";
+shapes = (
+{
+ref = alpha;
+},
+{
+pos = (508,0);
+ref = uni1FBE;
+}
+);
+width = 1764;
+},
+{
+layerId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
+shapes = (
+{
+ref = alpha;
+},
+{
+pos = (508,0);
+ref = uni1FBE;
+}
+);
+width = 1764;
+}
+);
+unicode = 8115;
+}

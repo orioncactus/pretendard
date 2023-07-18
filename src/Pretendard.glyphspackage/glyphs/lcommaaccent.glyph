@@ -1,0 +1,61 @@
+{
+glyphname = lcommaaccent;
+kernLeft = B;
+kernRight = H;
+layers = (
+{
+layerId = "5C20EF92-B63D-42A8-8878-93C2863E0093";
+shapes = (
+{
+ref = l;
+},
+{
+pos = (32,0);
+ref = commaaccent;
+}
+);
+width = 832;
+},
+{
+layerId = "B1F27B51-9973-4381-9301-4FE46FE1CA59";
+shapes = (
+{
+ref = l;
+},
+{
+pos = (-80,0);
+ref = commaaccent;
+}
+);
+width = 544;
+},
+{
+associatedMasterId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
+layerId = "170D4286-E0D1-4907-BFB5-DB0458906740";
+shapes = (
+{
+ref = l;
+},
+{
+pos = (-50,0);
+ref = commaaccent;
+}
+);
+width = 632;
+},
+{
+layerId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
+shapes = (
+{
+ref = l;
+},
+{
+pos = (-50,0);
+ref = commaaccent;
+}
+);
+width = 632;
+}
+);
+unicode = 316;
+}

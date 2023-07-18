@@ -1,0 +1,31 @@
+{
+color = (237,229,250,1);
+glyphname = punctuationspace;
+kernLeft = colon.case;
+kernRight = colon.case;
+layers = (
+{
+layerId = "5C20EF92-B63D-42A8-8878-93C2863E0093";
+width = 880;
+},
+{
+layerId = "B1F27B51-9973-4381-9301-4FE46FE1CA59";
+width = 648;
+},
+{
+associatedMasterId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
+layerId = "48765724-4406-4C03-A9E4-DA43BC512ABE";
+width = 714.9434;
+},
+{
+layerId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
+width = 736;
+}
+);
+metricWidth = colon;
+note = "\012As wide as the narrow punctuation in a font, i.e. the advance width of the period or comma. HTML/XML named entity: &puncsp;\012";
+unicode = 8200;
+userData = {
+interface.gridadjust.original = "{'width': 770.0, 'leftMargin': 0, 'rightMargin': 0}";
+};
+}

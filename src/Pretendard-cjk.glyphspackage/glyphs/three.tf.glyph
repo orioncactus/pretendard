@@ -1,0 +1,66 @@
+{
+color = 8;
+glyphname = three.tf;
+layers = (
+{
+layerId = "5C20EF92-B63D-42A8-8878-93C2863E0093";
+shapes = (
+{
+alignment = -1;
+pos = (48,0);
+ref = three;
+}
+);
+width = 1984;
+},
+{
+layerId = "B1F27B51-9973-4381-9301-4FE46FE1CA59";
+shapes = (
+{
+alignment = -1;
+pos = (-52,0);
+ref = three;
+}
+);
+width = 1600;
+},
+{
+associatedMasterId = "B1F27B51-9973-4381-9301-4FE46FE1CA59";
+layerId = "B6D67C60-49FF-44E3-B284-05D898FE8B4A";
+name = "May 22, 21 14:07";
+shapes = (
+{
+alignment = -1;
+pos = (-32,0);
+ref = three;
+}
+);
+width = 1600;
+},
+{
+associatedMasterId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
+layerId = "C6E2B4F9-C793-4379-9C89-696C561065ED";
+shapes = (
+{
+alignment = -1;
+pos = (16,0);
+ref = three;
+}
+);
+width = 1764.31698;
+},
+{
+layerId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
+shapes = (
+{
+alignment = -1;
+pos = (14,0);
+ref = three;
+}
+);
+width = 1780;
+}
+);
+metricWidth = zero.tf;
+unicode = 57460;
+}

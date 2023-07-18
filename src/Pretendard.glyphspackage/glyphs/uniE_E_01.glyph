@@ -1,0 +1,50 @@
+{
+glyphname = uniEE01;
+kernLeft = colon;
+kernRight = colon.case;
+layers = (
+{
+layerId = "B1F27B51-9973-4381-9301-4FE46FE1CA59";
+shapes = (
+{
+alignment = 1;
+ref = colon.case;
+}
+);
+width = 648;
+},
+{
+layerId = "5C20EF92-B63D-42A8-8878-93C2863E0093";
+shapes = (
+{
+alignment = 1;
+ref = colon.case;
+}
+);
+width = 880;
+},
+{
+associatedMasterId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
+layerId = "6C6230D5-5BF0-4579-829A-8D9F75CCBF75";
+shapes = (
+{
+alignment = 1;
+ref = colon.case;
+}
+);
+width = 736;
+},
+{
+layerId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
+shapes = (
+{
+alignment = 1;
+ref = colon.case;
+}
+);
+width = 736;
+}
+);
+note = "Android-specific glyph";
+unicode = 60929;
+}

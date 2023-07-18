@@ -1,0 +1,61 @@
+{
+glyphname = Ohornhookabove;
+kernLeft = C;
+kernRight = D;
+layers = (
+{
+layerId = "5C20EF92-B63D-42A8-8878-93C2863E0093";
+shapes = (
+{
+ref = Ohorn;
+},
+{
+pos = (2136,504);
+ref = hook;
+}
+);
+width = 2364;
+},
+{
+layerId = "B1F27B51-9973-4381-9301-4FE46FE1CA59";
+shapes = (
+{
+ref = Ohorn;
+},
+{
+pos = (1736,572);
+ref = hook;
+}
+);
+width = 2006;
+},
+{
+associatedMasterId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
+layerId = "0A00B8A9-B313-4ABF-A7F6-D59B24BE4D64";
+shapes = (
+{
+ref = Ohorn;
+},
+{
+pos = (1896,546);
+ref = hook;
+}
+);
+width = 2140;
+},
+{
+layerId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
+shapes = (
+{
+ref = Ohorn;
+},
+{
+pos = (1896,546);
+ref = hook;
+}
+);
+width = 2140;
+}
+);
+unicode = 7902;
+}

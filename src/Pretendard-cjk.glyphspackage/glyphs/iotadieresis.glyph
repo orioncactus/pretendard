@@ -1,0 +1,61 @@
+{
+glyphname = iotadieresis;
+kernLeft = iotadieresisgreek;
+kernRight = iotadieresisgreek;
+layers = (
+{
+layerId = "5C20EF92-B63D-42A8-8878-93C2863E0093";
+shapes = (
+{
+ref = iota;
+},
+{
+pos = (-240,0);
+ref = dieresis;
+}
+);
+width = 1008;
+},
+{
+layerId = "B1F27B51-9973-4381-9301-4FE46FE1CA59";
+shapes = (
+{
+ref = iota;
+},
+{
+pos = (-624,0);
+ref = dieresis;
+}
+);
+width = 544;
+},
+{
+associatedMasterId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
+layerId = "9874843E-BD01-455C-A215-02D12DEC2F0F";
+shapes = (
+{
+ref = iota;
+},
+{
+pos = (-506,0);
+ref = dieresis;
+}
+);
+width = 710;
+},
+{
+layerId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
+shapes = (
+{
+ref = iota;
+},
+{
+pos = (-506,0);
+ref = dieresis;
+}
+);
+width = 710;
+}
+);
+unicode = 970;
+}

@@ -1,0 +1,70 @@
+{
+glyphname = periodcentered;
+kernLeft = hyphen;
+kernRight = hyphen;
+layers = (
+{
+guides = (
+{
+pos = (526,896);
+}
+);
+layerId = "5C20EF92-B63D-42A8-8878-93C2863E0093";
+shapes = (
+{
+pos = (0,650);
+ref = period;
+}
+);
+width = 880;
+},
+{
+guides = (
+{
+pos = (538,1480);
+}
+);
+layerId = "B1F27B51-9973-4381-9301-4FE46FE1CA59";
+shapes = (
+{
+alignment = -1;
+pos = (0,836);
+ref = period;
+}
+);
+width = 648;
+},
+{
+associatedMasterId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
+layerId = "9B764508-53E3-47DA-AB4B-89CFF8BD76AC";
+shapes = (
+{
+alignment = -1;
+pos = (0,730);
+ref = period;
+}
+);
+width = 714.9434;
+},
+{
+layerId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
+shapes = (
+{
+alignment = -1;
+pos = (0,730);
+ref = period;
+}
+);
+width = 736;
+}
+);
+metricLeft = period;
+metricRight = period;
+note = "Sits right in between center of x-height and center of cap height";
+unicode = 183;
+userData = {
+"interface.width-adjustments" = (
+-16
+);
+};
+}

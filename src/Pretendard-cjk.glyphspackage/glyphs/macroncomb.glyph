@@ -1,0 +1,76 @@
+{
+color = (250,227,227,1);
+glyphname = macroncomb;
+layers = (
+{
+anchors = (
+{
+name = _top;
+pos = (-898,1792);
+}
+);
+layerId = "5C20EF92-B63D-42A8-8878-93C2863E0093";
+shapes = (
+{
+alignment = -1;
+pos = (-1778,0);
+ref = macron;
+}
+);
+width = 0;
+},
+{
+anchors = (
+{
+name = _top;
+pos = (-876,1792);
+}
+);
+layerId = "B1F27B51-9973-4381-9301-4FE46FE1CA59";
+shapes = (
+{
+alignment = -1;
+pos = (-1256,0);
+ref = macron;
+}
+);
+width = 0;
+},
+{
+anchors = (
+{
+name = _top;
+pos = (-882,1792);
+}
+);
+associatedMasterId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
+layerId = "5DDF60BF-66A5-42FD-9C5C-92A3B446DEA6";
+shapes = (
+{
+alignment = -1;
+pos = (-1488,0);
+ref = macron;
+}
+);
+width = 0;
+},
+{
+anchors = (
+{
+name = _top;
+pos = (-880,1792);
+}
+);
+layerId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
+shapes = (
+{
+alignment = -1;
+pos = (-1486,0);
+ref = macron;
+}
+);
+width = 2;
+}
+);
+unicode = 772;
+}

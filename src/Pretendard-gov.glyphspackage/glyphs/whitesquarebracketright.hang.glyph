@@ -1,0 +1,39 @@
+{
+glyphname = whitesquarebracketright.hang;
+kernLeft = parenright;
+kernRight = parenright;
+layers = (
+{
+layerId = "B1F27B51-9973-4381-9301-4FE46FE1CA59";
+shapes = (
+{
+pos = (0,-56);
+ref = whitesquarebracketright;
+}
+);
+width = 1106;
+},
+{
+layerId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
+shapes = (
+{
+pos = (0,-56);
+ref = whitesquarebracketright;
+}
+);
+width = 1236;
+},
+{
+layerId = "5C20EF92-B63D-42A8-8878-93C2863E0093";
+shapes = (
+{
+pos = (0,-56);
+ref = whitesquarebracketright;
+}
+);
+width = 1406;
+}
+);
+metricLeft = whitesquarebracketright;
+metricRight = whitesquarebracketright;
+}

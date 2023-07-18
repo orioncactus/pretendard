@@ -1,0 +1,71 @@
+{
+glyphname = Nj;
+kernLeft = B;
+kernRight = idotless;
+layers = (
+{
+layerId = "5C20EF92-B63D-42A8-8878-93C2863E0093";
+shapes = (
+{
+alignment = -1;
+ref = N;
+},
+{
+alignment = -1;
+pos = (1940,0);
+ref = j;
+}
+);
+width = 2772;
+},
+{
+layerId = "B1F27B51-9973-4381-9301-4FE46FE1CA59";
+shapes = (
+{
+alignment = -1;
+ref = N;
+},
+{
+alignment = -1;
+pos = (2164,0);
+ref = j;
+}
+);
+width = 2724;
+},
+{
+associatedMasterId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
+layerId = "AA270ED4-675D-4F25-A8A0-A7CAEE08CF15";
+shapes = (
+{
+alignment = -1;
+ref = N;
+},
+{
+alignment = -1;
+pos = (2076,0);
+ref = j;
+}
+);
+width = 2684.98113;
+},
+{
+layerId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
+shapes = (
+{
+alignment = -1;
+ref = N;
+},
+{
+alignment = -1;
+pos = (2076,0);
+ref = j;
+}
+);
+width = 2708;
+}
+);
+metricLeft = N;
+metricRight = j;
+unicode = 459;
+}

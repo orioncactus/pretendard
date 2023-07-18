@@ -1,0 +1,166 @@
+{
+glyphname = whitecornerbracketright;
+kernLeft = parenright;
+kernRight = parenright;
+layers = (
+{
+background = {
+shapes = (
+{
+pos = (-6,0);
+ref = bracketright.case;
+}
+);
+};
+layerId = "B1F27B51-9973-4381-9301-4FE46FE1CA59";
+shapes = (
+{
+closed = 1;
+nodes = (
+(722,948,l),
+(722,-268,l),
+(474,-268,l),
+(474,-332,l),
+(786,-332,l),
+(786,948,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(440,948,l),
+(440,-268,l),
+(152,-268,l),
+(152,-332,l),
+(504,-332,l),
+(504,948,l)
+);
+}
+);
+width = 1106;
+},
+{
+background = {
+shapes = (
+{
+pos = (252,0);
+ref = bracketright.case;
+}
+);
+};
+layerId = "5C20EF92-B63D-42A8-8878-93C2863E0093";
+shapes = (
+{
+closed = 1;
+nodes = (
+(768,924,l),
+(768,156,l),
+(508,156,l),
+(508,-332,l),
+(1130,-332,l),
+(1130,924,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(302,924,l),
+(302,156,l),
+(44,156,l),
+(44,-332,l),
+(662,-332,l),
+(662,924,l)
+);
+}
+);
+width = 1406;
+},
+{
+layerId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
+shapes = (
+{
+closed = 1;
+nodes = (
+(732,948,l),
+(732,-128,l),
+(468,-128,l),
+(468,-332,l),
+(926,-332,l),
+(926,948,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(382,948,l),
+(382,-128,l),
+(76,-128,l),
+(76,-332,l),
+(574,-332,l),
+(574,948,l)
+);
+}
+);
+width = 1236;
+},
+{
+associatedMasterId = "5C20EF92-B63D-42A8-8878-93C2863E0093";
+background = {
+shapes = (
+{
+pos = (252,0);
+ref = bracketright.case;
+}
+);
+};
+layerId = "CCB9F65A-A2E1-46EE-9AE6-05184E58A7B6";
+name = "May 29, 21 21:24";
+shapes = (
+{
+angle = 180;
+pos = (1358,2048);
+ref = whitecornerbracketleft;
+}
+);
+width = 1358;
+},
+{
+associatedMasterId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
+layerId = "C7ED4D69-749A-409C-900E-61B643EFC2E1";
+name = "May 29, 21 21:24";
+shapes = (
+{
+alignment = -1;
+angle = 180;
+pos = (1216,2048);
+ref = whitecornerbracketleft;
+}
+);
+width = 1220;
+},
+{
+associatedMasterId = "B1F27B51-9973-4381-9301-4FE46FE1CA59";
+background = {
+shapes = (
+{
+pos = (-6,0);
+ref = bracketright.case;
+}
+);
+};
+layerId = "9544CEE6-2489-4564-A472-A25C8394D263";
+name = "May 29, 21 21:24";
+shapes = (
+{
+angle = 180;
+pos = (1106,2048);
+ref = whitecornerbracketleft;
+}
+);
+width = 1106;
+}
+);
+metricLeft = cornerbracketright;
+metricRight = cornerbracketright;
+unicode = 12303;
+}

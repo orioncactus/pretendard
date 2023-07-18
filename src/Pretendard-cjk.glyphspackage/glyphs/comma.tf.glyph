@@ -1,0 +1,85 @@
+{
+color = 8;
+glyphname = comma.tf;
+layers = (
+{
+background = {
+shapes = (
+{
+ref = period;
+}
+);
+};
+guides = (
+{
+pos = (-136,1240);
+},
+{
+pos = (-136,764);
+}
+);
+layerId = "5C20EF92-B63D-42A8-8878-93C2863E0093";
+shapes = (
+{
+pos = (-2,0);
+ref = comma;
+}
+);
+width = 880;
+},
+{
+background = {
+shapes = (
+{
+ref = period;
+}
+);
+};
+layerId = "B1F27B51-9973-4381-9301-4FE46FE1CA59";
+shapes = (
+{
+alignment = -1;
+ref = comma;
+}
+);
+width = 648;
+},
+{
+associatedMasterId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
+layerId = "4C963712-F618-4C81-9D37-3E5C120D1E48";
+shapes = (
+{
+alignment = -1;
+pos = (-12,0);
+ref = comma;
+}
+);
+width = 715.04151;
+},
+{
+background = {
+shapes = (
+{
+ref = period;
+}
+);
+};
+layerId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
+shapes = (
+{
+alignment = -1;
+pos = (-2,0);
+ref = comma;
+}
+);
+width = 736;
+}
+);
+metricWidth = period.tf;
+unicode = 57491;
+userData = {
+"interface.width-adjustments" = (
+-16
+);
+};
+}

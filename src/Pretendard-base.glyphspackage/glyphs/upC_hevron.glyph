@@ -1,0 +1,64 @@
+{
+glyphname = upChevron;
+layers = (
+{
+layerId = "B1F27B51-9973-4381-9301-4FE46FE1CA59";
+shapes = (
+{
+closed = 1;
+nodes = (
+(1312,1322,l),
+(2164,470,l),
+(2208,516,l),
+(1312,1412,l),
+(414,516,l),
+(460,470,l)
+);
+}
+);
+width = 2624;
+},
+{
+layerId = "C698F293-3EC0-4A5A-A3A0-0FDB1F5CF265";
+shapes = (
+{
+closed = 1;
+nodes = (
+(1322,1160,l),
+(2066,416,l),
+(2218,570,l),
+(1322,1466,l),
+(424,570,l),
+(580,416,l)
+);
+}
+);
+width = 2644;
+},
+{
+layerId = "5C20EF92-B63D-42A8-8878-93C2863E0093";
+shapes = (
+{
+closed = 1;
+nodes = (
+(1344,996,l),
+(2022,318,l),
+(2304,602,l),
+(1344,1562,l),
+(382,602,l),
+(668,318,l)
+);
+}
+);
+width = 2688;
+}
+);
+metricLeft = upArrow;
+metricRight = upArrow;
+userData = {
+interface.gridadjust.original = "{'width': 1800, 'leftMargin': 296, 'rightMargin': 304}";
+"interface.width-adjustments" = (
+-16
+);
+};
+}

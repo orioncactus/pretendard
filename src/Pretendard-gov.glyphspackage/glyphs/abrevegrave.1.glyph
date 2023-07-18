@@ -1,0 +1,66 @@
+{
+color = 9;
+glyphname = abrevegrave.1;
+kernLeft = c;
+kernRight = u;
+layers = (
+{
+layerId = "B1F27B51-9973-4381-9301-4FE46FE1CA59";
+shapes = (
+{
+ref = a.1;
+},
+{
+pos = (324,-20);
+ref = brevegravecomb.cn;
+}
+);
+width = 1620;
+},
+{
+layerId = "5C20EF92-B63D-42A8-8878-93C2863E0093";
+shapes = (
+{
+ref = a.1;
+},
+{
+pos = (212,32);
+ref = brevegravecomb.cn;
+}
+);
+width = 1816;
+},
+{
+associatedMasterId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
+layerId = "434F9880-7DDD-4D8F-9FB6-1264275A0668";
+shapes = (
+{
+alignment = -1;
+ref = a.1;
+},
+{
+alignment = -1;
+pos = (220,0);
+ref = brevegravecomb.cn;
+}
+);
+width = 1686.06038;
+},
+{
+layerId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
+shapes = (
+{
+alignment = -1;
+ref = a.1;
+},
+{
+alignment = -1;
+pos = (220,0);
+ref = brevegravecomb.cn;
+}
+);
+width = 1710;
+}
+);
+unicode = 57393;
+}

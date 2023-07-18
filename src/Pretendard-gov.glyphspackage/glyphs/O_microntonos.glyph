@@ -1,0 +1,73 @@
+{
+glyphname = Omicrontonos;
+kernLeft = C;
+kernRight = D;
+layers = (
+{
+layerId = "5C20EF92-B63D-42A8-8878-93C2863E0093";
+shapes = (
+{
+alignment = -1;
+pos = (184,0);
+ref = O;
+},
+{
+alignment = -1;
+pos = (-388,0);
+ref = tonos;
+}
+);
+width = 2308;
+},
+{
+layerId = "B1F27B51-9973-4381-9301-4FE46FE1CA59";
+shapes = (
+{
+alignment = -1;
+pos = (-20,0);
+ref = O;
+},
+{
+alignment = -1;
+pos = (-152,0);
+ref = tonos;
+}
+);
+width = 2072;
+},
+{
+associatedMasterId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
+layerId = "884CCC72-A2C5-4A17-903F-32B0AC089BB1";
+shapes = (
+{
+alignment = -1;
+pos = (60,0);
+ref = O;
+},
+{
+alignment = -1;
+pos = (-244,0);
+ref = tonos;
+}
+);
+width = 2139.04151;
+},
+{
+layerId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
+shapes = (
+{
+alignment = -1;
+pos = (60,0);
+ref = O;
+},
+{
+alignment = -1;
+pos = (-244,0);
+ref = tonos;
+}
+);
+width = 2164;
+}
+);
+unicode = 908;
+}

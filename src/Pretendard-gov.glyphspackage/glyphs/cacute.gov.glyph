@@ -1,0 +1,47 @@
+{
+export = 0;
+glyphname = cacute.gov;
+kernLeft = c;
+kernRight = c;
+layers = (
+{
+layerId = "B1F27B51-9973-4381-9301-4FE46FE1CA59";
+shapes = (
+{
+ref = c.gov;
+},
+{
+pos = (1036,0);
+ref = acutecomb;
+}
+);
+width = 1492;
+},
+{
+layerId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
+shapes = (
+{
+ref = c.gov;
+},
+{
+pos = (1224,0);
+ref = acutecomb;
+}
+);
+width = 1588;
+},
+{
+layerId = "5C20EF92-B63D-42A8-8878-93C2863E0093";
+shapes = (
+{
+ref = c.gov;
+},
+{
+pos = (1436,0);
+ref = acutecomb;
+}
+);
+width = 1708;
+}
+);
+}

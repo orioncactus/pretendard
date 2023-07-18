@@ -1,0 +1,82 @@
+{
+glyphname = dong;
+kernLeft = c;
+layers = (
+{
+layerId = "5C20EF92-B63D-42A8-8878-93C2863E0093";
+shapes = (
+{
+ref = d;
+},
+{
+pos = (576,652);
+ref = crossbar;
+},
+{
+alignment = 1;
+pos = (212,-172);
+ref = underscore;
+}
+);
+width = 1816;
+},
+{
+layerId = "B1F27B51-9973-4381-9301-4FE46FE1CA59";
+shapes = (
+{
+ref = d;
+},
+{
+pos = (668,768);
+ref = crossbar;
+},
+{
+alignment = 1;
+pos = (224,-244);
+ref = underscore;
+}
+);
+width = 1620;
+},
+{
+associatedMasterId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
+layerId = "259FEAD6-9B85-4648-BF8C-4C9AC9A54590";
+shapes = (
+{
+ref = d;
+},
+{
+pos = (648,766);
+ref = crossbar;
+},
+{
+alignment = 1;
+pos = (216,-214);
+ref = underscore;
+}
+);
+width = 1710;
+},
+{
+layerId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
+shapes = (
+{
+ref = d;
+},
+{
+pos = (648,766);
+ref = crossbar;
+},
+{
+alignment = 1;
+pos = (216,-214);
+ref = underscore;
+}
+);
+width = 1710;
+}
+);
+metricLeft = d;
+metricRight = d;
+unicode = 8363;
+}

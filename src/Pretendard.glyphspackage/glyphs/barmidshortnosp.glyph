@@ -1,0 +1,52 @@
+{
+color = (250,227,227,1);
+glyphname = barmidshortnosp;
+layers = (
+{
+layerId = "5C20EF92-B63D-42A8-8878-93C2863E0093";
+shapes = (
+{
+alignment = -1;
+pos = (-1680,-312);
+ref = crossbar;
+}
+);
+width = 0;
+},
+{
+layerId = "B1F27B51-9973-4381-9301-4FE46FE1CA59";
+shapes = (
+{
+alignment = -1;
+pos = (-1300,-224);
+ref = crossbar;
+}
+);
+width = 0;
+},
+{
+associatedMasterId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
+layerId = "2B46BBC9-919D-48D4-B61B-B88A974FC2E2";
+shapes = (
+{
+alignment = -1;
+pos = (-1458,-258);
+ref = crossbar;
+}
+);
+width = 0;
+},
+{
+layerId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
+shapes = (
+{
+alignment = -1;
+pos = (-1452,-258);
+ref = crossbar;
+}
+);
+width = 4;
+}
+);
+unicode = 821;
+}

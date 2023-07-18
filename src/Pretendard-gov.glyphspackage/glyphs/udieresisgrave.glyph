@@ -1,0 +1,61 @@
+{
+glyphname = udieresisgrave;
+kernLeft = u;
+kernRight = u;
+layers = (
+{
+layerId = "5C20EF92-B63D-42A8-8878-93C2863E0093";
+shapes = (
+{
+ref = u;
+},
+{
+pos = (1908,16);
+ref = dieresisgravecomb.lc;
+}
+);
+width = 1828;
+},
+{
+layerId = "B1F27B51-9973-4381-9301-4FE46FE1CA59";
+shapes = (
+{
+ref = u;
+},
+{
+pos = (1520,16);
+ref = dieresisgravecomb.lc;
+}
+);
+width = 1536;
+},
+{
+associatedMasterId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
+layerId = "B64FC8D8-6B1C-4CE6-9EFF-B6A71049A370";
+shapes = (
+{
+ref = u;
+},
+{
+pos = (1642,16);
+ref = dieresisgravecomb.lc;
+}
+);
+width = 1600;
+},
+{
+layerId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
+shapes = (
+{
+ref = u;
+},
+{
+pos = (1642,16);
+ref = dieresisgravecomb.lc;
+}
+);
+width = 1600;
+}
+);
+unicode = 476;
+}

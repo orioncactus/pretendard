@@ -1,0 +1,23 @@
+{
+glyphname = "mediumspace-math";
+layers = (
+{
+layerId = "5C20EF92-B63D-42A8-8878-93C2863E0093";
+width = 864;
+},
+{
+layerId = "B1F27B51-9973-4381-9301-4FE46FE1CA59";
+width = 686;
+},
+{
+associatedMasterId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
+layerId = "CB216F2B-1C61-4A29-ACCD-CF172D736E5B";
+width = 731.33585;
+},
+{
+layerId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
+width = 732;
+}
+);
+unicode = 8287;
+}

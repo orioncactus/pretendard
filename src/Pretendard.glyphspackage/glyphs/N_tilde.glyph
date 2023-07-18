@@ -1,0 +1,61 @@
+{
+glyphname = Ntilde;
+kernLeft = B;
+kernRight = H;
+layers = (
+{
+layerId = "5C20EF92-B63D-42A8-8878-93C2863E0093";
+shapes = (
+{
+ref = N;
+},
+{
+pos = (316,512);
+ref = tilde;
+}
+);
+width = 2036;
+},
+{
+layerId = "B1F27B51-9973-4381-9301-4FE46FE1CA59";
+shapes = (
+{
+ref = N;
+},
+{
+pos = (388,512);
+ref = tilde;
+}
+);
+width = 2112;
+},
+{
+associatedMasterId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
+layerId = "6945889D-7D7A-4DF4-BB59-8518B3F77F67";
+shapes = (
+{
+ref = N;
+},
+{
+pos = (356,512);
+ref = tilde;
+}
+);
+width = 2078;
+},
+{
+layerId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
+shapes = (
+{
+ref = N;
+},
+{
+pos = (356,512);
+ref = tilde;
+}
+);
+width = 2078;
+}
+);
+unicode = 209;
+}

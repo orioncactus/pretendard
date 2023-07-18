@@ -1,0 +1,111 @@
+{
+glyphname = circumflexgravecomb.cn;
+layers = (
+{
+anchors = (
+{
+name = _top;
+pos = (656,1704);
+}
+);
+layerId = "B1F27B51-9973-4381-9301-4FE46FE1CA59";
+shapes = (
+{
+closed = 1;
+nodes = (
+(652,2112,l),
+(276,1728,l),
+(360,1728,l),
+(660,2036,l),
+(960,1728,l),
+(1044,1728,l),
+(668,2112,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(14,2328,l),
+(250,1976,l),
+(314,1976,l),
+(94,2328,l)
+);
+}
+);
+width = 1050;
+},
+{
+anchors = (
+{
+name = _top;
+pos = (930,1764);
+}
+);
+layerId = "C698F293-3EC0-4A5A-A3A0-0FDB1F5CF265";
+shapes = (
+{
+closed = 1;
+nodes = (
+(818,2060,l),
+(414,1696,l),
+(702,1696,l),
+(930,1908,l),
+(1158,1696,l),
+(1446,1696,l),
+(1038,2060,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(30,2304,l),
+(314,1940,l),
+(518,1940,l),
+(326,2304,l)
+);
+}
+);
+width = 1476;
+},
+{
+anchors = (
+{
+name = _top;
+pos = (1096,1864);
+}
+);
+layerId = "5C20EF92-B63D-42A8-8878-93C2863E0093";
+shapes = (
+{
+closed = 1;
+nodes = (
+(976,2028,l),
+(576,1752,l),
+(892,1752,l),
+(1096,1892,l),
+(1296,1752,l),
+(1616,1752,l),
+(1212,2028,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(68,2264,l),
+(420,1884,l),
+(680,1884,l),
+(416,2264,l)
+);
+}
+);
+width = 1676;
+}
+);
+unicode = 57622;
+userData = {
+interface.gridadjust.original = "{'width': 1430.0, 'leftMargin': -239, 'rightMargin': 254.0}";
+"interface.width-adjustments" = (
+-16
+);
+};
+}

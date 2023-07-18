@@ -1,0 +1,45 @@
+{
+glyphname = afii10034;
+kernLeft = B;
+kernRight = P;
+layers = (
+{
+layerId = "5C20EF92-B63D-42A8-8878-93C2863E0093";
+shapes = (
+{
+ref = P;
+}
+);
+width = 1848;
+},
+{
+layerId = "B1F27B51-9973-4381-9301-4FE46FE1CA59";
+shapes = (
+{
+ref = P;
+}
+);
+width = 1644;
+},
+{
+associatedMasterId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
+layerId = "0C26D33E-25C9-4B4F-9ABF-9FDD6E375300";
+shapes = (
+{
+ref = P;
+}
+);
+width = 1750;
+},
+{
+layerId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
+shapes = (
+{
+ref = P;
+}
+);
+width = 1750;
+}
+);
+unicode = 1056;
+}

@@ -1,0 +1,71 @@
+{
+glyphname = hcedilla;
+kernLeft = B;
+kernRight = a;
+layers = (
+{
+layerId = "5C20EF92-B63D-42A8-8878-93C2863E0093";
+shapes = (
+{
+ref = h;
+},
+{
+anchor = cedilla;
+pos = (-224,0);
+ref = cedilla;
+}
+);
+width = 1820;
+},
+{
+layerId = "B1F27B51-9973-4381-9301-4FE46FE1CA59";
+shapes = (
+{
+ref = h;
+},
+{
+anchor = cedilla;
+pos = (10,-8);
+ref = cedilla;
+}
+);
+width = 1536;
+},
+{
+associatedMasterId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
+layerId = "E0B13737-7B68-477D-9FD0-28061195A194";
+shapes = (
+{
+ref = h;
+},
+{
+anchor = cedilla;
+pos = (-22,0);
+ref = cedilla;
+}
+);
+width = 1628;
+},
+{
+layerId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
+shapes = (
+{
+ref = h;
+},
+{
+anchor = cedilla;
+pos = (-22,0);
+ref = cedilla;
+}
+);
+width = 1628;
+}
+);
+unicode = 7721;
+userData = {
+interface.gridadjust.original = "{'width': 1552, 'leftMargin': 191, 'rightMargin': 16}";
+"interface.width-adjustments" = (
+-16
+);
+};
+}

@@ -1,0 +1,60 @@
+{
+glyphname = itildebelow;
+kernLeft = idotless;
+kernRight = idotless;
+layers = (
+{
+layerId = "B1F27B51-9973-4381-9301-4FE46FE1CA59";
+shapes = (
+{
+ref = i;
+},
+{
+pos = (980,0);
+ref = tildesubnosp;
+}
+);
+width = 560;
+},
+{
+guides = (
+{
+angle = 90;
+pos = (436,1508);
+}
+);
+layerId = "C698F293-3EC0-4A5A-A3A0-0FDB1F5CF265";
+shapes = (
+{
+ref = i;
+},
+{
+pos = (1210,0);
+ref = tildesubnosp;
+}
+);
+width = 624;
+},
+{
+layerId = "5C20EF92-B63D-42A8-8878-93C2863E0093";
+shapes = (
+{
+ref = i;
+},
+{
+pos = (1440,0);
+ref = tildesubnosp;
+}
+);
+width = 832;
+}
+);
+unicode = 7725;
+userData = {
+com.typemytype.robofont.guideline.magnetic.nvgRf4gRoh = 5;
+interface.gridadjust.original = "{'width': 997, 'leftMargin': -20, 'rightMargin': 33}";
+"interface.width-adjustments" = (
+-16
+);
+};
+}

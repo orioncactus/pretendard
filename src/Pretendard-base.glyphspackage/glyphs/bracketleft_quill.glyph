@@ -1,0 +1,70 @@
+{
+glyphname = bracketleft_quill;
+kernLeft = parenleft;
+layers = (
+{
+layerId = "B1F27B51-9973-4381-9301-4FE46FE1CA59";
+shapes = (
+{
+closed = 1;
+nodes = (
+(352,812,l),
+(352,748,l),
+(672,748,l),
+(672,812,l)
+);
+},
+{
+alignment = -1;
+ref = bracketleft;
+}
+);
+width = 824;
+},
+{
+layerId = "C698F293-3EC0-4A5A-A3A0-0FDB1F5CF265";
+shapes = (
+{
+closed = 1;
+nodes = (
+(434,960,l),
+(434,768,l),
+(902,768,l),
+(902,960,l)
+);
+},
+{
+ref = bracketleft;
+}
+);
+width = 976;
+},
+{
+layerId = "5C20EF92-B63D-42A8-8878-93C2863E0093";
+shapes = (
+{
+closed = 1;
+nodes = (
+(644,984,l),
+(644,600,l),
+(1196,600,l),
+(1196,984,l)
+);
+},
+{
+ref = bracketleft;
+}
+);
+width = 1240;
+}
+);
+metricLeft = bracketleft;
+metricRight = bracketleft;
+unicode = 8261;
+userData = {
+interface.gridadjust.original = "{'width': 890, 'leftMargin': 289, 'rightMargin': 85}";
+"interface.width-adjustments" = (
+-16
+);
+};
+}

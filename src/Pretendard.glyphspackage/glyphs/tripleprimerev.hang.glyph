@@ -1,0 +1,38 @@
+{
+export = 0;
+glyphname = tripleprimerev.hang;
+layers = (
+{
+layerId = "B1F27B51-9973-4381-9301-4FE46FE1CA59";
+shapes = (
+{
+pos = (0,108);
+ref = tripleprimerev;
+}
+);
+width = 1048;
+},
+{
+layerId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
+shapes = (
+{
+pos = (0,144);
+ref = tripleprimerev;
+}
+);
+width = 1626;
+},
+{
+layerId = "5C20EF92-B63D-42A8-8878-93C2863E0093";
+shapes = (
+{
+pos = (0,202);
+ref = tripleprimerev;
+}
+);
+width = 2176;
+}
+);
+metricLeft = tripleprimerev;
+metricRight = tripleprimerev;
+}

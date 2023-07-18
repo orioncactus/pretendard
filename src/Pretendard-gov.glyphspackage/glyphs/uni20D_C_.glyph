@@ -1,0 +1,109 @@
+{
+color = (250,227,227,1);
+glyphname = uni20DC;
+layers = (
+{
+layerId = "5C20EF92-B63D-42A8-8878-93C2863E0093";
+shapes = (
+{
+pos = (-2808,1788);
+ref = period;
+},
+{
+pos = (-2104,1788);
+ref = period;
+},
+{
+pos = (-1400,1788);
+ref = period;
+},
+{
+pos = (-696,1788);
+ref = period;
+}
+);
+width = 0;
+},
+{
+layerId = "B1F27B51-9973-4381-9301-4FE46FE1CA59";
+shapes = (
+{
+alignment = -1;
+pos = (-1880,1788);
+ref = period;
+},
+{
+alignment = -1;
+pos = (-1396,1788);
+ref = period;
+},
+{
+alignment = -1;
+pos = (-912,1788);
+ref = period;
+},
+{
+alignment = -1;
+pos = (-428,1788);
+ref = period;
+}
+);
+width = 0;
+},
+{
+associatedMasterId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
+layerId = "55179416-4359-4B1E-B687-9562DB169527";
+shapes = (
+{
+alignment = -1;
+pos = (-2162,1788);
+ref = period;
+},
+{
+alignment = -1;
+pos = (-1632,1788);
+ref = period;
+},
+{
+alignment = -1;
+pos = (-1102,1788);
+ref = period;
+},
+{
+alignment = -1;
+pos = (-572,1788);
+ref = period;
+}
+);
+width = 0;
+},
+{
+layerId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
+shapes = (
+{
+alignment = -1;
+pos = (-2146,1788);
+ref = period;
+},
+{
+alignment = -1;
+pos = (-1616,1788);
+ref = period;
+},
+{
+alignment = -1;
+pos = (-1086,1788);
+ref = period;
+},
+{
+alignment = -1;
+pos = (-556,1788);
+ref = period;
+}
+);
+width = 16;
+}
+);
+note = "COMBINING FOUR DOTS ABOVE";
+unicode = 8412;
+}

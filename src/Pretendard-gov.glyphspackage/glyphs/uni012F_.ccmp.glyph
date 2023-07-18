@@ -1,0 +1,92 @@
+{
+glyphname = uni012F.ccmp;
+kernLeft = idotless;
+kernRight = idotless;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+pos = (416,-628);
+}
+);
+layerId = "5C20EF92-B63D-42A8-8878-93C2863E0093";
+shapes = (
+{
+ref = idotless;
+},
+{
+alignment = 1;
+pos = (-16,0);
+ref = ogonek;
+}
+);
+width = 832;
+},
+{
+anchors = (
+{
+name = bottom;
+pos = (312,-648);
+}
+);
+layerId = "B1F27B51-9973-4381-9301-4FE46FE1CA59";
+shapes = (
+{
+ref = idotless;
+},
+{
+pos = (-30,0);
+ref = ogonek;
+}
+);
+width = 560;
+},
+{
+anchors = (
+{
+name = bottom;
+pos = (338,-640);
+}
+);
+associatedMasterId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
+layerId = "725E5EF7-6C53-4738-BC20-754FFE225BCA";
+shapes = (
+{
+ref = idotless;
+},
+{
+pos = (-142,0);
+ref = ogonek;
+}
+);
+width = 632;
+},
+{
+anchors = (
+{
+name = bottom;
+pos = (336,-640);
+}
+);
+layerId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
+shapes = (
+{
+ref = idotless;
+},
+{
+pos = (-142,0);
+ref = ogonek;
+}
+);
+width = 632;
+}
+);
+unicode = 57420;
+userData = {
+interface.gridadjust.original = "{'width': 712, 'leftMargin': -10, 'rightMargin': 216}";
+"interface.width-adjustments" = (
+-16
+);
+};
+}

@@ -1,0 +1,73 @@
+{
+glyphname = Itilde;
+kernLeft = Idieresis;
+kernRight = Idieresis;
+layers = (
+{
+layerId = "5C20EF92-B63D-42A8-8878-93C2863E0093";
+shapes = (
+{
+alignment = -1;
+pos = (208,0);
+ref = I;
+},
+{
+pos = (-84,512);
+ref = tilde;
+}
+);
+width = 1240;
+},
+{
+layerId = "B1F27B51-9973-4381-9301-4FE46FE1CA59";
+shapes = (
+{
+alignment = -1;
+pos = (140,0);
+ref = I;
+},
+{
+pos = (-208,512);
+ref = tilde;
+}
+);
+width = 920;
+},
+{
+associatedMasterId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
+layerId = "C8F6FDAB-80E1-4F15-B28C-17A23DC7E137";
+shapes = (
+{
+alignment = -1;
+pos = (250,0);
+ref = I;
+},
+{
+alignment = -1;
+pos = (-80,512);
+ref = tilde;
+}
+);
+width = 1184.19623;
+},
+{
+layerId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
+shapes = (
+{
+alignment = -1;
+pos = (252,0);
+ref = I;
+},
+{
+alignment = -1;
+pos = (-78,512);
+ref = tilde;
+}
+);
+width = 1208;
+}
+);
+metricLeft = Itilde.1;
+metricRight = Itilde.1;
+unicode = 296;
+}

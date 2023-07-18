@@ -1,0 +1,47 @@
+{
+glyphname = hdieresis;
+kernLeft = B;
+kernRight = a;
+layers = (
+{
+layerId = "B1F27B51-9973-4381-9301-4FE46FE1CA59";
+shapes = (
+{
+ref = h;
+},
+{
+pos = (-624,512);
+ref = dieresis;
+}
+);
+width = 1536;
+},
+{
+layerId = "C698F293-3EC0-4A5A-A3A0-0FDB1F5CF265";
+shapes = (
+{
+ref = h;
+},
+{
+pos = (-496,512);
+ref = dieresis;
+}
+);
+width = 1620;
+},
+{
+layerId = "5C20EF92-B63D-42A8-8878-93C2863E0093";
+shapes = (
+{
+ref = h;
+},
+{
+pos = (-292,512);
+ref = dieresis;
+}
+);
+width = 1820;
+}
+);
+unicode = 7719;
+}

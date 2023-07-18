@@ -1,0 +1,61 @@
+{
+glyphname = umacrondieresis;
+kernLeft = u;
+kernRight = u;
+layers = (
+{
+layerId = "5C20EF92-B63D-42A8-8878-93C2863E0093";
+shapes = (
+{
+ref = u;
+},
+{
+pos = (1908,4);
+ref = macrondieresiscomb.lc;
+}
+);
+width = 1828;
+},
+{
+layerId = "B1F27B51-9973-4381-9301-4FE46FE1CA59";
+shapes = (
+{
+ref = u;
+},
+{
+pos = (1520,40);
+ref = macrondieresiscomb.lc;
+}
+);
+width = 1536;
+},
+{
+associatedMasterId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
+layerId = "1A1E98D0-0B6B-459A-A97F-3C0E5E1FDE62";
+shapes = (
+{
+ref = u;
+},
+{
+pos = (1646,28);
+ref = macrondieresiscomb.lc;
+}
+);
+width = 1600;
+},
+{
+layerId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
+shapes = (
+{
+ref = u;
+},
+{
+pos = (1646,28);
+ref = macrondieresiscomb.lc;
+}
+);
+width = 1600;
+}
+);
+unicode = 7803;
+}

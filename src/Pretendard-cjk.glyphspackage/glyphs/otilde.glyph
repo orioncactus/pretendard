@@ -1,0 +1,63 @@
+{
+glyphname = otilde;
+kernLeft = c;
+kernRight = b;
+layers = (
+{
+layerId = "5C20EF92-B63D-42A8-8878-93C2863E0093";
+shapes = (
+{
+ref = o;
+},
+{
+pos = (176,0);
+ref = tilde;
+}
+);
+width = 1760;
+},
+{
+layerId = "B1F27B51-9973-4381-9301-4FE46FE1CA59";
+shapes = (
+{
+ref = o;
+},
+{
+pos = (116,0);
+ref = tilde;
+}
+);
+width = 1568;
+},
+{
+associatedMasterId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
+layerId = "DB2AFC98-6FBB-44CB-B2AE-FF0FA1BDA3EE";
+shapes = (
+{
+ref = o;
+},
+{
+alignment = 1;
+pos = (138,0);
+ref = tilde;
+}
+);
+width = 1642;
+},
+{
+layerId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
+shapes = (
+{
+ref = o;
+},
+{
+alignment = 1;
+pos = (138,0);
+ref = tilde;
+}
+);
+width = 1642;
+}
+);
+unicode = 245;
+}

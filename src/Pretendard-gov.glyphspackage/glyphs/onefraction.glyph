@@ -1,0 +1,81 @@
+{
+color = 3;
+glyphname = onefraction;
+kernLeft = one.frac;
+kernRight = fraction;
+layers = (
+{
+layerId = "5C20EF92-B63D-42A8-8878-93C2863E0093";
+shapes = (
+{
+alignment = -1;
+pos = (772,0);
+ref = fraction;
+},
+{
+pos = (0,-64);
+ref = one.numr;
+}
+);
+width = 1540;
+},
+{
+layerId = "B1F27B51-9973-4381-9301-4FE46FE1CA59";
+shapes = (
+{
+alignment = -1;
+pos = (672,0);
+ref = fraction;
+},
+{
+alignment = 1;
+pos = (0,-64);
+ref = one.numr;
+}
+);
+width = 1376;
+},
+{
+associatedMasterId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
+layerId = "BFBD5DE1-FCA7-4436-9912-5E0E2AE19E44";
+shapes = (
+{
+alignment = -1;
+pos = (810,0);
+ref = fraction;
+},
+{
+alignment = -1;
+pos = (-4,-64);
+ref = one.numr;
+}
+);
+width = 1520;
+},
+{
+layerId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
+shapes = (
+{
+alignment = -1;
+pos = (814,0);
+ref = fraction;
+},
+{
+alignment = 1;
+pos = (0,-64);
+ref = one.numr;
+}
+);
+width = 1542;
+}
+);
+metricLeft = one.numr;
+metricRight = fraction;
+unicode = 8543;
+userData = {
+interface.gridadjust.original = "{'width': 1772, 'leftMargin': 185, 'rightMargin': 120}";
+"interface.width-adjustments" = (
+-16
+);
+};
+}

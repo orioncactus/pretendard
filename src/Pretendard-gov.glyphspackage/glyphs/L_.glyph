@@ -1,0 +1,206 @@
+{
+color = (219,235,247,1);
+glyphname = L;
+kernLeft = B;
+kernRight = L;
+layers = (
+{
+anchors = (
+{
+name = "#entry";
+pos = (132,2048);
+},
+{
+name = bottom;
+pos = (824,0);
+},
+{
+name = cross;
+pos = (408,1084);
+},
+{
+name = dot;
+pos = (832,1200);
+},
+{
+name = raccent;
+pos = (968,2048);
+},
+{
+name = top;
+pos = (404,2304);
+}
+);
+guides = (
+{
+pos = (-136,1304);
+},
+{
+angle = 90;
+pos = (676,584);
+},
+{
+pos = (840,-416);
+}
+);
+layerId = "5C20EF92-B63D-42A8-8878-93C2863E0093";
+shapes = (
+{
+closed = 1;
+nodes = (
+(1516,0,l),
+(1516,448,l),
+(688,448,l),
+(688,2048,l),
+(132,2048,l),
+(132,0,l)
+);
+}
+);
+width = 1608;
+},
+{
+anchors = (
+{
+name = "#entry";
+pos = (288,2048);
+},
+{
+name = bottom;
+pos = (832,0);
+},
+{
+name = cross;
+pos = (320,1056);
+},
+{
+name = dot;
+pos = (800,1028);
+},
+{
+name = raccent;
+pos = (828,2048);
+},
+{
+name = top;
+pos = (320,2304);
+}
+);
+guides = (
+{
+angle = 90;
+pos = (728,2672);
+},
+{
+angle = 90;
+pos = (216,2516);
+}
+);
+layerId = "B1F27B51-9973-4381-9301-4FE46FE1CA59";
+shapes = (
+{
+closed = 1;
+nodes = (
+(1376,0,l),
+(1376,64,l),
+(352,64,l),
+(352,2048,l),
+(288,2048,l),
+(288,0,l)
+);
+}
+);
+width = 1520;
+},
+{
+anchors = (
+{
+name = bottom;
+pos = (816,0);
+},
+{
+name = cross;
+pos = (342,1056);
+},
+{
+name = dot;
+pos = (800,1094);
+},
+{
+name = raccent;
+pos = (816,2048);
+},
+{
+name = top;
+pos = (340,2304);
+}
+);
+associatedMasterId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
+layerId = "0D4A981F-DC47-42B2-BD64-3CAF7D6122E5";
+shapes = (
+{
+closed = 1;
+nodes = (
+(1418,0,l),
+(1418,226,l),
+(468,226,l),
+(468,2048,l),
+(214,2048,l),
+(214,0,l)
+);
+}
+);
+width = 1520.98113;
+},
+{
+anchors = (
+{
+name = "#entry";
+pos = (226,2048);
+},
+{
+name = bottom;
+pos = (828,0);
+},
+{
+name = cross;
+pos = (354,1056);
+},
+{
+name = dot;
+pos = (812,1094);
+},
+{
+name = raccent;
+pos = (828,2048);
+},
+{
+name = top;
+pos = (352,2304);
+}
+);
+layerId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
+shapes = (
+{
+closed = 1;
+nodes = (
+(1430,0,l),
+(1430,226,l),
+(480,226,l),
+(480,2048,l),
+(226,2048,l),
+(226,0,l)
+);
+}
+);
+width = 1544;
+}
+);
+metricLeft = H;
+unicode = 76;
+userData = {
+"interface.width-adjustments" = (
+-16
+);
+};
+}

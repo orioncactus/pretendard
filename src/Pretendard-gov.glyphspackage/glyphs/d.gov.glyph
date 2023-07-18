@@ -1,0 +1,52 @@
+{
+export = 0;
+glyphname = d.gov;
+kernLeft = c;
+kernRight = H;
+layers = (
+{
+layerId = "B1F27B51-9973-4381-9301-4FE46FE1CA59";
+shapes = (
+{
+ref = d;
+},
+{
+pos = (984,0);
+ref = _smart.slabLeft;
+}
+);
+width = 1620;
+},
+{
+layerId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
+shapes = (
+{
+ref = d;
+},
+{
+pos = (956,0);
+ref = _smart.slabLeft;
+}
+);
+width = 1710;
+},
+{
+layerId = "5C20EF92-B63D-42A8-8878-93C2863E0093";
+shapes = (
+{
+ref = d;
+},
+{
+piece = {
+Narrow = 100;
+};
+pos = (882,0);
+ref = _smart.slabLeft;
+}
+);
+width = 1816;
+}
+);
+metricLeft = d;
+metricRight = d;
+}

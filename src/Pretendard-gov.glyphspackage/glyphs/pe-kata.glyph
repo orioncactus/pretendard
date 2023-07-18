@@ -1,0 +1,54 @@
+{
+glyphname = "pe-kata";
+layers = (
+{
+layerId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
+shapes = (
+{
+alignment = -1;
+pos = (-190,-211);
+ref = "_semivoicedcomb-kana_large";
+},
+{
+alignment = -1;
+pos = (0,-87);
+ref = "he-kata";
+}
+);
+width = 2504;
+},
+{
+layerId = "5C20EF92-B63D-42A8-8878-93C2863E0093";
+shapes = (
+{
+alignment = -1;
+pos = (-96,-80);
+ref = "_semivoicedcomb-kana_large";
+},
+{
+alignment = -1;
+pos = (0,-87);
+ref = "he-kata";
+}
+);
+width = 2504;
+},
+{
+layerId = "B1F27B51-9973-4381-9301-4FE46FE1CA59";
+shapes = (
+{
+alignment = -1;
+pos = (-241,-281);
+ref = "_semivoicedcomb-kana_large";
+},
+{
+alignment = -1;
+pos = (0,-87);
+ref = "he-kata";
+}
+);
+width = 2504;
+}
+);
+unicode = 12506;
+}

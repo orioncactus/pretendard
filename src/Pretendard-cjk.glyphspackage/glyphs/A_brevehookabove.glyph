@@ -1,0 +1,61 @@
+{
+glyphname = Abrevehookabove;
+kernLeft = A;
+kernRight = A;
+layers = (
+{
+layerId = "5C20EF92-B63D-42A8-8878-93C2863E0093";
+shapes = (
+{
+ref = A;
+},
+{
+pos = (404,500);
+ref = brevehookcomb.cn;
+}
+);
+width = 2240;
+},
+{
+layerId = "B1F27B51-9973-4381-9301-4FE46FE1CA59";
+shapes = (
+{
+ref = A;
+},
+{
+pos = (350,564);
+ref = brevehookcomb.cn;
+}
+);
+width = 1672;
+},
+{
+associatedMasterId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
+layerId = "FEF2D943-1E8E-4015-BE90-F18B1BCEA244";
+shapes = (
+{
+ref = A;
+},
+{
+pos = (304,540);
+ref = brevehookcomb.cn;
+}
+);
+width = 1868;
+},
+{
+layerId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
+shapes = (
+{
+ref = A;
+},
+{
+pos = (304,540);
+ref = brevehookcomb.cn;
+}
+);
+width = 1868;
+}
+);
+unicode = 7858;
+}

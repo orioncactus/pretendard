@@ -1,0 +1,60 @@
+{
+glyphname = chedescenderabkhasiancyrillic;
+kernRight = e;
+layers = (
+{
+layerId = "5C20EF92-B63D-42A8-8878-93C2863E0093";
+shapes = (
+{
+ref = cheabkhasiancyrillic;
+},
+{
+pos = (728,0);
+ref = cedilla;
+}
+);
+width = 2204;
+},
+{
+layerId = "B1F27B51-9973-4381-9301-4FE46FE1CA59";
+shapes = (
+{
+ref = cheabkhasiancyrillic;
+},
+{
+pos = (890,0);
+ref = cedilla;
+}
+);
+width = 1928;
+},
+{
+associatedMasterId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
+layerId = "B1AE6110-05DE-45B8-9333-8D23F74A80B4";
+shapes = (
+{
+ref = cheabkhasiancyrillic;
+},
+{
+pos = (860,0);
+ref = cedilla;
+}
+);
+width = 2016;
+},
+{
+layerId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
+shapes = (
+{
+ref = cheabkhasiancyrillic;
+},
+{
+pos = (860,0);
+ref = cedilla;
+}
+);
+width = 2016;
+}
+);
+unicode = 1215;
+}

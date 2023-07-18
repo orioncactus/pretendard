@@ -1,0 +1,158 @@
+{
+color = (204,240,242,1);
+glyphname = approxequal;
+kernLeft = approxequal;
+kernRight = approxequal;
+layers = (
+{
+guides = (
+{
+pos = (132,1384);
+}
+);
+layerId = "B1F27B51-9973-4381-9301-4FE46FE1CA59";
+shapes = (
+{
+pos = (0,236);
+ref = asciitilde;
+},
+{
+pos = (0,-248);
+ref = asciitilde;
+}
+);
+width = 1728;
+},
+{
+associatedMasterId = "C698F293-3EC0-4A5A-A3A0-0FDB1F5CF265";
+guides = (
+{
+pos = (268,800);
+}
+);
+layerId = "E4EFE76C-BE6D-4158-B05C-54E124DD3ECB";
+name = "Nov 23 18, 16:50";
+shapes = (
+{
+closed = 1;
+nodes = (
+(348,996,o),
+(480,1060,o),
+(600,1060,c),
+(756,1068,o),
+(812,1016,o),
+(924,960,cs),
+(1031,906,o),
+(1084,868,o),
+(1220,868,cs),
+(1336,868,o),
+(1456,920,o),
+(1544,1012,c),
+(1544,1288,l),
+(1456,1180,o),
+(1336,1116,o),
+(1220,1116,cs),
+(1084,1116,o),
+(1032,1156,o),
+(924,1208,cs),
+(806,1265,o),
+(748,1312,o),
+(600,1308,c),
+(480,1308,o),
+(348,1256,o),
+(264,1164,c),
+(264,888,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(348,420,o),
+(480,484,o),
+(600,484,c),
+(736,488,o),
+(796,448,o),
+(924,384,cs),
+(1033,330,o),
+(1084,288,o),
+(1220,288,cs),
+(1336,288,o),
+(1456,344,o),
+(1544,436,c),
+(1544,708,l),
+(1456,600,o),
+(1336,536,o),
+(1220,536,cs),
+(1084,536,o),
+(1032,576,o),
+(924,632,cs),
+(810,691,o),
+(748,736,o),
+(600,732,c),
+(480,732,o),
+(348,676,o),
+(264,588,c),
+(264,312,l)
+);
+}
+);
+width = 1808;
+},
+{
+guides = (
+{
+pos = (224,800);
+}
+);
+layerId = "C698F293-3EC0-4A5A-A3A0-0FDB1F5CF265";
+shapes = (
+{
+pos = (0,292);
+ref = asciitilde;
+},
+{
+pos = (0,-312);
+ref = asciitilde;
+}
+);
+width = 1812;
+},
+{
+background = {
+shapes = (
+{
+pos = (0,312);
+ref = asciitilde;
+}
+);
+};
+guides = (
+{
+orientation = center;
+pos = (260,832);
+}
+);
+layerId = "5C20EF92-B63D-42A8-8878-93C2863E0093";
+shapes = (
+{
+pos = (0,336);
+ref = asciitilde;
+},
+{
+pos = (0,-356);
+ref = asciitilde;
+}
+);
+width = 1952;
+}
+);
+metricLeft = asciitilde;
+metricRight = asciitilde;
+unicode = 8776;
+userData = {
+interface.gridadjust.original = "{'width': 1587, 'leftMargin': 139, 'rightMargin': 164}";
+"interface.width-adjustments" = (
+-16
+);
+};
+}

@@ -1,0 +1,73 @@
+{
+color = 9;
+glyphname = uni1F3A.1;
+layers = (
+{
+layerId = "5C20EF92-B63D-42A8-8878-93C2863E0093";
+shapes = (
+{
+alignment = -1;
+pos = (912,0);
+ref = I.1;
+},
+{
+pos = (-180,0);
+ref = uni1FCD.tonos;
+}
+);
+width = 2332;
+},
+{
+layerId = "B1F27B51-9973-4381-9301-4FE46FE1CA59";
+shapes = (
+{
+alignment = -1;
+pos = (984,0);
+ref = I.1;
+},
+{
+alignment = -1;
+pos = (-48,0);
+ref = uni1FCD.tonos;
+}
+);
+width = 1904;
+},
+{
+associatedMasterId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
+layerId = "003CB220-AC6C-4987-BF81-EF2D5A94EC83";
+shapes = (
+{
+alignment = -1;
+pos = (990,0);
+ref = I.1;
+},
+{
+alignment = -1;
+pos = (-66,0);
+ref = uni1FCD.tonos;
+}
+);
+width = 2178.64906;
+},
+{
+layerId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
+shapes = (
+{
+alignment = -1;
+pos = (992,0);
+ref = I.1;
+},
+{
+alignment = -1;
+pos = (-64,0);
+ref = uni1FCD.tonos;
+}
+);
+width = 2204;
+}
+);
+metricLeft = I.1;
+metricRight = I.1;
+unicode = 57376;
+}

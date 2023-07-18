@@ -1,0 +1,67 @@
+{
+glyphname = Hadescendercyrillic;
+kernLeft = X;
+kernRight = X;
+layers = (
+{
+layerId = "5C20EF92-B63D-42A8-8878-93C2863E0093";
+shapes = (
+{
+ref = X;
+},
+{
+pos = (1472,0);
+ref = cyrillictic.cn;
+}
+);
+width = 2148;
+},
+{
+layerId = "B1F27B51-9973-4381-9301-4FE46FE1CA59";
+shapes = (
+{
+ref = X;
+},
+{
+pos = (1444,0);
+ref = cyrillictic.cn;
+}
+);
+width = 1584;
+},
+{
+associatedMasterId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
+layerId = "C6FDED7B-86A5-412C-B38F-C39511BEF59E";
+shapes = (
+{
+ref = X;
+},
+{
+pos = (1442,0);
+ref = cyrillictic.cn;
+}
+);
+width = 1772;
+},
+{
+layerId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
+shapes = (
+{
+ref = X;
+},
+{
+pos = (1442,0);
+ref = cyrillictic.cn;
+}
+);
+width = 1772;
+}
+);
+unicode = 1202;
+userData = {
+interface.gridadjust.original = "{'width': 1803, 'leftMargin': 124, 'rightMargin': 38}";
+"interface.width-adjustments" = (
+-16
+);
+};
+}

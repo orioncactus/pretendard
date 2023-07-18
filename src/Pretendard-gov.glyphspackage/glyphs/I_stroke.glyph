@@ -1,0 +1,65 @@
+{
+glyphname = Istroke;
+layers = (
+{
+layerId = "5C20EF92-B63D-42A8-8878-93C2863E0093";
+shapes = (
+{
+ref = I;
+},
+{
+pos = (-308,-24);
+ref = crossbar;
+}
+);
+width = 820;
+},
+{
+layerId = "B1F27B51-9973-4381-9301-4FE46FE1CA59";
+shapes = (
+{
+ref = I;
+},
+{
+pos = (-232,64);
+ref = crossbar;
+}
+);
+width = 640;
+},
+{
+associatedMasterId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
+layerId = "575FA393-B6BF-43F0-A362-42220EC8846B";
+shapes = (
+{
+ref = I;
+},
+{
+pos = (-258,62);
+ref = crossbar;
+}
+);
+width = 706;
+},
+{
+layerId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
+shapes = (
+{
+ref = I;
+},
+{
+pos = (-258,62);
+ref = crossbar;
+}
+);
+width = 706;
+}
+);
+unicode = 407;
+userData = {
+interface.gridadjust.original = "{'width': 938, 'leftMargin': 27, 'rightMargin': 28}";
+"interface.width-adjustments" = (
+-16
+);
+};
+}

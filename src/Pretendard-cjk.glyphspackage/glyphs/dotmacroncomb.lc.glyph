@@ -1,0 +1,75 @@
+{
+glyphname = dotmacroncomb.lc;
+layers = (
+{
+anchors = (
+{
+name = _top;
+pos = (-992,1768);
+}
+);
+layerId = "5C20EF92-B63D-42A8-8878-93C2863E0093";
+shapes = (
+{
+alignment = -1;
+pos = (-8,-548);
+ref = dotmacroncomb.cn;
+}
+);
+width = 0;
+},
+{
+anchors = (
+{
+name = _top;
+pos = (-928,1792);
+}
+);
+layerId = "B1F27B51-9973-4381-9301-4FE46FE1CA59";
+shapes = (
+{
+alignment = -1;
+pos = (-176,-480);
+ref = dotmacroncomb.cn;
+}
+);
+width = 0;
+},
+{
+anchors = (
+{
+name = _top;
+pos = (-852,1792);
+}
+);
+associatedMasterId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
+layerId = "7E3D4252-1F4D-47C2-A1AE-8DC923450C60";
+shapes = (
+{
+alignment = -1;
+pos = (0,-516);
+ref = dotmacroncomb.cn;
+}
+);
+width = 0;
+},
+{
+anchors = (
+{
+name = _top;
+pos = (-844,1792);
+}
+);
+layerId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
+shapes = (
+{
+alignment = -1;
+pos = (8,-516);
+ref = dotmacroncomb.cn;
+}
+);
+width = 2;
+}
+);
+unicode = 57612;
+}

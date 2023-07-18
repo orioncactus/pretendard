@@ -1,0 +1,54 @@
+{
+color = (227,245,235,1);
+glyphname = tenroman;
+kernLeft = x;
+kernRight = x;
+layers = (
+{
+layerId = "5C20EF92-B63D-42A8-8878-93C2863E0093";
+shapes = (
+{
+ref = x;
+}
+);
+width = 1680;
+},
+{
+layerId = "B1F27B51-9973-4381-9301-4FE46FE1CA59";
+shapes = (
+{
+ref = x;
+}
+);
+width = 1344;
+},
+{
+associatedMasterId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
+layerId = "902CE73C-E3ED-4F61-AE58-B9F7DD5FE109";
+shapes = (
+{
+alignment = -1;
+pos = (-16,0);
+ref = x;
+}
+);
+width = 1460.31698;
+},
+{
+layerId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
+shapes = (
+{
+ref = x;
+}
+);
+width = 1484;
+}
+);
+unicode = 8569;
+userData = {
+interface.gridadjust.original = "{'width': 1411, 'leftMargin': 135, 'rightMargin': -4}";
+"interface.width-adjustments" = (
+-16
+);
+};
+}

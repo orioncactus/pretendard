@@ -1,0 +1,45 @@
+{
+glyphname = Tau;
+kernLeft = T;
+kernRight = T;
+layers = (
+{
+layerId = "5C20EF92-B63D-42A8-8878-93C2863E0093";
+shapes = (
+{
+ref = T;
+}
+);
+width = 1932;
+},
+{
+layerId = "B1F27B51-9973-4381-9301-4FE46FE1CA59";
+shapes = (
+{
+ref = T;
+}
+);
+width = 1664;
+},
+{
+associatedMasterId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
+layerId = "CCFE120D-EE94-4E3B-B582-D95AFE099934";
+shapes = (
+{
+ref = T;
+}
+);
+width = 1770;
+},
+{
+layerId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
+shapes = (
+{
+ref = T;
+}
+);
+width = 1770;
+}
+);
+unicode = 932;
+}

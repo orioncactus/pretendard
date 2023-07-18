@@ -1,0 +1,67 @@
+{
+glyphname = uni2049;
+layers = (
+{
+layerId = "5C20EF92-B63D-42A8-8878-93C2863E0093";
+shapes = (
+{
+alignment = 1;
+ref = exclam;
+},
+{
+alignment = 1;
+pos = (1000,0);
+ref = question;
+}
+);
+width = 2688;
+},
+{
+layerId = "B1F27B51-9973-4381-9301-4FE46FE1CA59";
+shapes = (
+{
+alignment = 1;
+ref = exclam;
+},
+{
+alignment = 1;
+pos = (672,0);
+ref = question;
+}
+);
+width = 1956;
+},
+{
+associatedMasterId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
+layerId = "024C7E00-5C88-4AF4-9426-EED5A7199A0F";
+shapes = (
+{
+alignment = 1;
+ref = exclam;
+},
+{
+alignment = 1;
+pos = (744,0);
+ref = question;
+}
+);
+width = 2134;
+},
+{
+layerId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
+shapes = (
+{
+alignment = 1;
+ref = exclam;
+},
+{
+alignment = 1;
+pos = (744,0);
+ref = question;
+}
+);
+width = 2134;
+}
+);
+unicode = 8265;
+}

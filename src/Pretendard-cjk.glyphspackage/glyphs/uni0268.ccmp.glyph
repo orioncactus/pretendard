@@ -1,0 +1,65 @@
+{
+glyphname = uni0268.ccmp;
+layers = (
+{
+layerId = "5C20EF92-B63D-42A8-8878-93C2863E0093";
+shapes = (
+{
+ref = idotless;
+},
+{
+pos = (-304,-268);
+ref = crossbar;
+}
+);
+width = 832;
+},
+{
+layerId = "B1F27B51-9973-4381-9301-4FE46FE1CA59";
+shapes = (
+{
+ref = idotless;
+},
+{
+pos = (-272,-192);
+ref = crossbar;
+}
+);
+width = 560;
+},
+{
+associatedMasterId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
+layerId = "C6D15D92-D711-4396-B87B-47008DAF26BC";
+shapes = (
+{
+ref = idotless;
+},
+{
+pos = (-294,-178);
+ref = crossbar;
+}
+);
+width = 632;
+},
+{
+layerId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
+shapes = (
+{
+ref = idotless;
+},
+{
+pos = (-294,-178);
+ref = crossbar;
+}
+);
+width = 632;
+}
+);
+unicode = 57587;
+userData = {
+interface.gridadjust.original = "{'width': 965, 'leftMargin': 41, 'rightMargin': 41}";
+"interface.width-adjustments" = (
+-16
+);
+};
+}

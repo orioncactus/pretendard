@@ -1,0 +1,64 @@
+{
+glyphname = southEastArrow;
+layers = (
+{
+guides = (
+{
+angle = 90;
+pos = (1172,452);
+}
+);
+layerId = "5C20EF92-B63D-42A8-8878-93C2863E0093";
+shapes = (
+{
+alignment = -1;
+angle = 180;
+pos = (2688,2048);
+ref = northWestArrow;
+}
+);
+width = 2688;
+},
+{
+layerId = "B1F27B51-9973-4381-9301-4FE46FE1CA59";
+shapes = (
+{
+alignment = -1;
+angle = 180;
+pos = (2624,2048);
+ref = northWestArrow;
+}
+);
+width = 2624;
+},
+{
+associatedMasterId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
+layerId = "3D618290-9F27-4F63-9FA2-E67854920F4C";
+shapes = (
+{
+alignment = -1;
+angle = 180;
+pos = (2624,2048);
+ref = northWestArrow;
+}
+);
+width = 2624.39245;
+},
+{
+layerId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
+shapes = (
+{
+alignment = -1;
+angle = 180;
+pos = (2644,2048);
+ref = northWestArrow;
+}
+);
+width = 2644;
+}
+);
+metricLeft = "=|northWestArrow";
+metricRight = "=|northWestArrow";
+note = "mirror of northWestArrow";
+unicode = 8600;
+}

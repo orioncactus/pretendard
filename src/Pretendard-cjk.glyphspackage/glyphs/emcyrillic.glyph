@@ -1,0 +1,185 @@
+{
+glyphname = emcyrillic;
+kernLeft = m;
+kernRight = a;
+layers = (
+{
+anchors = (
+{
+name = right;
+pos = (2072,0);
+}
+);
+layerId = "5C20EF92-B63D-42A8-8878-93C2863E0093";
+shapes = (
+{
+closed = 1;
+nodes = (
+(772,1536,l),
+(380,1536,l),
+(920,0,l),
+(1264,0,l),
+(1820,1536,l),
+(1428,1536,l),
+(1092,572,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(140,1536,l),
+(140,0,l),
+(660,0,l),
+(660,1536,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(2072,0,l),
+(2072,1536,l),
+(1560,1536,l),
+(1560,0,l)
+);
+}
+);
+width = 2196;
+},
+{
+anchors = (
+{
+name = right;
+pos = (1698,0);
+}
+);
+layerId = "B1F27B51-9973-4381-9301-4FE46FE1CA59";
+shapes = (
+{
+closed = 1;
+nodes = (
+(310,1536,l),
+(240,1536,l),
+(950,0,l),
+(990,0,l),
+(1700,1536,l),
+(1630,1536,l),
+(970,108,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(240,1536,l),
+(240,0,l),
+(304,0,l),
+(304,1536,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(1700,0,l),
+(1700,1536,l),
+(1636,1536,l),
+(1636,0,l)
+);
+}
+);
+width = 1948;
+},
+{
+anchors = (
+{
+name = right;
+pos = (1868,0);
+}
+);
+associatedMasterId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
+layerId = "5215872F-5DE0-4A0F-829D-C6CCFB238DE2";
+shapes = (
+{
+closed = 1;
+nodes = (
+(502,1536,l),
+(278,1536,l),
+(928,0,l),
+(1122,0,l),
+(1784,1536,l),
+(1556,1536,l),
+(1026,326,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(182,1536,l),
+(182,0,l),
+(426,0,l),
+(426,1536,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(1868,0,l),
+(1868,1536,l),
+(1626,1536,l),
+(1626,0,l)
+);
+}
+);
+width = 2050.45283;
+},
+{
+anchors = (
+{
+name = right;
+pos = (1880,0);
+}
+);
+layerId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
+shapes = (
+{
+closed = 1;
+nodes = (
+(514,1536,l),
+(290,1536,l),
+(940,0,l),
+(1134,0,l),
+(1796,1536,l),
+(1568,1536,l),
+(1038,326,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(194,1536,l),
+(194,0,l),
+(438,0,l),
+(438,1536,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(1880,0,l),
+(1880,1536,l),
+(1638,1536,l),
+(1638,0,l)
+);
+}
+);
+width = 2074;
+}
+);
+metricLeft = m;
+metricRight = a;
+unicode = 1084;
+userData = {
+interface.gridadjust.original = "{'width': 2096, 'leftMargin': 213, 'rightMargin': 214}";
+"interface.width-adjustments" = (
+-16
+);
+};
+}

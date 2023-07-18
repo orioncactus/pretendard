@@ -1,0 +1,147 @@
+{
+color = 1;
+glyphname = parenright.sups;
+kernLeft = parenright.sups;
+kernRight = parenright.sups;
+layers = (
+{
+layerId = "5C20EF92-B63D-42A8-8878-93C2863E0093";
+shapes = (
+{
+closed = 1;
+nodes = (
+(664,1916,o),
+(568,2184,o),
+(368,2404,c),
+(24,2404,l),
+(164,2276,o),
+(284,1888,o),
+(284,1564,cs),
+(284,1240,o),
+(164,856,o),
+(24,724,c),
+(368,724,l),
+(568,944,o),
+(664,1216,o),
+(664,1564,cs)
+);
+}
+);
+userData = {
+RMXScaler = {
+height = 66.6;
+verticalShift = 1024;
+weight = -300;
+width = 66.6;
+};
+};
+width = 828;
+},
+{
+layerId = "B1F27B51-9973-4381-9301-4FE46FE1CA59";
+shapes = (
+{
+closed = 1;
+nodes = (
+(360,1884,o),
+(288,2184,o),
+(152,2452,c),
+(92,2452,l),
+(228,2184,o),
+(296,1876,o),
+(296,1600,cs),
+(296,1308,o),
+(224,1004,o),
+(92,748,c),
+(152,748,l),
+(288,1012,o),
+(360,1316,o),
+(360,1600,cs)
+);
+}
+);
+userData = {
+RMXScaler = {
+height = 66.6;
+verticalShift = 1024;
+width = 66.6;
+};
+};
+width = 544;
+},
+{
+associatedMasterId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
+layerId = "A0B975BB-E9DA-4E83-B015-BAEA4BA9DE89";
+shapes = (
+{
+closed = 1;
+nodes = (
+(496,1892,o),
+(416,2180,o),
+(246,2428,c),
+(40,2428,l),
+(176,2226,o),
+(272,1892,o),
+(272,1580,cs),
+(272,1268,o),
+(176,934,o),
+(40,736,c),
+(246,736,l),
+(416,980,o),
+(496,1266,o),
+(496,1580,cs)
+);
+}
+);
+userData = {
+RMXScaler = {
+height = 66.6;
+verticalShift = 1024;
+weight = -50;
+width = 66.6;
+};
+};
+width = 651.23774;
+},
+{
+layerId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
+shapes = (
+{
+closed = 1;
+nodes = (
+(506,1892,o),
+(426,2180,o),
+(256,2428,c),
+(50,2428,l),
+(186,2226,o),
+(282,1892,o),
+(282,1580,cs),
+(282,1268,o),
+(186,934,o),
+(50,736,c),
+(256,736,l),
+(426,980,o),
+(506,1266,o),
+(506,1580,cs)
+);
+}
+);
+userData = {
+RMXScaler = {
+height = 66.6;
+verticalShift = 1024;
+weight = -50;
+width = 66.6;
+};
+};
+width = 672;
+}
+);
+metricWidth = parenleft.sups;
+unicode = 8318;
+userData = {
+RMXScaler = {
+source = parenright;
+};
+};
+}

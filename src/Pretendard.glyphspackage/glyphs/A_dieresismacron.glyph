@@ -1,0 +1,61 @@
+{
+glyphname = Adieresismacron;
+kernLeft = A;
+kernRight = A;
+layers = (
+{
+layerId = "5C20EF92-B63D-42A8-8878-93C2863E0093";
+shapes = (
+{
+ref = A;
+},
+{
+pos = (2072,0);
+ref = dieresismacroncomb.cn;
+}
+);
+width = 2240;
+},
+{
+layerId = "B1F27B51-9973-4381-9301-4FE46FE1CA59";
+shapes = (
+{
+ref = A;
+},
+{
+pos = (1590,0);
+ref = dieresismacroncomb.cn;
+}
+);
+width = 1672;
+},
+{
+associatedMasterId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
+layerId = "5AC4CF73-ED3E-4354-A764-7B19FEFA04E9";
+shapes = (
+{
+ref = A;
+},
+{
+pos = (1760,0);
+ref = dieresismacroncomb.cn;
+}
+);
+width = 1868;
+},
+{
+layerId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
+shapes = (
+{
+ref = A;
+},
+{
+pos = (1760,0);
+ref = dieresismacroncomb.cn;
+}
+);
+width = 1868;
+}
+);
+unicode = 478;
+}

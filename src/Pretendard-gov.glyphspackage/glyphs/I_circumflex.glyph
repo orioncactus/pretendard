@@ -1,0 +1,61 @@
+{
+glyphname = Icircumflex;
+kernLeft = Idieresis;
+kernRight = Idieresis;
+layers = (
+{
+layerId = "5C20EF92-B63D-42A8-8878-93C2863E0093";
+shapes = (
+{
+ref = I;
+},
+{
+pos = (-476,512);
+ref = circumflex;
+}
+);
+width = 820;
+},
+{
+layerId = "B1F27B51-9973-4381-9301-4FE46FE1CA59";
+shapes = (
+{
+ref = I;
+},
+{
+pos = (-240,512);
+ref = circumflex;
+}
+);
+width = 640;
+},
+{
+associatedMasterId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
+layerId = "17F3D968-9848-413C-AF81-6DEF107BA4C7";
+shapes = (
+{
+ref = I;
+},
+{
+pos = (-270,512);
+ref = circumflex;
+}
+);
+width = 706;
+},
+{
+layerId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
+shapes = (
+{
+ref = I;
+},
+{
+pos = (-270,512);
+ref = circumflex;
+}
+);
+width = 706;
+}
+);
+unicode = 206;
+}

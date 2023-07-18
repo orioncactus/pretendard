@@ -1,0 +1,61 @@
+{
+glyphname = rdblgrave;
+kernLeft = m;
+kernRight = r;
+layers = (
+{
+layerId = "5C20EF92-B63D-42A8-8878-93C2863E0093";
+shapes = (
+{
+ref = r;
+},
+{
+pos = (1502,0);
+ref = dblgravecmb;
+}
+);
+width = 1220;
+},
+{
+layerId = "B1F27B51-9973-4381-9301-4FE46FE1CA59";
+shapes = (
+{
+ref = r;
+},
+{
+pos = (1356,0);
+ref = dblgravecmb;
+}
+);
+width = 852;
+},
+{
+associatedMasterId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
+layerId = "DA6AD12D-AB98-40B2-90C3-27A46FDD42CE";
+shapes = (
+{
+ref = r;
+},
+{
+pos = (1240,0);
+ref = dblgravecmb;
+}
+);
+width = 1012;
+},
+{
+layerId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
+shapes = (
+{
+ref = r;
+},
+{
+pos = (1240,0);
+ref = dblgravecmb;
+}
+);
+width = 1012;
+}
+);
+unicode = 529;
+}

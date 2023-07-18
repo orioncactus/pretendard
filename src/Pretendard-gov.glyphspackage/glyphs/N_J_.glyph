@@ -1,0 +1,59 @@
+{
+glyphname = NJ;
+layers = (
+{
+layerId = "5C20EF92-B63D-42A8-8878-93C2863E0093";
+shapes = (
+{
+ref = N;
+},
+{
+pos = (2036,0);
+ref = J;
+}
+);
+width = 3692;
+},
+{
+layerId = "B1F27B51-9973-4381-9301-4FE46FE1CA59";
+shapes = (
+{
+ref = N;
+},
+{
+pos = (2112,0);
+ref = J;
+}
+);
+width = 3512;
+},
+{
+associatedMasterId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
+layerId = "B8C4DD16-1D31-4AF1-AC46-168B0D89E0F2";
+shapes = (
+{
+ref = N;
+},
+{
+pos = (2078,0);
+ref = J;
+}
+);
+width = 3570;
+},
+{
+layerId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
+shapes = (
+{
+ref = N;
+},
+{
+pos = (2078,0);
+ref = J;
+}
+);
+width = 3570;
+}
+);
+unicode = 458;
+}

@@ -1,0 +1,61 @@
+{
+glyphname = scaron;
+kernLeft = s;
+kernRight = s;
+layers = (
+{
+layerId = "5C20EF92-B63D-42A8-8878-93C2863E0093";
+shapes = (
+{
+ref = s;
+},
+{
+pos = (-56,0);
+ref = caron;
+}
+);
+width = 1656;
+},
+{
+layerId = "B1F27B51-9973-4381-9301-4FE46FE1CA59";
+shapes = (
+{
+ref = s;
+},
+{
+pos = (120,20);
+ref = caron;
+}
+);
+width = 1324;
+},
+{
+associatedMasterId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
+layerId = "D939EA63-5FD3-4234-8455-CCA07C22A207";
+shapes = (
+{
+ref = s;
+},
+{
+pos = (118,0);
+ref = caron;
+}
+);
+width = 1436;
+},
+{
+layerId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
+shapes = (
+{
+ref = s;
+},
+{
+pos = (118,0);
+ref = caron;
+}
+);
+width = 1436;
+}
+);
+unicode = 353;
+}

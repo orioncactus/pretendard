@@ -1,0 +1,61 @@
+{
+glyphname = rinvertedbreve;
+kernLeft = m;
+kernRight = r;
+layers = (
+{
+layerId = "5C20EF92-B63D-42A8-8878-93C2863E0093";
+shapes = (
+{
+ref = r;
+},
+{
+pos = (1548,216);
+ref = breveinvnosp;
+}
+);
+width = 1220;
+},
+{
+layerId = "B1F27B51-9973-4381-9301-4FE46FE1CA59";
+shapes = (
+{
+ref = r;
+},
+{
+pos = (1412,128);
+ref = breveinvnosp;
+}
+);
+width = 852;
+},
+{
+associatedMasterId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
+layerId = "29BED7F3-1C99-43AB-BD3B-8A50AE6C5C14";
+shapes = (
+{
+ref = r;
+},
+{
+pos = (1440,162);
+ref = breveinvnosp;
+}
+);
+width = 1012;
+},
+{
+layerId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
+shapes = (
+{
+ref = r;
+},
+{
+pos = (1440,162);
+ref = breveinvnosp;
+}
+);
+width = 1012;
+}
+);
+unicode = 531;
+}

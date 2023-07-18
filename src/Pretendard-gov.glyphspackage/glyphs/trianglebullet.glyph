@@ -1,0 +1,84 @@
+{
+glyphname = trianglebullet;
+kernLeft = bullet;
+kernRight = bullet;
+layers = (
+{
+guides = (
+{
+orientation = center;
+pos = (956,816);
+}
+);
+layerId = "5C20EF92-B63D-42A8-8878-93C2863E0093";
+shapes = (
+{
+closed = 1;
+nodes = (
+(1078,816,l),
+(338,1264,l),
+(338,368,l)
+);
+}
+);
+width = 1248;
+},
+{
+guides = (
+{
+orientation = center;
+pos = (880,1400);
+}
+);
+layerId = "B1F27B51-9973-4381-9301-4FE46FE1CA59";
+shapes = (
+{
+closed = 1;
+nodes = (
+(898,816,l),
+(448,1088,l),
+(448,544,l)
+);
+}
+);
+width = 1264;
+},
+{
+associatedMasterId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
+layerId = "1C918810-009E-4A4A-A244-E96DD754B587";
+shapes = (
+{
+closed = 1;
+nodes = (
+(1156,816,l),
+(416,1264,l),
+(416,368,l)
+);
+}
+);
+width = 1450.89811;
+},
+{
+layerId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
+shapes = (
+{
+closed = 1;
+nodes = (
+(1168,816,l),
+(428,1264,l),
+(428,368,l)
+);
+}
+);
+width = 1476;
+}
+);
+metricWidth = bullet;
+unicode = 8227;
+userData = {
+com.typemytype.robofont.guideline.magnetic.zkVwYbBwEs = 5;
+"interface.width-adjustments" = (
+-16
+);
+};
+}

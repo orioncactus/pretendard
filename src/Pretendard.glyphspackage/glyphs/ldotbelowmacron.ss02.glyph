@@ -1,0 +1,85 @@
+{
+color = 9;
+glyphname = ldotbelowmacron.ss02;
+kernLeft = B;
+kernRight = H;
+layers = (
+{
+layerId = "5C20EF92-B63D-42A8-8878-93C2863E0093";
+shapes = (
+{
+ref = l.ss02;
+},
+{
+pos = (1228,0);
+ref = dotbelow;
+},
+{
+pos = (-488,512);
+ref = macron;
+}
+);
+width = 928;
+},
+{
+layerId = "B1F27B51-9973-4381-9301-4FE46FE1CA59";
+shapes = (
+{
+ref = l.ss02;
+},
+{
+pos = (1172,0);
+ref = dotbelow;
+},
+{
+pos = (-108,512);
+ref = macron;
+}
+);
+width = 556;
+},
+{
+associatedMasterId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
+layerId = "5C0E387B-1F54-41F0-9489-5959CCE754E1";
+shapes = (
+{
+alignment = -1;
+ref = l.ss02;
+},
+{
+alignment = -1;
+pos = (1252,0);
+ref = dotbelow;
+},
+{
+alignment = -1;
+pos = (-304,512);
+ref = macron;
+}
+);
+width = 669.29811;
+},
+{
+layerId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
+shapes = (
+{
+alignment = -1;
+pos = (4,0);
+ref = l.ss02;
+},
+{
+alignment = -1;
+pos = (1266,0);
+ref = dotbelow;
+},
+{
+alignment = -1;
+pos = (-300,512);
+ref = macron;
+}
+);
+width = 686;
+}
+);
+unicode = 57434;
+}

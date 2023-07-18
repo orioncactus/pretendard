@@ -1,0 +1,65 @@
+{
+glyphname = glottalstopbarrev;
+layers = (
+{
+layerId = "5C20EF92-B63D-42A8-8878-93C2863E0093";
+shapes = (
+{
+ref = glottalstoprevinv;
+},
+{
+pos = (144,-880);
+ref = crossbar;
+}
+);
+width = 1684;
+},
+{
+layerId = "B1F27B51-9973-4381-9301-4FE46FE1CA59";
+shapes = (
+{
+ref = glottalstoprevinv;
+},
+{
+pos = (216,-668);
+ref = crossbar;
+}
+);
+width = 1350;
+},
+{
+associatedMasterId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
+layerId = "FE2A21AA-A09B-4339-A81A-15779CA29FF6";
+shapes = (
+{
+ref = glottalstoprevinv;
+},
+{
+pos = (152,-708);
+ref = crossbar;
+}
+);
+width = 1480;
+},
+{
+layerId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
+shapes = (
+{
+ref = glottalstoprevinv;
+},
+{
+pos = (152,-708);
+ref = crossbar;
+}
+);
+width = 1480;
+}
+);
+unicode = 674;
+userData = {
+interface.gridadjust.original = "{'width': 1480, 'leftMargin': 136, 'rightMargin': 80}";
+"interface.width-adjustments" = (
+-16
+);
+};
+}

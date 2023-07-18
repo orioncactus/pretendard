@@ -1,0 +1,72 @@
+{
+glyphname = diamondblack;
+layers = (
+{
+layerId = "5C20EF92-B63D-42A8-8878-93C2863E0093";
+shapes = (
+{
+closed = 1;
+nodes = (
+(1512,2368,l),
+(160,1024,l),
+(1512,-320,l),
+(2848,1024,l)
+);
+}
+);
+width = 3008;
+},
+{
+layerId = "B1F27B51-9973-4381-9301-4FE46FE1CA59";
+shapes = (
+{
+closed = 1;
+nodes = (
+(1440,2368,l),
+(88,1024,l),
+(1440,-320,l),
+(2776,1024,l)
+);
+}
+);
+width = 2864;
+},
+{
+associatedMasterId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
+layerId = "43B52917-2892-40FE-ABE6-BF3F2C3ED82D";
+shapes = (
+{
+closed = 1;
+nodes = (
+(1456,2368,l),
+(104,1024,l),
+(1456,-320,l),
+(2792,1024,l)
+);
+}
+);
+width = 2897.56981;
+},
+{
+layerId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
+shapes = (
+{
+closed = 1;
+nodes = (
+(1466,2368,l),
+(114,1024,l),
+(1466,-320,l),
+(2802,1024,l)
+);
+}
+);
+width = 2916;
+}
+);
+unicode = 9670;
+userData = {
+"interface.width-adjustments" = (
+-16
+);
+};
+}

@@ -1,0 +1,42 @@
+{
+glyphname = dblanglebracketleft.full;
+layers = (
+{
+layerId = "B1F27B51-9973-4381-9301-4FE46FE1CA59";
+metricRight = "=dblanglebracketleft*2";
+shapes = (
+{
+alignment = -1;
+pos = (1338,0);
+ref = dblanglebracketleft;
+}
+);
+width = 2504;
+},
+{
+layerId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
+metricRight = "=dblanglebracketleft*2";
+shapes = (
+{
+alignment = -1;
+pos = (1030,0);
+ref = dblanglebracketleft;
+}
+);
+width = 2504;
+},
+{
+layerId = "5C20EF92-B63D-42A8-8878-93C2863E0093";
+metricRight = "=dblanglebracketleft*2";
+shapes = (
+{
+alignment = -1;
+pos = (724,0);
+ref = dblanglebracketleft;
+}
+);
+width = 2504;
+}
+);
+metricWidth = hanBase;
+}

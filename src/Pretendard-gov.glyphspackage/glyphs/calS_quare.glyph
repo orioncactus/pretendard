@@ -1,0 +1,66 @@
+{
+glyphname = calSquare;
+layers = (
+{
+layerId = "B1F27B51-9973-4381-9301-4FE46FE1CA59";
+shapes = (
+{
+alignment = 1;
+ref = c;
+},
+{
+alignment = 1;
+pos = (1492,0);
+ref = a;
+},
+{
+alignment = 1;
+pos = (2952,0);
+ref = l;
+}
+);
+width = 3496;
+},
+{
+layerId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
+shapes = (
+{
+alignment = 1;
+ref = c;
+},
+{
+alignment = 1;
+pos = (1534,0);
+ref = a;
+},
+{
+alignment = 1;
+pos = (3084,0);
+ref = l;
+}
+);
+width = 3716;
+},
+{
+layerId = "5C20EF92-B63D-42A8-8878-93C2863E0093";
+shapes = (
+{
+alignment = 1;
+ref = c;
+},
+{
+alignment = 1;
+pos = (1708,0);
+ref = a;
+},
+{
+alignment = 1;
+pos = (3372,0);
+ref = l;
+}
+);
+width = 4204;
+}
+);
+unicode = 13192;
+}

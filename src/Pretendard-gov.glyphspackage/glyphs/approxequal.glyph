@@ -1,0 +1,148 @@
+{
+color = (204,240,242,1);
+glyphname = approxequal;
+kernLeft = approxequal;
+kernRight = approxequal;
+layers = (
+{
+background = {
+shapes = (
+{
+pos = (0,312);
+ref = asciitilde;
+}
+);
+};
+guides = (
+{
+orientation = center;
+pos = (260,832);
+}
+);
+layerId = "5C20EF92-B63D-42A8-8878-93C2863E0093";
+shapes = (
+{
+pos = (0,336);
+ref = asciitilde;
+},
+{
+pos = (0,-356);
+ref = asciitilde;
+}
+);
+width = 1952;
+},
+{
+guides = (
+{
+pos = (132,1384);
+}
+);
+layerId = "B1F27B51-9973-4381-9301-4FE46FE1CA59";
+shapes = (
+{
+pos = (0,236);
+ref = asciitilde;
+},
+{
+pos = (0,-248);
+ref = asciitilde;
+}
+);
+width = 1728;
+},
+{
+associatedMasterId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
+layerId = "1909121F-49AE-45BC-B76C-07CD1C906CAA";
+shapes = (
+{
+closed = 1;
+nodes = (
+(420,900,l),
+(416,1074,o),
+(496,1142,o),
+(604,1142,cs),
+(674,1142,o),
+(722,1110,o),
+(818,1028,cs),
+(964,898,o),
+(1062,844,o),
+(1198,844,cs),
+(1404,844,o),
+(1604,974,o),
+(1596,1308,c),
+(1374,1308,l),
+(1378,1148,o),
+(1308,1066,o),
+(1192,1066,cs),
+(1120,1066,o),
+(1076,1096,o),
+(976,1180,cs),
+(828,1304,o),
+(732,1364,o),
+(596,1364,cs),
+(390,1364,o),
+(196,1234,o),
+(200,900,c)
+);
+},
+{
+closed = 1;
+nodes = (
+(420,294,l),
+(416,468,o),
+(496,536,o),
+(604,536,cs),
+(674,536,o),
+(722,504,o),
+(818,422,cs),
+(964,292,o),
+(1062,238,o),
+(1198,238,cs),
+(1404,238,o),
+(1604,368,o),
+(1596,702,c),
+(1374,702,l),
+(1378,542,o),
+(1308,460,o),
+(1192,460,cs),
+(1120,460,o),
+(1076,492,o),
+(976,574,cs),
+(828,698,o),
+(732,758,o),
+(596,758,cs),
+(390,758,o),
+(196,628,o),
+(200,294,c)
+);
+}
+);
+width = 1794.74717;
+},
+{
+layerId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
+shapes = (
+{
+alignment = -1;
+pos = (0,294);
+ref = asciitilde;
+},
+{
+alignment = -1;
+pos = (0,-314);
+ref = asciitilde;
+}
+);
+width = 1816;
+}
+);
+metricWidth = plus;
+unicode = 8776;
+userData = {
+interface.gridadjust.original = "{'width': 1587, 'leftMargin': 139, 'rightMargin': 164}";
+"interface.width-adjustments" = (
+-16
+);
+};
+}

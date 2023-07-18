@@ -1,0 +1,29 @@
+{
+color = (237,229,250,1);
+glyphname = figurespace;
+layers = (
+{
+layerId = "5C20EF92-B63D-42A8-8878-93C2863E0093";
+width = 1984;
+},
+{
+layerId = "B1F27B51-9973-4381-9301-4FE46FE1CA59";
+width = 1600;
+},
+{
+associatedMasterId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
+layerId = "CA624DC1-A504-4C3B-BCF1-5BB2CA665DDF";
+width = 1764.31698;
+},
+{
+layerId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
+width = 1780;
+}
+);
+metricWidth = zero.tf;
+note = "\012space equal to tabular width of a font this is equivalent to the digit width of fonts with fixed-width digits\012";
+unicode = 8199;
+userData = {
+interface.gridadjust.original = "{'width': 1583, 'leftMargin': 0, 'rightMargin': 0}";
+};
+}

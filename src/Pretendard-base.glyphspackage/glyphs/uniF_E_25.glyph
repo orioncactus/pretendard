@@ -1,0 +1,70 @@
+{
+color = (250,227,227,1);
+glyphname = uniFE25;
+layers = (
+{
+anchors = (
+{
+name = _marktop;
+pos = (-1124,1608);
+}
+);
+layerId = "B1F27B51-9973-4381-9301-4FE46FE1CA59";
+shapes = (
+{
+closed = 1;
+nodes = (
+(-1512,1944,l),
+(-1512,1880,l),
+(-736,1880,l),
+(-736,1944,l)
+);
+}
+);
+width = 0;
+},
+{
+anchors = (
+{
+name = _marktop;
+pos = (-1220,1608);
+}
+);
+layerId = "C698F293-3EC0-4A5A-A3A0-0FDB1F5CF265";
+shapes = (
+{
+closed = 1;
+nodes = (
+(-1600,2004,l),
+(-1600,1796,l),
+(-840,1796,l),
+(-840,2004,l)
+);
+}
+);
+width = 0;
+},
+{
+anchors = (
+{
+name = _marktop;
+pos = (-1348,1608);
+}
+);
+layerId = "5C20EF92-B63D-42A8-8878-93C2863E0093";
+shapes = (
+{
+closed = 1;
+nodes = (
+(-1716,2008,l),
+(-1716,1756,l),
+(-984,1756,l),
+(-984,2008,l)
+);
+}
+);
+width = 0;
+}
+);
+unicode = 65061;
+}

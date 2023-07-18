@@ -1,0 +1,46 @@
+{
+export = 0;
+glyphname = nj.gov;
+kernLeft = m;
+layers = (
+{
+layerId = "B1F27B51-9973-4381-9301-4FE46FE1CA59";
+shapes = (
+{
+ref = n.gov;
+},
+{
+pos = (1644,0);
+ref = j;
+}
+);
+width = 2204;
+},
+{
+layerId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
+shapes = (
+{
+ref = n.gov;
+},
+{
+pos = (1728,0);
+ref = j;
+}
+);
+width = 2360;
+},
+{
+layerId = "5C20EF92-B63D-42A8-8878-93C2863E0093";
+shapes = (
+{
+ref = n.gov;
+},
+{
+pos = (1930,0);
+ref = j;
+}
+);
+width = 2762;
+}
+);
+}

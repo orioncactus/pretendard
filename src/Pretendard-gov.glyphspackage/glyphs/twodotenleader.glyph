@@ -1,0 +1,83 @@
+{
+glyphname = twodotenleader;
+kernLeft = comma;
+kernRight = comma;
+layers = (
+{
+guides = (
+{
+orientation = center;
+pos = (-232,248);
+showMeasurement = 1;
+}
+);
+layerId = "5C20EF92-B63D-42A8-8878-93C2863E0093";
+shapes = (
+{
+alignment = 1;
+ref = period;
+},
+{
+alignment = 1;
+pos = (880,0);
+ref = period;
+}
+);
+width = 1760;
+},
+{
+layerId = "B1F27B51-9973-4381-9301-4FE46FE1CA59";
+shapes = (
+{
+alignment = 1;
+ref = period;
+},
+{
+alignment = 1;
+pos = (648,0);
+ref = period;
+}
+);
+width = 1296;
+},
+{
+associatedMasterId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
+layerId = "E2F2FB8A-3679-42E0-BBFA-042D230C1EF9";
+shapes = (
+{
+alignment = -1;
+ref = period;
+},
+{
+alignment = -1;
+pos = (766,0);
+ref = period;
+}
+);
+width = 1480.39245;
+},
+{
+layerId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
+shapes = (
+{
+alignment = 1;
+ref = period;
+},
+{
+alignment = 1;
+pos = (736,0);
+ref = period;
+}
+);
+width = 1472;
+}
+);
+metricLeft = period;
+metricRight = period;
+unicode = 8229;
+userData = {
+"interface.width-adjustments" = (
+-16
+);
+};
+}

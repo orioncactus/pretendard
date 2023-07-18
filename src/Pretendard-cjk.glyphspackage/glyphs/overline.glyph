@@ -1,0 +1,56 @@
+{
+glyphname = overline;
+layers = (
+{
+layerId = "5C20EF92-B63D-42A8-8878-93C2863E0093";
+shapes = (
+{
+pos = (-12,2424);
+ref = underscore;
+}
+);
+width = 1304;
+},
+{
+layerId = "B1F27B51-9973-4381-9301-4FE46FE1CA59";
+shapes = (
+{
+alignment = -1;
+pos = (188,2380);
+ref = underscore;
+}
+);
+width = 1586;
+},
+{
+associatedMasterId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
+layerId = "D0B03634-DFA1-4991-84A3-623B4C0C6038";
+shapes = (
+{
+alignment = -1;
+pos = (108,2396);
+ref = underscore;
+}
+);
+width = 1451.09434;
+},
+{
+layerId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
+shapes = (
+{
+alignment = -1;
+pos = (112,2396);
+ref = underscore;
+}
+);
+width = 1478;
+}
+);
+unicode = 8254;
+userData = {
+interface.gridadjust.original = "{'width': 1326, 'leftMargin': 21, 'rightMargin': 25}";
+"interface.width-adjustments" = (
+-16
+);
+};
+}

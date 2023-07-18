@@ -1,0 +1,61 @@
+{
+glyphname = ukcyrillic;
+kernLeft = c;
+kernRight = f;
+layers = (
+{
+layerId = "5C20EF92-B63D-42A8-8878-93C2863E0093";
+shapes = (
+{
+ref = o;
+},
+{
+pos = (1712,0);
+ref = ucyrillic;
+}
+);
+width = 3416;
+},
+{
+layerId = "B1F27B51-9973-4381-9301-4FE46FE1CA59";
+shapes = (
+{
+ref = o;
+},
+{
+pos = (1512,0);
+ref = ucyrillic;
+}
+);
+width = 2920;
+},
+{
+associatedMasterId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
+layerId = "D9E77A95-2B50-4F5E-9191-A0430706FBF3";
+shapes = (
+{
+ref = o;
+},
+{
+pos = (1586,0);
+ref = ucyrillic;
+}
+);
+width = 3118;
+},
+{
+layerId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
+shapes = (
+{
+ref = o;
+},
+{
+pos = (1586,0);
+ref = ucyrillic;
+}
+);
+width = 3118;
+}
+);
+unicode = 1145;
+}

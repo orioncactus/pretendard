@@ -1,0 +1,66 @@
+{
+glyphname = mpaSquare;
+layers = (
+{
+layerId = "B1F27B51-9973-4381-9301-4FE46FE1CA59";
+shapes = (
+{
+alignment = 1;
+ref = M;
+},
+{
+alignment = 1;
+pos = (2368,0);
+ref = P;
+},
+{
+alignment = 1;
+pos = (4012,0);
+ref = a;
+}
+);
+width = 5472;
+},
+{
+layerId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
+shapes = (
+{
+alignment = 1;
+ref = M;
+},
+{
+alignment = 1;
+pos = (2468,0);
+ref = P;
+},
+{
+alignment = 1;
+pos = (4216,0);
+ref = a;
+}
+);
+width = 5766;
+},
+{
+layerId = "5C20EF92-B63D-42A8-8878-93C2863E0093";
+shapes = (
+{
+alignment = 1;
+ref = M;
+},
+{
+alignment = 1;
+pos = (2624,0);
+ref = P;
+},
+{
+alignment = 1;
+pos = (4404,0);
+ref = a;
+}
+);
+width = 6068;
+}
+);
+unicode = 13227;
+}

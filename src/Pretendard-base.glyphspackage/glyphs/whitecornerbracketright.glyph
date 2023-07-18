@@ -1,0 +1,181 @@
+{
+glyphname = whitecornerbracketright;
+kernLeft = parenright;
+kernRight = parenright;
+layers = (
+{
+background = {
+shapes = (
+{
+pos = (-6,0);
+ref = bracketright.case;
+}
+);
+};
+layerId = "B1F27B51-9973-4381-9301-4FE46FE1CA59";
+shapes = (
+{
+closed = 1;
+nodes = (
+(722,948,l),
+(722,-268,l),
+(434,-268,l),
+(434,-332,l),
+(786,-332,l),
+(786,948,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(440,948,l),
+(440,-268,l),
+(152,-268,l),
+(152,-332,l),
+(504,-332,l),
+(504,948,l)
+);
+}
+);
+width = 1106;
+},
+{
+background = {
+shapes = (
+{
+pos = (102,0);
+ref = bracketright.case;
+}
+);
+};
+layerId = "C698F293-3EC0-4A5A-A3A0-0FDB1F5CF265";
+shapes = (
+{
+closed = 1;
+nodes = (
+(730,948,l),
+(730,-136,l),
+(422,-136,l),
+(422,-332,l),
+(918,-332,l),
+(918,948,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(382,948,l),
+(382,-136,l),
+(74,-136,l),
+(74,-332,l),
+(570,-332,l),
+(570,948,l)
+);
+}
+);
+width = 1228;
+},
+{
+associatedMasterId = "B1F27B51-9973-4381-9301-4FE46FE1CA59";
+background = {
+shapes = (
+{
+pos = (-6,0);
+ref = bracketright.case;
+}
+);
+};
+layerId = "0EAB3244-41D8-4788-9DED-72EBFFE8E6B3";
+name = "May 29, 21 21:22";
+shapes = (
+{
+angle = 180;
+pos = (1106,2048);
+ref = whitecornerbracketleft;
+}
+);
+width = 1106;
+},
+{
+associatedMasterId = "C698F293-3EC0-4A5A-A3A0-0FDB1F5CF265";
+background = {
+shapes = (
+{
+pos = (102,0);
+ref = bracketright.case;
+}
+);
+};
+layerId = "822A4ED3-3FD2-49E1-9ACA-39D55DB4CF5C";
+name = "May 29, 21 21:23";
+shapes = (
+{
+angle = 180;
+pos = (1208,2048);
+ref = whitecornerbracketleft;
+}
+);
+width = 1208;
+},
+{
+background = {
+shapes = (
+{
+pos = (252,0);
+ref = bracketright.case;
+}
+);
+};
+layerId = "5C20EF92-B63D-42A8-8878-93C2863E0093";
+shapes = (
+{
+closed = 1;
+nodes = (
+(768,924,l),
+(768,156,l),
+(508,156,l),
+(508,-332,l),
+(1130,-332,l),
+(1130,924,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(302,924,l),
+(302,156,l),
+(44,156,l),
+(44,-332,l),
+(662,-332,l),
+(662,924,l)
+);
+}
+);
+width = 1406;
+},
+{
+associatedMasterId = "5C20EF92-B63D-42A8-8878-93C2863E0093";
+background = {
+shapes = (
+{
+pos = (252,0);
+ref = bracketright.case;
+}
+);
+};
+layerId = "CA4A382E-7257-4A2D-9B0C-77DC2D6BA4A0";
+name = "May 29, 21 21:24";
+shapes = (
+{
+angle = 180;
+pos = (1358,2048);
+ref = whitecornerbracketleft;
+}
+);
+width = 1358;
+}
+);
+metricLeft = cornerbracketright;
+metricRight = cornerbracketright;
+unicode = 12303;
+}

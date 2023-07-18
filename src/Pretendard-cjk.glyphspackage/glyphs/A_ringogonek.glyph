@@ -1,0 +1,61 @@
+{
+glyphname = Aringogonek;
+kernLeft = A;
+kernRight = A;
+layers = (
+{
+layerId = "B1F27B51-9973-4381-9301-4FE46FE1CA59";
+shapes = (
+{
+ref = Aring;
+},
+{
+pos = (1270,0);
+ref = ogonek;
+}
+);
+width = 1672;
+},
+{
+layerId = "5C20EF92-B63D-42A8-8878-93C2863E0093";
+shapes = (
+{
+ref = Aring;
+},
+{
+pos = (1468,0);
+ref = ogonek;
+}
+);
+width = 2240;
+},
+{
+associatedMasterId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
+layerId = "426B8354-7C9A-4EBF-A657-E38E9299C013";
+shapes = (
+{
+ref = Aring;
+},
+{
+pos = (1238,0);
+ref = ogonek;
+}
+);
+width = 1868;
+},
+{
+layerId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
+shapes = (
+{
+ref = Aring;
+},
+{
+pos = (1238,0);
+ref = ogonek;
+}
+);
+width = 1868;
+}
+);
+unicode = 60930;
+}

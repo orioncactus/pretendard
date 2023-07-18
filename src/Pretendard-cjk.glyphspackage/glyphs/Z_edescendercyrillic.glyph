@@ -1,0 +1,60 @@
+{
+glyphname = Zedescendercyrillic;
+kernRight = eight;
+layers = (
+{
+layerId = "5C20EF92-B63D-42A8-8878-93C2863E0093";
+shapes = (
+{
+ref = afii10025;
+},
+{
+pos = (328,0);
+ref = cedilla;
+}
+);
+width = 1900;
+},
+{
+layerId = "B1F27B51-9973-4381-9301-4FE46FE1CA59";
+shapes = (
+{
+ref = afii10025;
+},
+{
+pos = (618,0);
+ref = cedilla;
+}
+);
+width = 1702;
+},
+{
+associatedMasterId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
+layerId = "A127C178-0C40-40BE-BAE3-D9C5F27D6BAA";
+shapes = (
+{
+ref = afii10025;
+},
+{
+pos = (550,0);
+ref = cedilla;
+}
+);
+width = 1786;
+},
+{
+layerId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
+shapes = (
+{
+ref = afii10025;
+},
+{
+pos = (550,0);
+ref = cedilla;
+}
+);
+width = 1786;
+}
+);
+unicode = 1176;
+}

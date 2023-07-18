@@ -1,0 +1,89 @@
+{
+color = (204,240,242,1);
+glyphname = grave;
+layers = (
+{
+anchors = (
+{
+name = _top;
+pos = (800,1792);
+},
+{
+name = top;
+pos = (796,2304);
+}
+);
+layerId = "B1F27B51-9973-4381-9301-4FE46FE1CA59";
+shapes = (
+{
+closed = 1;
+nodes = (
+(834,1760,l),
+(554,2192,l),
+(474,2192,l),
+(770,1760,l)
+);
+}
+);
+width = 1336;
+},
+{
+anchors = (
+{
+name = _top;
+pos = (830,1792);
+},
+{
+name = top;
+pos = (798,2304);
+}
+);
+layerId = "C698F293-3EC0-4A5A-A3A0-0FDB1F5CF265";
+shapes = (
+{
+closed = 1;
+nodes = (
+(938,1744,l),
+(694,2208,l),
+(418,2208,l),
+(730,1744,l)
+);
+}
+);
+width = 1356;
+},
+{
+anchors = (
+{
+name = _top;
+pos = (848,1792);
+},
+{
+name = top;
+pos = (848,2304);
+}
+);
+layerId = "5C20EF92-B63D-42A8-8878-93C2863E0093";
+shapes = (
+{
+closed = 1;
+nodes = (
+(1032,1728,l),
+(840,2176,l),
+(368,2176,l),
+(668,1728,l)
+);
+}
+);
+width = 1400;
+}
+);
+metricWidth = acute;
+note = "mirrored version of acute";
+unicode = 96;
+userData = {
+"interface.width-adjustments" = (
+-16
+);
+};
+}

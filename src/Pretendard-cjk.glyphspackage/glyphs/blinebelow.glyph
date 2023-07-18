@@ -1,0 +1,61 @@
+{
+glyphname = blinebelow;
+kernLeft = B;
+kernRight = b;
+layers = (
+{
+layerId = "5C20EF92-B63D-42A8-8878-93C2863E0093";
+shapes = (
+{
+ref = b;
+},
+{
+pos = (1732,0);
+ref = macronsubnosp;
+}
+);
+width = 1816;
+},
+{
+layerId = "B1F27B51-9973-4381-9301-4FE46FE1CA59";
+shapes = (
+{
+ref = b;
+},
+{
+pos = (1744,0);
+ref = macronsubnosp;
+}
+);
+width = 1620;
+},
+{
+associatedMasterId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
+layerId = "D94847FB-07D2-4FFA-90D5-A193435B447D";
+shapes = (
+{
+ref = b;
+},
+{
+pos = (1788,0);
+ref = macronsubnosp;
+}
+);
+width = 1710;
+},
+{
+layerId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
+shapes = (
+{
+ref = b;
+},
+{
+pos = (1788,0);
+ref = macronsubnosp;
+}
+);
+width = 1710;
+}
+);
+unicode = 7687;
+}

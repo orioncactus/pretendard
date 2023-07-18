@@ -1,0 +1,84 @@
+{
+glyphname = macronacutecomb.lc;
+layers = (
+{
+anchors = (
+{
+name = _top;
+pos = (-552,1792);
+}
+);
+layerId = "B1F27B51-9973-4381-9301-4FE46FE1CA59";
+shapes = (
+{
+closed = 1;
+nodes = (
+(-556,2128,l),
+(-192,2560,l),
+(-272,2560,l),
+(-624,2128,l)
+);
+},
+{
+alignment = -1;
+pos = (-932,-48);
+ref = macron;
+}
+);
+width = 0;
+},
+{
+anchors = (
+{
+name = _top;
+pos = (-552,1792);
+}
+);
+layerId = "C698F293-3EC0-4A5A-A3A0-0FDB1F5CF265";
+shapes = (
+{
+closed = 1;
+nodes = (
+(-472,2208,l),
+(-164,2624,l),
+(-444,2624,l),
+(-692,2208,l)
+);
+},
+{
+alignment = -1;
+pos = (-1152,-24);
+ref = macron;
+}
+);
+width = 0;
+},
+{
+anchors = (
+{
+name = _top;
+pos = (-640,1792);
+}
+);
+layerId = "5C20EF92-B63D-42A8-8878-93C2863E0093";
+shapes = (
+{
+closed = 1;
+nodes = (
+(-468,2240,l),
+(-108,2624,l),
+(-540,2624,l),
+(-852,2240,l)
+);
+},
+{
+alignment = -1;
+pos = (-1520,-40);
+ref = macron;
+}
+);
+width = 0;
+}
+);
+unicode = 57592;
+}

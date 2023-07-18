@@ -1,0 +1,61 @@
+{
+glyphname = wring;
+kernLeft = w;
+kernRight = w;
+layers = (
+{
+layerId = "5C20EF92-B63D-42A8-8878-93C2863E0093";
+shapes = (
+{
+ref = w;
+},
+{
+pos = (624,0);
+ref = ring;
+}
+);
+width = 2464;
+},
+{
+layerId = "B1F27B51-9973-4381-9301-4FE46FE1CA59";
+shapes = (
+{
+ref = w;
+},
+{
+pos = (776,0);
+ref = ring;
+}
+);
+width = 2160;
+},
+{
+associatedMasterId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
+layerId = "256BF558-A9FE-42B0-AD98-1FCC0DABA74A";
+shapes = (
+{
+ref = w;
+},
+{
+pos = (710,0);
+ref = ring;
+}
+);
+width = 2252;
+},
+{
+layerId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
+shapes = (
+{
+ref = w;
+},
+{
+pos = (710,0);
+ref = ring;
+}
+);
+width = 2252;
+}
+);
+unicode = 7832;
+}

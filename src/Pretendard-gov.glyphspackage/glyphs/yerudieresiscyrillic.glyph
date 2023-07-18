@@ -1,0 +1,61 @@
+{
+glyphname = yerudieresiscyrillic;
+kernLeft = m;
+kernRight = a;
+layers = (
+{
+layerId = "5C20EF92-B63D-42A8-8878-93C2863E0093";
+shapes = (
+{
+ref = yericyrillic;
+},
+{
+pos = (516,0);
+ref = dieresis;
+}
+);
+width = 2432;
+},
+{
+layerId = "B1F27B51-9973-4381-9301-4FE46FE1CA59";
+shapes = (
+{
+ref = yericyrillic;
+},
+{
+pos = (36,0);
+ref = dieresis;
+}
+);
+width = 1864;
+},
+{
+associatedMasterId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
+layerId = "5CCB6F1C-A948-4FA8-8D97-1DF127106E73";
+shapes = (
+{
+ref = yericyrillic;
+},
+{
+pos = (226,0);
+ref = dieresis;
+}
+);
+width = 2080;
+},
+{
+layerId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
+shapes = (
+{
+ref = yericyrillic;
+},
+{
+pos = (226,0);
+ref = dieresis;
+}
+);
+width = 2080;
+}
+);
+unicode = 1273;
+}

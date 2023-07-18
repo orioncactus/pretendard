@@ -1,0 +1,54 @@
+{
+glyphname = Udieresisbelow;
+kernLeft = U;
+kernRight = J;
+layers = (
+{
+layerId = "B1F27B51-9973-4381-9301-4FE46FE1CA59";
+shapes = (
+{
+ref = U;
+},
+{
+pos = (1852,-32);
+ref = dotdblsubnosp;
+}
+);
+width = 2048;
+},
+{
+layerId = "C698F293-3EC0-4A5A-A3A0-0FDB1F5CF265";
+shapes = (
+{
+ref = U;
+},
+{
+pos = (1994,-28);
+ref = dotdblsubnosp;
+}
+);
+width = 2044;
+},
+{
+guides = (
+{
+orientation = center;
+angle = 90;
+pos = (1040,-140);
+}
+);
+layerId = "5C20EF92-B63D-42A8-8878-93C2863E0093";
+shapes = (
+{
+ref = U;
+},
+{
+pos = (2200,12);
+ref = dotdblsubnosp;
+}
+);
+width = 2032;
+}
+);
+unicode = 7794;
+}

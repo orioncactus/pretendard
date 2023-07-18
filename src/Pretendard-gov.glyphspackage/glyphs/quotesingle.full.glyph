@@ -1,0 +1,37 @@
+{
+glyphname = quotesingle.full;
+layers = (
+{
+layerId = "B1F27B51-9973-4381-9301-4FE46FE1CA59";
+shapes = (
+{
+pos = (996,0);
+ref = quotesingle;
+}
+);
+width = 2504;
+},
+{
+layerId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
+shapes = (
+{
+pos = (960,0);
+ref = quotesingle;
+}
+);
+width = 2504;
+},
+{
+layerId = "5C20EF92-B63D-42A8-8878-93C2863E0093";
+shapes = (
+{
+pos = (970,0);
+ref = quotesingle;
+}
+);
+width = 2504;
+}
+);
+metricWidth = hanBase;
+unicode = 65287;
+}

@@ -1,0 +1,61 @@
+{
+glyphname = dcedilla;
+kernLeft = c;
+kernRight = H;
+layers = (
+{
+layerId = "5C20EF92-B63D-42A8-8878-93C2863E0093";
+shapes = (
+{
+ref = d;
+},
+{
+pos = (524,0);
+ref = commaaccent;
+}
+);
+width = 1816;
+},
+{
+layerId = "B1F27B51-9973-4381-9301-4FE46FE1CA59";
+shapes = (
+{
+ref = d;
+},
+{
+pos = (436,0);
+ref = commaaccent;
+}
+);
+width = 1620;
+},
+{
+associatedMasterId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
+layerId = "A9EF7EE5-0C32-4990-8079-6F48C03B3E10";
+shapes = (
+{
+ref = d;
+},
+{
+pos = (462,0);
+ref = commaaccent;
+}
+);
+width = 1710;
+},
+{
+layerId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
+shapes = (
+{
+ref = d;
+},
+{
+pos = (462,0);
+ref = commaaccent;
+}
+);
+width = 1710;
+}
+);
+unicode = 7697;
+}

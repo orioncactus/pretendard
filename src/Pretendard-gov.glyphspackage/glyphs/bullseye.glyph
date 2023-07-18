@@ -1,0 +1,70 @@
+{
+glyphname = bullseye;
+layers = (
+{
+layerId = "5C20EF92-B63D-42A8-8878-93C2863E0093";
+shapes = (
+{
+ref = O;
+},
+{
+pos = (680,778);
+ref = period;
+}
+);
+width = 2240;
+},
+{
+layerId = "B1F27B51-9973-4381-9301-4FE46FE1CA59";
+shapes = (
+{
+ref = O;
+},
+{
+alignment = -1;
+pos = (696,964);
+ref = period;
+}
+);
+width = 2040;
+},
+{
+associatedMasterId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
+layerId = "D61B6396-227A-4A0D-9F75-01BC9278A6DA";
+shapes = (
+{
+alignment = -1;
+ref = O;
+},
+{
+alignment = -1;
+pos = (684,858);
+ref = period;
+}
+);
+width = 2084;
+},
+{
+layerId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
+shapes = (
+{
+ref = O;
+},
+{
+pos = (686,858);
+ref = period;
+}
+);
+width = 2104;
+}
+);
+metricWidth = O;
+unicode = 664;
+userData = {
+com.typemytype.robofont.guideline.magnetic.rNiqLh7mHA = 5;
+interface.gridadjust.original = "{'width': 1944, 'leftMargin': 256, 'rightMargin': 152}";
+"interface.width-adjustments" = (
+-16
+);
+};
+}

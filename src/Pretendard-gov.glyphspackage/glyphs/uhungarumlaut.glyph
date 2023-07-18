@@ -1,0 +1,61 @@
+{
+glyphname = uhungarumlaut;
+kernLeft = u;
+kernRight = u;
+layers = (
+{
+layerId = "5C20EF92-B63D-42A8-8878-93C2863E0093";
+shapes = (
+{
+ref = u;
+},
+{
+pos = (380,16);
+ref = hungarumlaut;
+}
+);
+width = 1828;
+},
+{
+layerId = "B1F27B51-9973-4381-9301-4FE46FE1CA59";
+shapes = (
+{
+ref = u;
+},
+{
+pos = (348,16);
+ref = hungarumlaut;
+}
+);
+width = 1536;
+},
+{
+associatedMasterId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
+layerId = "136A7A4B-A22E-40C5-AC61-A0885D5D80E5";
+shapes = (
+{
+ref = u;
+},
+{
+pos = (336,16);
+ref = hungarumlaut;
+}
+);
+width = 1600;
+},
+{
+layerId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
+shapes = (
+{
+ref = u;
+},
+{
+pos = (336,16);
+ref = hungarumlaut;
+}
+);
+width = 1600;
+}
+);
+unicode = 369;
+}

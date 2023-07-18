@@ -1,0 +1,61 @@
+{
+glyphname = Kdotbelow;
+kernLeft = B;
+kernRight = K;
+layers = (
+{
+layerId = "5C20EF92-B63D-42A8-8878-93C2863E0093";
+shapes = (
+{
+ref = K;
+},
+{
+pos = (1728,4);
+ref = dotbelow;
+}
+);
+width = 2012;
+},
+{
+layerId = "B1F27B51-9973-4381-9301-4FE46FE1CA59";
+shapes = (
+{
+ref = K;
+},
+{
+pos = (1640,0);
+ref = dotbelow;
+}
+);
+width = 1672;
+},
+{
+associatedMasterId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
+layerId = "2EF9EA6C-12CB-435D-B9B1-8D4BCD86B7F0";
+shapes = (
+{
+ref = K;
+},
+{
+pos = (1764,0);
+ref = dotbelow;
+}
+);
+width = 1800;
+},
+{
+layerId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
+shapes = (
+{
+ref = K;
+},
+{
+pos = (1764,0);
+ref = dotbelow;
+}
+);
+width = 1800;
+}
+);
+unicode = 7730;
+}

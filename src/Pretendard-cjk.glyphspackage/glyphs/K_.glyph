@@ -1,0 +1,166 @@
+{
+color = (219,235,247,1);
+glyphname = K;
+kernLeft = B;
+kernRight = K;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+pos = (992,4);
+},
+{
+name = top;
+pos = (996,2304);
+}
+);
+guides = (
+{
+orientation = center;
+angle = 90;
+pos = (900,1820);
+}
+);
+layerId = "5C20EF92-B63D-42A8-8878-93C2863E0093";
+shapes = (
+{
+closed = 1;
+nodes = (
+(688,0,l),
+(688,528,l),
+(872,768,l),
+(1332,0,l),
+(1996,0,l),
+(1288,1136,l),
+(1980,2048,l),
+(1332,2048,l),
+(716,1220,l),
+(688,1220,l),
+(688,2048,l),
+(132,2048,l),
+(132,0,l)
+);
+}
+);
+width = 2012;
+},
+{
+anchors = (
+{
+name = bottom;
+pos = (840,0);
+},
+{
+name = top;
+pos = (844,2304);
+}
+);
+guides = (
+{
+angle = 227.6708;
+pos = (1504,2632);
+}
+);
+layerId = "B1F27B51-9973-4381-9301-4FE46FE1CA59";
+shapes = (
+{
+closed = 1;
+nodes = (
+(352,0,l),
+(352,668,l),
+(660,1008,l),
+(1512,0,l),
+(1596,0,l),
+(704,1056,l),
+(1608,2048,l),
+(1520,2048,l),
+(360,772,l),
+(352,772,l),
+(352,2048,l),
+(288,2048,l),
+(288,0,l)
+);
+}
+);
+width = 1672;
+},
+{
+anchors = (
+{
+name = bottom;
+pos = (890,0);
+},
+{
+name = top;
+pos = (898,2304);
+}
+);
+associatedMasterId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
+layerId = "A7519DCE-E3CA-4549-A63B-15FB662AA1DA";
+shapes = (
+{
+closed = 1;
+nodes = (
+(468,0,l),
+(468,660,l),
+(724,948,l),
+(1428,0,l),
+(1738,0,l),
+(882,1124,l),
+(1738,2048,l),
+(1406,2048,l),
+(494,1036,l),
+(468,1036,l),
+(468,2048,l),
+(214,2048,l),
+(214,0,l)
+);
+}
+);
+width = 1776.70943;
+},
+{
+anchors = (
+{
+name = bottom;
+pos = (902,0);
+},
+{
+name = top;
+pos = (910,2304);
+}
+);
+layerId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
+shapes = (
+{
+closed = 1;
+nodes = (
+(480,0,l),
+(480,660,l),
+(736,948,l),
+(1440,0,l),
+(1750,0,l),
+(894,1124,l),
+(1750,2048,l),
+(1418,2048,l),
+(506,1036,l),
+(480,1036,l),
+(480,2048,l),
+(226,2048,l),
+(226,0,l)
+);
+}
+);
+width = 1800;
+}
+);
+metricLeft = H;
+unicode = 75;
+userData = {
+com.typemytype.robofont.guideline.magnetic.bB6GeEoQ3O = 5;
+"interface.width-adjustments" = (
+-16
+);
+};
+}

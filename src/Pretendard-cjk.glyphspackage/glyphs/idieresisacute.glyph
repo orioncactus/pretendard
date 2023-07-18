@@ -1,0 +1,65 @@
+{
+glyphname = idieresisacute;
+kernLeft = idieresis;
+kernRight = idieresis;
+layers = (
+{
+layerId = "5C20EF92-B63D-42A8-8878-93C2863E0093";
+shapes = (
+{
+ref = idotless;
+},
+{
+pos = (1328,-8);
+ref = dieresisacutecomb.lc;
+}
+);
+width = 832;
+},
+{
+layerId = "B1F27B51-9973-4381-9301-4FE46FE1CA59";
+shapes = (
+{
+ref = idotless;
+},
+{
+pos = (1016,88);
+ref = dieresisacutecomb.lc;
+}
+);
+width = 560;
+},
+{
+associatedMasterId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
+layerId = "F5414400-2D88-4DAD-BFD5-ECBD1B08AA3F";
+shapes = (
+{
+ref = idotless;
+},
+{
+pos = (1130,50);
+ref = dieresisacutecomb.lc;
+}
+);
+width = 632;
+},
+{
+layerId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
+shapes = (
+{
+ref = idotless;
+},
+{
+pos = (1130,50);
+ref = dieresisacutecomb.lc;
+}
+);
+width = 632;
+}
+);
+unicode = 7727;
+userData = {
+com.typemytype.robofont.guideline.magnetic.nzdiBt0vpg = 5;
+interface.gridadjust.original = "{'width': 935.0, 'leftMargin': 14, 'rightMargin': 14.0}";
+};
+}

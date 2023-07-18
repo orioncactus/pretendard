@@ -1,0 +1,80 @@
+{
+glyphname = Adieresis;
+kernLeft = A;
+kernRight = A;
+layers = (
+{
+guides = (
+{
+angle = 90;
+pos = (1084,1232);
+}
+);
+layerId = "5C20EF92-B63D-42A8-8878-93C2863E0093";
+shapes = (
+{
+alignment = -1;
+ref = A;
+},
+{
+alignment = -1;
+pos = (420,44);
+ref = casedieresis.cn;
+}
+);
+width = 2240;
+},
+{
+layerId = "B1F27B51-9973-4381-9301-4FE46FE1CA59";
+shapes = (
+{
+alignment = -1;
+ref = A;
+},
+{
+alignment = -1;
+pos = (-60,64);
+ref = casedieresis.cn;
+}
+);
+width = 1672;
+},
+{
+associatedMasterId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
+layerId = "B0744EF3-9BE2-46A8-BA7E-8152F774EE8C";
+shapes = (
+{
+alignment = -1;
+ref = A;
+},
+{
+alignment = -1;
+pos = (122,24);
+ref = casedieresis.cn;
+}
+);
+width = 1868;
+},
+{
+layerId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
+shapes = (
+{
+alignment = -1;
+ref = A;
+},
+{
+alignment = -1;
+pos = (122,24);
+ref = casedieresis.cn;
+}
+);
+width = 1868;
+}
+);
+unicode = 196;
+userData = {
+"interface.width-adjustments" = (
+-16
+);
+};
+}

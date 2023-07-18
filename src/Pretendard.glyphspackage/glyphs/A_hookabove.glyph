@@ -1,0 +1,61 @@
+{
+glyphname = Ahookabove;
+kernLeft = A;
+kernRight = A;
+layers = (
+{
+layerId = "5C20EF92-B63D-42A8-8878-93C2863E0093";
+shapes = (
+{
+ref = A;
+},
+{
+pos = (2136,504);
+ref = hook;
+}
+);
+width = 2240;
+},
+{
+layerId = "B1F27B51-9973-4381-9301-4FE46FE1CA59";
+shapes = (
+{
+ref = A;
+},
+{
+pos = (1552,572);
+ref = hook;
+}
+);
+width = 1672;
+},
+{
+associatedMasterId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
+layerId = "8D28FBC9-7277-42D3-A28E-3ECA35DEE1CF";
+shapes = (
+{
+ref = A;
+},
+{
+pos = (1778,546);
+ref = hook;
+}
+);
+width = 1868;
+},
+{
+layerId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
+shapes = (
+{
+ref = A;
+},
+{
+pos = (1778,546);
+ref = hook;
+}
+);
+width = 1868;
+}
+);
+unicode = 7842;
+}

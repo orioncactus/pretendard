@@ -1,0 +1,69 @@
+{
+glyphname = Obarreddieresiscyrillic;
+kernLeft = C;
+kernRight = D;
+layers = (
+{
+layerId = "5C20EF92-B63D-42A8-8878-93C2863E0093";
+shapes = (
+{
+alignment = -1;
+ref = afii10147;
+},
+{
+alignment = -1;
+pos = (420,44);
+ref = casedieresis.cn;
+}
+);
+width = 2240;
+},
+{
+layerId = "B1F27B51-9973-4381-9301-4FE46FE1CA59";
+shapes = (
+{
+alignment = -1;
+ref = afii10147;
+},
+{
+alignment = -1;
+pos = (124,64);
+ref = casedieresis.cn;
+}
+);
+width = 2040;
+},
+{
+associatedMasterId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
+layerId = "9C9279BC-36A6-493B-AF97-5AD7E9567A76";
+shapes = (
+{
+alignment = -1;
+ref = afii10147;
+},
+{
+alignment = -1;
+pos = (240,24);
+ref = casedieresis.cn;
+}
+);
+width = 2104;
+},
+{
+layerId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
+shapes = (
+{
+alignment = -1;
+ref = afii10147;
+},
+{
+alignment = -1;
+pos = (240,24);
+ref = casedieresis.cn;
+}
+);
+width = 2104;
+}
+);
+unicode = 1258;
+}

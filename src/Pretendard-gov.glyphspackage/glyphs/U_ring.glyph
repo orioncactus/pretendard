@@ -1,0 +1,61 @@
+{
+glyphname = Uring;
+kernLeft = U;
+kernRight = J;
+layers = (
+{
+layerId = "5C20EF92-B63D-42A8-8878-93C2863E0093";
+shapes = (
+{
+ref = U;
+},
+{
+pos = (408,0);
+ref = ring.uc;
+}
+);
+width = 2032;
+},
+{
+layerId = "B1F27B51-9973-4381-9301-4FE46FE1CA59";
+shapes = (
+{
+ref = U;
+},
+{
+pos = (720,0);
+ref = ring.uc;
+}
+);
+width = 2048;
+},
+{
+associatedMasterId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
+layerId = "C897E931-46E4-41F3-B644-6B8FA2A6DD21";
+shapes = (
+{
+ref = U;
+},
+{
+pos = (606,0);
+ref = ring.uc;
+}
+);
+width = 2048;
+},
+{
+layerId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
+shapes = (
+{
+ref = U;
+},
+{
+pos = (606,0);
+ref = ring.uc;
+}
+);
+width = 2048;
+}
+);
+unicode = 366;
+}

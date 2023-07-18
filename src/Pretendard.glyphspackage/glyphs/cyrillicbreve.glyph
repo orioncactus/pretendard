@@ -1,0 +1,49 @@
+{
+glyphname = cyrillicbreve;
+layers = (
+{
+layerId = "5C20EF92-B63D-42A8-8878-93C2863E0093";
+shapes = (
+{
+alignment = -1;
+pos = (16,0);
+ref = breve;
+}
+);
+width = 1420;
+},
+{
+layerId = "B1F27B51-9973-4381-9301-4FE46FE1CA59";
+shapes = (
+{
+alignment = -1;
+pos = (-12,0);
+ref = breve;
+}
+);
+width = 1106;
+},
+{
+associatedMasterId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
+layerId = "8EA3702F-874C-4073-8627-25E0DEB6CD06";
+shapes = (
+{
+alignment = -1;
+ref = breve;
+}
+);
+width = 1204.21887;
+},
+{
+layerId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
+shapes = (
+{
+alignment = -1;
+ref = breve;
+}
+);
+width = 1228;
+}
+);
+unicode = 57574;
+}

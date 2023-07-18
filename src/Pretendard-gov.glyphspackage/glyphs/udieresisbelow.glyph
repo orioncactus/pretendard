@@ -1,0 +1,68 @@
+{
+glyphname = udieresisbelow;
+kernLeft = u;
+kernRight = u;
+layers = (
+{
+guides = (
+{
+orientation = center;
+angle = 90;
+pos = (928,-412);
+}
+);
+layerId = "5C20EF92-B63D-42A8-8878-93C2863E0093";
+shapes = (
+{
+ref = u;
+},
+{
+pos = (2204,0);
+ref = dotdblsubnosp;
+}
+);
+width = 1828;
+},
+{
+layerId = "B1F27B51-9973-4381-9301-4FE46FE1CA59";
+shapes = (
+{
+ref = u;
+},
+{
+pos = (1596,0);
+ref = dotdblsubnosp;
+}
+);
+width = 1536;
+},
+{
+associatedMasterId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
+layerId = "3D9A740E-36DD-4A29-BE0C-889E89C61142";
+shapes = (
+{
+ref = u;
+},
+{
+pos = (1776,0);
+ref = dotdblsubnosp;
+}
+);
+width = 1600;
+},
+{
+layerId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
+shapes = (
+{
+ref = u;
+},
+{
+pos = (1776,0);
+ref = dotdblsubnosp;
+}
+);
+width = 1600;
+}
+);
+unicode = 7795;
+}

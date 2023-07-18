@@ -1,0 +1,47 @@
+{
+export = 0;
+glyphname = Ehookabove.gov;
+kernLeft = B;
+kernRight = E;
+layers = (
+{
+layerId = "B1F27B51-9973-4381-9301-4FE46FE1CA59";
+shapes = (
+{
+ref = E.gov;
+},
+{
+pos = (1556,572);
+ref = hook;
+}
+);
+width = 1580;
+},
+{
+layerId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
+shapes = (
+{
+ref = E.gov;
+},
+{
+pos = (1688,546);
+ref = hook;
+}
+);
+width = 1644;
+},
+{
+layerId = "5C20EF92-B63D-42A8-8878-93C2863E0093";
+shapes = (
+{
+ref = E.gov;
+},
+{
+pos = (1892,504);
+ref = hook;
+}
+);
+width = 1752;
+}
+);
+}

@@ -1,0 +1,61 @@
+{
+glyphname = Ehookabove;
+kernLeft = B;
+kernRight = E;
+layers = (
+{
+layerId = "5C20EF92-B63D-42A8-8878-93C2863E0093";
+shapes = (
+{
+ref = E;
+},
+{
+pos = (1892,504);
+ref = hook;
+}
+);
+width = 1752;
+},
+{
+layerId = "B1F27B51-9973-4381-9301-4FE46FE1CA59";
+shapes = (
+{
+ref = E;
+},
+{
+pos = (1556,572);
+ref = hook;
+}
+);
+width = 1580;
+},
+{
+associatedMasterId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
+layerId = "09A74502-99EF-4D90-94FD-E6183F9A3CD5";
+shapes = (
+{
+ref = E;
+},
+{
+pos = (1688,546);
+ref = hook;
+}
+);
+width = 1644;
+},
+{
+layerId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
+shapes = (
+{
+ref = E;
+},
+{
+pos = (1688,546);
+ref = hook;
+}
+);
+width = 1644;
+}
+);
+unicode = 7866;
+}

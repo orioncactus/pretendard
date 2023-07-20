@@ -4813,8 +4813,8 @@ languagesystem latn ROM;
 languagesystem latn MOL;
 languagesystem latn CAT;
 
-languagesystem hang dflt;
-languagesystem hang KOR;
+languagesystem hani dflt;
+languagesystem hani KOR;
 ";
 name = Languagesystems;
 },
@@ -4942,14 +4942,14 @@ code = "feature locl;
 feature frac;
 feature numr;
 feature dnom;
-feature pnum;
+feature ordn;
 feature tnum;
 feature case;
 feature calt;
+feature pnum;
 feature zero;
 feature sups;
 feature subs;
-feature ordn;
 feature salt;
 feature ss01;
 feature ss02;
@@ -5835,17 +5835,16 @@ lookup locl_latn_1 {
 	sub  L' periodcentered' L by Ldot;
 } locl_latn_1;
 
-lookup locl_jan {
-	script hang;
-	language dflt;
-	sub @LOCL_JAN_L by @LOCL_JAN_R;
-} locl_jan;
+# Begin Replacement locl_haniJAN
 
-lookup locl_hang {
-	script hang;
+# End Replacement locl_haniJAN
+
+lookup locl_haniKOR {
+	script hani;
 	language KOR;
 	sub @LOCL_JAN_L by @LOCL_JAN_R;
-} locl_hang;";
+} locl_haniKOR;
+";
 tag = locl;
 },
 {
@@ -6093,24 +6092,11 @@ tag = dnom;
 },
 {
 automatic = 1;
-code = "sub one.1.tf by one.1;
-sub zero.tf by zero;
-sub one.tf by one;
-sub two.tf by two;
-sub three.tf by three;
-sub four.tf by four;
-sub five.tf by five;
-sub six.tf by six;
-sub seven.tf by seven;
-sub eight.tf by eight;
-sub nine.tf by nine;
-sub three.1.tf by three.1;
-sub comma.tf by comma;
-sub period.tf by period;
-sub colon.tf by colon;
-sub semicolon.tf by semicolon;
+code = "sub [zero one two three four five six seven eight nine] [A a]' by ordfeminine;
+sub [zero one two three four five six seven eight nine] [O o]' by ordmasculine;
+sub N o period by numero;
 ";
-tag = pnum;
+tag = ordn;
 },
 {
 automatic = 1;
@@ -6634,6 +6620,27 @@ sub @Whitespace space-han' @Hangul by fillerCompa-ko;
 tag = calt;
 },
 {
+automatic = 1;
+code = "sub one.1.tf by one.1;
+sub zero.tf by zero;
+sub one.tf by one;
+sub two.tf by two;
+sub three.tf by three;
+sub four.tf by four;
+sub five.tf by five;
+sub six.tf by six;
+sub seven.tf by seven;
+sub eight.tf by eight;
+sub nine.tf by nine;
+sub three.1.tf by three.1;
+sub comma.tf by comma;
+sub period.tf by period;
+sub colon.tf by colon;
+sub semicolon.tf by semicolon;
+";
+tag = pnum;
+},
+{
 code = "# Discretionary Ligatures
 # https://docs.microsoft.com/en-us/typography/opentype/spec/features_ae#dlig
 
@@ -6751,14 +6758,6 @@ sub [minus minus.case hyphen hyphen.case] by minus.subs;
 sub [equal equal.case] by equal.subs;
 ";
 tag = subs;
-},
-{
-automatic = 1;
-code = "sub [zero one two three four five six seven eight nine] [A a]' by ordfeminine;
-sub [zero one two three four five six seven eight nine] [O o]' by ordmasculine;
-sub N o period by numero;
-";
-tag = ordn;
 },
 {
 code = "sub one by one.ss01;
@@ -6880,10 +6879,6 @@ value = "Straight-sided six and nine";
 {
 language = KOR;
 value = "Straight-sided six and nine";
-},
-{
-language = JPN;
-value = "Straight-sided six and nine";
 }
 );
 tag = ss01;
@@ -6900,10 +6895,6 @@ value = "Open four";
 {
 language = KOR;
 value = "Open four";
-},
-{
-language = JPN;
-value = "Open four";
 }
 );
 tag = ss02;
@@ -6918,10 +6909,6 @@ value = "Vertically centered colon";
 },
 {
 language = KOR;
-value = "Vertically centered colon";
-},
-{
-language = JPN;
 value = "Vertically centered colon";
 }
 );
@@ -6943,10 +6930,6 @@ value = "Korean localization";
 },
 {
 language = KOR;
-value = "Korean localization";
-},
-{
-language = JPN;
 value = "Korean localization";
 }
 );
@@ -7021,10 +7004,6 @@ value = "High legibility";
 },
 {
 language = KOR;
-value = "High legibility";
-},
-{
-language = JPN;
 value = "High legibility";
 }
 );
@@ -7108,10 +7087,6 @@ value = "One storey a";
 {
 language = KOR;
 value = "One storey a";
-},
-{
-language = JPN;
-value = "One storey a";
 }
 );
 tag = ss07;
@@ -7126,10 +7101,6 @@ value = "Flat-top three";
 },
 {
 language = KOR;
-value = "Flat-top three";
-},
-{
-language = JPN;
 value = "Flat-top three";
 }
 );
@@ -7153,10 +7124,6 @@ value = "Medium symbols";
 {
 language = KOR;
 value = "Medium symbols";
-},
-{
-language = JPN;
-value = "Medium symbols";
 }
 );
 tag = ss10;
@@ -7178,10 +7145,6 @@ value = "Outlined symbols";
 {
 language = KOR;
 value = "Outlined symbols";
-},
-{
-language = JPN;
-value = "Outlined symbols";
 }
 );
 tag = ss11;
@@ -7200,10 +7163,6 @@ value = "Circle symbols";
 {
 language = KOR;
 value = "Circle symbols";
-},
-{
-language = JPN;
-value = "Circle symbols";
 }
 );
 tag = ss12;
@@ -7221,10 +7180,6 @@ value = "Square symbols";
 },
 {
 language = KOR;
-value = "Square symbols";
-},
-{
-language = JPN;
 value = "Square symbols";
 }
 );
@@ -7246,10 +7201,6 @@ value = "Filled symbols";
 },
 {
 language = KOR;
-value = "Filled symbols";
-},
-{
-language = JPN;
 value = "Filled symbols";
 }
 );
@@ -7273,10 +7224,6 @@ value = "Small symbols";
 {
 language = KOR;
 value = "Small symbols";
-},
-{
-language = JPN;
-value = "Small symbols";
 }
 );
 tag = ss15;
@@ -7294,10 +7241,6 @@ value = "Large symbols";
 },
 {
 language = KOR;
-value = "Large symbols";
-},
-{
-language = JPN;
 value = "Large symbols";
 }
 );

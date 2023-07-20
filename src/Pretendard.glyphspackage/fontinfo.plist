@@ -1097,6 +1097,7 @@ feature salt;
 feature ss01;
 feature ss02;
 feature ss03;
+feature ss05;
 feature ss06;
 feature ss07;
 feature ss08;
@@ -3043,8 +3044,12 @@ value = "Vertically centered colon";
 tag = ss03;
 },
 {
-code = "lookup LOOKUP_SS05_1;
-lookup LOOKUP_SS05_2;";
+code = "@NULL_SS05 = [];
+ignore sub @NULL_SS05';
+
+lookup LOOKUP_SS05_1;
+lookup LOOKUP_SS05_2;
+";
 labels = (
 {
 language = dflt;

@@ -91,7 +91,16 @@ languagesystem hani KOR;
 name = Languagesystems;
 },
 {
-code = "lookup LOOKUP_SS05_4 {
+code = "# Begin replacement SS05_3
+
+lookup LOOKUP_SS05_3 {
+# Hanja localization
+sub @LOCL_JAN_L by @LOCL_JAN_R;
+} LOOKUP_SS05_3;
+
+# End replacement SS05_3
+
+lookup LOOKUP_SS05_4 {
 @FULL_L = [
 blacklenticularbracketleft
 blacklenticularbracketright
@@ -132,7 +141,8 @@ whitetortoiseshellbracketright.full
 
 # fwid to pwid
 sub @FULL_L by @FULL_R;
-} LOOKUP_SS05_4;";
+} LOOKUP_SS05_4;
+";
 name = LOOKUP_SS05;
 }
 );
@@ -144,7 +154,11 @@ code = "feature locl;
 tag = aalt;
 },
 {
-code = "lookup locl_haniKOR {
+code = "# Begin Replacement locl_haniJAN
+
+# End Replacement locl_haniJAN
+
+lookup locl_haniKOR {
 	script hani;
 	language KOR;
 	sub @LOCL_JAN_L by @LOCL_JAN_R;
@@ -1224,10 +1238,6 @@ value = (
 "uni5ECA=uni5ECA.loclJAN",
 "uni6717=uni6717.loclJAN"
 );
-},
-{
-name = "Replace Feature";
-value = "locl;lookup locl_latn_0 {\012	script latn;\012	language ROM;\012	sub Scedilla by Scommaaccent;\012	sub scedilla by scommaaccent;\012	sub tcedilla by tcommaaccent;\012	language MOL;\012	sub Scedilla by Scommaaccent;\012	sub scedilla by scommaaccent;\012	sub tcedilla by tcommaaccent;\012} locl_latn_0;\012\012lookup locl_latn_1 {\012	script latn;\012	language CAT;\012	sub  l' periodcentered' l by ldot;\012	sub  L' periodcentered' L by Ldot;\012} locl_latn_1;\012\012lookup locl_jan {\012	script hang;\012	language dflt;\012	sub @LOCL_JAN_L by @LOCL_JAN_R;\012} locl_jan;\012\012lookup locl_hang {\012	script hang;\012	language KOR;\012	sub @LOCL_JAN_L by @LOCL_JAN_R;\012} locl_hang;";
 }
 );
 instanceInterpolations = {
@@ -1813,10 +1823,6 @@ value = (
 "uni5ECA=uni5ECA.loclJAN",
 "uni6717=uni6717.loclJAN"
 );
-},
-{
-name = "Replace Feature";
-value = "locl;lookup locl_latn_0 {\012	script latn;\012	language ROM;\012	sub Scedilla by Scommaaccent;\012	sub scedilla by scommaaccent;\012	sub tcedilla by tcommaaccent;\012	language MOL;\012	sub Scedilla by Scommaaccent;\012	sub scedilla by scommaaccent;\012	sub tcedilla by tcommaaccent;\012} locl_latn_0;\012\012lookup locl_latn_1 {\012	script latn;\012	language CAT;\012	sub  l' periodcentered' l by ldot;\012	sub  L' periodcentered' L by Ldot;\012} locl_latn_1;\012\012lookup locl_jan {\012	script hang;\012	language dflt;\012	sub @LOCL_JAN_L by @LOCL_JAN_R;\012} locl_jan;\012\012lookup locl_hang {\012	script hang;\012	language KOR;\012	sub @LOCL_JAN_L by @LOCL_JAN_R;\012} locl_hang;";
 }
 );
 instanceInterpolations = {
@@ -2402,10 +2408,6 @@ value = (
 "uni5ECA=uni5ECA.loclJAN",
 "uni6717=uni6717.loclJAN"
 );
-},
-{
-name = "Replace Feature";
-value = "locl;lookup locl_latn_0 {\012	script latn;\012	language ROM;\012	sub Scedilla by Scommaaccent;\012	sub scedilla by scommaaccent;\012	sub tcedilla by tcommaaccent;\012	language MOL;\012	sub Scedilla by Scommaaccent;\012	sub scedilla by scommaaccent;\012	sub tcedilla by tcommaaccent;\012} locl_latn_0;\012\012lookup locl_latn_1 {\012	script latn;\012	language CAT;\012	sub  l' periodcentered' l by ldot;\012	sub  L' periodcentered' L by Ldot;\012} locl_latn_1;\012\012lookup locl_jan {\012	script hang;\012	language dflt;\012	sub @LOCL_JAN_L by @LOCL_JAN_R;\012} locl_jan;\012\012lookup locl_hang {\012	script hang;\012	language KOR;\012	sub @LOCL_JAN_L by @LOCL_JAN_R;\012} locl_hang;";
 }
 );
 instanceInterpolations = {
@@ -2991,10 +2993,6 @@ value = (
 "uni5ECA=uni5ECA.loclJAN",
 "uni6717=uni6717.loclJAN"
 );
-},
-{
-name = "Replace Feature";
-value = "locl;lookup locl_latn_0 {\012	script latn;\012	language ROM;\012	sub Scedilla by Scommaaccent;\012	sub scedilla by scommaaccent;\012	sub tcedilla by tcommaaccent;\012	language MOL;\012	sub Scedilla by Scommaaccent;\012	sub scedilla by scommaaccent;\012	sub tcedilla by tcommaaccent;\012} locl_latn_0;\012\012lookup locl_latn_1 {\012	script latn;\012	language CAT;\012	sub  l' periodcentered' l by ldot;\012	sub  L' periodcentered' L by Ldot;\012} locl_latn_1;\012\012lookup locl_jan {\012	script hang;\012	language dflt;\012	sub @LOCL_JAN_L by @LOCL_JAN_R;\012} locl_jan;\012\012lookup locl_hang {\012	script hang;\012	language KOR;\012	sub @LOCL_JAN_L by @LOCL_JAN_R;\012} locl_hang;";
 }
 );
 instanceInterpolations = {
@@ -3578,10 +3576,6 @@ value = (
 "uni5ECA=uni5ECA.loclJAN",
 "uni6717=uni6717.loclJAN"
 );
-},
-{
-name = "Replace Feature";
-value = "locl;lookup locl_latn_0 {\012	script latn;\012	language ROM;\012	sub Scedilla by Scommaaccent;\012	sub scedilla by scommaaccent;\012	sub tcedilla by tcommaaccent;\012	language MOL;\012	sub Scedilla by Scommaaccent;\012	sub scedilla by scommaaccent;\012	sub tcedilla by tcommaaccent;\012} locl_latn_0;\012\012lookup locl_latn_1 {\012	script latn;\012	language CAT;\012	sub  l' periodcentered' l by ldot;\012	sub  L' periodcentered' L by Ldot;\012} locl_latn_1;\012\012lookup locl_jan {\012	script hang;\012	language dflt;\012	sub @LOCL_JAN_L by @LOCL_JAN_R;\012} locl_jan;\012\012lookup locl_hang {\012	script hang;\012	language KOR;\012	sub @LOCL_JAN_L by @LOCL_JAN_R;\012} locl_hang;";
 }
 );
 instanceInterpolations = {
@@ -4167,10 +4161,6 @@ value = (
 "uni5ECA=uni5ECA.loclJAN",
 "uni6717=uni6717.loclJAN"
 );
-},
-{
-name = "Replace Feature";
-value = "locl;lookup locl_latn_0 {\012	script latn;\012	language ROM;\012	sub Scedilla by Scommaaccent;\012	sub scedilla by scommaaccent;\012	sub tcedilla by tcommaaccent;\012	language MOL;\012	sub Scedilla by Scommaaccent;\012	sub scedilla by scommaaccent;\012	sub tcedilla by tcommaaccent;\012} locl_latn_0;\012\012lookup locl_latn_1 {\012	script latn;\012	language CAT;\012	sub  l' periodcentered' l by ldot;\012	sub  L' periodcentered' L by Ldot;\012} locl_latn_1;\012\012lookup locl_jan {\012	script hang;\012	language dflt;\012	sub @LOCL_JAN_L by @LOCL_JAN_R;\012} locl_jan;\012\012lookup locl_hang {\012	script hang;\012	language KOR;\012	sub @LOCL_JAN_L by @LOCL_JAN_R;\012} locl_hang;";
 }
 );
 instanceInterpolations = {
@@ -4756,10 +4746,6 @@ value = (
 "uni5ECA=uni5ECA.loclJAN",
 "uni6717=uni6717.loclJAN"
 );
-},
-{
-name = "Replace Feature";
-value = "locl;lookup locl_latn_0 {\012	script latn;\012	language ROM;\012	sub Scedilla by Scommaaccent;\012	sub scedilla by scommaaccent;\012	sub tcedilla by tcommaaccent;\012	language MOL;\012	sub Scedilla by Scommaaccent;\012	sub scedilla by scommaaccent;\012	sub tcedilla by tcommaaccent;\012} locl_latn_0;\012\012lookup locl_latn_1 {\012	script latn;\012	language CAT;\012	sub  l' periodcentered' l by ldot;\012	sub  L' periodcentered' L by Ldot;\012} locl_latn_1;\012\012lookup locl_jan {\012	script hang;\012	language dflt;\012	sub @LOCL_JAN_L by @LOCL_JAN_R;\012} locl_jan;\012\012lookup locl_hang {\012	script hang;\012	language KOR;\012	sub @LOCL_JAN_L by @LOCL_JAN_R;\012} locl_hang;";
 }
 );
 instanceInterpolations = {
@@ -5346,10 +5332,6 @@ value = (
 "uni5ECA=uni5ECA.loclJAN",
 "uni6717=uni6717.loclJAN"
 );
-},
-{
-name = "Replace Feature";
-value = "locl;lookup locl_latn_0 {\012	script latn;\012	language ROM;\012	sub Scedilla by Scommaaccent;\012	sub scedilla by scommaaccent;\012	sub tcedilla by tcommaaccent;\012	language MOL;\012	sub Scedilla by Scommaaccent;\012	sub scedilla by scommaaccent;\012	sub tcedilla by tcommaaccent;\012} locl_latn_0;\012\012lookup locl_latn_1 {\012	script latn;\012	language CAT;\012	sub  l' periodcentered' l by ldot;\012	sub  L' periodcentered' L by Ldot;\012} locl_latn_1;\012\012lookup locl_jan {\012	script hang;\012	language dflt;\012	sub @LOCL_JAN_L by @LOCL_JAN_R;\012} locl_jan;\012\012lookup locl_hang {\012	script hang;\012	language KOR;\012	sub @LOCL_JAN_L by @LOCL_JAN_R;\012} locl_hang;";
 }
 );
 instanceInterpolations = {
@@ -5935,10 +5917,6 @@ value = (
 "uni5ECA=uni5ECA.loclJAN",
 "uni6717=uni6717.loclJAN"
 );
-},
-{
-name = "Replace Feature";
-value = "locl;lookup locl_latn_0 {\012	script latn;\012	language ROM;\012	sub Scedilla by Scommaaccent;\012	sub scedilla by scommaaccent;\012	sub tcedilla by tcommaaccent;\012	language MOL;\012	sub Scedilla by Scommaaccent;\012	sub scedilla by scommaaccent;\012	sub tcedilla by tcommaaccent;\012} locl_latn_0;\012\012lookup locl_latn_1 {\012	script latn;\012	language CAT;\012	sub  l' periodcentered' l by ldot;\012	sub  L' periodcentered' L by Ldot;\012} locl_latn_1;\012\012lookup locl_jan {\012	script hang;\012	language dflt;\012	sub @LOCL_JAN_L by @LOCL_JAN_R;\012} locl_jan;\012\012lookup locl_hang {\012	script hang;\012	language KOR;\012	sub @LOCL_JAN_L by @LOCL_JAN_R;\012} locl_hang;";
 }
 );
 instanceInterpolations = {
@@ -6524,10 +6502,6 @@ value = (
 "uni5ECA=uni5ECA.loclJAN",
 "uni6717=uni6717.loclJAN"
 );
-},
-{
-name = "Replace Feature";
-value = "locl;lookup locl_latn_0 {\012	script latn;\012	language ROM;\012	sub Scedilla by Scommaaccent;\012	sub scedilla by scommaaccent;\012	sub tcedilla by tcommaaccent;\012	language MOL;\012	sub Scedilla by Scommaaccent;\012	sub scedilla by scommaaccent;\012	sub tcedilla by tcommaaccent;\012} locl_latn_0;\012\012lookup locl_latn_1 {\012	script latn;\012	language CAT;\012	sub  l' periodcentered' l by ldot;\012	sub  L' periodcentered' L by Ldot;\012} locl_latn_1;\012\012lookup locl_jan {\012	script hang;\012	language dflt;\012	sub @LOCL_JAN_L by @LOCL_JAN_R;\012} locl_jan;\012\012lookup locl_hang {\012	script hang;\012	language KOR;\012	sub @LOCL_JAN_L by @LOCL_JAN_R;\012} locl_hang;";
 }
 );
 instanceInterpolations = {
@@ -7113,10 +7087,6 @@ value = (
 "uni5ECA=uni5ECA.loclJAN",
 "uni6717=uni6717.loclJAN"
 );
-},
-{
-name = "Replace Feature";
-value = "locl;lookup locl_latn_0 {\012	script latn;\012	language ROM;\012	sub Scedilla by Scommaaccent;\012	sub scedilla by scommaaccent;\012	sub tcedilla by tcommaaccent;\012	language MOL;\012	sub Scedilla by Scommaaccent;\012	sub scedilla by scommaaccent;\012	sub tcedilla by tcommaaccent;\012} locl_latn_0;\012\012lookup locl_latn_1 {\012	script latn;\012	language CAT;\012	sub  l' periodcentered' l by ldot;\012	sub  L' periodcentered' L by Ldot;\012} locl_latn_1;\012\012lookup locl_jan {\012	script hang;\012	language dflt;\012	sub @LOCL_JAN_L by @LOCL_JAN_R;\012} locl_jan;\012\012lookup locl_hang {\012	script hang;\012	language KOR;\012	sub @LOCL_JAN_L by @LOCL_JAN_R;\012} locl_hang;";
 }
 );
 instanceInterpolations = {
@@ -7702,10 +7672,6 @@ value = (
 "uni5ECA=uni5ECA.loclJAN",
 "uni6717=uni6717.loclJAN"
 );
-},
-{
-name = "Replace Feature";
-value = "locl;lookup locl_latn_0 {\012	script latn;\012	language ROM;\012	sub Scedilla by Scommaaccent;\012	sub scedilla by scommaaccent;\012	sub tcedilla by tcommaaccent;\012	language MOL;\012	sub Scedilla by Scommaaccent;\012	sub scedilla by scommaaccent;\012	sub tcedilla by tcommaaccent;\012} locl_latn_0;\012\012lookup locl_latn_1 {\012	script latn;\012	language CAT;\012	sub  l' periodcentered' l by ldot;\012	sub  L' periodcentered' L by Ldot;\012} locl_latn_1;\012\012lookup locl_jan {\012	script hang;\012	language dflt;\012	sub @LOCL_JAN_L by @LOCL_JAN_R;\012} locl_jan;\012\012lookup locl_hang {\012	script hang;\012	language KOR;\012	sub @LOCL_JAN_L by @LOCL_JAN_R;\012} locl_hang;";
 }
 );
 instanceInterpolations = {
@@ -8291,10 +8257,6 @@ value = (
 "uni5ECA=uni5ECA.loclJAN",
 "uni6717=uni6717.loclJAN"
 );
-},
-{
-name = "Replace Feature";
-value = "locl;lookup locl_latn_0 {\012	script latn;\012	language ROM;\012	sub Scedilla by Scommaaccent;\012	sub scedilla by scommaaccent;\012	sub tcedilla by tcommaaccent;\012	language MOL;\012	sub Scedilla by Scommaaccent;\012	sub scedilla by scommaaccent;\012	sub tcedilla by tcommaaccent;\012} locl_latn_0;\012\012lookup locl_latn_1 {\012	script latn;\012	language CAT;\012	sub  l' periodcentered' l by ldot;\012	sub  L' periodcentered' L by Ldot;\012} locl_latn_1;\012\012lookup locl_jan {\012	script hang;\012	language dflt;\012	sub @LOCL_JAN_L by @LOCL_JAN_R;\012} locl_jan;\012\012lookup locl_hang {\012	script hang;\012	language KOR;\012	sub @LOCL_JAN_L by @LOCL_JAN_R;\012} locl_hang;";
 }
 );
 instanceInterpolations = {
@@ -8878,10 +8840,6 @@ value = (
 "uni5ECA=uni5ECA.loclJAN",
 "uni6717=uni6717.loclJAN"
 );
-},
-{
-name = "Replace Feature";
-value = "locl;lookup locl_latn_0 {\012	script latn;\012	language ROM;\012	sub Scedilla by Scommaaccent;\012	sub scedilla by scommaaccent;\012	sub tcedilla by tcommaaccent;\012	language MOL;\012	sub Scedilla by Scommaaccent;\012	sub scedilla by scommaaccent;\012	sub tcedilla by tcommaaccent;\012} locl_latn_0;\012\012lookup locl_latn_1 {\012	script latn;\012	language CAT;\012	sub  l' periodcentered' l by ldot;\012	sub  L' periodcentered' L by Ldot;\012} locl_latn_1;\012\012lookup locl_jan {\012	script hang;\012	language dflt;\012	sub @LOCL_JAN_L by @LOCL_JAN_R;\012} locl_jan;\012\012lookup locl_hang {\012	script hang;\012	language KOR;\012	sub @LOCL_JAN_L by @LOCL_JAN_R;\012} locl_hang;";
 }
 );
 instanceInterpolations = {
@@ -9467,10 +9425,6 @@ value = (
 "uni5ECA=uni5ECA.loclJAN",
 "uni6717=uni6717.loclJAN"
 );
-},
-{
-name = "Replace Feature";
-value = "locl;lookup locl_latn_0 {\012	script latn;\012	language ROM;\012	sub Scedilla by Scommaaccent;\012	sub scedilla by scommaaccent;\012	sub tcedilla by tcommaaccent;\012	language MOL;\012	sub Scedilla by Scommaaccent;\012	sub scedilla by scommaaccent;\012	sub tcedilla by tcommaaccent;\012} locl_latn_0;\012\012lookup locl_latn_1 {\012	script latn;\012	language CAT;\012	sub  l' periodcentered' l by ldot;\012	sub  L' periodcentered' L by Ldot;\012} locl_latn_1;\012\012lookup locl_jan {\012	script hang;\012	language dflt;\012	sub @LOCL_JAN_L by @LOCL_JAN_R;\012} locl_jan;\012\012lookup locl_hang {\012	script hang;\012	language KOR;\012	sub @LOCL_JAN_L by @LOCL_JAN_R;\012} locl_hang;";
 }
 );
 instanceInterpolations = {
@@ -10056,10 +10010,6 @@ value = (
 "uni5ECA=uni5ECA.loclJAN",
 "uni6717=uni6717.loclJAN"
 );
-},
-{
-name = "Replace Feature";
-value = "locl;lookup locl_latn_0 {\012	script latn;\012	language ROM;\012	sub Scedilla by Scommaaccent;\012	sub scedilla by scommaaccent;\012	sub tcedilla by tcommaaccent;\012	language MOL;\012	sub Scedilla by Scommaaccent;\012	sub scedilla by scommaaccent;\012	sub tcedilla by tcommaaccent;\012} locl_latn_0;\012\012lookup locl_latn_1 {\012	script latn;\012	language CAT;\012	sub  l' periodcentered' l by ldot;\012	sub  L' periodcentered' L by Ldot;\012} locl_latn_1;\012\012lookup locl_jan {\012	script hang;\012	language dflt;\012	sub @LOCL_JAN_L by @LOCL_JAN_R;\012} locl_jan;\012\012lookup locl_hang {\012	script hang;\012	language KOR;\012	sub @LOCL_JAN_L by @LOCL_JAN_R;\012} locl_hang;";
 }
 );
 instanceInterpolations = {
@@ -10646,10 +10596,6 @@ value = (
 "uni5ECA=uni5ECA.loclJAN",
 "uni6717=uni6717.loclJAN"
 );
-},
-{
-name = "Replace Feature";
-value = "locl;lookup locl_latn_0 {\012	script latn;\012	language ROM;\012	sub Scedilla by Scommaaccent;\012	sub scedilla by scommaaccent;\012	sub tcedilla by tcommaaccent;\012	language MOL;\012	sub Scedilla by Scommaaccent;\012	sub scedilla by scommaaccent;\012	sub tcedilla by tcommaaccent;\012} locl_latn_0;\012\012lookup locl_latn_1 {\012	script latn;\012	language CAT;\012	sub  l' periodcentered' l by ldot;\012	sub  L' periodcentered' L by Ldot;\012} locl_latn_1;\012\012lookup locl_jan {\012	script hang;\012	language dflt;\012	sub @LOCL_JAN_L by @LOCL_JAN_R;\012} locl_jan;\012\012lookup locl_hang {\012	script hang;\012	language KOR;\012	sub @LOCL_JAN_L by @LOCL_JAN_R;\012} locl_hang;";
 }
 );
 instanceInterpolations = {
@@ -11235,10 +11181,6 @@ value = (
 "uni5ECA=uni5ECA.loclJAN",
 "uni6717=uni6717.loclJAN"
 );
-},
-{
-name = "Replace Feature";
-value = "locl;lookup locl_latn_0 {\012	script latn;\012	language ROM;\012	sub Scedilla by Scommaaccent;\012	sub scedilla by scommaaccent;\012	sub tcedilla by tcommaaccent;\012	language MOL;\012	sub Scedilla by Scommaaccent;\012	sub scedilla by scommaaccent;\012	sub tcedilla by tcommaaccent;\012} locl_latn_0;\012\012lookup locl_latn_1 {\012	script latn;\012	language CAT;\012	sub  l' periodcentered' l by ldot;\012	sub  L' periodcentered' L by Ldot;\012} locl_latn_1;\012\012lookup locl_jan {\012	script hang;\012	language dflt;\012	sub @LOCL_JAN_L by @LOCL_JAN_R;\012} locl_jan;\012\012lookup locl_hang {\012	script hang;\012	language KOR;\012	sub @LOCL_JAN_L by @LOCL_JAN_R;\012} locl_hang;";
 }
 );
 instanceInterpolations = {
@@ -11821,10 +11763,6 @@ value = (
 "uni5ECA=uni5ECA.loclJAN",
 "uni6717=uni6717.loclJAN"
 );
-},
-{
-name = "Replace Feature";
-value = "locl;lookup locl_latn_0 {\012	script latn;\012	language ROM;\012	sub Scedilla by Scommaaccent;\012	sub scedilla by scommaaccent;\012	sub tcedilla by tcommaaccent;\012	language MOL;\012	sub Scedilla by Scommaaccent;\012	sub scedilla by scommaaccent;\012	sub tcedilla by tcommaaccent;\012} locl_latn_0;\012\012lookup locl_latn_1 {\012	script latn;\012	language CAT;\012	sub  l' periodcentered' l by ldot;\012	sub  L' periodcentered' L by Ldot;\012} locl_latn_1;\012\012lookup locl_jan {\012	script hang;\012	language dflt;\012	sub @LOCL_JAN_L by @LOCL_JAN_R;\012} locl_jan;\012\012lookup locl_hang {\012	script hang;\012	language KOR;\012	sub @LOCL_JAN_L by @LOCL_JAN_R;\012} locl_hang;";
 }
 );
 name = Regular;

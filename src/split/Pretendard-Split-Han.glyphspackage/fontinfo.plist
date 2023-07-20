@@ -3893,10 +3893,14 @@ languagesystem hani JAN;
 name = Languagesystems;
 },
 {
-code = "lookup LOOKUP_SS05_3 {
+code = "# Begin replacement SS05_3
+
+lookup LOOKUP_SS05_3 {
 # Hanja localization
 sub @LOCL_JAN_R by @LOCL_JAN_L;
 } LOOKUP_SS05_3;
+
+# End replacement SS05_3
 ";
 name = LOOKUP_SS05;
 }
@@ -3914,11 +3918,15 @@ disabled = 1;
 tag = aalt;
 },
 {
-code = "lookup locl_haniJAN {
+code = "# Begin Replacement locl_haniJAN
+
+lookup locl_haniJAN {
 	script hani;
 	language JAN;
 	sub @LOCL_JAN_L by @LOCL_JAN_R;
 } locl_haniJAN;
+
+# End Replacement locl_haniJAN
 ";
 tag = locl;
 },

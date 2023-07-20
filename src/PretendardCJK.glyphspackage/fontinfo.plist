@@ -298,6 +298,638 @@ guilsinglright.case
 name = LOCL_HANG_R_R;
 },
 {
+code = "zero.circled
+one.circled
+two.circled
+three.circled
+four.circled
+five.circled
+six.circled
+seven.circled
+eight.circled
+nine.circled
+one_zero.circled
+one_one.circled
+one_two.circled
+one_three.circled
+one_four.circled
+one_five.circled
+one_six.circled
+one_seven.circled
+one_eight.circled
+one_nine.circled
+two_zero.circled
+A.circled
+B.circled
+C.circled
+D.circled
+E.circled
+F.circled
+G.circled
+H.circled
+I.circled
+J.circled
+K.circled
+L.circled
+M.circled
+N.circled
+O.circled
+P.circled
+Q.circled
+R.circled
+S.circled
+T.circled
+U.circled
+V.circled
+W.circled
+X.circled
+Y.circled
+Z.circled
+exclam.circled
+question.circled
+numbersign.circled
+hyphen.circled
+less.circled
+greater.circled
+equal.circled
+upArrow.circled
+downArrow.circled
+leftArrow.circled
+rightArrow.circled
+dngb_check.circled
+dngb_ballotx.circled
+plus.circled
+minus.circled
+multiply.circled
+divide.circled
+upChevron.circled
+downChevron.circled
+leftChevron.circled
+rightChevron.circled
+Dot
+";
+name = Circled;
+},
+{
+code = "zero.circled.medium
+one.circled.medium
+two.circled.medium
+three.circled.medium
+four.circled.medium
+five.circled.medium
+six.circled.medium
+seven.circled.medium
+eight.circled.medium
+nine.circled.medium
+one_zero.circled.medium
+one_one.circled.medium
+one_two.circled.medium
+one_three.circled.medium
+one_four.circled.medium
+one_five.circled.medium
+one_six.circled.medium
+one_seven.circled.medium
+one_eight.circled.medium
+one_nine.circled.medium
+two_zero.circled.medium
+A.circled.medium
+B.circled.medium
+C.circled.medium
+D.circled.medium
+E.circled.medium
+F.circled.medium
+G.circled.medium
+H.circled.medium
+I.circled.medium
+J.circled.medium
+K.circled.medium
+L.circled.medium
+M.circled.medium
+N.circled.medium
+O.circled.medium
+P.circled.medium
+Q.circled.medium
+R.circled.medium
+S.circled.medium
+T.circled.medium
+U.circled.medium
+V.circled.medium
+W.circled.medium
+X.circled.medium
+Y.circled.medium
+Z.circled.medium
+exclam.circled.medium
+question.circled.medium
+numbersign.circled.medium
+hyphen.circled.medium
+less.circled.medium
+greater.circled.medium
+equal.circled.medium
+upArrow.circled.medium
+downArrow.circled.medium
+leftArrow.circled.medium
+rightArrow.circled.medium
+dngb_check.circled.medium
+dngb_ballotx.circled.medium
+plus.circled.medium
+minus.circled.medium
+multiply.circled.medium
+divide.circled.medium
+upChevron.circled.medium
+downChevron.circled.medium
+leftChevron.circled.medium
+rightChevron.circled.medium
+Dot.medium
+";
+name = Circled_Medium;
+},
+{
+code = "zero.blackCircled
+one.blackCircled
+two.blackCircled
+three.blackCircled
+four.blackCircled
+five.blackCircled
+six.blackCircled
+seven.blackCircled
+eight.blackCircled
+nine.blackCircled
+one_zero.blackCircled
+one_one.blackCircled
+one_two.blackCircled
+one_three.blackCircled
+one_four.blackCircled
+one_five.blackCircled
+one_six.blackCircled
+one_seven.blackCircled
+one_eight.blackCircled
+one_nine.blackCircled
+two_zero.blackCircled
+A.blackCircled
+B.blackCircled
+C.blackCircled
+D.blackCircled
+E.blackCircled
+F.blackCircled
+G.blackCircled
+H.blackCircled
+I.blackCircled
+J.blackCircled
+K.blackCircled
+L.blackCircled
+M.blackCircled
+N.blackCircled
+O.blackCircled
+P.blackCircled
+Q.blackCircled
+R.blackCircled
+S.blackCircled
+T.blackCircled
+U.blackCircled
+V.blackCircled
+W.blackCircled
+X.blackCircled
+Y.blackCircled
+Z.blackCircled
+exclam.blackCircled
+question.blackCircled
+numbersign.blackCircled
+hyphen.blackCircled
+less.blackCircled
+greater.blackCircled
+equal.blackCircled
+upArrow.blackCircled
+downArrow.blackCircled
+leftArrow.blackCircled
+rightArrow.blackCircled
+dngb_check.blackCircled
+dngb_ballotx.blackCircled
+plus.blackCircled
+minus.blackCircled
+multiply.blackCircled
+divide.blackCircled
+upChevron.blackCircled
+downChevron.blackCircled
+leftChevron.blackCircled
+rightChevron.blackCircled
+Dot.fill
+";
+name = Circled_Fill;
+},
+{
+code = "zero.blackCircled.medium
+one.blackCircled.medium
+two.blackCircled.medium
+three.blackCircled.medium
+four.blackCircled.medium
+five.blackCircled.medium
+six.blackCircled.medium
+seven.blackCircled.medium
+eight.blackCircled.medium
+nine.blackCircled.medium
+one_zero.blackCircled.medium
+one_one.blackCircled.medium
+one_two.blackCircled.medium
+one_three.blackCircled.medium
+one_four.blackCircled.medium
+one_five.blackCircled.medium
+one_six.blackCircled.medium
+one_seven.blackCircled.medium
+one_eight.blackCircled.medium
+one_nine.blackCircled.medium
+two_zero.blackCircled.medium
+A.blackCircled.medium
+B.blackCircled.medium
+C.blackCircled.medium
+D.blackCircled.medium
+E.blackCircled.medium
+F.blackCircled.medium
+G.blackCircled.medium
+H.blackCircled.medium
+I.blackCircled.medium
+J.blackCircled.medium
+K.blackCircled.medium
+L.blackCircled.medium
+M.blackCircled.medium
+N.blackCircled.medium
+O.blackCircled.medium
+P.blackCircled.medium
+Q.blackCircled.medium
+R.blackCircled.medium
+S.blackCircled.medium
+T.blackCircled.medium
+U.blackCircled.medium
+V.blackCircled.medium
+W.blackCircled.medium
+X.blackCircled.medium
+Y.blackCircled.medium
+Z.blackCircled.medium
+exclam.blackCircled.medium
+question.blackCircled.medium
+numbersign.blackCircled.medium
+hyphen.blackCircled.medium
+less.blackCircled.medium
+greater.blackCircled.medium
+equal.blackCircled.medium
+upArrow.blackCircled.medium
+downArrow.blackCircled.medium
+leftArrow.blackCircled.medium
+rightArrow.blackCircled.medium
+dngb_check.blackCircled.medium
+dngb_ballotx.blackCircled.medium
+plus.blackCircled.medium
+minus.blackCircled.medium
+multiply.blackCircled.medium
+divide.blackCircled.medium
+upChevron.blackCircled.medium
+downChevron.blackCircled.medium
+leftChevron.blackCircled.medium
+rightChevron.blackCircled.medium
+Dot.fill.medium
+";
+name = Circled_Fill_Medium;
+},
+{
+code = "zero.squared
+one.squared
+two.squared
+three.squared
+four.squared
+five.squared
+six.squared
+seven.squared
+eight.squared
+nine.squared
+one_zero.squared
+one_one.squared
+one_two.squared
+one_three.squared
+one_four.squared
+one_five.squared
+one_six.squared
+one_seven.squared
+one_eight.squared
+one_nine.squared
+two_zero.squared
+A.squared
+B.squared
+C.squared
+D.squared
+E.squared
+F.squared
+G.squared
+H.squared
+I.squared
+J.squared
+K.squared
+L.squared
+M.squared
+N.squared
+O.squared
+P.squared
+Q.squared
+R.squared
+S.squared
+T.squared
+U.squared
+V.squared
+W.squared
+X.squared
+Y.squared
+Z.squared
+exclam.squared
+question.squared
+numbersign.squared
+hyphen.squared
+less.squared
+greater.squared
+equal.squared
+upArrow.squared
+downArrow.squared
+leftArrow.squared
+rightArrow.squared
+dngb_check.squared
+dngb_ballotx.squared
+plus.squared
+minus.squared
+multiply.squared
+divide.squared
+upChevron.squared
+downChevron.squared
+leftChevron.squared
+rightChevron.squared
+Dot
+";
+name = Squared;
+},
+{
+code = "zero.squared.medium
+one.squared.medium
+two.squared.medium
+three.squared.medium
+four.squared.medium
+five.squared.medium
+six.squared.medium
+seven.squared.medium
+eight.squared.medium
+nine.squared.medium
+one_zero.squared.medium
+one_one.squared.medium
+one_two.squared.medium
+one_three.squared.medium
+one_four.squared.medium
+one_five.squared.medium
+one_six.squared.medium
+one_seven.squared.medium
+one_eight.squared.medium
+one_nine.squared.medium
+two_zero.squared.medium
+A.squared.medium
+B.squared.medium
+C.squared.medium
+D.squared.medium
+E.squared.medium
+F.squared.medium
+G.squared.medium
+H.squared.medium
+I.squared.medium
+J.squared.medium
+K.squared.medium
+L.squared.medium
+M.squared.medium
+N.squared.medium
+O.squared.medium
+P.squared.medium
+Q.squared.medium
+R.squared.medium
+S.squared.medium
+T.squared.medium
+U.squared.medium
+V.squared.medium
+W.squared.medium
+X.squared.medium
+Y.squared.medium
+Z.squared.medium
+exclam.squared.medium
+question.squared.medium
+numbersign.squared.medium
+hyphen.squared.medium
+less.squared.medium
+greater.squared.medium
+equal.squared.medium
+upArrow.squared.medium
+downArrow.squared.medium
+leftArrow.squared.medium
+rightArrow.squared.medium
+dngb_check.squared.medium
+dngb_ballotx.squared.medium
+plus.squared.medium
+minus.squared.medium
+multiply.squared.medium
+divide.squared.medium
+upChevron.squared.medium
+downChevron.squared.medium
+leftChevron.squared.medium
+rightChevron.squared.medium
+Dot.medium
+";
+name = Squared_Medium;
+},
+{
+code = "zero.roundBlackBox
+one.roundBlackBox
+two.roundBlackBox
+three.roundBlackBox
+four.roundBlackBox
+five.roundBlackBox
+six.roundBlackBox
+seven.roundBlackBox
+eight.roundBlackBox
+nine.roundBlackBox
+one_zero.roundBlackBox
+one_one.roundBlackBox
+one_two.roundBlackBox
+one_three.roundBlackBox
+one_four.roundBlackBox
+one_five.roundBlackBox
+one_six.roundBlackBox
+one_seven.roundBlackBox
+one_eight.roundBlackBox
+one_nine.roundBlackBox
+two_zero.roundBlackBox
+A.roundBlackBox
+B.roundBlackBox
+C.roundBlackBox
+D.roundBlackBox
+E.roundBlackBox
+F.roundBlackBox
+G.roundBlackBox
+H.roundBlackBox
+I.roundBlackBox
+J.roundBlackBox
+K.roundBlackBox
+L.roundBlackBox
+M.roundBlackBox
+N.roundBlackBox
+O.roundBlackBox
+P.roundBlackBox
+Q.roundBlackBox
+R.roundBlackBox
+S.roundBlackBox
+T.roundBlackBox
+U.roundBlackBox
+V.roundBlackBox
+W.roundBlackBox
+X.roundBlackBox
+Y.roundBlackBox
+Z.roundBlackBox
+exclam.roundBlackBox
+question.roundBlackBox
+numbersign.roundBlackBox
+hyphen.roundBlackBox
+less.roundBlackBox
+greater.roundBlackBox
+equal.roundBlackBox
+upArrow.roundBlackBox
+downArrow.roundBlackBox
+leftArrow.roundBlackBox
+rightArrow.roundBlackBox
+dngb_check.roundBlackBox
+dngb_ballotx.roundBlackBox
+plus.roundBlackBox
+minus.roundBlackBox
+multiply.roundBlackBox
+divide.roundBlackBox
+upChevron.roundBlackBox
+downChevron.roundBlackBox
+leftChevron.roundBlackBox
+rightChevron.roundBlackBox
+Dot.fill
+";
+name = Squared_Fill;
+},
+{
+code = "zero.roundBlackBox.medium
+one.roundBlackBox.medium
+two.roundBlackBox.medium
+three.roundBlackBox.medium
+four.roundBlackBox.medium
+five.roundBlackBox.medium
+six.roundBlackBox.medium
+seven.roundBlackBox.medium
+eight.roundBlackBox.medium
+nine.roundBlackBox.medium
+one_zero.roundBlackBox.medium
+one_one.roundBlackBox.medium
+one_two.roundBlackBox.medium
+one_three.roundBlackBox.medium
+one_four.roundBlackBox.medium
+one_five.roundBlackBox.medium
+one_six.roundBlackBox.medium
+one_seven.roundBlackBox.medium
+one_eight.roundBlackBox.medium
+one_nine.roundBlackBox.medium
+two_zero.roundBlackBox.medium
+A.roundBlackBox.medium
+B.roundBlackBox.medium
+C.roundBlackBox.medium
+D.roundBlackBox.medium
+E.roundBlackBox.medium
+F.roundBlackBox.medium
+G.roundBlackBox.medium
+H.roundBlackBox.medium
+I.roundBlackBox.medium
+J.roundBlackBox.medium
+K.roundBlackBox.medium
+L.roundBlackBox.medium
+M.roundBlackBox.medium
+N.roundBlackBox.medium
+O.roundBlackBox.medium
+P.roundBlackBox.medium
+Q.roundBlackBox.medium
+R.roundBlackBox.medium
+S.roundBlackBox.medium
+T.roundBlackBox.medium
+U.roundBlackBox.medium
+V.roundBlackBox.medium
+W.roundBlackBox.medium
+X.roundBlackBox.medium
+Y.roundBlackBox.medium
+Z.roundBlackBox.medium
+exclam.roundBlackBox.medium
+question.roundBlackBox.medium
+numbersign.roundBlackBox.medium
+hyphen.roundBlackBox.medium
+less.roundBlackBox.medium
+greater.roundBlackBox.medium
+equal.roundBlackBox.medium
+upArrow.roundBlackBox.medium
+downArrow.roundBlackBox.medium
+leftArrow.roundBlackBox.medium
+rightArrow.roundBlackBox.medium
+dngb_check.roundBlackBox.medium
+dngb_ballotx.roundBlackBox.medium
+plus.roundBlackBox.medium
+minus.roundBlackBox.medium
+multiply.roundBlackBox.medium
+divide.roundBlackBox.medium
+upChevron.roundBlackBox.medium
+downChevron.roundBlackBox.medium
+leftChevron.roundBlackBox.medium
+rightChevron.roundBlackBox.medium
+Dot.fill.medium
+";
+name = Squared_Fill_Medium;
+},
+{
+code = "iconDot.small
+";
+name = Symbol_Small;
+},
+{
+code = "iconDot
+";
+name = Symbol_Medium;
+},
+{
+code = "iconDot.large
+";
+name = Symbol_Large;
+},
+{
+code = "iconDot.fill.small
+";
+name = Symbol_Fill_Small;
+},
+{
+code = "iconDot.fill
+";
+name = Symbol_Fill_Medium;
+},
+{
+code = "iconDot.fill.large
+";
+name = Symbol_Fill_Large;
+},
+{
+code = "@Circled
+@Circled_Medium
+@Circled_Fill
+@Circled_Fill_Medium
+@Squared
+@Squared_Medium
+@Squared_Fill
+@Squared_Fill_Medium
+@Symbol_Small
+@Symbol_Medium
+@Symbol_Large
+@Symbol_Fill_Small
+@Symbol_Fill_Medium
+@Symbol_Fill_Large
+";
+name = Symbol;
+},
+{
 code = "uni2EDD
 uni5002
 uni501C
@@ -4096,638 +4728,6 @@ uni8106
 uni8154
 uni9771";
 name = NLCK_R;
-},
-{
-code = "zero.circled
-one.circled
-two.circled
-three.circled
-four.circled
-five.circled
-six.circled
-seven.circled
-eight.circled
-nine.circled
-one_zero.circled
-one_one.circled
-one_two.circled
-one_three.circled
-one_four.circled
-one_five.circled
-one_six.circled
-one_seven.circled
-one_eight.circled
-one_nine.circled
-two_zero.circled
-A.circled
-B.circled
-C.circled
-D.circled
-E.circled
-F.circled
-G.circled
-H.circled
-I.circled
-J.circled
-K.circled
-L.circled
-M.circled
-N.circled
-O.circled
-P.circled
-Q.circled
-R.circled
-S.circled
-T.circled
-U.circled
-V.circled
-W.circled
-X.circled
-Y.circled
-Z.circled
-exclam.circled
-question.circled
-numbersign.circled
-hyphen.circled
-less.circled
-greater.circled
-equal.circled
-upArrow.circled
-downArrow.circled
-leftArrow.circled
-rightArrow.circled
-dngb_check.circled
-dngb_ballotx.circled
-plus.circled
-minus.circled
-multiply.circled
-divide.circled
-upChevron.circled
-downChevron.circled
-leftChevron.circled
-rightChevron.circled
-Dot
-";
-name = Circled;
-},
-{
-code = "zero.circled.medium
-one.circled.medium
-two.circled.medium
-three.circled.medium
-four.circled.medium
-five.circled.medium
-six.circled.medium
-seven.circled.medium
-eight.circled.medium
-nine.circled.medium
-one_zero.circled.medium
-one_one.circled.medium
-one_two.circled.medium
-one_three.circled.medium
-one_four.circled.medium
-one_five.circled.medium
-one_six.circled.medium
-one_seven.circled.medium
-one_eight.circled.medium
-one_nine.circled.medium
-two_zero.circled.medium
-A.circled.medium
-B.circled.medium
-C.circled.medium
-D.circled.medium
-E.circled.medium
-F.circled.medium
-G.circled.medium
-H.circled.medium
-I.circled.medium
-J.circled.medium
-K.circled.medium
-L.circled.medium
-M.circled.medium
-N.circled.medium
-O.circled.medium
-P.circled.medium
-Q.circled.medium
-R.circled.medium
-S.circled.medium
-T.circled.medium
-U.circled.medium
-V.circled.medium
-W.circled.medium
-X.circled.medium
-Y.circled.medium
-Z.circled.medium
-exclam.circled.medium
-question.circled.medium
-numbersign.circled.medium
-hyphen.circled.medium
-less.circled.medium
-greater.circled.medium
-equal.circled.medium
-upArrow.circled.medium
-downArrow.circled.medium
-leftArrow.circled.medium
-rightArrow.circled.medium
-dngb_check.circled.medium
-dngb_ballotx.circled.medium
-plus.circled.medium
-minus.circled.medium
-multiply.circled.medium
-divide.circled.medium
-upChevron.circled.medium
-downChevron.circled.medium
-leftChevron.circled.medium
-rightChevron.circled.medium
-Dot.medium
-";
-name = Circled_Medium;
-},
-{
-code = "zero.blackCircled
-one.blackCircled
-two.blackCircled
-three.blackCircled
-four.blackCircled
-five.blackCircled
-six.blackCircled
-seven.blackCircled
-eight.blackCircled
-nine.blackCircled
-one_zero.blackCircled
-one_one.blackCircled
-one_two.blackCircled
-one_three.blackCircled
-one_four.blackCircled
-one_five.blackCircled
-one_six.blackCircled
-one_seven.blackCircled
-one_eight.blackCircled
-one_nine.blackCircled
-two_zero.blackCircled
-A.blackCircled
-B.blackCircled
-C.blackCircled
-D.blackCircled
-E.blackCircled
-F.blackCircled
-G.blackCircled
-H.blackCircled
-I.blackCircled
-J.blackCircled
-K.blackCircled
-L.blackCircled
-M.blackCircled
-N.blackCircled
-O.blackCircled
-P.blackCircled
-Q.blackCircled
-R.blackCircled
-S.blackCircled
-T.blackCircled
-U.blackCircled
-V.blackCircled
-W.blackCircled
-X.blackCircled
-Y.blackCircled
-Z.blackCircled
-exclam.blackCircled
-question.blackCircled
-numbersign.blackCircled
-hyphen.blackCircled
-less.blackCircled
-greater.blackCircled
-equal.blackCircled
-upArrow.blackCircled
-downArrow.blackCircled
-leftArrow.blackCircled
-rightArrow.blackCircled
-dngb_check.blackCircled
-dngb_ballotx.blackCircled
-plus.blackCircled
-minus.blackCircled
-multiply.blackCircled
-divide.blackCircled
-upChevron.blackCircled
-downChevron.blackCircled
-leftChevron.blackCircled
-rightChevron.blackCircled
-Dot.fill
-";
-name = Circled_Fill;
-},
-{
-code = "zero.blackCircled.medium
-one.blackCircled.medium
-two.blackCircled.medium
-three.blackCircled.medium
-four.blackCircled.medium
-five.blackCircled.medium
-six.blackCircled.medium
-seven.blackCircled.medium
-eight.blackCircled.medium
-nine.blackCircled.medium
-one_zero.blackCircled.medium
-one_one.blackCircled.medium
-one_two.blackCircled.medium
-one_three.blackCircled.medium
-one_four.blackCircled.medium
-one_five.blackCircled.medium
-one_six.blackCircled.medium
-one_seven.blackCircled.medium
-one_eight.blackCircled.medium
-one_nine.blackCircled.medium
-two_zero.blackCircled.medium
-A.blackCircled.medium
-B.blackCircled.medium
-C.blackCircled.medium
-D.blackCircled.medium
-E.blackCircled.medium
-F.blackCircled.medium
-G.blackCircled.medium
-H.blackCircled.medium
-I.blackCircled.medium
-J.blackCircled.medium
-K.blackCircled.medium
-L.blackCircled.medium
-M.blackCircled.medium
-N.blackCircled.medium
-O.blackCircled.medium
-P.blackCircled.medium
-Q.blackCircled.medium
-R.blackCircled.medium
-S.blackCircled.medium
-T.blackCircled.medium
-U.blackCircled.medium
-V.blackCircled.medium
-W.blackCircled.medium
-X.blackCircled.medium
-Y.blackCircled.medium
-Z.blackCircled.medium
-exclam.blackCircled.medium
-question.blackCircled.medium
-numbersign.blackCircled.medium
-hyphen.blackCircled.medium
-less.blackCircled.medium
-greater.blackCircled.medium
-equal.blackCircled.medium
-upArrow.blackCircled.medium
-downArrow.blackCircled.medium
-leftArrow.blackCircled.medium
-rightArrow.blackCircled.medium
-dngb_check.blackCircled.medium
-dngb_ballotx.blackCircled.medium
-plus.blackCircled.medium
-minus.blackCircled.medium
-multiply.blackCircled.medium
-divide.blackCircled.medium
-upChevron.blackCircled.medium
-downChevron.blackCircled.medium
-leftChevron.blackCircled.medium
-rightChevron.blackCircled.medium
-Dot.fill.medium
-";
-name = Circled_Fill_Medium;
-},
-{
-code = "zero.squared
-one.squared
-two.squared
-three.squared
-four.squared
-five.squared
-six.squared
-seven.squared
-eight.squared
-nine.squared
-one_zero.squared
-one_one.squared
-one_two.squared
-one_three.squared
-one_four.squared
-one_five.squared
-one_six.squared
-one_seven.squared
-one_eight.squared
-one_nine.squared
-two_zero.squared
-A.squared
-B.squared
-C.squared
-D.squared
-E.squared
-F.squared
-G.squared
-H.squared
-I.squared
-J.squared
-K.squared
-L.squared
-M.squared
-N.squared
-O.squared
-P.squared
-Q.squared
-R.squared
-S.squared
-T.squared
-U.squared
-V.squared
-W.squared
-X.squared
-Y.squared
-Z.squared
-exclam.squared
-question.squared
-numbersign.squared
-hyphen.squared
-less.squared
-greater.squared
-equal.squared
-upArrow.squared
-downArrow.squared
-leftArrow.squared
-rightArrow.squared
-dngb_check.squared
-dngb_ballotx.squared
-plus.squared
-minus.squared
-multiply.squared
-divide.squared
-upChevron.squared
-downChevron.squared
-leftChevron.squared
-rightChevron.squared
-Dot
-";
-name = Squared;
-},
-{
-code = "zero.squared.medium
-one.squared.medium
-two.squared.medium
-three.squared.medium
-four.squared.medium
-five.squared.medium
-six.squared.medium
-seven.squared.medium
-eight.squared.medium
-nine.squared.medium
-one_zero.squared.medium
-one_one.squared.medium
-one_two.squared.medium
-one_three.squared.medium
-one_four.squared.medium
-one_five.squared.medium
-one_six.squared.medium
-one_seven.squared.medium
-one_eight.squared.medium
-one_nine.squared.medium
-two_zero.squared.medium
-A.squared.medium
-B.squared.medium
-C.squared.medium
-D.squared.medium
-E.squared.medium
-F.squared.medium
-G.squared.medium
-H.squared.medium
-I.squared.medium
-J.squared.medium
-K.squared.medium
-L.squared.medium
-M.squared.medium
-N.squared.medium
-O.squared.medium
-P.squared.medium
-Q.squared.medium
-R.squared.medium
-S.squared.medium
-T.squared.medium
-U.squared.medium
-V.squared.medium
-W.squared.medium
-X.squared.medium
-Y.squared.medium
-Z.squared.medium
-exclam.squared.medium
-question.squared.medium
-numbersign.squared.medium
-hyphen.squared.medium
-less.squared.medium
-greater.squared.medium
-equal.squared.medium
-upArrow.squared.medium
-downArrow.squared.medium
-leftArrow.squared.medium
-rightArrow.squared.medium
-dngb_check.squared.medium
-dngb_ballotx.squared.medium
-plus.squared.medium
-minus.squared.medium
-multiply.squared.medium
-divide.squared.medium
-upChevron.squared.medium
-downChevron.squared.medium
-leftChevron.squared.medium
-rightChevron.squared.medium
-Dot.medium
-";
-name = Squared_Medium;
-},
-{
-code = "zero.roundBlackBox
-one.roundBlackBox
-two.roundBlackBox
-three.roundBlackBox
-four.roundBlackBox
-five.roundBlackBox
-six.roundBlackBox
-seven.roundBlackBox
-eight.roundBlackBox
-nine.roundBlackBox
-one_zero.roundBlackBox
-one_one.roundBlackBox
-one_two.roundBlackBox
-one_three.roundBlackBox
-one_four.roundBlackBox
-one_five.roundBlackBox
-one_six.roundBlackBox
-one_seven.roundBlackBox
-one_eight.roundBlackBox
-one_nine.roundBlackBox
-two_zero.roundBlackBox
-A.roundBlackBox
-B.roundBlackBox
-C.roundBlackBox
-D.roundBlackBox
-E.roundBlackBox
-F.roundBlackBox
-G.roundBlackBox
-H.roundBlackBox
-I.roundBlackBox
-J.roundBlackBox
-K.roundBlackBox
-L.roundBlackBox
-M.roundBlackBox
-N.roundBlackBox
-O.roundBlackBox
-P.roundBlackBox
-Q.roundBlackBox
-R.roundBlackBox
-S.roundBlackBox
-T.roundBlackBox
-U.roundBlackBox
-V.roundBlackBox
-W.roundBlackBox
-X.roundBlackBox
-Y.roundBlackBox
-Z.roundBlackBox
-exclam.roundBlackBox
-question.roundBlackBox
-numbersign.roundBlackBox
-hyphen.roundBlackBox
-less.roundBlackBox
-greater.roundBlackBox
-equal.roundBlackBox
-upArrow.roundBlackBox
-downArrow.roundBlackBox
-leftArrow.roundBlackBox
-rightArrow.roundBlackBox
-dngb_check.roundBlackBox
-dngb_ballotx.roundBlackBox
-plus.roundBlackBox
-minus.roundBlackBox
-multiply.roundBlackBox
-divide.roundBlackBox
-upChevron.roundBlackBox
-downChevron.roundBlackBox
-leftChevron.roundBlackBox
-rightChevron.roundBlackBox
-Dot.fill
-";
-name = Squared_Fill;
-},
-{
-code = "zero.roundBlackBox.medium
-one.roundBlackBox.medium
-two.roundBlackBox.medium
-three.roundBlackBox.medium
-four.roundBlackBox.medium
-five.roundBlackBox.medium
-six.roundBlackBox.medium
-seven.roundBlackBox.medium
-eight.roundBlackBox.medium
-nine.roundBlackBox.medium
-one_zero.roundBlackBox.medium
-one_one.roundBlackBox.medium
-one_two.roundBlackBox.medium
-one_three.roundBlackBox.medium
-one_four.roundBlackBox.medium
-one_five.roundBlackBox.medium
-one_six.roundBlackBox.medium
-one_seven.roundBlackBox.medium
-one_eight.roundBlackBox.medium
-one_nine.roundBlackBox.medium
-two_zero.roundBlackBox.medium
-A.roundBlackBox.medium
-B.roundBlackBox.medium
-C.roundBlackBox.medium
-D.roundBlackBox.medium
-E.roundBlackBox.medium
-F.roundBlackBox.medium
-G.roundBlackBox.medium
-H.roundBlackBox.medium
-I.roundBlackBox.medium
-J.roundBlackBox.medium
-K.roundBlackBox.medium
-L.roundBlackBox.medium
-M.roundBlackBox.medium
-N.roundBlackBox.medium
-O.roundBlackBox.medium
-P.roundBlackBox.medium
-Q.roundBlackBox.medium
-R.roundBlackBox.medium
-S.roundBlackBox.medium
-T.roundBlackBox.medium
-U.roundBlackBox.medium
-V.roundBlackBox.medium
-W.roundBlackBox.medium
-X.roundBlackBox.medium
-Y.roundBlackBox.medium
-Z.roundBlackBox.medium
-exclam.roundBlackBox.medium
-question.roundBlackBox.medium
-numbersign.roundBlackBox.medium
-hyphen.roundBlackBox.medium
-less.roundBlackBox.medium
-greater.roundBlackBox.medium
-equal.roundBlackBox.medium
-upArrow.roundBlackBox.medium
-downArrow.roundBlackBox.medium
-leftArrow.roundBlackBox.medium
-rightArrow.roundBlackBox.medium
-dngb_check.roundBlackBox.medium
-dngb_ballotx.roundBlackBox.medium
-plus.roundBlackBox.medium
-minus.roundBlackBox.medium
-multiply.roundBlackBox.medium
-divide.roundBlackBox.medium
-upChevron.roundBlackBox.medium
-downChevron.roundBlackBox.medium
-leftChevron.roundBlackBox.medium
-rightChevron.roundBlackBox.medium
-Dot.fill.medium
-";
-name = Squared_Fill_Medium;
-},
-{
-code = "iconDot.small
-";
-name = Symbol_Small;
-},
-{
-code = "iconDot
-";
-name = Symbol_Medium;
-},
-{
-code = "iconDot.large
-";
-name = Symbol_Large;
-},
-{
-code = "iconDot.fill.small
-";
-name = Symbol_Fill_Small;
-},
-{
-code = "iconDot.fill
-";
-name = Symbol_Fill_Medium;
-},
-{
-code = "iconDot.fill.large
-";
-name = Symbol_Fill_Large;
-},
-{
-code = "@Circled
-@Circled_Medium
-@Circled_Fill
-@Circled_Fill_Medium
-@Squared
-@Squared_Medium
-@Squared_Fill
-@Squared_Fill_Medium
-@Symbol_Small
-@Symbol_Medium
-@Symbol_Large
-@Symbol_Fill_Small
-@Symbol_Fill_Medium
-@Symbol_Fill_Large
-";
-name = Symbol;
 }
 );
 customParameters = (
@@ -4837,6 +4837,106 @@ sub @CASE_DELIM_R by @CASE_DELIM_R_R;
 } CASE_DELIM_R;
 ";
 name = Lookup;
+},
+{
+code = "lookup LOOKUP_SS05_1 {
+@ELLIPSIS_L = [
+ellipsis
+twodotenleader
+];
+
+@ELLIPSIS_R = [
+ellipsis.hang
+twodotenleader.hang
+];
+
+@PAREN_L = [
+parenleft
+parenleft.case
+];
+
+@PAREN_R = [
+parenright
+parenright.case
+];
+
+# ...K K... K.......
+sub @Hangul @ELLIPSIS_L' by @ELLIPSIS_R;
+sub @Hangul @ELLIPSIS_R @ELLIPSIS_L' by @ELLIPSIS_R;
+sub @ELLIPSIS_L' @Hangul by @ELLIPSIS_R;
+
+# ...... K ......
+sub @ELLIPSIS_L' @Whitespace @Hangul by @ELLIPSIS_R;
+sub @ELLIPSIS_L' @ELLIPSIS_L @Whitespace @Hangul by @ELLIPSIS_R;
+sub @Hangul @Whitespace @ELLIPSIS_L' by @ELLIPSIS_R;
+sub @Hangul @Whitespace @ELLIPSIS_R @ELLIPSIS_L' by @ELLIPSIS_R;
+
+# .... .......
+sub @ELLIPSIS_L' period by @ELLIPSIS_R;
+sub @ELLIPSIS_L' @ELLIPSIS_L period by @ELLIPSIS_R;
+
+# (...) to (---)
+sub @PAREN_L @ELLIPSIS_L' @PAREN_R by @ELLIPSIS_R;
+} LOOKUP_SS05_1;
+
+lookup LOOKUP_SS05_2 {
+# Case forms
+sub @CASE_HANG_LL by @CASE_HANG_RR;
+} LOOKUP_SS05_2;
+
+# Begin replacement SS05_3
+
+lookup LOOKUP_SS05_3 {
+# Hanja localization
+sub @LOCL_JAN_L by @LOCL_JAN_R;
+} LOOKUP_SS05_3;
+
+# End replacement SS05_3
+
+lookup LOOKUP_SS05_4 {
+@FULL_L = [
+blacklenticularbracketleft
+blacklenticularbracketright
+cornerbracketleft
+cornerbracketright
+dblanglebracketleft
+dblanglebracketright
+tortoiseshellbracketleft
+tortoiseshellbracketright
+whitecornerbracketleft
+whitecornerbracketright
+whitelenticularbracketleft
+whitelenticularbracketright
+whitesquarebracketleft
+whitesquarebracketright
+whitetortoiseshellbracketleft
+whitetortoiseshellbracketright
+];
+
+@FULL_R = [
+blacklenticularbracketleft.full
+blacklenticularbracketright.full
+cornerbracketleft.full
+cornerbracketright.full
+dblanglebracketleft.full
+dblanglebracketright.full
+tortoiseshellbracketleft.full
+tortoiseshellbracketright.full
+whitecornerbracketleft.full
+whitecornerbracketright.full
+whitelenticularbracketleft.full
+whitelenticularbracketright.full
+whitesquarebracketleft.full
+whitesquarebracketright.full
+whitetortoiseshellbracketleft.full
+whitetortoiseshellbracketright.full
+];
+
+# fwid to pwid
+sub @FULL_L by @FULL_R;
+} LOOKUP_SS05_4;
+";
+name = LOOKUP_SS05;
 }
 );
 features = (
@@ -5739,29 +5839,17 @@ lookup locl_latn_1 {
 	sub  L' periodcentered' L by Ldot;
 } locl_latn_1;
 
-lookup locl_hang {
-	script hang;
-	language KOR;
-} locl_hang;
-
 lookup locl_jan {
-	script kana;
+	script hang;
 	language dflt;
 	sub @LOCL_JAN_L by @LOCL_JAN_R;
 } locl_jan;
 
-lookup locl_kana_jan {
-	script kana;
-	language JAN;
-	sub @LOCL_JAN_L by @LOCL_JAN_R;
-} locl_kana_jan;
-
-lookup locl_hang_jan {
+lookup locl_hang {
 	script hang;
-	language JAN;
+	language KOR;
 	sub @LOCL_JAN_L by @LOCL_JAN_R;
-} locl_hang_jan;
-";
+} locl_hang;";
 tag = locl;
 },
 {
@@ -6844,49 +6932,10 @@ value = "Vertically centered colon";
 tag = ss03;
 },
 {
-code = "@ELLIPSIS_L = [
-ellipsis
-twodotenleader
-];
-
-@ELLIPSIS_R = [
-ellipsis.hang
-twodotenleader.hang
-];
-
-@PAREN_L = [
-parenleft
-parenleft.case
-];
-
-@PAREN_R = [
-parenright
-parenright.case
-];
-
-# ...K K... K.......
-sub @Hangul @ELLIPSIS_L' by @ELLIPSIS_R;
-sub @Hangul @ELLIPSIS_R @ELLIPSIS_L' by @ELLIPSIS_R;
-sub @ELLIPSIS_L' @Hangul by @ELLIPSIS_R;
-
-# ...... K ......
-sub @ELLIPSIS_L' @Whitespace @Hangul by @ELLIPSIS_R;
-sub @ELLIPSIS_L' @ELLIPSIS_L @Whitespace @Hangul by @ELLIPSIS_R;
-sub @Hangul @Whitespace @ELLIPSIS_L' by @ELLIPSIS_R;
-sub @Hangul @Whitespace @ELLIPSIS_R @ELLIPSIS_L' by @ELLIPSIS_R;
-
-# .... .......
-sub @ELLIPSIS_L' period by @ELLIPSIS_R;
-sub @ELLIPSIS_L' @ELLIPSIS_L period by @ELLIPSIS_R;
-
-# (...) to (---)
-sub @PAREN_L @ELLIPSIS_L' @PAREN_R by @ELLIPSIS_R;
-
-# Case forms
-sub @CASE_HANG_LL by @CASE_HANG_RR;
-
-# Hanja localization
-sub @LOCL_JAN_R by @LOCL_JAN_L;
+code = "lookup LOOKUP_SS05_1;
+lookup LOOKUP_SS05_2;
+lookup LOOKUP_SS05_3;
+lookup LOOKUP_SS05_4;
 ";
 labels = (
 {
@@ -8952,14 +9001,6 @@ value = (
 "uni5ECA=uni5ECA.loclJAN",
 "uni6717=uni6717.loclJAN"
 );
-},
-{
-name = "Replace Feature";
-value = "locl;lookup locl_latn_0 {\012	script latn;\012	language ROM;\012	sub Scedilla by Scommaaccent;\012	sub scedilla by scommaaccent;\012	sub tcedilla by tcommaaccent;\012	language MOL;\012	sub Scedilla by Scommaaccent;\012	sub scedilla by scommaaccent;\012	sub tcedilla by tcommaaccent;\012} locl_latn_0;\012\012lookup locl_latn_1 {\012	script latn;\012	language CAT;\012	sub  l' periodcentered' l by ldot;\012	sub  L' periodcentered' L by Ldot;\012} locl_latn_1;\012\012lookup locl_jan {\012	script hang;\012	language dflt;\012	sub @LOCL_JAN_L by @LOCL_JAN_R;\012} locl_jan;\012\012lookup locl_hang {\012	script hang;\012	language KOR;\012	sub @LOCL_JAN_L by @LOCL_JAN_R;\012} locl_hang;";
-},
-{
-name = "Replace Feature";
-value = "ss05;@ELLIPSIS_L = [\012ellipsis\012twodotenleader\012];\012\012@ELLIPSIS_R = [\012ellipsis.hang\012twodotenleader.hang\012];\012\012@PAREN_L = [\012parenleft\012parenleft.case\012];\012\012@PAREN_R = [\012parenright\012parenright.case\012];\012\012@FULL_L = [\012blacklenticularbracketleft\012blacklenticularbracketright\012cornerbracketleft\012cornerbracketright\012dblanglebracketleft\012dblanglebracketright\012tortoiseshellbracketleft\012tortoiseshellbracketright\012whitecornerbracketleft\012whitecornerbracketright\012whitelenticularbracketleft\012whitelenticularbracketright\012whitesquarebracketleft\012whitesquarebracketright\012whitetortoiseshellbracketleft\012whitetortoiseshellbracketright\012];\012\012@FULL_R = [\012blacklenticularbracketleft.full\012blacklenticularbracketright.full\012cornerbracketleft.full\012cornerbracketright.full\012dblanglebracketleft.full\012dblanglebracketright.full\012tortoiseshellbracketleft.full\012tortoiseshellbracketright.full\012whitecornerbracketleft.full\012whitecornerbracketright.full\012whitelenticularbracketleft.full\012whitelenticularbracketright.full\012whitesquarebracketleft.full\012whitesquarebracketright.full\012whitetortoiseshellbracketleft.full\012whitetortoiseshellbracketright.full\012];\012\012# ...K K... K.......\012sub @Hangul @ELLIPSIS_L' by @ELLIPSIS_R;\012sub @Hangul @ELLIPSIS_R @ELLIPSIS_L' by @ELLIPSIS_R;\012sub @ELLIPSIS_L' @Hangul by @ELLIPSIS_R;\012\012# ...... K ......\012sub @ELLIPSIS_L' @Whitespace @Hangul by @ELLIPSIS_R;\012sub @ELLIPSIS_L' @ELLIPSIS_L @Whitespace @Hangul by @ELLIPSIS_R;\012sub @Hangul @Whitespace @ELLIPSIS_L' by @ELLIPSIS_R;\012sub @Hangul @Whitespace @ELLIPSIS_R @ELLIPSIS_L' by @ELLIPSIS_R;\012\012# .... .......\012sub @ELLIPSIS_L' period by @ELLIPSIS_R;\012sub @ELLIPSIS_L' @ELLIPSIS_L period by @ELLIPSIS_R;\012\012# (...) to (---)\012sub @PAREN_L @ELLIPSIS_L' @PAREN_R by @ELLIPSIS_R;\012\012# Case forms\012sub @CASE_HANG_LL by @CASE_HANG_RR;\012\012# Hanja localization\012sub @LOCL_JAN_L by @LOCL_JAN_R;\012\012# fwid to pwid\012sub @FULL_L by @FULL_R;";
 }
 );
 instanceInterpolations = {
@@ -9564,14 +9605,6 @@ value = (
 "uni5ECA=uni5ECA.loclJAN",
 "uni6717=uni6717.loclJAN"
 );
-},
-{
-name = "Replace Feature";
-value = "locl;lookup locl_latn_0 {\012	script latn;\012	language ROM;\012	sub Scedilla by Scommaaccent;\012	sub scedilla by scommaaccent;\012	sub tcedilla by tcommaaccent;\012	language MOL;\012	sub Scedilla by Scommaaccent;\012	sub scedilla by scommaaccent;\012	sub tcedilla by tcommaaccent;\012} locl_latn_0;\012\012lookup locl_latn_1 {\012	script latn;\012	language CAT;\012	sub  l' periodcentered' l by ldot;\012	sub  L' periodcentered' L by Ldot;\012} locl_latn_1;\012\012lookup locl_jan {\012	script hang;\012	language dflt;\012	sub @LOCL_JAN_L by @LOCL_JAN_R;\012} locl_jan;\012\012lookup locl_hang {\012	script hang;\012	language KOR;\012	sub @LOCL_JAN_L by @LOCL_JAN_R;\012} locl_hang;";
-},
-{
-name = "Replace Feature";
-value = "ss05;@ELLIPSIS_L = [\012ellipsis\012twodotenleader\012];\012\012@ELLIPSIS_R = [\012ellipsis.hang\012twodotenleader.hang\012];\012\012@PAREN_L = [\012parenleft\012parenleft.case\012];\012\012@PAREN_R = [\012parenright\012parenright.case\012];\012\012@FULL_L = [\012blacklenticularbracketleft\012blacklenticularbracketright\012cornerbracketleft\012cornerbracketright\012dblanglebracketleft\012dblanglebracketright\012tortoiseshellbracketleft\012tortoiseshellbracketright\012whitecornerbracketleft\012whitecornerbracketright\012whitelenticularbracketleft\012whitelenticularbracketright\012whitesquarebracketleft\012whitesquarebracketright\012whitetortoiseshellbracketleft\012whitetortoiseshellbracketright\012];\012\012@FULL_R = [\012blacklenticularbracketleft.full\012blacklenticularbracketright.full\012cornerbracketleft.full\012cornerbracketright.full\012dblanglebracketleft.full\012dblanglebracketright.full\012tortoiseshellbracketleft.full\012tortoiseshellbracketright.full\012whitecornerbracketleft.full\012whitecornerbracketright.full\012whitelenticularbracketleft.full\012whitelenticularbracketright.full\012whitesquarebracketleft.full\012whitesquarebracketright.full\012whitetortoiseshellbracketleft.full\012whitetortoiseshellbracketright.full\012];\012\012# ...K K... K.......\012sub @Hangul @ELLIPSIS_L' by @ELLIPSIS_R;\012sub @Hangul @ELLIPSIS_R @ELLIPSIS_L' by @ELLIPSIS_R;\012sub @ELLIPSIS_L' @Hangul by @ELLIPSIS_R;\012\012# ...... K ......\012sub @ELLIPSIS_L' @Whitespace @Hangul by @ELLIPSIS_R;\012sub @ELLIPSIS_L' @ELLIPSIS_L @Whitespace @Hangul by @ELLIPSIS_R;\012sub @Hangul @Whitespace @ELLIPSIS_L' by @ELLIPSIS_R;\012sub @Hangul @Whitespace @ELLIPSIS_R @ELLIPSIS_L' by @ELLIPSIS_R;\012\012# .... .......\012sub @ELLIPSIS_L' period by @ELLIPSIS_R;\012sub @ELLIPSIS_L' @ELLIPSIS_L period by @ELLIPSIS_R;\012\012# (...) to (---)\012sub @PAREN_L @ELLIPSIS_L' @PAREN_R by @ELLIPSIS_R;\012\012# Case forms\012sub @CASE_HANG_LL by @CASE_HANG_RR;\012\012# Hanja localization\012sub @LOCL_JAN_L by @LOCL_JAN_R;\012\012# fwid to pwid\012sub @FULL_L by @FULL_R;";
 }
 );
 instanceInterpolations = {
@@ -10176,14 +10209,6 @@ value = (
 "uni5ECA=uni5ECA.loclJAN",
 "uni6717=uni6717.loclJAN"
 );
-},
-{
-name = "Replace Feature";
-value = "locl;lookup locl_latn_0 {\012	script latn;\012	language ROM;\012	sub Scedilla by Scommaaccent;\012	sub scedilla by scommaaccent;\012	sub tcedilla by tcommaaccent;\012	language MOL;\012	sub Scedilla by Scommaaccent;\012	sub scedilla by scommaaccent;\012	sub tcedilla by tcommaaccent;\012} locl_latn_0;\012\012lookup locl_latn_1 {\012	script latn;\012	language CAT;\012	sub  l' periodcentered' l by ldot;\012	sub  L' periodcentered' L by Ldot;\012} locl_latn_1;\012\012lookup locl_jan {\012	script hang;\012	language dflt;\012	sub @LOCL_JAN_L by @LOCL_JAN_R;\012} locl_jan;\012\012lookup locl_hang {\012	script hang;\012	language KOR;\012	sub @LOCL_JAN_L by @LOCL_JAN_R;\012} locl_hang;";
-},
-{
-name = "Replace Feature";
-value = "ss05;@ELLIPSIS_L = [\012ellipsis\012twodotenleader\012];\012\012@ELLIPSIS_R = [\012ellipsis.hang\012twodotenleader.hang\012];\012\012@PAREN_L = [\012parenleft\012parenleft.case\012];\012\012@PAREN_R = [\012parenright\012parenright.case\012];\012\012@FULL_L = [\012blacklenticularbracketleft\012blacklenticularbracketright\012cornerbracketleft\012cornerbracketright\012dblanglebracketleft\012dblanglebracketright\012tortoiseshellbracketleft\012tortoiseshellbracketright\012whitecornerbracketleft\012whitecornerbracketright\012whitelenticularbracketleft\012whitelenticularbracketright\012whitesquarebracketleft\012whitesquarebracketright\012whitetortoiseshellbracketleft\012whitetortoiseshellbracketright\012];\012\012@FULL_R = [\012blacklenticularbracketleft.full\012blacklenticularbracketright.full\012cornerbracketleft.full\012cornerbracketright.full\012dblanglebracketleft.full\012dblanglebracketright.full\012tortoiseshellbracketleft.full\012tortoiseshellbracketright.full\012whitecornerbracketleft.full\012whitecornerbracketright.full\012whitelenticularbracketleft.full\012whitelenticularbracketright.full\012whitesquarebracketleft.full\012whitesquarebracketright.full\012whitetortoiseshellbracketleft.full\012whitetortoiseshellbracketright.full\012];\012\012# ...K K... K.......\012sub @Hangul @ELLIPSIS_L' by @ELLIPSIS_R;\012sub @Hangul @ELLIPSIS_R @ELLIPSIS_L' by @ELLIPSIS_R;\012sub @ELLIPSIS_L' @Hangul by @ELLIPSIS_R;\012\012# ...... K ......\012sub @ELLIPSIS_L' @Whitespace @Hangul by @ELLIPSIS_R;\012sub @ELLIPSIS_L' @ELLIPSIS_L @Whitespace @Hangul by @ELLIPSIS_R;\012sub @Hangul @Whitespace @ELLIPSIS_L' by @ELLIPSIS_R;\012sub @Hangul @Whitespace @ELLIPSIS_R @ELLIPSIS_L' by @ELLIPSIS_R;\012\012# .... .......\012sub @ELLIPSIS_L' period by @ELLIPSIS_R;\012sub @ELLIPSIS_L' @ELLIPSIS_L period by @ELLIPSIS_R;\012\012# (...) to (---)\012sub @PAREN_L @ELLIPSIS_L' @PAREN_R by @ELLIPSIS_R;\012\012# Case forms\012sub @CASE_HANG_LL by @CASE_HANG_RR;\012\012# Hanja localization\012sub @LOCL_JAN_L by @LOCL_JAN_R;\012\012# fwid to pwid\012sub @FULL_L by @FULL_R;";
 }
 );
 instanceInterpolations = {
@@ -10788,14 +10813,6 @@ value = (
 "uni5ECA=uni5ECA.loclJAN",
 "uni6717=uni6717.loclJAN"
 );
-},
-{
-name = "Replace Feature";
-value = "locl;lookup locl_latn_0 {\012	script latn;\012	language ROM;\012	sub Scedilla by Scommaaccent;\012	sub scedilla by scommaaccent;\012	sub tcedilla by tcommaaccent;\012	language MOL;\012	sub Scedilla by Scommaaccent;\012	sub scedilla by scommaaccent;\012	sub tcedilla by tcommaaccent;\012} locl_latn_0;\012\012lookup locl_latn_1 {\012	script latn;\012	language CAT;\012	sub  l' periodcentered' l by ldot;\012	sub  L' periodcentered' L by Ldot;\012} locl_latn_1;\012\012lookup locl_jan {\012	script hang;\012	language dflt;\012	sub @LOCL_JAN_L by @LOCL_JAN_R;\012} locl_jan;\012\012lookup locl_hang {\012	script hang;\012	language KOR;\012	sub @LOCL_JAN_L by @LOCL_JAN_R;\012} locl_hang;";
-},
-{
-name = "Replace Feature";
-value = "ss05;@ELLIPSIS_L = [\012ellipsis\012twodotenleader\012];\012\012@ELLIPSIS_R = [\012ellipsis.hang\012twodotenleader.hang\012];\012\012@PAREN_L = [\012parenleft\012parenleft.case\012];\012\012@PAREN_R = [\012parenright\012parenright.case\012];\012\012@FULL_L = [\012blacklenticularbracketleft\012blacklenticularbracketright\012cornerbracketleft\012cornerbracketright\012dblanglebracketleft\012dblanglebracketright\012tortoiseshellbracketleft\012tortoiseshellbracketright\012whitecornerbracketleft\012whitecornerbracketright\012whitelenticularbracketleft\012whitelenticularbracketright\012whitesquarebracketleft\012whitesquarebracketright\012whitetortoiseshellbracketleft\012whitetortoiseshellbracketright\012];\012\012@FULL_R = [\012blacklenticularbracketleft.full\012blacklenticularbracketright.full\012cornerbracketleft.full\012cornerbracketright.full\012dblanglebracketleft.full\012dblanglebracketright.full\012tortoiseshellbracketleft.full\012tortoiseshellbracketright.full\012whitecornerbracketleft.full\012whitecornerbracketright.full\012whitelenticularbracketleft.full\012whitelenticularbracketright.full\012whitesquarebracketleft.full\012whitesquarebracketright.full\012whitetortoiseshellbracketleft.full\012whitetortoiseshellbracketright.full\012];\012\012# ...K K... K.......\012sub @Hangul @ELLIPSIS_L' by @ELLIPSIS_R;\012sub @Hangul @ELLIPSIS_R @ELLIPSIS_L' by @ELLIPSIS_R;\012sub @ELLIPSIS_L' @Hangul by @ELLIPSIS_R;\012\012# ...... K ......\012sub @ELLIPSIS_L' @Whitespace @Hangul by @ELLIPSIS_R;\012sub @ELLIPSIS_L' @ELLIPSIS_L @Whitespace @Hangul by @ELLIPSIS_R;\012sub @Hangul @Whitespace @ELLIPSIS_L' by @ELLIPSIS_R;\012sub @Hangul @Whitespace @ELLIPSIS_R @ELLIPSIS_L' by @ELLIPSIS_R;\012\012# .... .......\012sub @ELLIPSIS_L' period by @ELLIPSIS_R;\012sub @ELLIPSIS_L' @ELLIPSIS_L period by @ELLIPSIS_R;\012\012# (...) to (---)\012sub @PAREN_L @ELLIPSIS_L' @PAREN_R by @ELLIPSIS_R;\012\012# Case forms\012sub @CASE_HANG_LL by @CASE_HANG_RR;\012\012# Hanja localization\012sub @LOCL_JAN_L by @LOCL_JAN_R;\012\012# fwid to pwid\012sub @FULL_L by @FULL_R;";
 }
 );
 instanceInterpolations = {
@@ -11398,14 +11415,6 @@ value = (
 "uni5ECA=uni5ECA.loclJAN",
 "uni6717=uni6717.loclJAN"
 );
-},
-{
-name = "Replace Feature";
-value = "locl;lookup locl_latn_0 {\012	script latn;\012	language ROM;\012	sub Scedilla by Scommaaccent;\012	sub scedilla by scommaaccent;\012	sub tcedilla by tcommaaccent;\012	language MOL;\012	sub Scedilla by Scommaaccent;\012	sub scedilla by scommaaccent;\012	sub tcedilla by tcommaaccent;\012} locl_latn_0;\012\012lookup locl_latn_1 {\012	script latn;\012	language CAT;\012	sub  l' periodcentered' l by ldot;\012	sub  L' periodcentered' L by Ldot;\012} locl_latn_1;\012\012lookup locl_jan {\012	script hang;\012	language dflt;\012	sub @LOCL_JAN_L by @LOCL_JAN_R;\012} locl_jan;\012\012lookup locl_hang {\012	script hang;\012	language KOR;\012	sub @LOCL_JAN_L by @LOCL_JAN_R;\012} locl_hang;";
-},
-{
-name = "Replace Feature";
-value = "ss05;@ELLIPSIS_L = [\012ellipsis\012twodotenleader\012];\012\012@ELLIPSIS_R = [\012ellipsis.hang\012twodotenleader.hang\012];\012\012@PAREN_L = [\012parenleft\012parenleft.case\012];\012\012@PAREN_R = [\012parenright\012parenright.case\012];\012\012@FULL_L = [\012blacklenticularbracketleft\012blacklenticularbracketright\012cornerbracketleft\012cornerbracketright\012dblanglebracketleft\012dblanglebracketright\012tortoiseshellbracketleft\012tortoiseshellbracketright\012whitecornerbracketleft\012whitecornerbracketright\012whitelenticularbracketleft\012whitelenticularbracketright\012whitesquarebracketleft\012whitesquarebracketright\012whitetortoiseshellbracketleft\012whitetortoiseshellbracketright\012];\012\012@FULL_R = [\012blacklenticularbracketleft.full\012blacklenticularbracketright.full\012cornerbracketleft.full\012cornerbracketright.full\012dblanglebracketleft.full\012dblanglebracketright.full\012tortoiseshellbracketleft.full\012tortoiseshellbracketright.full\012whitecornerbracketleft.full\012whitecornerbracketright.full\012whitelenticularbracketleft.full\012whitelenticularbracketright.full\012whitesquarebracketleft.full\012whitesquarebracketright.full\012whitetortoiseshellbracketleft.full\012whitetortoiseshellbracketright.full\012];\012\012# ...K K... K.......\012sub @Hangul @ELLIPSIS_L' by @ELLIPSIS_R;\012sub @Hangul @ELLIPSIS_R @ELLIPSIS_L' by @ELLIPSIS_R;\012sub @ELLIPSIS_L' @Hangul by @ELLIPSIS_R;\012\012# ...... K ......\012sub @ELLIPSIS_L' @Whitespace @Hangul by @ELLIPSIS_R;\012sub @ELLIPSIS_L' @ELLIPSIS_L @Whitespace @Hangul by @ELLIPSIS_R;\012sub @Hangul @Whitespace @ELLIPSIS_L' by @ELLIPSIS_R;\012sub @Hangul @Whitespace @ELLIPSIS_R @ELLIPSIS_L' by @ELLIPSIS_R;\012\012# .... .......\012sub @ELLIPSIS_L' period by @ELLIPSIS_R;\012sub @ELLIPSIS_L' @ELLIPSIS_L period by @ELLIPSIS_R;\012\012# (...) to (---)\012sub @PAREN_L @ELLIPSIS_L' @PAREN_R by @ELLIPSIS_R;\012\012# Case forms\012sub @CASE_HANG_LL by @CASE_HANG_RR;\012\012# Hanja localization\012sub @LOCL_JAN_L by @LOCL_JAN_R;\012\012# fwid to pwid\012sub @FULL_L by @FULL_R;";
 }
 );
 instanceInterpolations = {
@@ -12010,14 +12019,6 @@ value = (
 "uni5ECA=uni5ECA.loclJAN",
 "uni6717=uni6717.loclJAN"
 );
-},
-{
-name = "Replace Feature";
-value = "locl;lookup locl_latn_0 {\012	script latn;\012	language ROM;\012	sub Scedilla by Scommaaccent;\012	sub scedilla by scommaaccent;\012	sub tcedilla by tcommaaccent;\012	language MOL;\012	sub Scedilla by Scommaaccent;\012	sub scedilla by scommaaccent;\012	sub tcedilla by tcommaaccent;\012} locl_latn_0;\012\012lookup locl_latn_1 {\012	script latn;\012	language CAT;\012	sub  l' periodcentered' l by ldot;\012	sub  L' periodcentered' L by Ldot;\012} locl_latn_1;\012\012lookup locl_jan {\012	script hang;\012	language dflt;\012	sub @LOCL_JAN_L by @LOCL_JAN_R;\012} locl_jan;\012\012lookup locl_hang {\012	script hang;\012	language KOR;\012	sub @LOCL_JAN_L by @LOCL_JAN_R;\012} locl_hang;";
-},
-{
-name = "Replace Feature";
-value = "ss05;@ELLIPSIS_L = [\012ellipsis\012twodotenleader\012];\012\012@ELLIPSIS_R = [\012ellipsis.hang\012twodotenleader.hang\012];\012\012@PAREN_L = [\012parenleft\012parenleft.case\012];\012\012@PAREN_R = [\012parenright\012parenright.case\012];\012\012@FULL_L = [\012blacklenticularbracketleft\012blacklenticularbracketright\012cornerbracketleft\012cornerbracketright\012dblanglebracketleft\012dblanglebracketright\012tortoiseshellbracketleft\012tortoiseshellbracketright\012whitecornerbracketleft\012whitecornerbracketright\012whitelenticularbracketleft\012whitelenticularbracketright\012whitesquarebracketleft\012whitesquarebracketright\012whitetortoiseshellbracketleft\012whitetortoiseshellbracketright\012];\012\012@FULL_R = [\012blacklenticularbracketleft.full\012blacklenticularbracketright.full\012cornerbracketleft.full\012cornerbracketright.full\012dblanglebracketleft.full\012dblanglebracketright.full\012tortoiseshellbracketleft.full\012tortoiseshellbracketright.full\012whitecornerbracketleft.full\012whitecornerbracketright.full\012whitelenticularbracketleft.full\012whitelenticularbracketright.full\012whitesquarebracketleft.full\012whitesquarebracketright.full\012whitetortoiseshellbracketleft.full\012whitetortoiseshellbracketright.full\012];\012\012# ...K K... K.......\012sub @Hangul @ELLIPSIS_L' by @ELLIPSIS_R;\012sub @Hangul @ELLIPSIS_R @ELLIPSIS_L' by @ELLIPSIS_R;\012sub @ELLIPSIS_L' @Hangul by @ELLIPSIS_R;\012\012# ...... K ......\012sub @ELLIPSIS_L' @Whitespace @Hangul by @ELLIPSIS_R;\012sub @ELLIPSIS_L' @ELLIPSIS_L @Whitespace @Hangul by @ELLIPSIS_R;\012sub @Hangul @Whitespace @ELLIPSIS_L' by @ELLIPSIS_R;\012sub @Hangul @Whitespace @ELLIPSIS_R @ELLIPSIS_L' by @ELLIPSIS_R;\012\012# .... .......\012sub @ELLIPSIS_L' period by @ELLIPSIS_R;\012sub @ELLIPSIS_L' @ELLIPSIS_L period by @ELLIPSIS_R;\012\012# (...) to (---)\012sub @PAREN_L @ELLIPSIS_L' @PAREN_R by @ELLIPSIS_R;\012\012# Case forms\012sub @CASE_HANG_LL by @CASE_HANG_RR;\012\012# Hanja localization\012sub @LOCL_JAN_L by @LOCL_JAN_R;\012\012# fwid to pwid\012sub @FULL_L by @FULL_R;";
 }
 );
 instanceInterpolations = {
@@ -12622,14 +12623,6 @@ value = (
 "uni5ECA=uni5ECA.loclJAN",
 "uni6717=uni6717.loclJAN"
 );
-},
-{
-name = "Replace Feature";
-value = "locl;lookup locl_latn_0 {\012	script latn;\012	language ROM;\012	sub Scedilla by Scommaaccent;\012	sub scedilla by scommaaccent;\012	sub tcedilla by tcommaaccent;\012	language MOL;\012	sub Scedilla by Scommaaccent;\012	sub scedilla by scommaaccent;\012	sub tcedilla by tcommaaccent;\012} locl_latn_0;\012\012lookup locl_latn_1 {\012	script latn;\012	language CAT;\012	sub  l' periodcentered' l by ldot;\012	sub  L' periodcentered' L by Ldot;\012} locl_latn_1;\012\012lookup locl_jan {\012	script hang;\012	language dflt;\012	sub @LOCL_JAN_L by @LOCL_JAN_R;\012} locl_jan;\012\012lookup locl_hang {\012	script hang;\012	language KOR;\012	sub @LOCL_JAN_L by @LOCL_JAN_R;\012} locl_hang;";
-},
-{
-name = "Replace Feature";
-value = "ss05;@ELLIPSIS_L = [\012ellipsis\012twodotenleader\012];\012\012@ELLIPSIS_R = [\012ellipsis.hang\012twodotenleader.hang\012];\012\012@PAREN_L = [\012parenleft\012parenleft.case\012];\012\012@PAREN_R = [\012parenright\012parenright.case\012];\012\012@FULL_L = [\012blacklenticularbracketleft\012blacklenticularbracketright\012cornerbracketleft\012cornerbracketright\012dblanglebracketleft\012dblanglebracketright\012tortoiseshellbracketleft\012tortoiseshellbracketright\012whitecornerbracketleft\012whitecornerbracketright\012whitelenticularbracketleft\012whitelenticularbracketright\012whitesquarebracketleft\012whitesquarebracketright\012whitetortoiseshellbracketleft\012whitetortoiseshellbracketright\012];\012\012@FULL_R = [\012blacklenticularbracketleft.full\012blacklenticularbracketright.full\012cornerbracketleft.full\012cornerbracketright.full\012dblanglebracketleft.full\012dblanglebracketright.full\012tortoiseshellbracketleft.full\012tortoiseshellbracketright.full\012whitecornerbracketleft.full\012whitecornerbracketright.full\012whitelenticularbracketleft.full\012whitelenticularbracketright.full\012whitesquarebracketleft.full\012whitesquarebracketright.full\012whitetortoiseshellbracketleft.full\012whitetortoiseshellbracketright.full\012];\012\012# ...K K... K.......\012sub @Hangul @ELLIPSIS_L' by @ELLIPSIS_R;\012sub @Hangul @ELLIPSIS_R @ELLIPSIS_L' by @ELLIPSIS_R;\012sub @ELLIPSIS_L' @Hangul by @ELLIPSIS_R;\012\012# ...... K ......\012sub @ELLIPSIS_L' @Whitespace @Hangul by @ELLIPSIS_R;\012sub @ELLIPSIS_L' @ELLIPSIS_L @Whitespace @Hangul by @ELLIPSIS_R;\012sub @Hangul @Whitespace @ELLIPSIS_L' by @ELLIPSIS_R;\012sub @Hangul @Whitespace @ELLIPSIS_R @ELLIPSIS_L' by @ELLIPSIS_R;\012\012# .... .......\012sub @ELLIPSIS_L' period by @ELLIPSIS_R;\012sub @ELLIPSIS_L' @ELLIPSIS_L period by @ELLIPSIS_R;\012\012# (...) to (---)\012sub @PAREN_L @ELLIPSIS_L' @PAREN_R by @ELLIPSIS_R;\012\012# Case forms\012sub @CASE_HANG_LL by @CASE_HANG_RR;\012\012# Hanja localization\012sub @LOCL_JAN_L by @LOCL_JAN_R;\012\012# fwid to pwid\012sub @FULL_L by @FULL_R;";
 }
 );
 instanceInterpolations = {
@@ -13235,14 +13228,6 @@ value = (
 "uni5ECA=uni5ECA.loclJAN",
 "uni6717=uni6717.loclJAN"
 );
-},
-{
-name = "Replace Feature";
-value = "locl;lookup locl_latn_0 {\012	script latn;\012	language ROM;\012	sub Scedilla by Scommaaccent;\012	sub scedilla by scommaaccent;\012	sub tcedilla by tcommaaccent;\012	language MOL;\012	sub Scedilla by Scommaaccent;\012	sub scedilla by scommaaccent;\012	sub tcedilla by tcommaaccent;\012} locl_latn_0;\012\012lookup locl_latn_1 {\012	script latn;\012	language CAT;\012	sub  l' periodcentered' l by ldot;\012	sub  L' periodcentered' L by Ldot;\012} locl_latn_1;\012\012lookup locl_jan {\012	script hang;\012	language dflt;\012	sub @LOCL_JAN_L by @LOCL_JAN_R;\012} locl_jan;\012\012lookup locl_hang {\012	script hang;\012	language KOR;\012	sub @LOCL_JAN_L by @LOCL_JAN_R;\012} locl_hang;";
-},
-{
-name = "Replace Feature";
-value = "ss05;@ELLIPSIS_L = [\012ellipsis\012twodotenleader\012];\012\012@ELLIPSIS_R = [\012ellipsis.hang\012twodotenleader.hang\012];\012\012@PAREN_L = [\012parenleft\012parenleft.case\012];\012\012@PAREN_R = [\012parenright\012parenright.case\012];\012\012@FULL_L = [\012blacklenticularbracketleft\012blacklenticularbracketright\012cornerbracketleft\012cornerbracketright\012dblanglebracketleft\012dblanglebracketright\012tortoiseshellbracketleft\012tortoiseshellbracketright\012whitecornerbracketleft\012whitecornerbracketright\012whitelenticularbracketleft\012whitelenticularbracketright\012whitesquarebracketleft\012whitesquarebracketright\012whitetortoiseshellbracketleft\012whitetortoiseshellbracketright\012];\012\012@FULL_R = [\012blacklenticularbracketleft.full\012blacklenticularbracketright.full\012cornerbracketleft.full\012cornerbracketright.full\012dblanglebracketleft.full\012dblanglebracketright.full\012tortoiseshellbracketleft.full\012tortoiseshellbracketright.full\012whitecornerbracketleft.full\012whitecornerbracketright.full\012whitelenticularbracketleft.full\012whitelenticularbracketright.full\012whitesquarebracketleft.full\012whitesquarebracketright.full\012whitetortoiseshellbracketleft.full\012whitetortoiseshellbracketright.full\012];\012\012# ...K K... K.......\012sub @Hangul @ELLIPSIS_L' by @ELLIPSIS_R;\012sub @Hangul @ELLIPSIS_R @ELLIPSIS_L' by @ELLIPSIS_R;\012sub @ELLIPSIS_L' @Hangul by @ELLIPSIS_R;\012\012# ...... K ......\012sub @ELLIPSIS_L' @Whitespace @Hangul by @ELLIPSIS_R;\012sub @ELLIPSIS_L' @ELLIPSIS_L @Whitespace @Hangul by @ELLIPSIS_R;\012sub @Hangul @Whitespace @ELLIPSIS_L' by @ELLIPSIS_R;\012sub @Hangul @Whitespace @ELLIPSIS_R @ELLIPSIS_L' by @ELLIPSIS_R;\012\012# .... .......\012sub @ELLIPSIS_L' period by @ELLIPSIS_R;\012sub @ELLIPSIS_L' @ELLIPSIS_L period by @ELLIPSIS_R;\012\012# (...) to (---)\012sub @PAREN_L @ELLIPSIS_L' @PAREN_R by @ELLIPSIS_R;\012\012# Case forms\012sub @CASE_HANG_LL by @CASE_HANG_RR;\012\012# Hanja localization\012sub @LOCL_JAN_L by @LOCL_JAN_R;\012\012# fwid to pwid\012sub @FULL_L by @FULL_R;";
 }
 );
 instanceInterpolations = {
@@ -13847,14 +13832,6 @@ value = (
 "uni5ECA=uni5ECA.loclJAN",
 "uni6717=uni6717.loclJAN"
 );
-},
-{
-name = "Replace Feature";
-value = "locl;lookup locl_latn_0 {\012	script latn;\012	language ROM;\012	sub Scedilla by Scommaaccent;\012	sub scedilla by scommaaccent;\012	sub tcedilla by tcommaaccent;\012	language MOL;\012	sub Scedilla by Scommaaccent;\012	sub scedilla by scommaaccent;\012	sub tcedilla by tcommaaccent;\012} locl_latn_0;\012\012lookup locl_latn_1 {\012	script latn;\012	language CAT;\012	sub  l' periodcentered' l by ldot;\012	sub  L' periodcentered' L by Ldot;\012} locl_latn_1;\012\012lookup locl_jan {\012	script hang;\012	language dflt;\012	sub @LOCL_JAN_L by @LOCL_JAN_R;\012} locl_jan;\012\012lookup locl_hang {\012	script hang;\012	language KOR;\012	sub @LOCL_JAN_L by @LOCL_JAN_R;\012} locl_hang;";
-},
-{
-name = "Replace Feature";
-value = "ss05;@ELLIPSIS_L = [\012ellipsis\012twodotenleader\012];\012\012@ELLIPSIS_R = [\012ellipsis.hang\012twodotenleader.hang\012];\012\012@PAREN_L = [\012parenleft\012parenleft.case\012];\012\012@PAREN_R = [\012parenright\012parenright.case\012];\012\012@FULL_L = [\012blacklenticularbracketleft\012blacklenticularbracketright\012cornerbracketleft\012cornerbracketright\012dblanglebracketleft\012dblanglebracketright\012tortoiseshellbracketleft\012tortoiseshellbracketright\012whitecornerbracketleft\012whitecornerbracketright\012whitelenticularbracketleft\012whitelenticularbracketright\012whitesquarebracketleft\012whitesquarebracketright\012whitetortoiseshellbracketleft\012whitetortoiseshellbracketright\012];\012\012@FULL_R = [\012blacklenticularbracketleft.full\012blacklenticularbracketright.full\012cornerbracketleft.full\012cornerbracketright.full\012dblanglebracketleft.full\012dblanglebracketright.full\012tortoiseshellbracketleft.full\012tortoiseshellbracketright.full\012whitecornerbracketleft.full\012whitecornerbracketright.full\012whitelenticularbracketleft.full\012whitelenticularbracketright.full\012whitesquarebracketleft.full\012whitesquarebracketright.full\012whitetortoiseshellbracketleft.full\012whitetortoiseshellbracketright.full\012];\012\012# ...K K... K.......\012sub @Hangul @ELLIPSIS_L' by @ELLIPSIS_R;\012sub @Hangul @ELLIPSIS_R @ELLIPSIS_L' by @ELLIPSIS_R;\012sub @ELLIPSIS_L' @Hangul by @ELLIPSIS_R;\012\012# ...... K ......\012sub @ELLIPSIS_L' @Whitespace @Hangul by @ELLIPSIS_R;\012sub @ELLIPSIS_L' @ELLIPSIS_L @Whitespace @Hangul by @ELLIPSIS_R;\012sub @Hangul @Whitespace @ELLIPSIS_L' by @ELLIPSIS_R;\012sub @Hangul @Whitespace @ELLIPSIS_R @ELLIPSIS_L' by @ELLIPSIS_R;\012\012# .... .......\012sub @ELLIPSIS_L' period by @ELLIPSIS_R;\012sub @ELLIPSIS_L' @ELLIPSIS_L period by @ELLIPSIS_R;\012\012# (...) to (---)\012sub @PAREN_L @ELLIPSIS_L' @PAREN_R by @ELLIPSIS_R;\012\012# Case forms\012sub @CASE_HANG_LL by @CASE_HANG_RR;\012\012# Hanja localization\012sub @LOCL_JAN_L by @LOCL_JAN_R;\012\012# fwid to pwid\012sub @FULL_L by @FULL_R;";
 }
 );
 instanceInterpolations = {
@@ -14461,14 +14438,6 @@ value = (
 );
 },
 {
-name = "Replace Feature";
-value = "locl;lookup locl_latn_0 {\012	script latn;\012	language ROM;\012	sub Scedilla by Scommaaccent;\012	sub scedilla by scommaaccent;\012	sub tcedilla by tcommaaccent;\012	language MOL;\012	sub Scedilla by Scommaaccent;\012	sub scedilla by scommaaccent;\012	sub tcedilla by tcommaaccent;\012} locl_latn_0;\012\012lookup locl_latn_1 {\012	script latn;\012	language CAT;\012	sub  l' periodcentered' l by ldot;\012	sub  L' periodcentered' L by Ldot;\012} locl_latn_1;\012\012lookup locl_jan {\012	script hang;\012	language dflt;\012	sub @LOCL_JAN_L by @LOCL_JAN_R;\012} locl_jan;\012\012lookup locl_hang {\012	script hang;\012	language KOR;\012	sub @LOCL_JAN_L by @LOCL_JAN_R;\012} locl_hang;";
-},
-{
-name = "Replace Feature";
-value = "ss05;@ELLIPSIS_L = [\012ellipsis\012twodotenleader\012];\012\012@ELLIPSIS_R = [\012ellipsis.hang\012twodotenleader.hang\012];\012\012@PAREN_L = [\012parenleft\012parenleft.case\012];\012\012@PAREN_R = [\012parenright\012parenright.case\012];\012\012@FULL_L = [\012blacklenticularbracketleft\012blacklenticularbracketright\012cornerbracketleft\012cornerbracketright\012dblanglebracketleft\012dblanglebracketright\012tortoiseshellbracketleft\012tortoiseshellbracketright\012whitecornerbracketleft\012whitecornerbracketright\012whitelenticularbracketleft\012whitelenticularbracketright\012whitesquarebracketleft\012whitesquarebracketright\012whitetortoiseshellbracketleft\012whitetortoiseshellbracketright\012];\012\012@FULL_R = [\012blacklenticularbracketleft.full\012blacklenticularbracketright.full\012cornerbracketleft.full\012cornerbracketright.full\012dblanglebracketleft.full\012dblanglebracketright.full\012tortoiseshellbracketleft.full\012tortoiseshellbracketright.full\012whitecornerbracketleft.full\012whitecornerbracketright.full\012whitelenticularbracketleft.full\012whitelenticularbracketright.full\012whitesquarebracketleft.full\012whitesquarebracketright.full\012whitetortoiseshellbracketleft.full\012whitetortoiseshellbracketright.full\012];\012\012# ...K K... K.......\012sub @Hangul @ELLIPSIS_L' by @ELLIPSIS_R;\012sub @Hangul @ELLIPSIS_R @ELLIPSIS_L' by @ELLIPSIS_R;\012sub @ELLIPSIS_L' @Hangul by @ELLIPSIS_R;\012\012# ...... K ......\012sub @ELLIPSIS_L' @Whitespace @Hangul by @ELLIPSIS_R;\012sub @ELLIPSIS_L' @ELLIPSIS_L @Whitespace @Hangul by @ELLIPSIS_R;\012sub @Hangul @Whitespace @ELLIPSIS_L' by @ELLIPSIS_R;\012sub @Hangul @Whitespace @ELLIPSIS_R @ELLIPSIS_L' by @ELLIPSIS_R;\012\012# .... .......\012sub @ELLIPSIS_L' period by @ELLIPSIS_R;\012sub @ELLIPSIS_L' @ELLIPSIS_L period by @ELLIPSIS_R;\012\012# (...) to (---)\012sub @PAREN_L @ELLIPSIS_L' @PAREN_R by @ELLIPSIS_R;\012\012# Case forms\012sub @CASE_HANG_LL by @CASE_HANG_RR;\012\012# Hanja localization\012sub @LOCL_JAN_L by @LOCL_JAN_R;\012\012# fwid to pwid\012sub @FULL_L by @FULL_R;";
-},
-{
 name = "Save as TrueType";
 value = 1;
 }
@@ -15075,14 +15044,6 @@ value = (
 "uni5ECA=uni5ECA.loclJAN",
 "uni6717=uni6717.loclJAN"
 );
-},
-{
-name = "Replace Feature";
-value = "locl;lookup locl_latn_0 {\012	script latn;\012	language ROM;\012	sub Scedilla by Scommaaccent;\012	sub scedilla by scommaaccent;\012	sub tcedilla by tcommaaccent;\012	language MOL;\012	sub Scedilla by Scommaaccent;\012	sub scedilla by scommaaccent;\012	sub tcedilla by tcommaaccent;\012} locl_latn_0;\012\012lookup locl_latn_1 {\012	script latn;\012	language CAT;\012	sub  l' periodcentered' l by ldot;\012	sub  L' periodcentered' L by Ldot;\012} locl_latn_1;\012\012lookup locl_jan {\012	script hang;\012	language dflt;\012	sub @LOCL_JAN_L by @LOCL_JAN_R;\012} locl_jan;\012\012lookup locl_hang {\012	script hang;\012	language KOR;\012	sub @LOCL_JAN_L by @LOCL_JAN_R;\012} locl_hang;";
-},
-{
-name = "Replace Feature";
-value = "ss05;@ELLIPSIS_L = [\012ellipsis\012twodotenleader\012];\012\012@ELLIPSIS_R = [\012ellipsis.hang\012twodotenleader.hang\012];\012\012@PAREN_L = [\012parenleft\012parenleft.case\012];\012\012@PAREN_R = [\012parenright\012parenright.case\012];\012\012@FULL_L = [\012blacklenticularbracketleft\012blacklenticularbracketright\012cornerbracketleft\012cornerbracketright\012dblanglebracketleft\012dblanglebracketright\012tortoiseshellbracketleft\012tortoiseshellbracketright\012whitecornerbracketleft\012whitecornerbracketright\012whitelenticularbracketleft\012whitelenticularbracketright\012whitesquarebracketleft\012whitesquarebracketright\012whitetortoiseshellbracketleft\012whitetortoiseshellbracketright\012];\012\012@FULL_R = [\012blacklenticularbracketleft.full\012blacklenticularbracketright.full\012cornerbracketleft.full\012cornerbracketright.full\012dblanglebracketleft.full\012dblanglebracketright.full\012tortoiseshellbracketleft.full\012tortoiseshellbracketright.full\012whitecornerbracketleft.full\012whitecornerbracketright.full\012whitelenticularbracketleft.full\012whitelenticularbracketright.full\012whitesquarebracketleft.full\012whitesquarebracketright.full\012whitetortoiseshellbracketleft.full\012whitetortoiseshellbracketright.full\012];\012\012# ...K K... K.......\012sub @Hangul @ELLIPSIS_L' by @ELLIPSIS_R;\012sub @Hangul @ELLIPSIS_R @ELLIPSIS_L' by @ELLIPSIS_R;\012sub @ELLIPSIS_L' @Hangul by @ELLIPSIS_R;\012\012# ...... K ......\012sub @ELLIPSIS_L' @Whitespace @Hangul by @ELLIPSIS_R;\012sub @ELLIPSIS_L' @ELLIPSIS_L @Whitespace @Hangul by @ELLIPSIS_R;\012sub @Hangul @Whitespace @ELLIPSIS_L' by @ELLIPSIS_R;\012sub @Hangul @Whitespace @ELLIPSIS_R @ELLIPSIS_L' by @ELLIPSIS_R;\012\012# .... .......\012sub @ELLIPSIS_L' period by @ELLIPSIS_R;\012sub @ELLIPSIS_L' @ELLIPSIS_L period by @ELLIPSIS_R;\012\012# (...) to (---)\012sub @PAREN_L @ELLIPSIS_L' @PAREN_R by @ELLIPSIS_R;\012\012# Case forms\012sub @CASE_HANG_LL by @CASE_HANG_RR;\012\012# Hanja localization\012sub @LOCL_JAN_L by @LOCL_JAN_R;\012\012# fwid to pwid\012sub @FULL_L by @FULL_R;";
 },
 {
 name = "Save as TrueType";
@@ -15693,14 +15654,6 @@ value = (
 );
 },
 {
-name = "Replace Feature";
-value = "locl;lookup locl_latn_0 {\012	script latn;\012	language ROM;\012	sub Scedilla by Scommaaccent;\012	sub scedilla by scommaaccent;\012	sub tcedilla by tcommaaccent;\012	language MOL;\012	sub Scedilla by Scommaaccent;\012	sub scedilla by scommaaccent;\012	sub tcedilla by tcommaaccent;\012} locl_latn_0;\012\012lookup locl_latn_1 {\012	script latn;\012	language CAT;\012	sub  l' periodcentered' l by ldot;\012	sub  L' periodcentered' L by Ldot;\012} locl_latn_1;\012\012lookup locl_jan {\012	script hang;\012	language dflt;\012	sub @LOCL_JAN_L by @LOCL_JAN_R;\012} locl_jan;\012\012lookup locl_hang {\012	script hang;\012	language KOR;\012	sub @LOCL_JAN_L by @LOCL_JAN_R;\012} locl_hang;";
-},
-{
-name = "Replace Feature";
-value = "ss05;@ELLIPSIS_L = [\012ellipsis\012twodotenleader\012];\012\012@ELLIPSIS_R = [\012ellipsis.hang\012twodotenleader.hang\012];\012\012@PAREN_L = [\012parenleft\012parenleft.case\012];\012\012@PAREN_R = [\012parenright\012parenright.case\012];\012\012@FULL_L = [\012blacklenticularbracketleft\012blacklenticularbracketright\012cornerbracketleft\012cornerbracketright\012dblanglebracketleft\012dblanglebracketright\012tortoiseshellbracketleft\012tortoiseshellbracketright\012whitecornerbracketleft\012whitecornerbracketright\012whitelenticularbracketleft\012whitelenticularbracketright\012whitesquarebracketleft\012whitesquarebracketright\012whitetortoiseshellbracketleft\012whitetortoiseshellbracketright\012];\012\012@FULL_R = [\012blacklenticularbracketleft.full\012blacklenticularbracketright.full\012cornerbracketleft.full\012cornerbracketright.full\012dblanglebracketleft.full\012dblanglebracketright.full\012tortoiseshellbracketleft.full\012tortoiseshellbracketright.full\012whitecornerbracketleft.full\012whitecornerbracketright.full\012whitelenticularbracketleft.full\012whitelenticularbracketright.full\012whitesquarebracketleft.full\012whitesquarebracketright.full\012whitetortoiseshellbracketleft.full\012whitetortoiseshellbracketright.full\012];\012\012# ...K K... K.......\012sub @Hangul @ELLIPSIS_L' by @ELLIPSIS_R;\012sub @Hangul @ELLIPSIS_R @ELLIPSIS_L' by @ELLIPSIS_R;\012sub @ELLIPSIS_L' @Hangul by @ELLIPSIS_R;\012\012# ...... K ......\012sub @ELLIPSIS_L' @Whitespace @Hangul by @ELLIPSIS_R;\012sub @ELLIPSIS_L' @ELLIPSIS_L @Whitespace @Hangul by @ELLIPSIS_R;\012sub @Hangul @Whitespace @ELLIPSIS_L' by @ELLIPSIS_R;\012sub @Hangul @Whitespace @ELLIPSIS_R @ELLIPSIS_L' by @ELLIPSIS_R;\012\012# .... .......\012sub @ELLIPSIS_L' period by @ELLIPSIS_R;\012sub @ELLIPSIS_L' @ELLIPSIS_L period by @ELLIPSIS_R;\012\012# (...) to (---)\012sub @PAREN_L @ELLIPSIS_L' @PAREN_R by @ELLIPSIS_R;\012\012# Case forms\012sub @CASE_HANG_LL by @CASE_HANG_RR;\012\012# Hanja localization\012sub @LOCL_JAN_L by @LOCL_JAN_R;\012\012# fwid to pwid\012sub @FULL_L by @FULL_R;";
-},
-{
 name = "Save as TrueType";
 value = 1;
 }
@@ -16309,14 +16262,6 @@ value = (
 );
 },
 {
-name = "Replace Feature";
-value = "locl;lookup locl_latn_0 {\012	script latn;\012	language ROM;\012	sub Scedilla by Scommaaccent;\012	sub scedilla by scommaaccent;\012	sub tcedilla by tcommaaccent;\012	language MOL;\012	sub Scedilla by Scommaaccent;\012	sub scedilla by scommaaccent;\012	sub tcedilla by tcommaaccent;\012} locl_latn_0;\012\012lookup locl_latn_1 {\012	script latn;\012	language CAT;\012	sub  l' periodcentered' l by ldot;\012	sub  L' periodcentered' L by Ldot;\012} locl_latn_1;\012\012lookup locl_jan {\012	script hang;\012	language dflt;\012	sub @LOCL_JAN_L by @LOCL_JAN_R;\012} locl_jan;\012\012lookup locl_hang {\012	script hang;\012	language KOR;\012	sub @LOCL_JAN_L by @LOCL_JAN_R;\012} locl_hang;";
-},
-{
-name = "Replace Feature";
-value = "ss05;@ELLIPSIS_L = [\012ellipsis\012twodotenleader\012];\012\012@ELLIPSIS_R = [\012ellipsis.hang\012twodotenleader.hang\012];\012\012@PAREN_L = [\012parenleft\012parenleft.case\012];\012\012@PAREN_R = [\012parenright\012parenright.case\012];\012\012@FULL_L = [\012blacklenticularbracketleft\012blacklenticularbracketright\012cornerbracketleft\012cornerbracketright\012dblanglebracketleft\012dblanglebracketright\012tortoiseshellbracketleft\012tortoiseshellbracketright\012whitecornerbracketleft\012whitecornerbracketright\012whitelenticularbracketleft\012whitelenticularbracketright\012whitesquarebracketleft\012whitesquarebracketright\012whitetortoiseshellbracketleft\012whitetortoiseshellbracketright\012];\012\012@FULL_R = [\012blacklenticularbracketleft.full\012blacklenticularbracketright.full\012cornerbracketleft.full\012cornerbracketright.full\012dblanglebracketleft.full\012dblanglebracketright.full\012tortoiseshellbracketleft.full\012tortoiseshellbracketright.full\012whitecornerbracketleft.full\012whitecornerbracketright.full\012whitelenticularbracketleft.full\012whitelenticularbracketright.full\012whitesquarebracketleft.full\012whitesquarebracketright.full\012whitetortoiseshellbracketleft.full\012whitetortoiseshellbracketright.full\012];\012\012# ...K K... K.......\012sub @Hangul @ELLIPSIS_L' by @ELLIPSIS_R;\012sub @Hangul @ELLIPSIS_R @ELLIPSIS_L' by @ELLIPSIS_R;\012sub @ELLIPSIS_L' @Hangul by @ELLIPSIS_R;\012\012# ...... K ......\012sub @ELLIPSIS_L' @Whitespace @Hangul by @ELLIPSIS_R;\012sub @ELLIPSIS_L' @ELLIPSIS_L @Whitespace @Hangul by @ELLIPSIS_R;\012sub @Hangul @Whitespace @ELLIPSIS_L' by @ELLIPSIS_R;\012sub @Hangul @Whitespace @ELLIPSIS_R @ELLIPSIS_L' by @ELLIPSIS_R;\012\012# .... .......\012sub @ELLIPSIS_L' period by @ELLIPSIS_R;\012sub @ELLIPSIS_L' @ELLIPSIS_L period by @ELLIPSIS_R;\012\012# (...) to (---)\012sub @PAREN_L @ELLIPSIS_L' @PAREN_R by @ELLIPSIS_R;\012\012# Case forms\012sub @CASE_HANG_LL by @CASE_HANG_RR;\012\012# Hanja localization\012sub @LOCL_JAN_L by @LOCL_JAN_R;\012\012# fwid to pwid\012sub @FULL_L by @FULL_R;";
-},
-{
 name = "Save as TrueType";
 value = 1;
 }
@@ -16921,14 +16866,6 @@ value = (
 "uni5ECA=uni5ECA.loclJAN",
 "uni6717=uni6717.loclJAN"
 );
-},
-{
-name = "Replace Feature";
-value = "locl;lookup locl_latn_0 {\012	script latn;\012	language ROM;\012	sub Scedilla by Scommaaccent;\012	sub scedilla by scommaaccent;\012	sub tcedilla by tcommaaccent;\012	language MOL;\012	sub Scedilla by Scommaaccent;\012	sub scedilla by scommaaccent;\012	sub tcedilla by tcommaaccent;\012} locl_latn_0;\012\012lookup locl_latn_1 {\012	script latn;\012	language CAT;\012	sub  l' periodcentered' l by ldot;\012	sub  L' periodcentered' L by Ldot;\012} locl_latn_1;\012\012lookup locl_jan {\012	script hang;\012	language dflt;\012	sub @LOCL_JAN_L by @LOCL_JAN_R;\012} locl_jan;\012\012lookup locl_hang {\012	script hang;\012	language KOR;\012	sub @LOCL_JAN_L by @LOCL_JAN_R;\012} locl_hang;";
-},
-{
-name = "Replace Feature";
-value = "ss05;@ELLIPSIS_L = [\012ellipsis\012twodotenleader\012];\012\012@ELLIPSIS_R = [\012ellipsis.hang\012twodotenleader.hang\012];\012\012@PAREN_L = [\012parenleft\012parenleft.case\012];\012\012@PAREN_R = [\012parenright\012parenright.case\012];\012\012@FULL_L = [\012blacklenticularbracketleft\012blacklenticularbracketright\012cornerbracketleft\012cornerbracketright\012dblanglebracketleft\012dblanglebracketright\012tortoiseshellbracketleft\012tortoiseshellbracketright\012whitecornerbracketleft\012whitecornerbracketright\012whitelenticularbracketleft\012whitelenticularbracketright\012whitesquarebracketleft\012whitesquarebracketright\012whitetortoiseshellbracketleft\012whitetortoiseshellbracketright\012];\012\012@FULL_R = [\012blacklenticularbracketleft.full\012blacklenticularbracketright.full\012cornerbracketleft.full\012cornerbracketright.full\012dblanglebracketleft.full\012dblanglebracketright.full\012tortoiseshellbracketleft.full\012tortoiseshellbracketright.full\012whitecornerbracketleft.full\012whitecornerbracketright.full\012whitelenticularbracketleft.full\012whitelenticularbracketright.full\012whitesquarebracketleft.full\012whitesquarebracketright.full\012whitetortoiseshellbracketleft.full\012whitetortoiseshellbracketright.full\012];\012\012# ...K K... K.......\012sub @Hangul @ELLIPSIS_L' by @ELLIPSIS_R;\012sub @Hangul @ELLIPSIS_R @ELLIPSIS_L' by @ELLIPSIS_R;\012sub @ELLIPSIS_L' @Hangul by @ELLIPSIS_R;\012\012# ...... K ......\012sub @ELLIPSIS_L' @Whitespace @Hangul by @ELLIPSIS_R;\012sub @ELLIPSIS_L' @ELLIPSIS_L @Whitespace @Hangul by @ELLIPSIS_R;\012sub @Hangul @Whitespace @ELLIPSIS_L' by @ELLIPSIS_R;\012sub @Hangul @Whitespace @ELLIPSIS_R @ELLIPSIS_L' by @ELLIPSIS_R;\012\012# .... .......\012sub @ELLIPSIS_L' period by @ELLIPSIS_R;\012sub @ELLIPSIS_L' @ELLIPSIS_L period by @ELLIPSIS_R;\012\012# (...) to (---)\012sub @PAREN_L @ELLIPSIS_L' @PAREN_R by @ELLIPSIS_R;\012\012# Case forms\012sub @CASE_HANG_LL by @CASE_HANG_RR;\012\012# Hanja localization\012sub @LOCL_JAN_L by @LOCL_JAN_R;\012\012# fwid to pwid\012sub @FULL_L by @FULL_R;";
 },
 {
 name = "Save as TrueType";
@@ -17539,14 +17476,6 @@ value = (
 );
 },
 {
-name = "Replace Feature";
-value = "locl;lookup locl_latn_0 {\012	script latn;\012	language ROM;\012	sub Scedilla by Scommaaccent;\012	sub scedilla by scommaaccent;\012	sub tcedilla by tcommaaccent;\012	language MOL;\012	sub Scedilla by Scommaaccent;\012	sub scedilla by scommaaccent;\012	sub tcedilla by tcommaaccent;\012} locl_latn_0;\012\012lookup locl_latn_1 {\012	script latn;\012	language CAT;\012	sub  l' periodcentered' l by ldot;\012	sub  L' periodcentered' L by Ldot;\012} locl_latn_1;\012\012lookup locl_jan {\012	script hang;\012	language dflt;\012	sub @LOCL_JAN_L by @LOCL_JAN_R;\012} locl_jan;\012\012lookup locl_hang {\012	script hang;\012	language KOR;\012	sub @LOCL_JAN_L by @LOCL_JAN_R;\012} locl_hang;";
-},
-{
-name = "Replace Feature";
-value = "ss05;@ELLIPSIS_L = [\012ellipsis\012twodotenleader\012];\012\012@ELLIPSIS_R = [\012ellipsis.hang\012twodotenleader.hang\012];\012\012@PAREN_L = [\012parenleft\012parenleft.case\012];\012\012@PAREN_R = [\012parenright\012parenright.case\012];\012\012@FULL_L = [\012blacklenticularbracketleft\012blacklenticularbracketright\012cornerbracketleft\012cornerbracketright\012dblanglebracketleft\012dblanglebracketright\012tortoiseshellbracketleft\012tortoiseshellbracketright\012whitecornerbracketleft\012whitecornerbracketright\012whitelenticularbracketleft\012whitelenticularbracketright\012whitesquarebracketleft\012whitesquarebracketright\012whitetortoiseshellbracketleft\012whitetortoiseshellbracketright\012];\012\012@FULL_R = [\012blacklenticularbracketleft.full\012blacklenticularbracketright.full\012cornerbracketleft.full\012cornerbracketright.full\012dblanglebracketleft.full\012dblanglebracketright.full\012tortoiseshellbracketleft.full\012tortoiseshellbracketright.full\012whitecornerbracketleft.full\012whitecornerbracketright.full\012whitelenticularbracketleft.full\012whitelenticularbracketright.full\012whitesquarebracketleft.full\012whitesquarebracketright.full\012whitetortoiseshellbracketleft.full\012whitetortoiseshellbracketright.full\012];\012\012# ...K K... K.......\012sub @Hangul @ELLIPSIS_L' by @ELLIPSIS_R;\012sub @Hangul @ELLIPSIS_R @ELLIPSIS_L' by @ELLIPSIS_R;\012sub @ELLIPSIS_L' @Hangul by @ELLIPSIS_R;\012\012# ...... K ......\012sub @ELLIPSIS_L' @Whitespace @Hangul by @ELLIPSIS_R;\012sub @ELLIPSIS_L' @ELLIPSIS_L @Whitespace @Hangul by @ELLIPSIS_R;\012sub @Hangul @Whitespace @ELLIPSIS_L' by @ELLIPSIS_R;\012sub @Hangul @Whitespace @ELLIPSIS_R @ELLIPSIS_L' by @ELLIPSIS_R;\012\012# .... .......\012sub @ELLIPSIS_L' period by @ELLIPSIS_R;\012sub @ELLIPSIS_L' @ELLIPSIS_L period by @ELLIPSIS_R;\012\012# (...) to (---)\012sub @PAREN_L @ELLIPSIS_L' @PAREN_R by @ELLIPSIS_R;\012\012# Case forms\012sub @CASE_HANG_LL by @CASE_HANG_RR;\012\012# Hanja localization\012sub @LOCL_JAN_L by @LOCL_JAN_R;\012\012# fwid to pwid\012sub @FULL_L by @FULL_R;";
-},
-{
 name = "Save as TrueType";
 value = 1;
 }
@@ -18153,14 +18082,6 @@ value = (
 "uni5ECA=uni5ECA.loclJAN",
 "uni6717=uni6717.loclJAN"
 );
-},
-{
-name = "Replace Feature";
-value = "locl;lookup locl_latn_0 {\012	script latn;\012	language ROM;\012	sub Scedilla by Scommaaccent;\012	sub scedilla by scommaaccent;\012	sub tcedilla by tcommaaccent;\012	language MOL;\012	sub Scedilla by Scommaaccent;\012	sub scedilla by scommaaccent;\012	sub tcedilla by tcommaaccent;\012} locl_latn_0;\012\012lookup locl_latn_1 {\012	script latn;\012	language CAT;\012	sub  l' periodcentered' l by ldot;\012	sub  L' periodcentered' L by Ldot;\012} locl_latn_1;\012\012lookup locl_jan {\012	script hang;\012	language dflt;\012	sub @LOCL_JAN_L by @LOCL_JAN_R;\012} locl_jan;\012\012lookup locl_hang {\012	script hang;\012	language KOR;\012	sub @LOCL_JAN_L by @LOCL_JAN_R;\012} locl_hang;";
-},
-{
-name = "Replace Feature";
-value = "ss05;@ELLIPSIS_L = [\012ellipsis\012twodotenleader\012];\012\012@ELLIPSIS_R = [\012ellipsis.hang\012twodotenleader.hang\012];\012\012@PAREN_L = [\012parenleft\012parenleft.case\012];\012\012@PAREN_R = [\012parenright\012parenright.case\012];\012\012@FULL_L = [\012blacklenticularbracketleft\012blacklenticularbracketright\012cornerbracketleft\012cornerbracketright\012dblanglebracketleft\012dblanglebracketright\012tortoiseshellbracketleft\012tortoiseshellbracketright\012whitecornerbracketleft\012whitecornerbracketright\012whitelenticularbracketleft\012whitelenticularbracketright\012whitesquarebracketleft\012whitesquarebracketright\012whitetortoiseshellbracketleft\012whitetortoiseshellbracketright\012];\012\012@FULL_R = [\012blacklenticularbracketleft.full\012blacklenticularbracketright.full\012cornerbracketleft.full\012cornerbracketright.full\012dblanglebracketleft.full\012dblanglebracketright.full\012tortoiseshellbracketleft.full\012tortoiseshellbracketright.full\012whitecornerbracketleft.full\012whitecornerbracketright.full\012whitelenticularbracketleft.full\012whitelenticularbracketright.full\012whitesquarebracketleft.full\012whitesquarebracketright.full\012whitetortoiseshellbracketleft.full\012whitetortoiseshellbracketright.full\012];\012\012# ...K K... K.......\012sub @Hangul @ELLIPSIS_L' by @ELLIPSIS_R;\012sub @Hangul @ELLIPSIS_R @ELLIPSIS_L' by @ELLIPSIS_R;\012sub @ELLIPSIS_L' @Hangul by @ELLIPSIS_R;\012\012# ...... K ......\012sub @ELLIPSIS_L' @Whitespace @Hangul by @ELLIPSIS_R;\012sub @ELLIPSIS_L' @ELLIPSIS_L @Whitespace @Hangul by @ELLIPSIS_R;\012sub @Hangul @Whitespace @ELLIPSIS_L' by @ELLIPSIS_R;\012sub @Hangul @Whitespace @ELLIPSIS_R @ELLIPSIS_L' by @ELLIPSIS_R;\012\012# .... .......\012sub @ELLIPSIS_L' period by @ELLIPSIS_R;\012sub @ELLIPSIS_L' @ELLIPSIS_L period by @ELLIPSIS_R;\012\012# (...) to (---)\012sub @PAREN_L @ELLIPSIS_L' @PAREN_R by @ELLIPSIS_R;\012\012# Case forms\012sub @CASE_HANG_LL by @CASE_HANG_RR;\012\012# Hanja localization\012sub @LOCL_JAN_L by @LOCL_JAN_R;\012\012# fwid to pwid\012sub @FULL_L by @FULL_R;";
 },
 {
 name = "Save as TrueType";
@@ -18772,14 +18693,6 @@ value = (
 );
 },
 {
-name = "Replace Feature";
-value = "locl;lookup locl_latn_0 {\012	script latn;\012	language ROM;\012	sub Scedilla by Scommaaccent;\012	sub scedilla by scommaaccent;\012	sub tcedilla by tcommaaccent;\012	language MOL;\012	sub Scedilla by Scommaaccent;\012	sub scedilla by scommaaccent;\012	sub tcedilla by tcommaaccent;\012} locl_latn_0;\012\012lookup locl_latn_1 {\012	script latn;\012	language CAT;\012	sub  l' periodcentered' l by ldot;\012	sub  L' periodcentered' L by Ldot;\012} locl_latn_1;\012\012lookup locl_jan {\012	script hang;\012	language dflt;\012	sub @LOCL_JAN_L by @LOCL_JAN_R;\012} locl_jan;\012\012lookup locl_hang {\012	script hang;\012	language KOR;\012	sub @LOCL_JAN_L by @LOCL_JAN_R;\012} locl_hang;";
-},
-{
-name = "Replace Feature";
-value = "ss05;@ELLIPSIS_L = [\012ellipsis\012twodotenleader\012];\012\012@ELLIPSIS_R = [\012ellipsis.hang\012twodotenleader.hang\012];\012\012@PAREN_L = [\012parenleft\012parenleft.case\012];\012\012@PAREN_R = [\012parenright\012parenright.case\012];\012\012@FULL_L = [\012blacklenticularbracketleft\012blacklenticularbracketright\012cornerbracketleft\012cornerbracketright\012dblanglebracketleft\012dblanglebracketright\012tortoiseshellbracketleft\012tortoiseshellbracketright\012whitecornerbracketleft\012whitecornerbracketright\012whitelenticularbracketleft\012whitelenticularbracketright\012whitesquarebracketleft\012whitesquarebracketright\012whitetortoiseshellbracketleft\012whitetortoiseshellbracketright\012];\012\012@FULL_R = [\012blacklenticularbracketleft.full\012blacklenticularbracketright.full\012cornerbracketleft.full\012cornerbracketright.full\012dblanglebracketleft.full\012dblanglebracketright.full\012tortoiseshellbracketleft.full\012tortoiseshellbracketright.full\012whitecornerbracketleft.full\012whitecornerbracketright.full\012whitelenticularbracketleft.full\012whitelenticularbracketright.full\012whitesquarebracketleft.full\012whitesquarebracketright.full\012whitetortoiseshellbracketleft.full\012whitetortoiseshellbracketright.full\012];\012\012# ...K K... K.......\012sub @Hangul @ELLIPSIS_L' by @ELLIPSIS_R;\012sub @Hangul @ELLIPSIS_R @ELLIPSIS_L' by @ELLIPSIS_R;\012sub @ELLIPSIS_L' @Hangul by @ELLIPSIS_R;\012\012# ...... K ......\012sub @ELLIPSIS_L' @Whitespace @Hangul by @ELLIPSIS_R;\012sub @ELLIPSIS_L' @ELLIPSIS_L @Whitespace @Hangul by @ELLIPSIS_R;\012sub @Hangul @Whitespace @ELLIPSIS_L' by @ELLIPSIS_R;\012sub @Hangul @Whitespace @ELLIPSIS_R @ELLIPSIS_L' by @ELLIPSIS_R;\012\012# .... .......\012sub @ELLIPSIS_L' period by @ELLIPSIS_R;\012sub @ELLIPSIS_L' @ELLIPSIS_L period by @ELLIPSIS_R;\012\012# (...) to (---)\012sub @PAREN_L @ELLIPSIS_L' @PAREN_R by @ELLIPSIS_R;\012\012# Case forms\012sub @CASE_HANG_LL by @CASE_HANG_RR;\012\012# Hanja localization\012sub @LOCL_JAN_L by @LOCL_JAN_R;\012\012# fwid to pwid\012sub @FULL_L by @FULL_R;";
-},
-{
 name = "Save as TrueType";
 value = 1;
 }
@@ -19386,14 +19299,6 @@ value = (
 "uni5ECA=uni5ECA.loclJAN",
 "uni6717=uni6717.loclJAN"
 );
-},
-{
-name = "Replace Feature";
-value = "locl;lookup locl_latn_0 {\012	script latn;\012	language ROM;\012	sub Scedilla by Scommaaccent;\012	sub scedilla by scommaaccent;\012	sub tcedilla by tcommaaccent;\012	language MOL;\012	sub Scedilla by Scommaaccent;\012	sub scedilla by scommaaccent;\012	sub tcedilla by tcommaaccent;\012} locl_latn_0;\012\012lookup locl_latn_1 {\012	script latn;\012	language CAT;\012	sub  l' periodcentered' l by ldot;\012	sub  L' periodcentered' L by Ldot;\012} locl_latn_1;\012\012lookup locl_jan {\012	script hang;\012	language dflt;\012	sub @LOCL_JAN_L by @LOCL_JAN_R;\012} locl_jan;\012\012lookup locl_hang {\012	script hang;\012	language KOR;\012	sub @LOCL_JAN_L by @LOCL_JAN_R;\012} locl_hang;";
-},
-{
-name = "Replace Feature";
-value = "ss05;@ELLIPSIS_L = [\012ellipsis\012twodotenleader\012];\012\012@ELLIPSIS_R = [\012ellipsis.hang\012twodotenleader.hang\012];\012\012@PAREN_L = [\012parenleft\012parenleft.case\012];\012\012@PAREN_R = [\012parenright\012parenright.case\012];\012\012@FULL_L = [\012blacklenticularbracketleft\012blacklenticularbracketright\012cornerbracketleft\012cornerbracketright\012dblanglebracketleft\012dblanglebracketright\012tortoiseshellbracketleft\012tortoiseshellbracketright\012whitecornerbracketleft\012whitecornerbracketright\012whitelenticularbracketleft\012whitelenticularbracketright\012whitesquarebracketleft\012whitesquarebracketright\012whitetortoiseshellbracketleft\012whitetortoiseshellbracketright\012];\012\012@FULL_R = [\012blacklenticularbracketleft.full\012blacklenticularbracketright.full\012cornerbracketleft.full\012cornerbracketright.full\012dblanglebracketleft.full\012dblanglebracketright.full\012tortoiseshellbracketleft.full\012tortoiseshellbracketright.full\012whitecornerbracketleft.full\012whitecornerbracketright.full\012whitelenticularbracketleft.full\012whitelenticularbracketright.full\012whitesquarebracketleft.full\012whitesquarebracketright.full\012whitetortoiseshellbracketleft.full\012whitetortoiseshellbracketright.full\012];\012\012# ...K K... K.......\012sub @Hangul @ELLIPSIS_L' by @ELLIPSIS_R;\012sub @Hangul @ELLIPSIS_R @ELLIPSIS_L' by @ELLIPSIS_R;\012sub @ELLIPSIS_L' @Hangul by @ELLIPSIS_R;\012\012# ...... K ......\012sub @ELLIPSIS_L' @Whitespace @Hangul by @ELLIPSIS_R;\012sub @ELLIPSIS_L' @ELLIPSIS_L @Whitespace @Hangul by @ELLIPSIS_R;\012sub @Hangul @Whitespace @ELLIPSIS_L' by @ELLIPSIS_R;\012sub @Hangul @Whitespace @ELLIPSIS_R @ELLIPSIS_L' by @ELLIPSIS_R;\012\012# .... .......\012sub @ELLIPSIS_L' period by @ELLIPSIS_R;\012sub @ELLIPSIS_L' @ELLIPSIS_L period by @ELLIPSIS_R;\012\012# (...) to (---)\012sub @PAREN_L @ELLIPSIS_L' @PAREN_R by @ELLIPSIS_R;\012\012# Case forms\012sub @CASE_HANG_LL by @CASE_HANG_RR;\012\012# Hanja localization\012sub @LOCL_JAN_L by @LOCL_JAN_R;\012\012# fwid to pwid\012sub @FULL_L by @FULL_R;";
 },
 {
 name = "Save as TrueType";
@@ -20003,14 +19908,6 @@ value = (
 "uni5ECA=uni5ECA.loclJAN",
 "uni6717=uni6717.loclJAN"
 );
-},
-{
-name = "Replace Feature";
-value = "locl;lookup locl_latn_0 {\012	script latn;\012	language ROM;\012	sub Scedilla by Scommaaccent;\012	sub scedilla by scommaaccent;\012	sub tcedilla by tcommaaccent;\012	language MOL;\012	sub Scedilla by Scommaaccent;\012	sub scedilla by scommaaccent;\012	sub tcedilla by tcommaaccent;\012} locl_latn_0;\012\012lookup locl_latn_1 {\012	script latn;\012	language CAT;\012	sub  l' periodcentered' l by ldot;\012	sub  L' periodcentered' L by Ldot;\012} locl_latn_1;\012\012lookup locl_jan {\012	script hang;\012	language dflt;\012	sub @LOCL_JAN_L by @LOCL_JAN_R;\012} locl_jan;\012\012lookup locl_hang {\012	script hang;\012	language KOR;\012	sub @LOCL_JAN_L by @LOCL_JAN_R;\012} locl_hang;";
-},
-{
-name = "Replace Feature";
-value = "ss05;@ELLIPSIS_L = [\012ellipsis\012twodotenleader\012];\012\012@ELLIPSIS_R = [\012ellipsis.hang\012twodotenleader.hang\012];\012\012@PAREN_L = [\012parenleft\012parenleft.case\012];\012\012@PAREN_R = [\012parenright\012parenright.case\012];\012\012@FULL_L = [\012blacklenticularbracketleft\012blacklenticularbracketright\012cornerbracketleft\012cornerbracketright\012dblanglebracketleft\012dblanglebracketright\012tortoiseshellbracketleft\012tortoiseshellbracketright\012whitecornerbracketleft\012whitecornerbracketright\012whitelenticularbracketleft\012whitelenticularbracketright\012whitesquarebracketleft\012whitesquarebracketright\012whitetortoiseshellbracketleft\012whitetortoiseshellbracketright\012];\012\012@FULL_R = [\012blacklenticularbracketleft.full\012blacklenticularbracketright.full\012cornerbracketleft.full\012cornerbracketright.full\012dblanglebracketleft.full\012dblanglebracketright.full\012tortoiseshellbracketleft.full\012tortoiseshellbracketright.full\012whitecornerbracketleft.full\012whitecornerbracketright.full\012whitelenticularbracketleft.full\012whitelenticularbracketright.full\012whitesquarebracketleft.full\012whitesquarebracketright.full\012whitetortoiseshellbracketleft.full\012whitetortoiseshellbracketright.full\012];\012\012# ...K K... K.......\012sub @Hangul @ELLIPSIS_L' by @ELLIPSIS_R;\012sub @Hangul @ELLIPSIS_R @ELLIPSIS_L' by @ELLIPSIS_R;\012sub @ELLIPSIS_L' @Hangul by @ELLIPSIS_R;\012\012# ...... K ......\012sub @ELLIPSIS_L' @Whitespace @Hangul by @ELLIPSIS_R;\012sub @ELLIPSIS_L' @ELLIPSIS_L @Whitespace @Hangul by @ELLIPSIS_R;\012sub @Hangul @Whitespace @ELLIPSIS_L' by @ELLIPSIS_R;\012sub @Hangul @Whitespace @ELLIPSIS_R @ELLIPSIS_L' by @ELLIPSIS_R;\012\012# .... .......\012sub @ELLIPSIS_L' period by @ELLIPSIS_R;\012sub @ELLIPSIS_L' @ELLIPSIS_L period by @ELLIPSIS_R;\012\012# (...) to (---)\012sub @PAREN_L @ELLIPSIS_L' @PAREN_R by @ELLIPSIS_R;\012\012# Case forms\012sub @CASE_HANG_LL by @CASE_HANG_RR;\012\012# Hanja localization\012sub @LOCL_JAN_L by @LOCL_JAN_R;\012\012# fwid to pwid\012sub @FULL_L by @FULL_R;";
 },
 {
 name = "Decompose Glyphs";

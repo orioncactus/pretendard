@@ -1011,9 +1011,6 @@ languagesystem latn dflt;
 languagesystem latn ROM;
 languagesystem latn MOL;
 languagesystem latn CAT;
-
-languagesystem hang dflt;
-languagesystem hang KOR;
 ";
 name = Languagesystems;
 },
@@ -1975,11 +1972,6 @@ lookup locl_latn_1 {
 	sub  l' periodcentered' l by ldot;
 	sub  L' periodcentered' L by Ldot;
 } locl_latn_1;
-
-lookup locl_hang {
-	script hang;
-	language KOR;
-} locl_hang;
 ";
 tag = locl;
 },

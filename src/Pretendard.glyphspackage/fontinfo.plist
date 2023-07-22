@@ -81,7 +81,7 @@ name = All;
 {
 code = "$[script == \"hangul\"]
 ";
-name = Hangul;
+name = Hangeul;
 },
 {
 code = "$[script == \"kana\"]
@@ -93,7 +93,7 @@ code = "$[script == \"han\" and category == \"Letter\"]";
 name = Han;
 },
 {
-code = "@Hangul
+code = "@Hangeul
 @Kana
 @Han";
 name = CJK;
@@ -1053,15 +1053,15 @@ parenright.case
 ];
 
 # ...K K... K.......
-sub @Hangul @ELLIPSIS_L' by @ELLIPSIS_R;
-sub @Hangul @ELLIPSIS_R @ELLIPSIS_L' by @ELLIPSIS_R;
-sub @ELLIPSIS_L' @Hangul by @ELLIPSIS_R;
+sub @Hangeul @ELLIPSIS_L' by @ELLIPSIS_R;
+sub @Hangeul @ELLIPSIS_R @ELLIPSIS_L' by @ELLIPSIS_R;
+sub @ELLIPSIS_L' @Hangeul by @ELLIPSIS_R;
 
 # ...... K ......
-sub @ELLIPSIS_L' @Whitespace @Hangul by @ELLIPSIS_R;
-sub @ELLIPSIS_L' @ELLIPSIS_L @Whitespace @Hangul by @ELLIPSIS_R;
-sub @Hangul @Whitespace @ELLIPSIS_L' by @ELLIPSIS_R;
-sub @Hangul @Whitespace @ELLIPSIS_R @ELLIPSIS_L' by @ELLIPSIS_R;
+sub @ELLIPSIS_L' @Whitespace @Hangeul by @ELLIPSIS_R;
+sub @ELLIPSIS_L' @ELLIPSIS_L @Whitespace @Hangeul by @ELLIPSIS_R;
+sub @Hangeul @Whitespace @ELLIPSIS_L' by @ELLIPSIS_R;
+sub @Hangeul @Whitespace @ELLIPSIS_R @ELLIPSIS_L' by @ELLIPSIS_R;
 
 # .... .......
 sub @ELLIPSIS_L' period by @ELLIPSIS_R;
@@ -2474,7 +2474,7 @@ code = "# ----------------------------------------------------------------------
   @Lowercase
 ];
 
-@UC_NOHANGUL = [
+@UC_NOHANGEUL = [
   @Uppercase
   @Numeral
   @CASE_DELIM_RR
@@ -2715,9 +2715,9 @@ ignore sub @LOCL_HANG_L @LOCL_HANG_R';
 ignore sub @LOCL_HANG_L' @LOCL_HANG_R;
 
 # <?) to <?>
-ignore sub @LOCL_HANG_L @UC_NOHANGUL @LOCL_HANG_R';
+ignore sub @LOCL_HANG_L @UC_NOHANGEUL @LOCL_HANG_R';
 # (?> to <?>
-ignore sub @LOCL_HANG_L' @UC_NOHANGUL @LOCL_HANG_R;
+ignore sub @LOCL_HANG_L' @UC_NOHANGEUL @LOCL_HANG_R;
 
 # H' H?' H??'
 sub @CJK @LOCL_HANG_R' by @LOCL_HANG_R_R;
@@ -2733,17 +2733,17 @@ sub @LOCL_HANG_L' @All @All @All @CJK by @LOCL_HANG_L_R;
 
 # END CJK
 # -------------------------------------------------------------------------------------
-# BEGIN Hangul
+# BEGIN Hangeul
 
 # replace spacehan among hangul
-sub @Hangul space-han' @Hangul by fillerCompa-ko;
-sub @Hangul space-han' space-han @Hangul by fillerCompa-ko;
-sub @Hangul fillerCompa-ko space-han' @Hangul by fillerCompa-ko;
+sub @Hangeul space-han' @Hangeul by fillerCompa-ko;
+sub @Hangeul space-han' space-han @Hangeul by fillerCompa-ko;
+sub @Hangeul fillerCompa-ko space-han' @Hangeul by fillerCompa-ko;
 sub fillerCompa-ko space-han' fillerCompa-ko by fillerCompa-ko;
-sub @Hangul space-han' @Whitespace by fillerCompa-ko;
-sub @Whitespace space-han' @Hangul by fillerCompa-ko;
+sub @Hangeul space-han' @Whitespace by fillerCompa-ko;
+sub @Whitespace space-han' @Hangeul by fillerCompa-ko;
 
-# END Hangul
+# END Hangeul
 # -------------------------------------------------------------------------------------
 ";
 tag = calt;
@@ -13130,7 +13130,7 @@ type = "italic angle";
 }
 );
 note = "- Original Regular master weight converted to 413
-- Hangul Regular master weight converted to 390";
+- Hangeul Regular master weight converted to 390";
 properties = (
 {
 key = copyrights;
@@ -13150,7 +13150,7 @@ key = designers;
 values = (
 {
 language = dflt;
-value = "Base glyphs from Inter by Rasmus Andersson; Hangul glyphs from Noto Sans CJK(Source Han Sans) by Jang Soo-young and Kang Joo-yeon, Sandoll Communications; Kana glyphs from M PLUS 1p by Coji Morishita, UNDERFOREST DESIGN; Combined and redesigned to Pretendard by Kil Hyung-jin.";
+value = "Base glyphs from Inter by Rasmus Andersson; Hangeul glyphs from Noto Sans CJK(Source Han Sans) by Jang Soo-young and Kang Joo-yeon, Sandoll Communications; Kana glyphs from M PLUS 1p by Coji Morishita, UNDERFOREST DESIGN; Combined and redesigned to Pretendard by Kil Hyung-jin.";
 }
 );
 },

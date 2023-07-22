@@ -81,10 +81,10 @@ name = All;
 {
 code = "han-ko
 ";
-name = Hangul;
+name = Hangeul;
 },
 {
-code = "@Hangul";
+code = "@Hangeul";
 name = CJK;
 },
 {

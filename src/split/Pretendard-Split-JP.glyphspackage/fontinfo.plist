@@ -14547,7 +14547,7 @@ key = designers;
 values = (
 {
 language = dflt;
-value = "Han glyphs from Noto Sans CJK(Source Han Sans) by Ryoko Nishizuka, Adobe; Combined and redesigned to Pretendard by Kil Hyung-jin.";
+value = "Combined and redesigned to Pretendard by Kil Hyung-jin.";
 }
 );
 },

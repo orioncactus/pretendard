@@ -99,49 +99,6 @@ sub @LOCL_JAN_L by @LOCL_JAN_R;
 } LOOKUP_SS05_3;
 
 # End replacement SS05_3
-
-lookup LOOKUP_SS05_4 {
-@FULL_L = [
-blacklenticularbracketleft
-blacklenticularbracketright
-cornerbracketleft
-cornerbracketright
-dblanglebracketleft
-dblanglebracketright
-tortoiseshellbracketleft
-tortoiseshellbracketright
-whitecornerbracketleft
-whitecornerbracketright
-whitelenticularbracketleft
-whitelenticularbracketright
-whitesquarebracketleft
-whitesquarebracketright
-whitetortoiseshellbracketleft
-whitetortoiseshellbracketright
-];
-
-@FULL_R = [
-blacklenticularbracketleft.full
-blacklenticularbracketright.full
-cornerbracketleft.full
-cornerbracketright.full
-dblanglebracketleft.full
-dblanglebracketright.full
-tortoiseshellbracketleft.full
-tortoiseshellbracketright.full
-whitecornerbracketleft.full
-whitecornerbracketright.full
-whitelenticularbracketleft.full
-whitelenticularbracketright.full
-whitesquarebracketleft.full
-whitesquarebracketright.full
-whitetortoiseshellbracketleft.full
-whitetortoiseshellbracketright.full
-];
-
-# fwid to pwid
-sub @FULL_L by @FULL_R;
-} LOOKUP_SS05_4;
 ";
 name = LOOKUP_SS05;
 }
@@ -165,17 +122,6 @@ lookup locl_haniKOR {
 } locl_haniKOR;
 ";
 tag = locl;
-},
-{
-code = "lookup LOOKUP_SS05_4;
-";
-labels = (
-{
-language = dflt;
-value = "";
-}
-);
-tag = ss05;
 }
 );
 fontMaster = (
@@ -1238,6 +1184,27 @@ value = (
 "uni5ECA=uni5ECA.loclJAN",
 "uni6717=uni6717.loclJAN"
 );
+},
+{
+name = "Decompose Glyphs";
+value = (
+blacklenticularbracketleft.hang,
+blacklenticularbracketright.hang,
+cornerbracketleft.hang,
+cornerbracketright.hang,
+dblanglebracketleft.hang,
+dblanglebracketright.hang,
+tortoiseshellbracketleft.hang,
+tortoiseshellbracketright.hang,
+whitecornerbracketleft.hang,
+whitecornerbracketright.hang,
+whitelenticularbracketleft.hang,
+whitelenticularbracketright.hang,
+whitesquarebracketleft.hang,
+whitesquarebracketright.hang,
+whitetortoiseshellbracketleft.hang,
+whitetortoiseshellbracketright.hang
+);
 }
 );
 instanceInterpolations = {
@@ -1822,6 +1789,27 @@ value = (
 "uni9F9C=uni9F9C.loclJAN",
 "uni5ECA=uni5ECA.loclJAN",
 "uni6717=uni6717.loclJAN"
+);
+},
+{
+name = "Decompose Glyphs";
+value = (
+blacklenticularbracketleft.hang,
+blacklenticularbracketright.hang,
+cornerbracketleft.hang,
+cornerbracketright.hang,
+dblanglebracketleft.hang,
+dblanglebracketright.hang,
+tortoiseshellbracketleft.hang,
+tortoiseshellbracketright.hang,
+whitecornerbracketleft.hang,
+whitecornerbracketright.hang,
+whitelenticularbracketleft.hang,
+whitelenticularbracketright.hang,
+whitesquarebracketleft.hang,
+whitesquarebracketright.hang,
+whitetortoiseshellbracketleft.hang,
+whitetortoiseshellbracketright.hang
 );
 }
 );
@@ -2408,6 +2396,27 @@ value = (
 "uni5ECA=uni5ECA.loclJAN",
 "uni6717=uni6717.loclJAN"
 );
+},
+{
+name = "Decompose Glyphs";
+value = (
+blacklenticularbracketleft.hang,
+blacklenticularbracketright.hang,
+cornerbracketleft.hang,
+cornerbracketright.hang,
+dblanglebracketleft.hang,
+dblanglebracketright.hang,
+tortoiseshellbracketleft.hang,
+tortoiseshellbracketright.hang,
+whitecornerbracketleft.hang,
+whitecornerbracketright.hang,
+whitelenticularbracketleft.hang,
+whitelenticularbracketright.hang,
+whitesquarebracketleft.hang,
+whitesquarebracketright.hang,
+whitetortoiseshellbracketleft.hang,
+whitetortoiseshellbracketright.hang
+);
 }
 );
 instanceInterpolations = {
@@ -2993,6 +3002,27 @@ value = (
 "uni5ECA=uni5ECA.loclJAN",
 "uni6717=uni6717.loclJAN"
 );
+},
+{
+name = "Decompose Glyphs";
+value = (
+blacklenticularbracketleft.hang,
+blacklenticularbracketright.hang,
+cornerbracketleft.hang,
+cornerbracketright.hang,
+dblanglebracketleft.hang,
+dblanglebracketright.hang,
+tortoiseshellbracketleft.hang,
+tortoiseshellbracketright.hang,
+whitecornerbracketleft.hang,
+whitecornerbracketright.hang,
+whitelenticularbracketleft.hang,
+whitelenticularbracketright.hang,
+whitesquarebracketleft.hang,
+whitesquarebracketright.hang,
+whitetortoiseshellbracketleft.hang,
+whitetortoiseshellbracketright.hang
+);
 }
 );
 instanceInterpolations = {
@@ -3575,6 +3605,27 @@ value = (
 "uni9F9C=uni9F9C.loclJAN",
 "uni5ECA=uni5ECA.loclJAN",
 "uni6717=uni6717.loclJAN"
+);
+},
+{
+name = "Decompose Glyphs";
+value = (
+blacklenticularbracketleft.hang,
+blacklenticularbracketright.hang,
+cornerbracketleft.hang,
+cornerbracketright.hang,
+dblanglebracketleft.hang,
+dblanglebracketright.hang,
+tortoiseshellbracketleft.hang,
+tortoiseshellbracketright.hang,
+whitecornerbracketleft.hang,
+whitecornerbracketright.hang,
+whitelenticularbracketleft.hang,
+whitelenticularbracketright.hang,
+whitesquarebracketleft.hang,
+whitesquarebracketright.hang,
+whitetortoiseshellbracketleft.hang,
+whitetortoiseshellbracketright.hang
 );
 }
 );
@@ -4161,6 +4212,27 @@ value = (
 "uni5ECA=uni5ECA.loclJAN",
 "uni6717=uni6717.loclJAN"
 );
+},
+{
+name = "Decompose Glyphs";
+value = (
+blacklenticularbracketleft.hang,
+blacklenticularbracketright.hang,
+cornerbracketleft.hang,
+cornerbracketright.hang,
+dblanglebracketleft.hang,
+dblanglebracketright.hang,
+tortoiseshellbracketleft.hang,
+tortoiseshellbracketright.hang,
+whitecornerbracketleft.hang,
+whitecornerbracketright.hang,
+whitelenticularbracketleft.hang,
+whitelenticularbracketright.hang,
+whitesquarebracketleft.hang,
+whitesquarebracketright.hang,
+whitetortoiseshellbracketleft.hang,
+whitetortoiseshellbracketright.hang
+);
 }
 );
 instanceInterpolations = {
@@ -4745,6 +4817,27 @@ value = (
 "uni9F9C=uni9F9C.loclJAN",
 "uni5ECA=uni5ECA.loclJAN",
 "uni6717=uni6717.loclJAN"
+);
+},
+{
+name = "Decompose Glyphs";
+value = (
+blacklenticularbracketleft.hang,
+blacklenticularbracketright.hang,
+cornerbracketleft.hang,
+cornerbracketright.hang,
+dblanglebracketleft.hang,
+dblanglebracketright.hang,
+tortoiseshellbracketleft.hang,
+tortoiseshellbracketright.hang,
+whitecornerbracketleft.hang,
+whitecornerbracketright.hang,
+whitelenticularbracketleft.hang,
+whitelenticularbracketright.hang,
+whitesquarebracketleft.hang,
+whitesquarebracketright.hang,
+whitetortoiseshellbracketleft.hang,
+whitetortoiseshellbracketright.hang
 );
 }
 );
@@ -5332,6 +5425,27 @@ value = (
 "uni5ECA=uni5ECA.loclJAN",
 "uni6717=uni6717.loclJAN"
 );
+},
+{
+name = "Decompose Glyphs";
+value = (
+blacklenticularbracketleft.hang,
+blacklenticularbracketright.hang,
+cornerbracketleft.hang,
+cornerbracketright.hang,
+dblanglebracketleft.hang,
+dblanglebracketright.hang,
+tortoiseshellbracketleft.hang,
+tortoiseshellbracketright.hang,
+whitecornerbracketleft.hang,
+whitecornerbracketright.hang,
+whitelenticularbracketleft.hang,
+whitelenticularbracketright.hang,
+whitesquarebracketleft.hang,
+whitesquarebracketright.hang,
+whitetortoiseshellbracketleft.hang,
+whitetortoiseshellbracketright.hang
+);
 }
 );
 instanceInterpolations = {
@@ -5916,6 +6030,27 @@ value = (
 "uni9F9C=uni9F9C.loclJAN",
 "uni5ECA=uni5ECA.loclJAN",
 "uni6717=uni6717.loclJAN"
+);
+},
+{
+name = "Decompose Glyphs";
+value = (
+blacklenticularbracketleft.hang,
+blacklenticularbracketright.hang,
+cornerbracketleft.hang,
+cornerbracketright.hang,
+dblanglebracketleft.hang,
+dblanglebracketright.hang,
+tortoiseshellbracketleft.hang,
+tortoiseshellbracketright.hang,
+whitecornerbracketleft.hang,
+whitecornerbracketright.hang,
+whitelenticularbracketleft.hang,
+whitelenticularbracketright.hang,
+whitesquarebracketleft.hang,
+whitesquarebracketright.hang,
+whitetortoiseshellbracketleft.hang,
+whitetortoiseshellbracketright.hang
 );
 }
 );
@@ -6502,6 +6637,27 @@ value = (
 "uni5ECA=uni5ECA.loclJAN",
 "uni6717=uni6717.loclJAN"
 );
+},
+{
+name = "Decompose Glyphs";
+value = (
+blacklenticularbracketleft.hang,
+blacklenticularbracketright.hang,
+cornerbracketleft.hang,
+cornerbracketright.hang,
+dblanglebracketleft.hang,
+dblanglebracketright.hang,
+tortoiseshellbracketleft.hang,
+tortoiseshellbracketright.hang,
+whitecornerbracketleft.hang,
+whitecornerbracketright.hang,
+whitelenticularbracketleft.hang,
+whitelenticularbracketright.hang,
+whitesquarebracketleft.hang,
+whitesquarebracketright.hang,
+whitetortoiseshellbracketleft.hang,
+whitetortoiseshellbracketright.hang
+);
 }
 );
 instanceInterpolations = {
@@ -7086,6 +7242,27 @@ value = (
 "uni9F9C=uni9F9C.loclJAN",
 "uni5ECA=uni5ECA.loclJAN",
 "uni6717=uni6717.loclJAN"
+);
+},
+{
+name = "Decompose Glyphs";
+value = (
+blacklenticularbracketleft.hang,
+blacklenticularbracketright.hang,
+cornerbracketleft.hang,
+cornerbracketright.hang,
+dblanglebracketleft.hang,
+dblanglebracketright.hang,
+tortoiseshellbracketleft.hang,
+tortoiseshellbracketright.hang,
+whitecornerbracketleft.hang,
+whitecornerbracketright.hang,
+whitelenticularbracketleft.hang,
+whitelenticularbracketright.hang,
+whitesquarebracketleft.hang,
+whitesquarebracketright.hang,
+whitetortoiseshellbracketleft.hang,
+whitetortoiseshellbracketright.hang
 );
 }
 );
@@ -7672,6 +7849,27 @@ value = (
 "uni5ECA=uni5ECA.loclJAN",
 "uni6717=uni6717.loclJAN"
 );
+},
+{
+name = "Decompose Glyphs";
+value = (
+blacklenticularbracketleft.hang,
+blacklenticularbracketright.hang,
+cornerbracketleft.hang,
+cornerbracketright.hang,
+dblanglebracketleft.hang,
+dblanglebracketright.hang,
+tortoiseshellbracketleft.hang,
+tortoiseshellbracketright.hang,
+whitecornerbracketleft.hang,
+whitecornerbracketright.hang,
+whitelenticularbracketleft.hang,
+whitelenticularbracketright.hang,
+whitesquarebracketleft.hang,
+whitesquarebracketright.hang,
+whitetortoiseshellbracketleft.hang,
+whitetortoiseshellbracketright.hang
+);
 }
 );
 instanceInterpolations = {
@@ -8257,6 +8455,27 @@ value = (
 "uni5ECA=uni5ECA.loclJAN",
 "uni6717=uni6717.loclJAN"
 );
+},
+{
+name = "Decompose Glyphs";
+value = (
+blacklenticularbracketleft.hang,
+blacklenticularbracketright.hang,
+cornerbracketleft.hang,
+cornerbracketright.hang,
+dblanglebracketleft.hang,
+dblanglebracketright.hang,
+tortoiseshellbracketleft.hang,
+tortoiseshellbracketright.hang,
+whitecornerbracketleft.hang,
+whitecornerbracketright.hang,
+whitelenticularbracketleft.hang,
+whitelenticularbracketright.hang,
+whitesquarebracketleft.hang,
+whitesquarebracketright.hang,
+whitetortoiseshellbracketleft.hang,
+whitetortoiseshellbracketright.hang
+);
 }
 );
 instanceInterpolations = {
@@ -8839,6 +9058,27 @@ value = (
 "uni9F9C=uni9F9C.loclJAN",
 "uni5ECA=uni5ECA.loclJAN",
 "uni6717=uni6717.loclJAN"
+);
+},
+{
+name = "Decompose Glyphs";
+value = (
+blacklenticularbracketleft.hang,
+blacklenticularbracketright.hang,
+cornerbracketleft.hang,
+cornerbracketright.hang,
+dblanglebracketleft.hang,
+dblanglebracketright.hang,
+tortoiseshellbracketleft.hang,
+tortoiseshellbracketright.hang,
+whitecornerbracketleft.hang,
+whitecornerbracketright.hang,
+whitelenticularbracketleft.hang,
+whitelenticularbracketright.hang,
+whitesquarebracketleft.hang,
+whitesquarebracketright.hang,
+whitetortoiseshellbracketleft.hang,
+whitetortoiseshellbracketright.hang
 );
 }
 );
@@ -9425,6 +9665,27 @@ value = (
 "uni5ECA=uni5ECA.loclJAN",
 "uni6717=uni6717.loclJAN"
 );
+},
+{
+name = "Decompose Glyphs";
+value = (
+blacklenticularbracketleft.hang,
+blacklenticularbracketright.hang,
+cornerbracketleft.hang,
+cornerbracketright.hang,
+dblanglebracketleft.hang,
+dblanglebracketright.hang,
+tortoiseshellbracketleft.hang,
+tortoiseshellbracketright.hang,
+whitecornerbracketleft.hang,
+whitecornerbracketright.hang,
+whitelenticularbracketleft.hang,
+whitelenticularbracketright.hang,
+whitesquarebracketleft.hang,
+whitesquarebracketright.hang,
+whitetortoiseshellbracketleft.hang,
+whitetortoiseshellbracketright.hang
+);
 }
 );
 instanceInterpolations = {
@@ -10009,6 +10270,27 @@ value = (
 "uni9F9C=uni9F9C.loclJAN",
 "uni5ECA=uni5ECA.loclJAN",
 "uni6717=uni6717.loclJAN"
+);
+},
+{
+name = "Decompose Glyphs";
+value = (
+blacklenticularbracketleft.hang,
+blacklenticularbracketright.hang,
+cornerbracketleft.hang,
+cornerbracketright.hang,
+dblanglebracketleft.hang,
+dblanglebracketright.hang,
+tortoiseshellbracketleft.hang,
+tortoiseshellbracketright.hang,
+whitecornerbracketleft.hang,
+whitecornerbracketright.hang,
+whitelenticularbracketleft.hang,
+whitelenticularbracketright.hang,
+whitesquarebracketleft.hang,
+whitesquarebracketright.hang,
+whitetortoiseshellbracketleft.hang,
+whitetortoiseshellbracketright.hang
 );
 }
 );
@@ -10596,6 +10878,27 @@ value = (
 "uni5ECA=uni5ECA.loclJAN",
 "uni6717=uni6717.loclJAN"
 );
+},
+{
+name = "Decompose Glyphs";
+value = (
+blacklenticularbracketleft.hang,
+blacklenticularbracketright.hang,
+cornerbracketleft.hang,
+cornerbracketright.hang,
+dblanglebracketleft.hang,
+dblanglebracketright.hang,
+tortoiseshellbracketleft.hang,
+tortoiseshellbracketright.hang,
+whitecornerbracketleft.hang,
+whitecornerbracketright.hang,
+whitelenticularbracketleft.hang,
+whitelenticularbracketright.hang,
+whitesquarebracketleft.hang,
+whitesquarebracketright.hang,
+whitetortoiseshellbracketleft.hang,
+whitetortoiseshellbracketright.hang
+);
 }
 );
 instanceInterpolations = {
@@ -11181,6 +11484,27 @@ value = (
 "uni5ECA=uni5ECA.loclJAN",
 "uni6717=uni6717.loclJAN"
 );
+},
+{
+name = "Decompose Glyphs";
+value = (
+blacklenticularbracketleft.hang,
+blacklenticularbracketright.hang,
+cornerbracketleft.hang,
+cornerbracketright.hang,
+dblanglebracketleft.hang,
+dblanglebracketright.hang,
+tortoiseshellbracketleft.hang,
+tortoiseshellbracketright.hang,
+whitecornerbracketleft.hang,
+whitecornerbracketright.hang,
+whitelenticularbracketleft.hang,
+whitelenticularbracketright.hang,
+whitesquarebracketleft.hang,
+whitesquarebracketright.hang,
+whitetortoiseshellbracketleft.hang,
+whitetortoiseshellbracketright.hang
+);
 }
 );
 instanceInterpolations = {
@@ -11762,6 +12086,27 @@ value = (
 "uni9F9C=uni9F9C.loclJAN",
 "uni5ECA=uni5ECA.loclJAN",
 "uni6717=uni6717.loclJAN"
+);
+},
+{
+name = "Decompose Glyphs";
+value = (
+blacklenticularbracketleft.hang,
+blacklenticularbracketright.hang,
+cornerbracketleft.hang,
+cornerbracketright.hang,
+dblanglebracketleft.hang,
+dblanglebracketright.hang,
+tortoiseshellbracketleft.hang,
+tortoiseshellbracketright.hang,
+whitecornerbracketleft.hang,
+whitecornerbracketright.hang,
+whitelenticularbracketleft.hang,
+whitelenticularbracketright.hang,
+whitesquarebracketleft.hang,
+whitesquarebracketright.hang,
+whitetortoiseshellbracketleft.hang,
+whitetortoiseshellbracketright.hang
 );
 }
 );

@@ -7,7 +7,7 @@ layers = (
 guides = (
 {
 orientation = center;
-pos = (-232,248);
+pos = (556,248);
 showMeasurement = 1;
 }
 );
@@ -72,8 +72,6 @@ ref = period;
 width = 1472;
 }
 );
-metricLeft = period;
-metricRight = period;
 unicode = 8229;
 userData = {
 "interface.width-adjustments" = (

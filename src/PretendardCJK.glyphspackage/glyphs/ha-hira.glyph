@@ -50,7 +50,6 @@ nodes = (
 alignment = -1;
 pos = (-29,0);
 ref = "_left-arc";
-scale = (0.999,1);
 }
 );
 width = 2716;

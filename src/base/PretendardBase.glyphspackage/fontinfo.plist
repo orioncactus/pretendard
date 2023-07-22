@@ -1,5 +1,5 @@
 {
-.appVersion = "3192";
+.appVersion = "3207";
 .formatVersion = 3;
 axes = (
 {
@@ -1692,21 +1692,19 @@ tag = ccmp;
 },
 {
 automatic = 1;
-code = "lookup locl_latn_0 {
-	script latn;
-	language ROM;
-	sub Scedilla by Scommaaccent;
-	sub scedilla by scommaaccent;
-	sub tcedilla by tcommaaccent;
-	language MOL;
+code = "script latn;
+language ROM;
+lookup locl_latn_0 {
 	sub Scedilla by Scommaaccent;
 	sub scedilla by scommaaccent;
 	sub tcedilla by tcommaaccent;
 } locl_latn_0;
+language MOL;
+lookup locl_latn_0;
 
+script latn;
+language CAT;
 lookup locl_latn_1 {
-	script latn;
-	language CAT;
 	sub  l' periodcentered' l by ldot;
 	sub  L' periodcentered' L by Ldot;
 } locl_latn_1;

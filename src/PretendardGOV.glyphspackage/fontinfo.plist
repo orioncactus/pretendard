@@ -24388,11 +24388,11 @@ key = copyrights;
 values = (
 {
 language = dflt;
-value = "Copyright © 2022 Kil Hyung-jin";
+value = "Copyright © 2023 Kil Hyung-jin";
 },
 {
 language = KOR;
-value = "Copyright © 2022 길형진";
+value = "Copyright © 2023 길형진";
 }
 );
 },

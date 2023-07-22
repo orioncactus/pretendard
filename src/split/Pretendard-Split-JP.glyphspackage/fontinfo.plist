@@ -78,7 +78,7 @@ name = ROS;
 value = "Adobe-Identity-0";
 }
 );
-date = "2023-06-11 15:00:30 +0000";
+date = "2023-07-21 15:00:30 +0000";
 familyName = "Pretendard JP";
 featurePrefixes = (
 {
@@ -14534,11 +14534,11 @@ key = copyrights;
 values = (
 {
 language = dflt;
-value = "Copyright © 2022 Kil Hyung-jin";
+value = "Copyright © 2023 Kil Hyung-jin";
 },
 {
 language = KOR;
-value = "Copyright © 2022 길형진";
+value = "Copyright © 2023 길형진";
 }
 );
 },

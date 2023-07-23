@@ -1,0 +1,66 @@
+{
+glyphname = mhzSquare;
+layers = (
+{
+layerId = "B1F27B51-9973-4381-9301-4FE46FE1CA59";
+shapes = (
+{
+alignment = 1;
+ref = M;
+},
+{
+alignment = 1;
+pos = (2368,0);
+ref = H;
+},
+{
+alignment = 1;
+pos = (4376,0);
+ref = z;
+}
+);
+width = 5744;
+},
+{
+layerId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
+shapes = (
+{
+alignment = 1;
+ref = M;
+},
+{
+alignment = 1;
+pos = (2468,0);
+ref = H;
+},
+{
+alignment = 1;
+pos = (4514,0);
+ref = z;
+}
+);
+width = 5998;
+},
+{
+layerId = "5C20EF92-B63D-42A8-8878-93C2863E0093";
+shapes = (
+{
+alignment = 1;
+ref = M;
+},
+{
+alignment = 1;
+pos = (2624,0);
+ref = H;
+},
+{
+alignment = 1;
+pos = (4736,0);
+ref = z;
+}
+);
+width = 6404;
+}
+);
+unicode = 13202;
+}

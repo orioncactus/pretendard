@@ -1,0 +1,72 @@
+{
+glyphname = Enghecyrillic;
+kernLeft = B;
+kernRight = T;
+layers = (
+{
+layerId = "B1F27B51-9973-4381-9301-4FE46FE1CA59";
+shapes = (
+{
+closed = 1;
+nodes = (
+(1660,2048,l),
+(1660,1984,l),
+(2516,1984,l),
+(2516,2048,l)
+);
+},
+{
+alignment = -1;
+ref = H;
+}
+);
+width = 2656;
+},
+{
+layerId = "C698F293-3EC0-4A5A-A3A0-0FDB1F5CF265";
+shapes = (
+{
+closed = 1;
+nodes = (
+(1570,2048,l),
+(1746,1828,l),
+(2618,1828,l),
+(2618,2048,l)
+);
+},
+{
+ref = H;
+}
+);
+width = 2732;
+},
+{
+layerId = "5C20EF92-B63D-42A8-8878-93C2863E0093";
+shapes = (
+{
+closed = 1;
+nodes = (
+(1424,2048,l),
+(1896,1600,l),
+(2796,1600,l),
+(2796,2048,l)
+);
+},
+{
+ref = H;
+}
+);
+width = 2872;
+}
+);
+metricLeft = H;
+metricRight = T;
+note = "!post:RemoveOverlap";
+unicode = 1188;
+userData = {
+interface.gridadjust.original = "{'width': 2729, 'leftMargin': 256, 'rightMargin': 101}";
+"interface.width-adjustments" = (
+-16
+);
+};
+}

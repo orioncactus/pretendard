@@ -1,0 +1,64 @@
+{
+glyphname = Theta;
+kernLeft = C;
+kernRight = D;
+layers = (
+{
+layerId = "B1F27B51-9973-4381-9301-4FE46FE1CA59";
+shapes = (
+{
+closed = 1;
+nodes = (
+(482,1056,l),
+(482,992,l),
+(1558,992,l),
+(1558,1056,l)
+);
+},
+{
+ref = O;
+}
+);
+width = 2040;
+},
+{
+layerId = "5C20EF92-B63D-42A8-8878-93C2863E0093";
+shapes = (
+{
+closed = 1;
+nodes = (
+(820,1184,l),
+(820,864,l),
+(1420,864,l),
+(1420,1184,l)
+);
+},
+{
+ref = O;
+}
+);
+width = 2240;
+},
+{
+layerId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
+shapes = (
+{
+closed = 1;
+nodes = (
+(622,1136,l),
+(622,912,l),
+(1480,912,l),
+(1480,1136,l)
+);
+},
+{
+alignment = -1;
+ref = O;
+}
+);
+width = 2104;
+}
+);
+metricWidth = O;
+unicode = 920;
+}

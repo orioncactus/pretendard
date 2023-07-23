@@ -1,0 +1,69 @@
+{
+glyphname = tonostop;
+layers = (
+{
+anchors = (
+{
+name = _top;
+pos = (148,1808);
+}
+);
+layerId = "B1F27B51-9973-4381-9301-4FE46FE1CA59";
+shapes = (
+{
+closed = 1;
+nodes = (
+(182,1696,l),
+(254,2156,l),
+(174,2156,l),
+(134,1696,l)
+);
+}
+);
+width = 384;
+},
+{
+anchors = (
+{
+name = _top;
+pos = (282,1792);
+}
+);
+layerId = "C698F293-3EC0-4A5A-A3A0-0FDB1F5CF265";
+shapes = (
+{
+closed = 1;
+nodes = (
+(366,1708,l),
+(526,2176,l),
+(270,2176,l),
+(202,1708,l)
+);
+}
+);
+width = 708;
+},
+{
+anchors = (
+{
+name = _top;
+pos = (512,1764);
+}
+);
+layerId = "5C20EF92-B63D-42A8-8878-93C2863E0093";
+shapes = (
+{
+closed = 1;
+nodes = (
+(656,1728,l),
+(944,2208,l),
+(480,2208,l),
+(348,1728,l)
+);
+}
+);
+width = 1260;
+}
+);
+unicode = 57641;
+}

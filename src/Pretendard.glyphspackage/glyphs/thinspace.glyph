@@ -1,0 +1,28 @@
+{
+color = (237,229,250,1);
+glyphname = thinspace;
+layers = (
+{
+layerId = "5C20EF92-B63D-42A8-8878-93C2863E0093";
+metricWidth = "=space/2";
+width = 312;
+},
+{
+layerId = "B1F27B51-9973-4381-9301-4FE46FE1CA59";
+metricWidth = "=space/2";
+width = 316;
+},
+{
+layerId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
+metricWidth = "=space/2.015";
+width = 360;
+}
+);
+note = "
+One-fifth (sometimes one-sixth) of an em wide. Recommended for use as a thousands separator for measures made with SI units. Unlike U+2002 to U+2008, its width may get adjusted in typesetting.
+";
+unicode = (8201,8239);
+userData = {
+interface.gridadjust.original = "{'width': 575, 'leftMargin': 0, 'rightMargin': 0}";
+};
+}

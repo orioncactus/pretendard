@@ -1,0 +1,85 @@
+{
+glyphname = dieresismacroncomb.cn;
+layers = (
+{
+anchors = (
+{
+name = _top;
+pos = (-952,2304);
+}
+);
+guides = (
+{
+pos = (1496,2416);
+}
+);
+layerId = "5C20EF92-B63D-42A8-8878-93C2863E0093";
+shapes = (
+{
+alignment = -1;
+pos = (56,512);
+ref = dieresisnosp;
+},
+{
+alignment = -1;
+pos = (-30,1024);
+ref = macroncomb;
+}
+);
+width = 0;
+},
+{
+anchors = (
+{
+name = _top;
+pos = (-754,2304);
+}
+);
+guides = (
+{
+angle = 90;
+pos = (-856,2908);
+},
+{
+pos = (486,2976);
+}
+);
+layerId = "B1F27B51-9973-4381-9301-4FE46FE1CA59";
+shapes = (
+{
+pos = (-16,512);
+ref = dieresisnosp;
+},
+{
+alignment = -1;
+pos = (126,902);
+ref = macroncomb;
+}
+);
+width = 0;
+},
+{
+anchors = (
+{
+name = _top;
+pos = (-826,2304);
+}
+);
+layerId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
+shapes = (
+{
+alignment = -1;
+pos = (28,512);
+ref = dieresisnosp;
+},
+{
+alignment = -1;
+pos = (54,1024);
+ref = macroncomb;
+}
+);
+width = 2;
+}
+);
+unicode = 57624;
+}

@@ -1,0 +1,47 @@
+{
+glyphname = uni022B;
+kernLeft = c;
+kernRight = b;
+layers = (
+{
+layerId = "5C20EF92-B63D-42A8-8878-93C2863E0093";
+shapes = (
+{
+ref = o;
+},
+{
+pos = (1832,-44);
+ref = dieresismacroncomb.lc;
+}
+);
+width = 1760;
+},
+{
+layerId = "B1F27B51-9973-4381-9301-4FE46FE1CA59";
+shapes = (
+{
+ref = o;
+},
+{
+pos = (1714,-64);
+ref = dieresismacroncomb.lc;
+}
+);
+width = 1568;
+},
+{
+layerId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
+shapes = (
+{
+ref = o;
+},
+{
+pos = (1640,-24);
+ref = dieresismacroncomb.lc;
+}
+);
+width = 1642;
+}
+);
+unicode = 555;
+}

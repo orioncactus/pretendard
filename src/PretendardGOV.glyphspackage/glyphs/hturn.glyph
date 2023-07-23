@@ -1,0 +1,84 @@
+{
+glyphname = hturn;
+kernLeft = u;
+kernRight = g;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+pos = (1414,-512);
+},
+{
+name = top;
+pos = (906,1792);
+}
+);
+guides = (
+{
+pos = (1820,1536);
+}
+);
+layerId = "5C20EF92-B63D-42A8-8878-93C2863E0093";
+shapes = (
+{
+angle = 180;
+pos = (1820,1536);
+ref = h;
+}
+);
+width = 1820;
+},
+{
+anchors = (
+{
+name = bottom;
+pos = (1296,-512);
+},
+{
+name = top;
+pos = (800,1792);
+}
+);
+layerId = "B1F27B51-9973-4381-9301-4FE46FE1CA59";
+shapes = (
+{
+angle = 180;
+pos = (1536,1536);
+ref = h;
+}
+);
+width = 1536;
+},
+{
+anchors = (
+{
+name = bottom;
+pos = (1336,-512);
+},
+{
+name = top;
+pos = (838,1792);
+}
+);
+layerId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
+shapes = (
+{
+angle = 180;
+pos = (1628,1536);
+ref = h;
+}
+);
+width = 1628;
+}
+);
+metricLeft = u;
+metricRight = g;
+unicode = 613;
+userData = {
+interface.gridadjust.original = "{'width': 1552, 'leftMargin': 183, 'rightMargin': 188}";
+"interface.width-adjustments" = (
+-16
+);
+};
+}

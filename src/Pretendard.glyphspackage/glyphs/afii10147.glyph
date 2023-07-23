@@ -1,0 +1,54 @@
+{
+glyphname = afii10147;
+kernLeft = C;
+kernRight = D;
+layers = (
+{
+guides = (
+{
+angle = 90;
+pos = (1024,1436);
+}
+);
+layerId = "5C20EF92-B63D-42A8-8878-93C2863E0093";
+shapes = (
+{
+ref = uni03F4;
+}
+);
+width = 2240;
+},
+{
+layerId = "B1F27B51-9973-4381-9301-4FE46FE1CA59";
+shapes = (
+{
+ref = uni03F4;
+}
+);
+width = 2040;
+},
+{
+layerId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
+shapes = (
+{
+ref = uni03F4;
+}
+);
+width = 2104;
+}
+);
+metricLeft = O;
+metricRight = O;
+note = "Note: Glyph reused for /obar";
+unicode = 1138;
+userData = {
+com.typemytype.robofont.guideline.magnetic.QD5DfbblP5 = 5;
+com.typemytype.robofont.guideline.magnetic.RjmZPyuVAl = 5;
+com.typemytype.robofont.guideline.magnetic.lbpN0LWUUW = 5;
+com.typemytype.robofont.guideline.magnetic.oqmfnhxmms = 5;
+interface.gridadjust.original = "{'width': 1921, 'leftMargin': 233, 'rightMargin': 152}";
+"interface.width-adjustments" = (
+-16
+);
+};
+}

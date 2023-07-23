@@ -1,0 +1,64 @@
+{
+glyphname = ascript;
+layers = (
+{
+anchors = (
+{
+name = rhotichook;
+pos = (1388,776);
+}
+);
+background = {
+shapes = (
+{
+ref = alpha;
+}
+);
+};
+layerId = "5C20EF92-B63D-42A8-8878-93C2863E0093";
+shapes = (
+{
+ref = alpha;
+}
+);
+width = 1856;
+},
+{
+anchors = (
+{
+name = rhotichook;
+pos = (1440,776);
+}
+);
+layerId = "B1F27B51-9973-4381-9301-4FE46FE1CA59";
+shapes = (
+{
+ref = alpha;
+}
+);
+width = 1710;
+},
+{
+anchors = (
+{
+name = rhotichook;
+pos = (1348,768);
+}
+);
+layerId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
+shapes = (
+{
+ref = alpha;
+}
+);
+width = 1764;
+}
+);
+unicode = 593;
+userData = {
+interface.gridadjust.original = "{'width': 1665, 'leftMargin': 135, 'rightMargin': 93}";
+"interface.width-adjustments" = (
+-16
+);
+};
+}

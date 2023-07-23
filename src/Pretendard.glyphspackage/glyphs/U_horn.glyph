@@ -1,0 +1,82 @@
+{
+glyphname = Uhorn;
+kernLeft = U;
+kernRight = T;
+layers = (
+{
+layerId = "5C20EF92-B63D-42A8-8878-93C2863E0093";
+shapes = (
+{
+closed = 1;
+nodes = (
+(2080,1824,o),
+(2084,1652,o),
+(1760,1652,c),
+(1760,1408,l),
+(2260,1408,o),
+(2384,1668,o),
+(2384,2088,c),
+(2080,2088,l)
+);
+},
+{
+ref = U;
+}
+);
+width = 2460;
+},
+{
+layerId = "B1F27B51-9973-4381-9301-4FE46FE1CA59";
+shapes = (
+{
+closed = 1;
+nodes = (
+(2027,1985,o),
+(1961,1897,o),
+(1752,1844,c),
+(1752,1780,l),
+(1996,1832,o),
+(2093,1952,o),
+(2092,2204,c),
+(2028,2204,l)
+);
+},
+{
+alignment = -1;
+ref = U;
+}
+);
+width = 2232;
+},
+{
+layerId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
+shapes = (
+{
+closed = 1;
+nodes = (
+(2046,1906,o),
+(1972,1766,o),
+(1692,1766,c),
+(1692,1568,l),
+(2118,1568,o),
+(2280,1778,o),
+(2280,2170,c),
+(2046,2170,l)
+);
+},
+{
+alignment = -1;
+ref = U;
+}
+);
+width = 2394;
+}
+);
+metricLeft = U;
+metricRight = T;
+unicode = 431;
+userData = {
+com.typemytype.robofont.guideline.magnetic.w9xhz5LEo8 = 5;
+interface.gridadjust.original = "{'width': 1968, 'leftMargin': 256, 'rightMargin': -199}";
+};
+}

@@ -1,0 +1,47 @@
+{
+glyphname = anoteleia;
+kernLeft = quotedbl;
+kernRight = quotedbl;
+layers = (
+{
+layerId = "5C20EF92-B63D-42A8-8878-93C2863E0093";
+shapes = (
+{
+pos = (0,1032);
+ref = period;
+}
+);
+width = 880;
+},
+{
+layerId = "B1F27B51-9973-4381-9301-4FE46FE1CA59";
+shapes = (
+{
+pos = (0,1428);
+ref = period;
+}
+);
+width = 648;
+},
+{
+layerId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
+shapes = (
+{
+alignment = -1;
+pos = (0,1208);
+ref = period;
+}
+);
+width = 736;
+}
+);
+metricWidth = period;
+note = "the Greek semicolon aka \"upper stop\"";
+unicode = 903;
+userData = {
+interface.gridadjust.original = "{'width': 745, 'leftMargin': 224, 'rightMargin': 189}";
+"interface.width-adjustments" = (
+-16
+);
+};
+}

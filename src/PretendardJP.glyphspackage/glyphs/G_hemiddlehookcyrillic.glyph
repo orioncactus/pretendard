@@ -1,0 +1,60 @@
+{
+glyphname = Ghemiddlehookcyrillic;
+kernLeft = B;
+layers = (
+{
+layerId = "5C20EF92-B63D-42A8-8878-93C2863E0093";
+shapes = (
+{
+alignment = -1;
+ref = Gamma;
+},
+{
+alignment = -1;
+pos = (580,0);
+ref = largerighthook;
+}
+);
+width = 2052;
+},
+{
+layerId = "B1F27B51-9973-4381-9301-4FE46FE1CA59";
+shapes = (
+{
+alignment = -1;
+ref = Gamma;
+},
+{
+alignment = -1;
+pos = (260,0);
+ref = largerighthook;
+}
+);
+width = 1616;
+},
+{
+layerId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
+shapes = (
+{
+alignment = -1;
+ref = Gamma;
+},
+{
+alignment = -1;
+pos = (420,0);
+ref = largerighthook;
+}
+);
+width = 1718;
+}
+);
+metricLeft = B;
+metricRight = b;
+unicode = 1172;
+userData = {
+interface.gridadjust.original = "{'width': 1728, 'leftMargin': 280, 'rightMargin': -81}";
+"interface.width-adjustments" = (
+-16
+);
+};
+}

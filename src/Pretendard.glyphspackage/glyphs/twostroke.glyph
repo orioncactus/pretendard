@@ -1,0 +1,72 @@
+{
+glyphname = twostroke;
+layers = (
+{
+layerId = "5C20EF92-B63D-42A8-8878-93C2863E0093";
+shapes = (
+{
+alignment = 1;
+ref = two;
+},
+{
+pos = (516,16);
+ref = crossbar;
+}
+);
+width = 1820;
+},
+{
+layerId = "B1F27B51-9973-4381-9301-4FE46FE1CA59";
+shapes = (
+{
+alignment = 1;
+ref = two;
+},
+{
+pos = (562,32);
+ref = crossbar;
+}
+);
+width = 1720;
+},
+{
+associatedMasterId = "B1F27B51-9973-4381-9301-4FE46FE1CA59";
+layerId = "323BD3FD-D32C-4807-9D2A-E79D61C793ED";
+name = "May 22, 21 14:06";
+shapes = (
+{
+alignment = -1;
+ref = two;
+},
+{
+alignment = -1;
+pos = (536,32);
+ref = crossbar;
+}
+);
+width = 1684;
+},
+{
+layerId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
+shapes = (
+{
+alignment = 1;
+ref = two;
+},
+{
+pos = (550,64);
+ref = crossbar;
+}
+);
+width = 1700;
+}
+);
+unicode = 443;
+userData = {
+com.typemytype.robofont.guideline.magnetic.p1BN68QFnw = 5;
+interface.gridadjust.original = "{'width': 1596, 'leftMargin': 256, 'rightMargin': 28}";
+"interface.width-adjustments" = (
+-16
+);
+};
+}

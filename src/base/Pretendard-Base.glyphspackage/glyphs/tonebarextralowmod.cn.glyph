@@ -1,0 +1,85 @@
+{
+color = (204,240,242,1);
+glyphname = tonebarextralowmod.cn;
+layers = (
+{
+layerId = "B1F27B51-9973-4381-9301-4FE46FE1CA59";
+shapes = (
+{
+closed = 1;
+nodes = (
+(592,2004,l),
+(592,0,l),
+(656,0,l),
+(656,2004,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(208,64,l),
+(208,0,l),
+(632,0,l),
+(632,64,l)
+);
+}
+);
+width = 866;
+},
+{
+layerId = "C698F293-3EC0-4A5A-A3A0-0FDB1F5CF265";
+shapes = (
+{
+closed = 1;
+nodes = (
+(522,2004,l),
+(522,0,l),
+(798,0,l),
+(798,2004,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(166,220,l),
+(166,0,l),
+(730,0,l),
+(730,220,l)
+);
+}
+);
+width = 964;
+},
+{
+layerId = "5C20EF92-B63D-42A8-8878-93C2863E0093";
+shapes = (
+{
+closed = 1;
+nodes = (
+(528,2004,l),
+(528,0,l),
+(1044,0,l),
+(1044,2004,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(104,416,l),
+(104,0,l),
+(1000,0,l),
+(1000,416,l)
+);
+}
+);
+width = 1140;
+}
+);
+unicode = 745;
+userData = {
+interface.gridadjust.original = "{'width': 919, 'leftMargin': 55, 'rightMargin': 234}";
+"interface.width-adjustments" = (
+-16
+);
+};
+}

@@ -1,0 +1,95 @@
+{
+glyphname = eturn;
+kernLeft = c;
+kernRight = b;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+pos = (800,0);
+},
+{
+name = cedilla;
+pos = (804,0);
+},
+{
+name = ogonek;
+pos = (896,-40);
+},
+{
+name = top;
+pos = (812,1792);
+}
+);
+layerId = "B1F27B51-9973-4381-9301-4FE46FE1CA59";
+shapes = (
+{
+angle = 180;
+pos = (1560,1536);
+ref = e;
+}
+);
+width = 1560;
+},
+{
+anchors = (
+{
+name = bottom;
+pos = (824,0);
+},
+{
+name = cedilla;
+pos = (828,0);
+},
+{
+name = ogonek;
+pos = (1056,0);
+},
+{
+name = top;
+pos = (824,1792);
+}
+);
+layerId = "C698F293-3EC0-4A5A-A3A0-0FDB1F5CF265";
+shapes = (
+{
+angle = 180;
+pos = (1596,1536);
+ref = e;
+}
+);
+width = 1596;
+},
+{
+anchors = (
+{
+name = bottom;
+pos = (864,0);
+},
+{
+name = cedilla;
+pos = (872,0);
+},
+{
+name = ogonek;
+pos = (1324,68);
+},
+{
+name = top;
+pos = (856,1792);
+}
+);
+layerId = "5C20EF92-B63D-42A8-8878-93C2863E0093";
+shapes = (
+{
+angle = 180;
+pos = (1712,1536);
+ref = e;
+}
+);
+width = 1712;
+}
+);
+unicode = 477;
+}

@@ -1,0 +1,47 @@
+{
+glyphname = Vtilde;
+kernLeft = V;
+kernRight = V;
+layers = (
+{
+layerId = "B1F27B51-9973-4381-9301-4FE46FE1CA59";
+shapes = (
+{
+ref = V;
+},
+{
+pos = (168,512);
+ref = tilde;
+}
+);
+width = 1672;
+},
+{
+layerId = "C698F293-3EC0-4A5A-A3A0-0FDB1F5CF265";
+shapes = (
+{
+ref = V;
+},
+{
+pos = (248,512);
+ref = tilde;
+}
+);
+width = 1860;
+},
+{
+layerId = "5C20EF92-B63D-42A8-8878-93C2863E0093";
+shapes = (
+{
+ref = V;
+},
+{
+pos = (416,512);
+ref = tilde;
+}
+);
+width = 2240;
+}
+);
+unicode = 7804;
+}

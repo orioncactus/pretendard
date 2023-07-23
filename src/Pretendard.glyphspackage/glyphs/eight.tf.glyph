@@ -1,0 +1,54 @@
+{
+color = 8;
+glyphname = eight.tf;
+layers = (
+{
+layerId = "5C20EF92-B63D-42A8-8878-93C2863E0093";
+shapes = (
+{
+alignment = -1;
+pos = (20,0);
+ref = eight;
+}
+);
+width = 1984;
+},
+{
+layerId = "B1F27B51-9973-4381-9301-4FE46FE1CA59";
+shapes = (
+{
+alignment = -1;
+pos = (-48,0);
+ref = eight;
+}
+);
+width = 1600;
+},
+{
+associatedMasterId = "B1F27B51-9973-4381-9301-4FE46FE1CA59";
+layerId = "469705CA-AE83-4CBF-AF12-145E43F6BB86";
+name = "May 22, 21 14:07";
+shapes = (
+{
+alignment = -1;
+pos = (-16,0);
+ref = eight;
+}
+);
+width = 1600;
+},
+{
+layerId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
+shapes = (
+{
+alignment = -1;
+pos = (12,0);
+ref = eight;
+}
+);
+width = 1780;
+}
+);
+metricWidth = zero.tf;
+unicode = 57465;
+}

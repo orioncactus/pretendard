@@ -1,0 +1,51 @@
+{
+glyphname = jhookdblbar;
+layers = (
+{
+layerId = "5C20EF92-B63D-42A8-8878-93C2863E0093";
+shapes = (
+{
+ref = esh;
+},
+{
+pos = (-8,-940);
+ref = crossbar;
+}
+);
+width = 1416;
+},
+{
+layerId = "B1F27B51-9973-4381-9301-4FE46FE1CA59";
+shapes = (
+{
+ref = esh;
+},
+{
+pos = (-32,-892);
+ref = crossbar;
+}
+);
+width = 1024;
+},
+{
+layerId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
+shapes = (
+{
+ref = esh;
+},
+{
+pos = (0,-868);
+ref = crossbar;
+}
+);
+width = 1224;
+}
+);
+unicode = 644;
+userData = {
+interface.gridadjust.original = "{'width': 1158, 'leftMargin': 41, 'rightMargin': 41}";
+"interface.width-adjustments" = (
+-16
+);
+};
+}

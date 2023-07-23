@@ -1,0 +1,74 @@
+{
+glyphname = Kabashkircyrillic;
+kernLeft = B;
+kernRight = K;
+layers = (
+{
+layerId = "5C20EF92-B63D-42A8-8878-93C2863E0093";
+shapes = (
+{
+closed = 1;
+nodes = (
+(60,2048,l),
+(60,1632,l),
+(940,1632,l),
+(940,2048,l)
+);
+},
+{
+pos = (364,0);
+ref = Kacyr;
+}
+);
+width = 2584;
+},
+{
+layerId = "B1F27B51-9973-4381-9301-4FE46FE1CA59";
+shapes = (
+{
+closed = 1;
+nodes = (
+(-28,2048,l),
+(-28,1984,l),
+(568,1984,l),
+(568,2048,l)
+);
+},
+{
+alignment = -1;
+pos = (232,0);
+ref = Kacyr;
+}
+);
+width = 1746;
+},
+{
+layerId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
+shapes = (
+{
+closed = 1;
+nodes = (
+(2,2048,l),
+(2,1824,l),
+(732,1824,l),
+(732,2048,l)
+);
+},
+{
+alignment = -1;
+pos = (280,0);
+ref = Kacyr;
+}
+);
+width = 2066;
+}
+);
+note = "!post:RemoveOverlap";
+unicode = 1184;
+userData = {
+interface.gridadjust.original = "{'width': 2311, 'leftMargin': 91, 'rightMargin': -1}";
+"interface.width-adjustments" = (
+-16
+);
+};
+}

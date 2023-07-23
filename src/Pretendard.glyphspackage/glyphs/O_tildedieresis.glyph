@@ -1,0 +1,47 @@
+{
+glyphname = Otildedieresis;
+kernLeft = C;
+kernRight = D;
+layers = (
+{
+layerId = "5C20EF92-B63D-42A8-8878-93C2863E0093";
+shapes = (
+{
+ref = O;
+},
+{
+pos = (2100,548);
+ref = tildedieresiscomb.cn;
+}
+);
+width = 2240;
+},
+{
+layerId = "B1F27B51-9973-4381-9301-4FE46FE1CA59";
+shapes = (
+{
+ref = O;
+},
+{
+pos = (1772,580);
+ref = tildedieresiscomb.cn;
+}
+);
+width = 2040;
+},
+{
+layerId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
+shapes = (
+{
+ref = O;
+},
+{
+pos = (1892,568);
+ref = tildedieresiscomb.cn;
+}
+);
+width = 2104;
+}
+);
+unicode = 7758;
+}

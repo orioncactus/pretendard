@@ -1,0 +1,87 @@
+{
+glyphname = rightChevron;
+layers = (
+{
+guides = (
+{
+pos = (2228,1480);
+},
+{
+angle = 45;
+pos = (18,1480);
+},
+{
+angle = -45;
+pos = (18,1480);
+}
+);
+layerId = "B1F27B51-9973-4381-9301-4FE46FE1CA59";
+metricLeft = "=leftArrow/2.01";
+metricRight = "=leftArrow";
+shapes = (
+{
+pos = (1544,0);
+ref = leftChevron;
+scale = (-1,1);
+}
+);
+width = 1544;
+},
+{
+guides = (
+{
+angle = 90;
+pos = (640,832);
+},
+{
+angle = -45;
+pos = (-10,896);
+},
+{
+angle = 45;
+pos = (-10,896);
+},
+{
+pos = (-110,896);
+}
+);
+layerId = "5C20EF92-B63D-42A8-8878-93C2863E0093";
+metricLeft = "=leftArrow/2.01";
+metricRight = "=leftArrow";
+shapes = (
+{
+pos = (2032,0);
+ref = leftChevron;
+scale = (-1,1);
+}
+);
+width = 2032;
+},
+{
+layerId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
+shapes = (
+{
+pos = (1684,0);
+ref = leftChevron;
+scale = (-1,1);
+}
+);
+width = 1684;
+}
+);
+note = "stroke (offset curve):
+  L head: 32, 0%
+  L stem: 32, 50%
+  R head: 108, 0%
+  R stem: 110, 50%
+  B head: 200, 0%
+  B stem: 208, 50%
+";
+userData = {
+com.typemytype.robofont.guideline.magnetic.4QFCbwcLmN = 5;
+com.typemytype.robofont.guideline.magnetic.mZHkBp2yfW = 5;
+"interface.width-adjustments" = (
+-16
+);
+};
+}

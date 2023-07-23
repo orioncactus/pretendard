@@ -1,0 +1,47 @@
+{
+glyphname = Dz;
+kernLeft = B;
+kernRight = z;
+layers = (
+{
+layerId = "5C20EF92-B63D-42A8-8878-93C2863E0093";
+shapes = (
+{
+ref = D;
+},
+{
+pos = (2064,0);
+ref = z;
+}
+);
+width = 3732;
+},
+{
+layerId = "B1F27B51-9973-4381-9301-4FE46FE1CA59";
+shapes = (
+{
+ref = D;
+},
+{
+pos = (1948,0);
+ref = z;
+}
+);
+width = 3316;
+},
+{
+layerId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
+shapes = (
+{
+ref = D;
+},
+{
+pos = (1984,0);
+ref = z;
+}
+);
+width = 3468;
+}
+);
+unicode = 498;
+}

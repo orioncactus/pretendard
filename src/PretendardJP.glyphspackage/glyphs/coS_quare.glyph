@@ -1,0 +1,66 @@
+{
+glyphname = coSquare;
+layers = (
+{
+layerId = "B1F27B51-9973-4381-9301-4FE46FE1CA59";
+shapes = (
+{
+alignment = 1;
+ref = C;
+},
+{
+alignment = 1;
+pos = (1972,0);
+ref = o;
+},
+{
+alignment = 1;
+pos = (3540,0);
+ref = period;
+}
+);
+width = 4188;
+},
+{
+layerId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
+shapes = (
+{
+alignment = 1;
+ref = C;
+},
+{
+alignment = 1;
+pos = (2008,0);
+ref = o;
+},
+{
+alignment = 1;
+pos = (3650,0);
+ref = period;
+}
+);
+width = 4386;
+},
+{
+layerId = "5C20EF92-B63D-42A8-8878-93C2863E0093";
+shapes = (
+{
+alignment = 1;
+ref = C;
+},
+{
+alignment = 1;
+pos = (2164,0);
+ref = o;
+},
+{
+alignment = 1;
+pos = (3924,0);
+ref = period;
+}
+);
+width = 4804;
+}
+);
+unicode = 13255;
+}

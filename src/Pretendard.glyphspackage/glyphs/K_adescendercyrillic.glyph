@@ -1,0 +1,59 @@
+{
+glyphname = Kadescendercyrillic;
+kernLeft = B;
+kernRight = K;
+layers = (
+{
+layerId = "5C20EF92-B63D-42A8-8878-93C2863E0093";
+shapes = (
+{
+alignment = -1;
+ref = Kacyr;
+},
+{
+pos = (1364,24);
+ref = cyrillictic.cn;
+}
+);
+width = 2184;
+},
+{
+layerId = "B1F27B51-9973-4381-9301-4FE46FE1CA59";
+shapes = (
+{
+alignment = -1;
+ref = Kacyr;
+},
+{
+alignment = -1;
+pos = (1414,84);
+ref = cyrillictic.cn;
+}
+);
+width = 1616;
+},
+{
+layerId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
+shapes = (
+{
+alignment = -1;
+ref = Kacyr;
+},
+{
+alignment = -1;
+pos = (1438,0);
+ref = cyrillictic.cn;
+}
+);
+width = 1900;
+}
+);
+metricLeft = K;
+unicode = 1178;
+userData = {
+interface.gridadjust.original = "{'width': 1991.0, 'leftMargin': 240, 'rightMargin': 129.0}";
+"interface.width-adjustments" = (
+-16
+);
+};
+}

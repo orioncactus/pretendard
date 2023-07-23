@@ -1,0 +1,53 @@
+{
+glyphname = Udieresis;
+kernLeft = U;
+kernRight = J;
+layers = (
+{
+layerId = "5C20EF92-B63D-42A8-8878-93C2863E0093";
+shapes = (
+{
+alignment = -1;
+ref = U;
+},
+{
+alignment = -1;
+pos = (316,44);
+ref = casedieresis.cn;
+}
+);
+width = 2032;
+},
+{
+layerId = "B1F27B51-9973-4381-9301-4FE46FE1CA59";
+shapes = (
+{
+alignment = -1;
+ref = U;
+},
+{
+alignment = -1;
+pos = (128,64);
+ref = casedieresis.cn;
+}
+);
+width = 2048;
+},
+{
+layerId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
+shapes = (
+{
+alignment = -1;
+ref = U;
+},
+{
+alignment = -1;
+pos = (212,24);
+ref = casedieresis.cn;
+}
+);
+width = 2048;
+}
+);
+unicode = 220;
+}

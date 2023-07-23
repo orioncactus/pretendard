@@ -1,0 +1,47 @@
+{
+glyphname = Ohorngrave;
+kernLeft = C;
+kernRight = D;
+layers = (
+{
+layerId = "B1F27B51-9973-4381-9301-4FE46FE1CA59";
+shapes = (
+{
+ref = Ohorn;
+},
+{
+pos = (220,512);
+ref = grave;
+}
+);
+width = 2006;
+},
+{
+layerId = "C698F293-3EC0-4A5A-A3A0-0FDB1F5CF265";
+shapes = (
+{
+ref = Ohorn;
+},
+{
+pos = (220,512);
+ref = grave;
+}
+);
+width = 2136;
+},
+{
+layerId = "5C20EF92-B63D-42A8-8878-93C2863E0093";
+shapes = (
+{
+ref = Ohorn;
+},
+{
+pos = (272,512);
+ref = grave;
+}
+);
+width = 2364;
+}
+);
+unicode = 7900;
+}

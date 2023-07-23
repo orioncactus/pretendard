@@ -1,0 +1,47 @@
+{
+glyphname = Zcircumflex;
+kernLeft = Z;
+kernRight = Z;
+layers = (
+{
+layerId = "5C20EF92-B63D-42A8-8878-93C2863E0093";
+shapes = (
+{
+ref = Z;
+},
+{
+pos = (96,512);
+ref = circumflex;
+}
+);
+width = 1956;
+},
+{
+layerId = "B1F27B51-9973-4381-9301-4FE46FE1CA59";
+shapes = (
+{
+ref = Z;
+},
+{
+pos = (260,512);
+ref = circumflex;
+}
+);
+width = 1640;
+},
+{
+layerId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
+shapes = (
+{
+ref = Z;
+},
+{
+pos = (236,512);
+ref = circumflex;
+}
+);
+width = 1722;
+}
+);
+unicode = 7824;
+}

@@ -1,0 +1,47 @@
+{
+glyphname = Klinebelow;
+kernLeft = B;
+kernRight = K;
+layers = (
+{
+layerId = "5C20EF92-B63D-42A8-8878-93C2863E0093";
+shapes = (
+{
+ref = K;
+},
+{
+pos = (1856,4);
+ref = macronsubnosp;
+}
+);
+width = 2012;
+},
+{
+layerId = "B1F27B51-9973-4381-9301-4FE46FE1CA59";
+shapes = (
+{
+ref = K;
+},
+{
+pos = (1704,0);
+ref = macronsubnosp;
+}
+);
+width = 1672;
+},
+{
+layerId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
+shapes = (
+{
+ref = K;
+},
+{
+pos = (1764,0);
+ref = macronsubnosp;
+}
+);
+width = 1800;
+}
+);
+unicode = 7732;
+}

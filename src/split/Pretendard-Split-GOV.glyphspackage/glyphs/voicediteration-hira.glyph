@@ -1,0 +1,55 @@
+{
+color = 11;
+glyphname = "voicediteration-hira";
+layers = (
+{
+layerId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
+shapes = (
+{
+alignment = -1;
+pos = (-163,-29);
+ref = "iteration-hira";
+},
+{
+alignment = -1;
+pos = (-501,-273);
+ref = "_voicedcomb-kana_large";
+}
+);
+width = 2504;
+},
+{
+layerId = "5C20EF92-B63D-42A8-8878-93C2863E0093";
+shapes = (
+{
+alignment = -1;
+pos = (-143,-29);
+ref = "iteration-hira";
+},
+{
+alignment = -1;
+pos = (-369,-200);
+ref = "_voicedcomb-kana_large";
+}
+);
+width = 2504;
+},
+{
+layerId = "B1F27B51-9973-4381-9301-4FE46FE1CA59";
+shapes = (
+{
+alignment = -1;
+pos = (-174,-29);
+ref = "iteration-hira";
+},
+{
+alignment = -1;
+pos = (-570,-314);
+ref = "_voicedcomb-kana_large";
+}
+);
+width = 2504;
+}
+);
+unicode = 12446;
+}

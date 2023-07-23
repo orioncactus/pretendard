@@ -1,0 +1,168 @@
+{
+color = (204,240,242,1);
+glyphname = uni214D;
+layers = (
+{
+layerId = "B1F27B51-9973-4381-9301-4FE46FE1CA59";
+shapes = (
+{
+closed = 1;
+nodes = (
+(272,1408,l),
+(272,1344,l),
+(856,1344,l),
+(856,1408,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(1036,1024,l),
+(600,2048,l),
+(528,2048,l),
+(88,1024,l),
+(156,1024,l),
+(568,1984,l),
+(560,1984,l),
+(968,1024,l)
+);
+},
+{
+pos = (1100,0);
+ref = fraction;
+},
+{
+pos = (1716,352);
+ref = s.subs;
+}
+);
+width = 2584;
+},
+{
+associatedMasterId = "C698F293-3EC0-4A5A-A3A0-0FDB1F5CF265";
+layerId = "E9F113B3-114F-49F7-90FA-A656D8145E36";
+name = "Dec 29 18, 15:34";
+shapes = (
+{
+closed = 0;
+nodes = (
+(1076,924,l),
+(608,2016,l),
+(576,2016,l),
+(108,924,l)
+);
+},
+{
+closed = 0;
+nodes = (
+(300,1376,l),
+(884,1376,l)
+);
+},
+{
+pos = (1264,0);
+ref = fraction;
+},
+{
+pos = (1960,352);
+ref = s.subs;
+}
+);
+width = 3092;
+},
+{
+guides = (
+{
+angle = 90;
+pos = (580,2060);
+}
+);
+layerId = "C698F293-3EC0-4A5A-A3A0-0FDB1F5CF265";
+shapes = (
+{
+closed = 1;
+nodes = (
+(310,1440,l),
+(310,1280,l),
+(894,1280,l),
+(894,1440,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(1142,1024,l),
+(702,2048,l),
+(502,2048,l),
+(62,1024,l),
+(258,1024,l),
+(646,1928,l),
+(558,1928,l),
+(942,1024,l)
+);
+},
+{
+pos = (1296,0);
+ref = fraction;
+},
+{
+pos = (1992,352);
+ref = s.subs;
+}
+);
+width = 2964;
+},
+{
+guides = (
+{
+angle = 90;
+pos = (520,2096);
+}
+);
+layerId = "5C20EF92-B63D-42A8-8878-93C2863E0093";
+shapes = (
+{
+closed = 1;
+nodes = (
+(376,1440,l),
+(376,1216,l),
+(960,1216,l),
+(960,1440,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(1296,1024,l),
+(856,2048,l),
+(480,2048,l),
+(44,1024,l),
+(396,1024,l),
+(728,1848,l),
+(608,1848,l),
+(944,1024,l)
+);
+},
+{
+pos = (1236,0);
+ref = fraction;
+},
+{
+alignment = -1;
+pos = (1776,332);
+ref = s.subs;
+}
+);
+width = 2872;
+}
+);
+metricLeft = a.sups;
+metricRight = s.subs;
+unicode = 8525;
+userData = {
+interface.gridadjust.original = "{'width': 2782, 'leftMargin': 149, 'rightMargin': 149}";
+"interface.width-adjustments" = (
+-16
+);
+};
+}

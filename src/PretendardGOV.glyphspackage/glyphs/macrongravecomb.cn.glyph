@@ -1,0 +1,82 @@
+{
+glyphname = macrongravecomb.cn;
+layers = (
+{
+anchors = (
+{
+name = _top;
+pos = (-400,2304);
+}
+);
+layerId = "5C20EF92-B63D-42A8-8878-93C2863E0093";
+shapes = (
+{
+closed = 1;
+nodes = (
+(-196,2712,l),
+(-462,3098,l),
+(-914,3098,l),
+(-568,2712,l)
+);
+},
+{
+pos = (-1280,472);
+ref = macron;
+}
+);
+width = 0;
+},
+{
+anchors = (
+{
+name = _top;
+pos = (-560,2304);
+}
+);
+layerId = "B1F27B51-9973-4381-9301-4FE46FE1CA59";
+shapes = (
+{
+closed = 1;
+nodes = (
+(-518,2528,l),
+(-754,2784,l),
+(-846,2784,l),
+(-594,2528,l)
+);
+},
+{
+pos = (-940,424);
+ref = macron;
+}
+);
+width = 0;
+},
+{
+anchors = (
+{
+name = _top;
+pos = (-544,2304);
+}
+);
+layerId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
+shapes = (
+{
+closed = 1;
+nodes = (
+(-402,2642,l),
+(-700,2948,l),
+(-988,2948,l),
+(-648,2642,l)
+);
+},
+{
+alignment = -1;
+pos = (-1152,456);
+ref = macron;
+}
+);
+width = 2;
+}
+);
+unicode = 57591;
+}

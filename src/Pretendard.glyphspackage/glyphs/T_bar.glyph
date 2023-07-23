@@ -1,0 +1,47 @@
+{
+glyphname = Tbar;
+kernLeft = T;
+kernRight = T;
+layers = (
+{
+layerId = "5C20EF92-B63D-42A8-8878-93C2863E0093";
+shapes = (
+{
+ref = T;
+},
+{
+pos = (248,-192);
+ref = crossbar;
+}
+);
+width = 1932;
+},
+{
+layerId = "B1F27B51-9973-4381-9301-4FE46FE1CA59";
+shapes = (
+{
+ref = T;
+},
+{
+pos = (280,64);
+ref = crossbar;
+}
+);
+width = 1664;
+},
+{
+layerId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
+shapes = (
+{
+ref = T;
+},
+{
+pos = (274,58);
+ref = crossbar;
+}
+);
+width = 1770;
+}
+);
+unicode = 358;
+}

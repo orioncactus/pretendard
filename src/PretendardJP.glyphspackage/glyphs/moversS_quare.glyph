@@ -1,0 +1,66 @@
+{
+glyphname = moversSquare;
+layers = (
+{
+layerId = "B1F27B51-9973-4381-9301-4FE46FE1CA59";
+shapes = (
+{
+alignment = 1;
+ref = m;
+},
+{
+alignment = 1;
+pos = (2288,0);
+ref = slash;
+},
+{
+alignment = 1;
+pos = (3134,0);
+ref = s;
+}
+);
+width = 4458;
+},
+{
+layerId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
+shapes = (
+{
+alignment = 1;
+ref = m;
+},
+{
+alignment = 1;
+pos = (2414,0);
+ref = slash;
+},
+{
+alignment = 1;
+pos = (3380,0);
+ref = s;
+}
+);
+width = 4816;
+},
+{
+layerId = "5C20EF92-B63D-42A8-8878-93C2863E0093";
+shapes = (
+{
+alignment = 1;
+ref = m;
+},
+{
+alignment = 1;
+pos = (2648,0);
+ref = slash;
+},
+{
+alignment = 1;
+pos = (3808,0);
+ref = s;
+}
+);
+width = 5464;
+}
+);
+unicode = 13223;
+}

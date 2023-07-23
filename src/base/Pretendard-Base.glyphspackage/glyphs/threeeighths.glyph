@@ -1,0 +1,73 @@
+{
+color = 3;
+glyphname = threeeighths;
+layers = (
+{
+layerId = "B1F27B51-9973-4381-9301-4FE46FE1CA59";
+shapes = (
+{
+alignment = -1;
+pos = (996,0);
+ref = fraction;
+},
+{
+pos = (0,-64);
+ref = three.numr;
+},
+{
+alignment = 1;
+pos = (1696,0);
+ref = eight.dnomf;
+}
+);
+width = 2652;
+},
+{
+layerId = "C698F293-3EC0-4A5A-A3A0-0FDB1F5CF265";
+shapes = (
+{
+alignment = -1;
+pos = (1000,0);
+ref = fraction;
+},
+{
+pos = (0,-64);
+ref = three.numr;
+},
+{
+pos = (1708,0);
+ref = eight.dnomf;
+}
+);
+width = 2764;
+},
+{
+layerId = "5C20EF92-B63D-42A8-8878-93C2863E0093";
+shapes = (
+{
+alignment = -1;
+pos = (1052,0);
+ref = fraction;
+},
+{
+pos = (0,-64);
+ref = three.numr;
+},
+{
+pos = (1776,0);
+ref = eight.dnomf;
+}
+);
+width = 2908;
+}
+);
+metricLeft = three.numr;
+metricRight = eight.dnomf;
+unicode = 8540;
+userData = {
+interface.gridadjust.original = "{'width': 2406, 'leftMargin': 271, 'rightMargin': 175}";
+"interface.width-adjustments" = (
+-16
+);
+};
+}

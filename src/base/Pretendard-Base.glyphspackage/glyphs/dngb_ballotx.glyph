@@ -1,0 +1,190 @@
+{
+glyphname = dngb_ballotx;
+layers = (
+{
+layerId = "B1F27B51-9973-4381-9301-4FE46FE1CA59";
+shapes = (
+{
+closed = 1;
+nodes = (
+(1818,1528,l),
+(1770,1572,l),
+(598,404,l),
+(642,360,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(1818,404,l),
+(646,1572,l),
+(598,1528,l),
+(1774,360,l)
+);
+}
+);
+width = 2416;
+},
+{
+associatedMasterId = "B1F27B51-9973-4381-9301-4FE46FE1CA59";
+background = {
+shapes = (
+{
+pos = (-280,0);
+ref = dngb_check;
+}
+);
+};
+layerId = "BA4DCD10-CFDC-431D-920D-60262C16B880";
+name = "Jan 1 19, 20:32";
+shapes = (
+{
+closed = 0;
+nodes = (
+(1856,1548,l),
+(684,380,l)
+);
+}
+);
+width = 2480;
+},
+{
+associatedMasterId = "C698F293-3EC0-4A5A-A3A0-0FDB1F5CF265";
+background = {
+shapes = (
+{
+closed = 1;
+nodes = (
+(704,248,l),
+(1952,1492,l),
+(1796,1648,l),
+(704,560,l),
+(176,1080,l),
+(24,924,l)
+);
+}
+);
+};
+guides = (
+{
+pos = (1012,196);
+}
+);
+layerId = "0E7B856D-EDF0-454C-A6E2-C0B56CA00984";
+name = "Jan 1 19, 20:24";
+shapes = (
+{
+closed = 0;
+nodes = (
+(1856,1548,l),
+(628,324,l)
+);
+}
+);
+width = 2480;
+},
+{
+background = {
+shapes = (
+{
+pos = (-280,0);
+ref = dngb_check;
+}
+);
+};
+guides = (
+{
+pos = (968,196);
+}
+);
+layerId = "C698F293-3EC0-4A5A-A3A0-0FDB1F5CF265";
+shapes = (
+{
+closed = 1;
+nodes = (
+(1910,1472,l),
+(1754,1628,l),
+(526,404,l),
+(682,248,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(1910,404,l),
+(682,1628,l),
+(526,1472,l),
+(1754,248,l)
+);
+}
+);
+width = 2436;
+},
+{
+background = {
+shapes = (
+{
+pos = (-280,0);
+ref = dngb_check;
+}
+);
+};
+layerId = "5C20EF92-B63D-42A8-8878-93C2863E0093";
+shapes = (
+{
+closed = 1;
+nodes = (
+(2096,1372,l),
+(1728,1740,l),
+(388,408,l),
+(756,40,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(2092,408,l),
+(752,1740,l),
+(384,1372,l),
+(1724,40,l)
+);
+}
+);
+width = 2480;
+},
+{
+associatedMasterId = "5C20EF92-B63D-42A8-8878-93C2863E0093";
+background = {
+shapes = (
+{
+pos = (-280,0);
+ref = dngb_check;
+}
+);
+};
+layerId = "6CFC876A-AFFD-4877-8465-472E15B27DE1";
+name = "Jan 1 19, 20:40";
+shapes = (
+{
+closed = 0;
+nodes = (
+(1860,1552,l),
+(524,220,l)
+);
+},
+{
+closed = 0;
+nodes = (
+(520,1552,l),
+(1856,220,l)
+);
+}
+);
+width = 2480;
+}
+);
+unicode = 10007;
+userData = {
+com.typemytype.robofont.guideline.magnetic.LiTne3OvfB = 5;
+};
+}

@@ -1,0 +1,50 @@
+{
+glyphname = oogonekmacron;
+kernLeft = c;
+kernRight = b;
+layers = (
+{
+layerId = "5C20EF92-B63D-42A8-8878-93C2863E0093";
+shapes = (
+{
+ref = oogonek;
+},
+{
+alignment = 1;
+pos = (-24,0);
+ref = macron;
+}
+);
+width = 1760;
+},
+{
+layerId = "B1F27B51-9973-4381-9301-4FE46FE1CA59";
+shapes = (
+{
+ref = oogonek;
+},
+{
+alignment = 1;
+pos = (404,0);
+ref = macron;
+}
+);
+width = 1568;
+},
+{
+layerId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
+shapes = (
+{
+ref = oogonek;
+},
+{
+alignment = 1;
+pos = (212,0);
+ref = macron;
+}
+);
+width = 1642;
+}
+);
+unicode = 493;
+}

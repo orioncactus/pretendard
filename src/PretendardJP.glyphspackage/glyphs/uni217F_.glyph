@@ -1,0 +1,40 @@
+{
+color = (227,245,235,1);
+glyphname = uni217F;
+layers = (
+{
+layerId = "5C20EF92-B63D-42A8-8878-93C2863E0093";
+shapes = (
+{
+ref = m;
+}
+);
+width = 2648;
+},
+{
+layerId = "B1F27B51-9973-4381-9301-4FE46FE1CA59";
+shapes = (
+{
+ref = m;
+}
+);
+width = 2288;
+},
+{
+layerId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
+shapes = (
+{
+ref = m;
+}
+);
+width = 2414;
+}
+);
+unicode = 8575;
+userData = {
+interface.gridadjust.original = "{'width': 2467, 'leftMargin': 260, 'rightMargin': 159}";
+"interface.width-adjustments" = (
+-16
+);
+};
+}

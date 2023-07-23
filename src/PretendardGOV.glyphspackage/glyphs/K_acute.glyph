@@ -1,0 +1,47 @@
+{
+glyphname = Kacute;
+kernLeft = B;
+kernRight = K;
+layers = (
+{
+layerId = "5C20EF92-B63D-42A8-8878-93C2863E0093";
+shapes = (
+{
+ref = K;
+},
+{
+pos = (296,512);
+ref = acute;
+}
+);
+width = 2012;
+},
+{
+layerId = "B1F27B51-9973-4381-9301-4FE46FE1CA59";
+shapes = (
+{
+ref = K;
+},
+{
+pos = (180,512);
+ref = acute;
+}
+);
+width = 1672;
+},
+{
+layerId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
+shapes = (
+{
+ref = K;
+},
+{
+pos = (264,512);
+ref = acute;
+}
+);
+width = 1800;
+}
+);
+unicode = 7728;
+}

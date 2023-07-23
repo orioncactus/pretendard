@@ -1,0 +1,51 @@
+{
+glyphname = Zhedescendercyrillic;
+layers = (
+{
+layerId = "5C20EF92-B63D-42A8-8878-93C2863E0093";
+shapes = (
+{
+ref = afii10024;
+},
+{
+pos = (2732,0);
+ref = cyrillictic.cn;
+}
+);
+width = 3312;
+},
+{
+layerId = "B1F27B51-9973-4381-9301-4FE46FE1CA59";
+shapes = (
+{
+ref = afii10024;
+},
+{
+pos = (2274,0);
+ref = cyrillictic.cn;
+}
+);
+width = 2416;
+},
+{
+layerId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
+shapes = (
+{
+ref = afii10024;
+},
+{
+pos = (2308,0);
+ref = cyrillictic.cn;
+}
+);
+width = 2644;
+}
+);
+unicode = 1174;
+userData = {
+interface.gridadjust.original = "{'width': 2712, 'leftMargin': 39, 'rightMargin': 39}";
+"interface.width-adjustments" = (
+-16
+);
+};
+}

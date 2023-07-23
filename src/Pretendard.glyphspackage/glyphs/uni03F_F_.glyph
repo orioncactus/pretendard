@@ -1,0 +1,53 @@
+{
+glyphname = uni03FF;
+layers = (
+{
+layerId = "5C20EF92-B63D-42A8-8878-93C2863E0093";
+shapes = (
+{
+ref = Oopen;
+},
+{
+pos = (610,804);
+ref = period;
+}
+);
+width = 2164;
+},
+{
+layerId = "B1F27B51-9973-4381-9301-4FE46FE1CA59";
+shapes = (
+{
+ref = Oopen;
+},
+{
+pos = (630,964);
+ref = period;
+}
+);
+width = 1972;
+},
+{
+layerId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
+shapes = (
+{
+ref = Oopen;
+},
+{
+pos = (596,874);
+ref = period;
+}
+);
+width = 2008;
+}
+);
+metricLeft = Oopen;
+metricRight = O;
+unicode = 1023;
+userData = {
+interface.gridadjust.original = "{'width': 1834, 'leftMargin': 121, 'rightMargin': 161}";
+"interface.width-adjustments" = (
+-16
+);
+};
+}

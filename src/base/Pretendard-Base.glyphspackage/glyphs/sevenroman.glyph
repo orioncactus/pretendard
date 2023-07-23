@@ -1,0 +1,64 @@
+{
+color = (227,245,235,1);
+glyphname = sevenroman;
+layers = (
+{
+layerId = "B1F27B51-9973-4381-9301-4FE46FE1CA59";
+shapes = (
+{
+ref = v;
+},
+{
+pos = (1408,0);
+ref = i;
+},
+{
+pos = (1968,0);
+ref = i;
+}
+);
+width = 2528;
+},
+{
+layerId = "C698F293-3EC0-4A5A-A3A0-0FDB1F5CF265";
+shapes = (
+{
+ref = v;
+},
+{
+pos = (1524,0);
+ref = i;
+},
+{
+pos = (2148,0);
+ref = i;
+}
+);
+width = 2772;
+},
+{
+layerId = "5C20EF92-B63D-42A8-8878-93C2863E0093";
+shapes = (
+{
+ref = v;
+},
+{
+pos = (1704,0);
+ref = i;
+},
+{
+pos = (2536,0);
+ref = i;
+}
+);
+width = 3368;
+}
+);
+unicode = 8566;
+userData = {
+interface.gridadjust.original = "{'width': 2769, 'leftMargin': 132, 'rightMargin': 150}";
+"interface.width-adjustments" = (
+-16
+);
+};
+}

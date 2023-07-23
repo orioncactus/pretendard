@@ -1,0 +1,54 @@
+{
+glyphname = Iotatonos;
+kernRight = H;
+layers = (
+{
+layerId = "5C20EF92-B63D-42A8-8878-93C2863E0093";
+metricLeft = "=+424";
+shapes = (
+{
+pos = (424,0);
+ref = I;
+},
+{
+pos = (-348,0);
+ref = tonos;
+}
+);
+width = 1244;
+},
+{
+layerId = "B1F27B51-9973-4381-9301-4FE46FE1CA59";
+metricLeft = "=-75po";
+shapes = (
+{
+alignment = -1;
+pos = (-76,0);
+ref = I;
+},
+{
+alignment = -1;
+pos = (-144,0);
+ref = tonos;
+}
+);
+width = 566;
+},
+{
+layerId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
+metricLeft = "=+120po";
+shapes = (
+{
+pos = (120,0);
+ref = I;
+},
+{
+pos = (-204,0);
+ref = tonos;
+}
+);
+width = 826;
+}
+);
+unicode = 906;
+}

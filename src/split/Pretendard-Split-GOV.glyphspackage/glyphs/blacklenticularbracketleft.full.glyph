@@ -1,0 +1,43 @@
+{
+color = 11;
+glyphname = blacklenticularbracketleft.full;
+layers = (
+{
+layerId = "B1F27B51-9973-4381-9301-4FE46FE1CA59";
+metricRight = "=blacklenticularbracketleft*2";
+shapes = (
+{
+alignment = -1;
+pos = (1480,0);
+ref = blacklenticularbracketleft;
+}
+);
+width = 2504;
+},
+{
+layerId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
+metricRight = "=blacklenticularbracketleft*2";
+shapes = (
+{
+alignment = -1;
+pos = (1360,0);
+ref = blacklenticularbracketleft;
+}
+);
+width = 2504;
+},
+{
+layerId = "5C20EF92-B63D-42A8-8878-93C2863E0093";
+metricRight = "=blacklenticularbracketleft*2";
+shapes = (
+{
+alignment = -1;
+pos = (1150,0);
+ref = blacklenticularbracketleft;
+}
+);
+width = 2504;
+}
+);
+metricWidth = hanBase;
+}

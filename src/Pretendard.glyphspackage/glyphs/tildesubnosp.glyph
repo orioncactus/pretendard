@@ -1,0 +1,67 @@
+{
+color = (250,227,227,1);
+glyphname = tildesubnosp;
+layers = (
+{
+anchors = (
+{
+name = _bottom;
+pos = (-1020,0);
+}
+);
+guides = (
+{
+angle = 90;
+pos = (-1116,-1088);
+}
+);
+layerId = "5C20EF92-B63D-42A8-8878-93C2863E0093";
+shapes = (
+{
+alignment = -1;
+pos = (-1664,-2304);
+ref = tilde;
+}
+);
+width = 0;
+},
+{
+anchors = (
+{
+name = _bottom;
+pos = (-700,0);
+}
+);
+layerId = "B1F27B51-9973-4381-9301-4FE46FE1CA59";
+shapes = (
+{
+alignment = -1;
+pos = (-1368,-2186);
+ref = tilde;
+}
+);
+width = 0;
+},
+{
+anchors = (
+{
+name = _bottom;
+pos = (-894,0);
+}
+);
+layerId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
+shapes = (
+{
+alignment = -1;
+pos = (-1486,-2230);
+ref = tilde;
+}
+);
+width = 4;
+}
+);
+unicode = 816;
+userData = {
+com.typemytype.robofont.guideline.magnetic.ye6wA0pdes = 5;
+};
+}

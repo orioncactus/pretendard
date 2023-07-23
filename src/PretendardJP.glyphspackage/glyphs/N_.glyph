@@ -1,0 +1,198 @@
+{
+color = (219,235,247,1);
+glyphname = N;
+kernLeft = B;
+kernRight = H;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+pos = (1020,0);
+},
+{
+name = right;
+pos = (2000,0);
+},
+{
+name = top;
+pos = (1020,2304);
+}
+);
+guides = (
+{
+pos = (-136,1652);
+},
+{
+orientation = center;
+angle = 90;
+pos = (752,240);
+}
+);
+layerId = "5C20EF92-B63D-42A8-8878-93C2863E0093";
+shapes = (
+{
+closed = 1;
+nodes = (
+(1348,2048,l),
+(1348,976,l),
+(1332,976,l),
+(604,2048,l),
+(132,2048,l),
+(132,0,l),
+(688,0,l),
+(688,1076,l),
+(700,1076,l),
+(1440,0,l),
+(1904,0,l),
+(1904,2048,l)
+);
+}
+);
+width = 2036;
+},
+{
+anchors = (
+{
+name = bottom;
+pos = (1020,0);
+},
+{
+name = bottom_dd;
+pos = (2152,-560);
+},
+{
+name = right;
+pos = (2000,0);
+},
+{
+name = top;
+pos = (1020,2180);
+},
+{
+name = top0315;
+pos = (2152,2200);
+},
+{
+name = top_dd;
+pos = (2152,2200);
+}
+);
+associatedMasterId = "5C20EF92-B63D-42A8-8878-93C2863E0093";
+guides = (
+{
+pos = (12,1652);
+},
+{
+orientation = center;
+angle = 90;
+pos = (900,240);
+}
+);
+layerId = "F81B89FA-28D8-48B6-8D66-9AD40CA032B3";
+name = "Oct 6 18, 13:13";
+shapes = (
+{
+closed = 1;
+nodes = (
+(1348,2048,l),
+(1348,928,l),
+(1332,928,l),
+(684,2048,l),
+(132,2048,l),
+(132,0,l),
+(688,0,l),
+(688,1124,l),
+(700,1124,l),
+(1360,0,l),
+(1904,0,l),
+(1904,2048,l)
+);
+}
+);
+width = 2036;
+},
+{
+anchors = (
+{
+name = bottom;
+pos = (1056,0);
+},
+{
+name = right;
+pos = (1756,0);
+},
+{
+name = top;
+pos = (1056,2304);
+}
+);
+layerId = "B1F27B51-9973-4381-9301-4FE46FE1CA59";
+shapes = (
+{
+closed = 1;
+nodes = (
+(1760,2048,l),
+(1760,120,l),
+(1752,120,l),
+(352,2048,l),
+(288,2048,l),
+(288,0,l),
+(352,0,l),
+(352,1928,l),
+(360,1928,l),
+(1760,0,l),
+(1824,0,l),
+(1824,2048,l)
+);
+}
+);
+width = 2112;
+},
+{
+anchors = (
+{
+name = bottom;
+pos = (1040,0);
+},
+{
+name = right;
+pos = (1852,0);
+},
+{
+name = top;
+pos = (1040,2304);
+}
+);
+layerId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
+shapes = (
+{
+closed = 1;
+nodes = (
+(1602,2048,l),
+(1602,450,l),
+(1582,450,l),
+(472,2048,l),
+(226,2048,l),
+(226,0,l),
+(480,0,l),
+(480,1594,l),
+(500,1594,l),
+(1608,0,l),
+(1852,0,l),
+(1852,2048,l)
+);
+}
+);
+width = 2078;
+}
+);
+metricLeft = H;
+metricRight = H;
+unicode = 78;
+userData = {
+"interface.width-adjustments" = (
+-16
+);
+};
+}

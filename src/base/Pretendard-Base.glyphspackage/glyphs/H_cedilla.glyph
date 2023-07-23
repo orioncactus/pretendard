@@ -1,0 +1,56 @@
+{
+glyphname = Hcedilla;
+kernLeft = B;
+kernRight = H;
+layers = (
+{
+layerId = "B1F27B51-9973-4381-9301-4FE46FE1CA59";
+shapes = (
+{
+ref = H;
+},
+{
+anchor = cedilla;
+pos = (58,-8);
+ref = cedilla;
+}
+);
+width = 2008;
+},
+{
+layerId = "C698F293-3EC0-4A5A-A3A0-0FDB1F5CF265";
+shapes = (
+{
+ref = H;
+},
+{
+anchor = cedilla;
+pos = (20,-4);
+ref = cedilla;
+}
+);
+width = 2040;
+},
+{
+layerId = "5C20EF92-B63D-42A8-8878-93C2863E0093";
+shapes = (
+{
+ref = H;
+},
+{
+anchor = cedilla;
+pos = (-232,0);
+ref = cedilla;
+}
+);
+width = 2112;
+}
+);
+unicode = 7720;
+userData = {
+interface.gridadjust.original = "{'width': 2012, 'leftMargin': 239, 'rightMargin': 220}";
+"interface.width-adjustments" = (
+-16
+);
+};
+}

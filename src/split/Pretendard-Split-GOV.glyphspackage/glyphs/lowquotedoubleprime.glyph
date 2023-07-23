@@ -7,36 +7,39 @@ layerId = "B1F27B51-9973-4381-9301-4FE46FE1CA59";
 metricLeft = "=quotedblright*2";
 shapes = (
 {
-pos = (0,2758);
+alignment = -1;
+pos = (188,-262);
 ref = quotedblbase;
 scale = (1,-1);
 }
 );
-width = 0;
+width = 2504;
 },
 {
 layerId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
 metricLeft = "=quotedblright*2";
 shapes = (
 {
-pos = (0,2758);
+alignment = -1;
+pos = (282,-262);
 ref = quotedblbase;
 scale = (1,-1);
 }
 );
-width = 0;
+width = 2504;
 },
 {
 layerId = "5C20EF92-B63D-42A8-8878-93C2863E0093";
 metricLeft = "=quotedblright*2";
 shapes = (
 {
-pos = (0,2758);
+alignment = -1;
+pos = (144,-262);
 ref = quotedblbase;
 scale = (1,-1);
 }
 );
-width = 0;
+width = 2504;
 }
 );
 metricWidth = hanBase;

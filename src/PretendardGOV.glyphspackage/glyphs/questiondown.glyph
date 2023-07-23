@@ -25,19 +25,6 @@ ref = question;
 width = 1284;
 },
 {
-associatedMasterId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
-layerId = "612E4A0B-7F8E-4FCD-8DB2-457A37970962";
-shapes = (
-{
-alignment = -1;
-angle = 180;
-pos = (1370,1532);
-ref = question;
-}
-);
-width = 1370.76981;
-},
-{
 layerId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
 shapes = (
 {

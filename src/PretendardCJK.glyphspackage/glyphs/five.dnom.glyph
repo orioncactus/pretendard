@@ -27,18 +27,6 @@ ref = five.dnomf;
 width = 916;
 },
 {
-associatedMasterId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
-layerId = "101E17C9-980A-4193-BC17-52AE20DD53A0";
-shapes = (
-{
-alignment = -1;
-pos = (0,-344);
-ref = five.dnomf;
-}
-);
-width = 1001.96226;
-},
-{
 layerId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
 shapes = (
 {

@@ -30,20 +30,6 @@ ref = macrongravecomb.lc;
 width = 1560;
 },
 {
-associatedMasterId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
-layerId = "F53F6FB5-BED4-4D3D-BCDF-2F27BC91399E";
-shapes = (
-{
-ref = e;
-},
-{
-pos = (1648,28);
-ref = macrongravecomb.lc;
-}
-);
-width = 1602;
-},
-{
 layerId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
 shapes = (
 {

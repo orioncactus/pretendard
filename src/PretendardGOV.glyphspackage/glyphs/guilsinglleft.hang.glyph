@@ -32,33 +32,6 @@ ref = guilsinglleft;
 width = 904;
 },
 {
-associatedMasterId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
-layerId = "57357393-FEA8-415A-9AC3-D6727F1FCDF3";
-shapes = (
-{
-closed = 1;
-nodes = (
-(390,840,l),
-(156,840,l),
-(156,820,l),
-(560,220,l),
-(774,220,l)
-);
-},
-{
-closed = 1;
-nodes = (
-(560,1448,l),
-(156,848,l),
-(156,828,l),
-(390,828,l),
-(774,1448,l)
-);
-}
-);
-width = 948.31698;
-},
-{
 layerId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
 shapes = (
 {

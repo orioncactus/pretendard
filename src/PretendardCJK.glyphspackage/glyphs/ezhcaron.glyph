@@ -31,21 +31,6 @@ ref = caron;
 width = 1698;
 },
 {
-associatedMasterId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
-layerId = "69A72722-6C06-49D3-AB07-BE1E71A72273";
-shapes = (
-{
-ref = dzeabkhasiancyrillic;
-},
-{
-alignment = 1;
-pos = (240,0);
-ref = caron;
-}
-);
-width = 1792;
-},
-{
 layerId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
 shapes = (
 {

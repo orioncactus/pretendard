@@ -43,28 +43,6 @@ ref = four.dnomf;
 width = 2146;
 },
 {
-associatedMasterId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
-layerId = "09DE09EB-3FDE-49FB-AE17-D33CFAF61AA6";
-shapes = (
-{
-alignment = -1;
-pos = (814,0);
-ref = fraction;
-},
-{
-alignment = -1;
-pos = (0,-64);
-ref = one.numr;
-},
-{
-alignment = -1;
-pos = (1374,0);
-ref = four.dnomf;
-}
-);
-width = 2423.90189;
-},
-{
 layerId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
 shapes = (
 {

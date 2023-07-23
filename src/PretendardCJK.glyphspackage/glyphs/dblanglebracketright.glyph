@@ -64,20 +64,6 @@ scale = (-1,1);
 }
 );
 width = 1736;
-},
-{
-associatedMasterId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
-layerId = "12AF5793-1E9C-4C4B-A41F-E30FB3FDC626";
-name = "May 29, 21 21:25";
-shapes = (
-{
-alignment = -1;
-pos = (1378,0);
-ref = dblanglebracketleft;
-scale = (-1,1);
-}
-);
-width = 1382;
 }
 );
 metricLeft = anglebracketright;

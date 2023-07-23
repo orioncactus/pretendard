@@ -99,18 +99,6 @@ ref = quoteright;
 width = 848;
 },
 {
-associatedMasterId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
-layerId = "FAE220CE-0958-4F8D-BDAB-7EFE6E252552";
-shapes = (
-{
-alignment = -1;
-pos = (-20,-1854);
-ref = quoteright;
-}
-);
-width = 727.04151;
-},
-{
 background = {
 shapes = (
 {

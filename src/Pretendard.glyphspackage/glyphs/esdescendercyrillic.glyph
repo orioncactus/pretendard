@@ -30,20 +30,6 @@ ref = cedilla;
 width = 1492;
 },
 {
-associatedMasterId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
-layerId = "CC64D236-F394-461F-844F-F67544C4D11A";
-shapes = (
-{
-ref = c;
-},
-{
-pos = (450,0);
-ref = cedilla;
-}
-);
-width = 1534;
-},
-{
 layerId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
 shapes = (
 {

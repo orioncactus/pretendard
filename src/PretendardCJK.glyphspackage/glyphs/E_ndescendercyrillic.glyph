@@ -35,22 +35,6 @@ ref = cyrillictic.cn;
 width = 2070;
 },
 {
-associatedMasterId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
-layerId = "9C70D2AA-8079-40DB-9F4F-E1BB6BF9013D";
-shapes = (
-{
-alignment = -1;
-ref = H;
-},
-{
-alignment = -1;
-pos = (1682,0);
-ref = cyrillictic.cn;
-}
-);
-width = 2114.4;
-},
-{
 layerId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
 shapes = (
 {

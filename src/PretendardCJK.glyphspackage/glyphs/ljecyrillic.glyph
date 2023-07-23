@@ -63,37 +63,6 @@ ref = softsigncyrillic;
 width = 2460;
 },
 {
-associatedMasterId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
-layerId = "91B6F11F-37DF-4DC0-8E24-3E2F33FF7110";
-shapes = (
-{
-closed = 1;
-nodes = (
-(178,0,ls),
-(518,0,o),
-(616,262,o),
-(642,766,cs),
-(670,1312,l),
-(1222,1312,l),
-(1222,1536,l),
-(434,1536,l),
-(406,856,ls),
-(386,346,o),
-(334,224,o),
-(152,224,cs),
-(96,224,l),
-(96,0,l)
-);
-},
-{
-alignment = -1;
-pos = (1040,0);
-ref = softsigncyrillic;
-}
-);
-width = 2539.7283;
-},
-{
 layerId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
 shapes = (
 {

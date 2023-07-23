@@ -37,24 +37,6 @@ ref = cyrillichook;
 width = 1544;
 },
 {
-associatedMasterId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
-layerId = "DD285E90-9256-4A2F-888E-2514CF992CB6";
-shapes = (
-{
-ref = Gamma;
-},
-{
-pos = (-258,62);
-ref = crossbar;
-},
-{
-pos = (82,0);
-ref = cyrillichook;
-}
-);
-width = 1580;
-},
-{
 layerId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
 shapes = (
 {

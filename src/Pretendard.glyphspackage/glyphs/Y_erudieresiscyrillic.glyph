@@ -34,22 +34,6 @@ ref = dieresis;
 width = 1940;
 },
 {
-associatedMasterId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
-layerId = "6A4AD3A6-672D-49C5-82C3-11A95A5E4CD6";
-shapes = (
-{
-alignment = -1;
-ref = afii10045;
-},
-{
-alignment = -1;
-pos = (396,424);
-ref = dieresis;
-}
-);
-width = 2277.63774;
-},
-{
 layerId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
 shapes = (
 {

@@ -30,20 +30,6 @@ ref = commaaccent;
 width = 2016;
 },
 {
-associatedMasterId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
-layerId = "A3A56B7D-A6F1-466A-B835-FFF903189A30";
-shapes = (
-{
-ref = G;
-},
-{
-pos = (674,0);
-ref = commaaccent;
-}
-);
-width = 2052;
-},
-{
 layerId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
 shapes = (
 {

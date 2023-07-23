@@ -41,26 +41,6 @@ ref = gecyrillic;
 width = 1222;
 },
 {
-associatedMasterId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
-layerId = "A3F2E525-3A85-446C-8AE2-47743EC2F40C";
-shapes = (
-{
-closed = 1;
-nodes = (
-(898,1916,l),
-(898,1312,l),
-(1140,1312,l),
-(1140,1916,l)
-);
-},
-{
-alignment = -1;
-ref = gecyrillic;
-}
-);
-width = 1235.04151;
-},
-{
 layerId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
 shapes = (
 {

@@ -40,27 +40,6 @@ ref = three.dnomf;
 width = 2740;
 },
 {
-associatedMasterId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
-layerId = "62FE15DF-53CE-4A1B-B07B-2F1F837A34B0";
-shapes = (
-{
-alignment = -1;
-ref = one.numr;
-},
-{
-alignment = -1;
-pos = (728,0);
-ref = fraction;
-},
-{
-alignment = -1;
-pos = (1436,0);
-ref = three.dnomf;
-}
-);
-width = 2469.18868;
-},
-{
 layerId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
 shapes = (
 {

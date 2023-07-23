@@ -30,20 +30,6 @@ ref = ringhalfright;
 width = 1460;
 },
 {
-associatedMasterId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
-layerId = "003930DB-5540-4776-8F86-A1728A13710A";
-shapes = (
-{
-ref = a;
-},
-{
-pos = (590,208);
-ref = ringhalfright;
-}
-);
-width = 1550;
-},
-{
 layerId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
 shapes = (
 {

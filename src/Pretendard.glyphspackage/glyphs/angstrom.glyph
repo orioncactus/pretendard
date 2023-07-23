@@ -20,16 +20,6 @@ ref = Aring;
 width = 1672;
 },
 {
-associatedMasterId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
-layerId = "4C592E22-B862-465E-A4B4-FFE4BB515C7F";
-shapes = (
-{
-ref = Aring;
-}
-);
-width = 1868;
-},
-{
 layerId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
 shapes = (
 {

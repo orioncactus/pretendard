@@ -28,20 +28,6 @@ ref = crossbar;
 width = 1350;
 },
 {
-associatedMasterId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
-layerId = "FE2A21AA-A09B-4339-A81A-15779CA29FF6";
-shapes = (
-{
-ref = glottalstoprevinv;
-},
-{
-pos = (152,-708);
-ref = crossbar;
-}
-);
-width = 1480;
-},
-{
 layerId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
 shapes = (
 {

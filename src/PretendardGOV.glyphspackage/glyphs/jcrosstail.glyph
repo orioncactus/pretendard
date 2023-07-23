@@ -29,22 +29,6 @@ ref = dotaccent;
 width = 560;
 },
 {
-associatedMasterId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
-layerId = "EEF1D06B-1351-4241-94B5-A5521F24E0AD";
-shapes = (
-{
-alignment = -1;
-ref = jcrosstail.ccmp;
-},
-{
-alignment = -1;
-pos = (314,0);
-ref = dotaccent;
-}
-);
-width = 926.81509;
-},
-{
 layerId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
 shapes = (
 {

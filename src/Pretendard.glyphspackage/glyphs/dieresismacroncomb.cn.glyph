@@ -62,29 +62,6 @@ width = 0;
 anchors = (
 {
 name = _top;
-pos = (-834,2304);
-}
-);
-associatedMasterId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
-layerId = "446B9E76-CF49-473C-81AF-D74DA7EDD2CE";
-shapes = (
-{
-alignment = -1;
-pos = (20,512);
-ref = dieresisnosp;
-},
-{
-alignment = -1;
-pos = (46,1024);
-ref = macroncomb;
-}
-);
-width = 0;
-},
-{
-anchors = (
-{
-name = _top;
 pos = (-826,2304);
 }
 );

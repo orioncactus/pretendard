@@ -69,35 +69,6 @@ width = 738;
 anchors = (
 {
 name = _right;
-pos = (262,100);
-}
-);
-associatedMasterId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
-layerId = "9ABDA38B-9CB4-4885-A5DB-49CD02288010";
-name = "Jun 17, 21 0:16";
-shapes = (
-{
-closed = 1;
-nodes = (
-(262,260,l),
-(262,64,l),
-(262,-90,o),
-(208,-230,o),
-(140,-388,c),
-(342,-430,l),
-(448,-276,o),
-(498,-108,o),
-(502,70,c),
-(502,260,l)
-);
-}
-);
-width = 718;
-},
-{
-anchors = (
-{
-name = _right;
 pos = (256,100);
 }
 );

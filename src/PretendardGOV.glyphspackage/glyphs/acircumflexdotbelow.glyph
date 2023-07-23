@@ -38,24 +38,6 @@ ref = dotbelow;
 width = 1460;
 },
 {
-associatedMasterId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
-layerId = "76EBD131-CD82-4B78-97E8-C69A972FC826";
-shapes = (
-{
-ref = a;
-},
-{
-pos = (178,0);
-ref = circumflex;
-},
-{
-pos = (1652,0);
-ref = dotbelow;
-}
-);
-width = 1550;
-},
-{
 layerId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
 shapes = (
 {

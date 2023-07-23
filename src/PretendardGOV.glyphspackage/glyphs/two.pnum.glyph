@@ -102,18 +102,6 @@ ref = two;
 width = 1600;
 },
 {
-associatedMasterId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
-layerId = "7A908609-3AD8-4B8E-B980-2C429134A454";
-shapes = (
-{
-alignment = -1;
-pos = (60,0);
-ref = two;
-}
-);
-width = 1764.31698;
-},
-{
 anchors = (
 {
 name = cross;

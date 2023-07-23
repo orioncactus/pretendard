@@ -50,18 +50,6 @@ ref = backslash;
 width = 2716;
 },
 {
-associatedMasterId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
-layerId = "588CF4CC-B2AC-451E-AAAE-B41C31F994EB";
-name = "Mar 4, 22 10:46";
-shapes = (
-{
-pos = (876,106);
-ref = backslash;
-}
-);
-width = 2716;
-},
-{
 associatedMasterId = "B1F27B51-9973-4381-9301-4FE46FE1CA59";
 layerId = "F4FA98E2-FB19-4F8E-B55F-686210B1EE59";
 name = "Mar 4, 22 10:46";

@@ -76,42 +76,6 @@ width = 0;
 anchors = (
 {
 name = _marktop;
-pos = (-846,1464);
-},
-{
-name = mkmktop;
-pos = (-846,2316);
-},
-{
-name = parent_top;
-pos = (-780,1750);
-}
-);
-associatedMasterId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
-layerId = "A0026ED0-DD3B-41B2-985A-2AAEA0110DDE";
-shapes = (
-{
-closed = 1;
-nodes = (
-(-710,1356,l),
-(-710,1614,ls),
-(-710,1774,o),
-(-662,1910,o),
-(-578,2042,c),
-(-736,2146,l),
-(-892,2010,o),
-(-984,1790,o),
-(-984,1610,cs),
-(-984,1356,l)
-);
-}
-);
-width = 0.39245;
-},
-{
-anchors = (
-{
-name = _marktop;
 pos = (-842,1464);
 },
 {

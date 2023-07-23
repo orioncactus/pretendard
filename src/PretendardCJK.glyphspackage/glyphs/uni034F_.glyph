@@ -11,11 +11,6 @@ layerId = "B1F27B51-9973-4381-9301-4FE46FE1CA59";
 width = 0;
 },
 {
-associatedMasterId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
-layerId = "335E39B7-A5DF-4AF7-929F-C89B6D0FED37";
-width = 0;
-},
-{
 layerId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
 width = 0;
 }

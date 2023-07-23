@@ -40,23 +40,6 @@ width = 1092;
 anchors = (
 {
 name = _tonos;
-pos = (1060,2048);
-}
-);
-associatedMasterId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
-layerId = "6D494BBE-110A-4AF3-9BBE-DC0198AC02B5";
-shapes = (
-{
-alignment = -1;
-ref = uni1FCE;
-}
-);
-width = 1204.80755;
-},
-{
-anchors = (
-{
-name = _tonos;
 pos = (1070,2048);
 }
 );

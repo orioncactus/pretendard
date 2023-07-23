@@ -57,33 +57,6 @@ width = 0;
 anchors = (
 {
 name = _top;
-pos = (-554,1792);
-}
-);
-associatedMasterId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
-layerId = "1F8AB613-F83C-48C2-A768-AD35CC037DEF";
-shapes = (
-{
-closed = 1;
-nodes = (
-(-472,2208,l),
-(-164,2624,l),
-(-446,2624,l),
-(-696,2208,l)
-);
-},
-{
-alignment = -1;
-pos = (-1162,-24);
-ref = macron;
-}
-);
-width = 0;
-},
-{
-anchors = (
-{
-name = _top;
 pos = (-544,1792);
 }
 );

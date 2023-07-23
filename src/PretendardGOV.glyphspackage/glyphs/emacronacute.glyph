@@ -30,20 +30,6 @@ ref = macronacutecomb.lc;
 width = 1560;
 },
 {
-associatedMasterId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
-layerId = "56A46715-BF2F-4B5F-AB70-8F217EF16314";
-shapes = (
-{
-ref = e;
-},
-{
-pos = (1348,0);
-ref = macronacutecomb.lc;
-}
-);
-width = 1602;
-},
-{
 layerId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
 shapes = (
 {

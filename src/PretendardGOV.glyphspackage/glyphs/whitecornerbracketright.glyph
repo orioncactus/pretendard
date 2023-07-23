@@ -125,20 +125,6 @@ ref = whitecornerbracketleft;
 width = 1358;
 },
 {
-associatedMasterId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
-layerId = "C7ED4D69-749A-409C-900E-61B643EFC2E1";
-name = "May 29, 21 21:24";
-shapes = (
-{
-alignment = -1;
-angle = 180;
-pos = (1216,2048);
-ref = whitecornerbracketleft;
-}
-);
-width = 1220;
-},
-{
 associatedMasterId = "B1F27B51-9973-4381-9301-4FE46FE1CA59";
 background = {
 shapes = (

@@ -116,56 +116,6 @@ width = 2008;
 anchors = (
 {
 name = bottom;
-pos = (1008,0);
-},
-{
-name = cedilla;
-pos = (372,-4);
-},
-{
-name = cyrtic;
-pos = (1904,92);
-},
-{
-name = right;
-pos = (1808,0);
-},
-{
-name = tonos;
-pos = (166,2048);
-},
-{
-name = top;
-pos = (1020,2308);
-}
-);
-associatedMasterId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
-layerId = "54212B76-9E00-4086-BEB2-1D5A9ED7E50E";
-shapes = (
-{
-closed = 1;
-nodes = (
-(468,0,l),
-(468,914,l),
-(1552,914,l),
-(1552,0,l),
-(1808,0,l),
-(1808,2048,l),
-(1552,2048,l),
-(1552,1138,l),
-(468,1138,l),
-(468,2048,l),
-(214,2048,l),
-(214,0,l)
-);
-}
-);
-width = 2021.07925;
-},
-{
-anchors = (
-{
-name = bottom;
 pos = (1020,0);
 },
 {

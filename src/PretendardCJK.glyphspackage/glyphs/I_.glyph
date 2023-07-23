@@ -97,48 +97,6 @@ width = 640;
 anchors = (
 {
 name = bottom;
-pos = (342,0);
-},
-{
-name = cross;
-pos = (342,1056);
-},
-{
-name = ogonek;
-pos = (468,0);
-},
-{
-name = right;
-pos = (490,0);
-},
-{
-name = tonos;
-pos = (214,2048);
-},
-{
-name = top;
-pos = (342,2304);
-}
-);
-associatedMasterId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
-layerId = "625E8231-86B3-4116-AF0D-EB261782C20D";
-shapes = (
-{
-closed = 1;
-nodes = (
-(214,2048,l),
-(214,0,l),
-(468,0,l),
-(468,2048,l)
-);
-}
-);
-width = 682.2566;
-},
-{
-anchors = (
-{
-name = bottom;
 pos = (354,0);
 },
 {

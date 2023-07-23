@@ -29,22 +29,6 @@ ref = dieresisacutecomb.cn;
 width = 920;
 },
 {
-associatedMasterId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
-layerId = "172FAC75-5D3E-445F-B1AA-39897CB43276";
-shapes = (
-{
-alignment = -1;
-ref = I.1;
-},
-{
-alignment = -1;
-pos = (1148,0);
-ref = dieresisacutecomb.cn;
-}
-);
-width = 1188.61132;
-},
-{
 layerId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
 shapes = (
 {

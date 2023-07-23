@@ -34,22 +34,6 @@ ref = casedieresis.cn;
 width = 1664;
 },
 {
-associatedMasterId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
-layerId = "FE320C43-5245-49A8-AE89-805D6181DECD";
-shapes = (
-{
-alignment = -1;
-ref = Y;
-},
-{
-alignment = -1;
-pos = (106,24);
-ref = casedieresis.cn;
-}
-);
-width = 1836;
-},
-{
 layerId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
 shapes = (
 {

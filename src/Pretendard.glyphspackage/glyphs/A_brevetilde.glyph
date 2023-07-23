@@ -30,20 +30,6 @@ ref = brevetildecomb.cn;
 width = 1672;
 },
 {
-associatedMasterId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
-layerId = "8E317951-29BF-438E-BAEC-8826DA9C0019";
-shapes = (
-{
-ref = A;
-},
-{
-pos = (308,550);
-ref = brevetildecomb.cn;
-}
-);
-width = 1868;
-},
-{
 layerId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
 shapes = (
 {

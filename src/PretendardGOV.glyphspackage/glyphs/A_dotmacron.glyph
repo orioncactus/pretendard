@@ -30,20 +30,6 @@ ref = dotmacroncomb.cn;
 width = 1672;
 },
 {
-associatedMasterId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
-layerId = "593E9531-7835-4BEE-BB04-69BC0A3544FD";
-shapes = (
-{
-ref = A;
-},
-{
-pos = (1774,0);
-ref = dotmacroncomb.cn;
-}
-);
-width = 1868;
-},
-{
 layerId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
 shapes = (
 {

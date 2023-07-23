@@ -30,20 +30,6 @@ ref = tildemacroncomb.cn;
 width = 2040;
 },
 {
-associatedMasterId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
-layerId = "5810CE15-68A3-41CD-B958-E5A646FACCCE";
-shapes = (
-{
-ref = O;
-},
-{
-pos = (1892,568);
-ref = tildemacroncomb.cn;
-}
-);
-width = 2104;
-},
-{
 layerId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
 shapes = (
 {

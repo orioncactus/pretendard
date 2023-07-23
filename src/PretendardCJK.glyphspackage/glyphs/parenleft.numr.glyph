@@ -69,40 +69,6 @@ width = 60;
 width = 484;
 },
 {
-associatedMasterId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
-layerId = "A9273420-F55E-4527-BA61-53C874CB138B";
-shapes = (
-{
-closed = 1;
-nodes = (
-(136,1320,o),
-(208,1088,o),
-(360,888,c),
-(568,888,l),
-(436,1066,o),
-(354,1328,o),
-(354,1560,cs),
-(354,1816,o),
-(448,2070,o),
-(568,2232,c),
-(360,2232,l),
-(208,2032,o),
-(136,1806,o),
-(136,1560,cs)
-);
-}
-);
-userData = {
-RMXScaler = {
-height = 53.15;
-verticalShift = 1128;
-weight = -60;
-width = 60;
-};
-};
-width = 598.35472;
-},
-{
 layerId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
 shapes = (
 {

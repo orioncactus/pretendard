@@ -30,20 +30,6 @@ ref = brevesubnosp;
 width = 2008;
 },
 {
-associatedMasterId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
-layerId = "66669C5A-15EC-46FF-B20D-F0994DEA9D89";
-shapes = (
-{
-ref = H;
-},
-{
-pos = (1858,0);
-ref = brevesubnosp;
-}
-);
-width = 2046;
-},
-{
 layerId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
 shapes = (
 {

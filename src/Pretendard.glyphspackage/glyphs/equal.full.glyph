@@ -136,26 +136,6 @@ ref = equal.case;
 }
 );
 width = 2716;
-},
-{
-associatedMasterId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
-background = {
-shapes = (
-{
-pos = (450,0);
-ref = equal.case;
-}
-);
-};
-layerId = "D61D1D93-484A-42C7-96A7-8F1AB4605561";
-name = "Mar 2, 22 0:30";
-shapes = (
-{
-pos = (450,0);
-ref = equal.case;
-}
-);
-width = 2716;
 }
 );
 metricWidth = hanBase;

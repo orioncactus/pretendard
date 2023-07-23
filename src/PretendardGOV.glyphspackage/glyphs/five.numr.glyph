@@ -42,24 +42,6 @@ width = 916;
 anchors = (
 {
 name = _numr;
-pos = (1028,1024);
-}
-);
-associatedMasterId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
-layerId = "ACB61FD3-3180-4299-90DD-8AAFA0131850";
-shapes = (
-{
-alignment = -1;
-pos = (0,1024);
-ref = five.dnomf;
-}
-);
-width = 1001.96226;
-},
-{
-anchors = (
-{
-name = _numr;
 pos = (1038,1024);
 }
 );

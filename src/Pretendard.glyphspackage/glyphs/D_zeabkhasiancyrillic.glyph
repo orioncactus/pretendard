@@ -32,18 +32,6 @@ ref = three.1;
 width = 1698;
 },
 {
-associatedMasterId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
-layerId = "C57C605C-6D24-4C11-8BF4-88D581A2FE04";
-shapes = (
-{
-alignment = -1;
-pos = (20,0);
-ref = three.1;
-}
-);
-width = 1768.10943;
-},
-{
 layerId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
 shapes = (
 {

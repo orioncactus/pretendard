@@ -20,16 +20,6 @@ ref = kgreenlandic;
 width = 1516;
 },
 {
-associatedMasterId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
-layerId = "7602E12E-D0CE-4C6E-B33F-E49BCD0537C6";
-shapes = (
-{
-ref = kgreenlandic;
-}
-);
-width = 1740;
-},
-{
 layerId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
 shapes = (
 {

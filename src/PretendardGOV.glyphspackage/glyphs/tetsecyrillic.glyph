@@ -66,39 +66,6 @@ ref = pecyrillic;
 width = 1888;
 },
 {
-associatedMasterId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
-layerId = "E78C0927-1E67-4A25-8FD6-86C9BFEDB6D8";
-shapes = (
-{
-closed = 1;
-nodes = (
-(96,1536,l),
-(96,1312,l),
-(1074,1312,l),
-(1074,1536,l)
-);
-},
-{
-closed = 1;
-nodes = (
-(1500,224,l),
-(1500,0,l),
-(1582,0,l),
-(1582,-440,l),
-(1832,-440,l),
-(1860,224,l)
-);
-},
-{
-alignment = -1;
-angle = 180;
-pos = (1858,1536);
-ref = pecyrillic;
-}
-);
-width = 1947.53208;
-},
-{
 layerId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
 shapes = (
 {

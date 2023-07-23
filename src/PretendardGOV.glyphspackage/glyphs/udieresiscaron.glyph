@@ -30,20 +30,6 @@ ref = dieresiscaroncomb.lc;
 width = 1536;
 },
 {
-associatedMasterId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
-layerId = "C9CAEEB0-A005-4E80-88B9-77EE91E34BFA";
-shapes = (
-{
-ref = u;
-},
-{
-pos = (1642,16);
-ref = dieresiscaroncomb.lc;
-}
-);
-width = 1600;
-},
-{
 layerId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
 shapes = (
 {

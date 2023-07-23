@@ -48,28 +48,6 @@ width = 144;
 anchors = (
 {
 name = _cyrtic;
-pos = (222,92);
-}
-);
-associatedMasterId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
-layerId = "6B50446E-6E1D-482F-A51E-28C5DB0CD452";
-shapes = (
-{
-closed = 1;
-nodes = (
-(102,224,l),
-(102,-496,l),
-(346,-496,l),
-(346,224,l)
-);
-}
-);
-width = 444.16604;
-},
-{
-anchors = (
-{
-name = _cyrtic;
 pos = (230,92);
 }
 );

@@ -139,37 +139,6 @@ nodes = (
 width = 1810;
 },
 {
-associatedMasterId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
-layerId = "60FE0F59-5063-4951-B2B9-01AA4B149EE6";
-metricWidth = "=symbolBase.small*.75";
-name = "Jun 19, 21 22:52";
-shapes = (
-{
-closed = 1;
-nodes = (
-(923,-87,o),
-(1113,97,o),
-(1116,320,cs),
-(1116,1714,l),
-(1708,1714,l),
-(1708,2148,l),
-(898,2148,l),
-(898,676,l),
-(836,712,o),
-(763,733,o),
-(688,730,cs),
-(456,733,o),
-(262,549,o),
-(266,320,cs),
-(262,97,o),
-(456,-87,o),
-(688,-90,cs)
-);
-}
-);
-width = 1810;
-},
-{
 associatedMasterId = "B1F27B51-9973-4381-9301-4FE46FE1CA59";
 layerId = "A2B6701F-D9BF-4075-9338-423CE2A28ADC";
 metricWidth = "=symbolBase.small*.75";

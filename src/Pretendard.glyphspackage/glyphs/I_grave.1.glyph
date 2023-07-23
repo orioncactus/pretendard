@@ -29,22 +29,6 @@ ref = grave;
 width = 920;
 },
 {
-associatedMasterId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
-layerId = "2325FFA8-444C-4FBE-83A7-D24A9010A4AD";
-shapes = (
-{
-alignment = -1;
-ref = I.1;
-},
-{
-alignment = -1;
-pos = (-226,512);
-ref = grave;
-}
-);
-width = 1188.61132;
-},
-{
 layerId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
 shapes = (
 {

@@ -30,20 +30,6 @@ ref = casetilde.cn;
 width = 1672;
 },
 {
-associatedMasterId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
-layerId = "F51A597D-AF32-4042-B2B6-15D997E4D271";
-shapes = (
-{
-ref = A;
-},
-{
-pos = (324,0);
-ref = casetilde.cn;
-}
-);
-width = 1868;
-},
-{
 layerId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
 shapes = (
 {

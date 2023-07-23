@@ -77,20 +77,6 @@ ref = ringacute.cn;
 width = 1460;
 },
 {
-associatedMasterId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
-layerId = "07EC6248-72F0-491B-B727-68978314D72E";
-shapes = (
-{
-ref = a;
-},
-{
-pos = (404,158);
-ref = ringacute.cn;
-}
-);
-width = 1550;
-},
-{
 layerId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
 shapes = (
 {

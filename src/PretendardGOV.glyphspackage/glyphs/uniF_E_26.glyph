@@ -48,28 +48,6 @@ width = 0;
 anchors = (
 {
 name = _marktop;
-pos = (-848,1608);
-}
-);
-associatedMasterId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
-layerId = "B4976BA5-1923-4D12-8254-6FA7381C746F";
-shapes = (
-{
-closed = 1;
-nodes = (
-(-1604,2004,l),
-(-1604,1796,l),
-(-88,1796,l),
-(-88,2004,l)
-);
-}
-);
-width = 0;
-},
-{
-anchors = (
-{
-name = _marktop;
 pos = (-844,1608);
 }
 );

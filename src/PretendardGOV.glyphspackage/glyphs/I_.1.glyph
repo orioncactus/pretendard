@@ -103,50 +103,6 @@ width = 920;
 anchors = (
 {
 name = ogonek;
-pos = (1086,0);
-},
-{
-name = right;
-pos = (1106,0);
-},
-{
-name = tonos;
-pos = (102,2048);
-}
-);
-associatedMasterId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
-layerId = "D9725A47-418C-4B5E-860A-4D258EB628F5";
-shapes = (
-{
-closed = 1;
-nodes = (
-(1086,1822,l),
-(1086,2048,l),
-(102,2048,l),
-(102,1822,l)
-);
-},
-{
-closed = 1;
-nodes = (
-(1086,0,l),
-(1086,226,l),
-(102,226,l),
-(102,0,l)
-);
-},
-{
-alignment = -1;
-pos = (254,0);
-ref = I;
-}
-);
-width = 1188.61132;
-},
-{
-anchors = (
-{
-name = ogonek;
 pos = (1098,0);
 },
 {
@@ -159,7 +115,6 @@ pos = (114,2048);
 }
 );
 layerId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
-name = Normal;
 shapes = (
 {
 closed = 1;

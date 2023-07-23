@@ -65,34 +65,6 @@ width = 0;
 anchors = (
 {
 name = _top;
-pos = (-552,2304);
-}
-);
-associatedMasterId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
-layerId = "419774DB-E212-475E-A4E5-8DE9A63EA7FC";
-shapes = (
-{
-closed = 1;
-nodes = (
-(-448,2672,l),
-(-88,2978,l),
-(-368,2978,l),
-(-660,2672,l)
-);
-},
-{
-alignment = -1;
-pos = (-1348,-66);
-ref = casedieresis.cn;
-scale = (0.9984,0.9976);
-}
-);
-width = 0;
-},
-{
-anchors = (
-{
-name = _top;
 pos = (-556,2304);
 }
 );

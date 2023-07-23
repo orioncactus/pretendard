@@ -30,20 +30,6 @@ ref = dblgravecmb;
 width = 1460;
 },
 {
-associatedMasterId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
-layerId = "7235903B-5AF3-4840-8FBD-1F532F58B4AA";
-shapes = (
-{
-ref = a;
-},
-{
-pos = (1480,0);
-ref = dblgravecmb;
-}
-);
-width = 1550;
-},
-{
 layerId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
 shapes = (
 {

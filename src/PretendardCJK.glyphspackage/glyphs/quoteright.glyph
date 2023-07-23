@@ -42,25 +42,6 @@ width = 396;
 anchors = (
 {
 name = _caron;
-pos = (-2,2112);
-}
-);
-associatedMasterId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
-layerId = "835F99CD-AB70-4DAB-932A-9AA01EEB2E0B";
-shapes = (
-{
-alignment = -1;
-angle = 180;
-pos = (620,3324);
-ref = quoteleft;
-}
-);
-width = 620.70943;
-},
-{
-anchors = (
-{
-name = _caron;
 pos = (8,2112);
 }
 );

@@ -51,31 +51,6 @@ ref = afii10046;
 width = 2996;
 },
 {
-associatedMasterId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
-layerId = "D2FF07C7-2FB4-4C84-91C6-DD4444F95D91";
-shapes = (
-{
-closed = 1;
-nodes = (
-(468,0,l),
-(468,968,l),
-(1674,968,l),
-(1674,1192,l),
-(468,1192,l),
-(468,2048,l),
-(214,2048,l),
-(214,0,l)
-);
-},
-{
-alignment = -1;
-pos = (1338,0);
-ref = afii10046;
-}
-);
-width = 3115.11698;
-},
-{
 layerId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
 shapes = (
 {

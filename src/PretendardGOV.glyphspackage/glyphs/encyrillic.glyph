@@ -93,50 +93,6 @@ width = 1578;
 anchors = (
 {
 name = cyrtic;
-pos = (1512,92);
-},
-{
-name = right;
-pos = (1396,0);
-}
-);
-associatedMasterId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
-layerId = "313BDF25-11C2-4432-9415-E6D95771F2C1";
-shapes = (
-{
-closed = 1;
-nodes = (
-(366,878,l),
-(366,654,l),
-(1212,654,l),
-(1212,878,l)
-);
-},
-{
-closed = 1;
-nodes = (
-(182,1536,l),
-(182,0,l),
-(426,0,l),
-(426,1536,l)
-);
-},
-{
-closed = 1;
-nodes = (
-(1152,1536,l),
-(1152,0,l),
-(1396,0,l),
-(1396,1536,l)
-);
-}
-);
-width = 1577.4717;
-},
-{
-anchors = (
-{
-name = cyrtic;
 pos = (1524,92);
 },
 {

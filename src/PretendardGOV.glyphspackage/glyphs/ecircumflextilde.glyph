@@ -30,20 +30,6 @@ ref = circumflextildecomb.cn;
 width = 1560;
 },
 {
-associatedMasterId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
-layerId = "6868BBED-28D1-44CC-B99E-C36E038BFE2F";
-shapes = (
-{
-ref = e;
-},
-{
-pos = (62,-52);
-ref = circumflextildecomb.cn;
-}
-);
-width = 1602;
-},
-{
 layerId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
 shapes = (
 {

@@ -30,20 +30,6 @@ ref = breveacutecomb.cn;
 width = 1672;
 },
 {
-associatedMasterId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
-layerId = "9059448A-EB08-45FB-8C27-840D968AA412";
-shapes = (
-{
-ref = A;
-},
-{
-pos = (314,512);
-ref = breveacutecomb.cn;
-}
-);
-width = 1868;
-},
-{
 layerId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
 shapes = (
 {

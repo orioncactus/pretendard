@@ -56,32 +56,6 @@ width = 1580;
 anchors = (
 {
 name = bottom;
-pos = (844,0);
-},
-{
-name = cedilla;
-pos = (848,0);
-},
-{
-name = top;
-pos = (864,2304);
-}
-);
-associatedMasterId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
-layerId = "B4B10344-1F6B-4164-9F13-72294DAC3D5A";
-shapes = (
-{
-angle = 180;
-pos = (1644,2048);
-ref = E;
-}
-);
-width = 1644;
-},
-{
-anchors = (
-{
-name = bottom;
 pos = (846,0);
 },
 {

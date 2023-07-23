@@ -57,34 +57,6 @@ width = 704;
 anchors = (
 {
 name = _top;
-pos = (386,1634);
-}
-);
-associatedMasterId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
-layerId = "8FDAE487-682F-4FFC-B0A7-81B4A74BA9FF";
-shapes = (
-{
-closed = 1;
-nodes = (
-(482,2152,l),
-(740,2400,l),
-(484,2400,l),
-(284,2152,l)
-);
-},
-{
-alignment = -1;
-pos = (-26,-560);
-ref = ring.uc;
-scale = (1,0.95);
-}
-);
-width = 771.53208;
-},
-{
-anchors = (
-{
-name = _top;
 pos = (398,1634);
 }
 );

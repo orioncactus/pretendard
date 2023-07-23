@@ -30,20 +30,6 @@ ref = hungarumlaut;
 width = 1536;
 },
 {
-associatedMasterId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
-layerId = "136A7A4B-A22E-40C5-AC61-A0885D5D80E5";
-shapes = (
-{
-ref = u;
-},
-{
-pos = (336,16);
-ref = hungarumlaut;
-}
-);
-width = 1600;
-},
-{
 layerId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
 shapes = (
 {

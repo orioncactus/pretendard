@@ -13,11 +13,6 @@ metricWidth = "=space/2";
 width = 316;
 },
 {
-associatedMasterId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
-layerId = "7029A2AC-E2B8-4E7A-BFA0-FE03CEEBA932";
-width = 446.43019;
-},
-{
 layerId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
 metricWidth = "=space/2.015";
 width = 360;

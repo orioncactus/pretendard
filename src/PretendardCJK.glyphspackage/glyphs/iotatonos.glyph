@@ -30,20 +30,6 @@ ref = tonostop;
 width = 544;
 },
 {
-associatedMasterId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
-layerId = "63A7B316-C371-4204-A7BC-8EB9FAC21316";
-shapes = (
-{
-ref = iota;
-},
-{
-pos = (22,0);
-ref = tonostop;
-}
-);
-width = 710;
-},
-{
 layerId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
 shapes = (
 {

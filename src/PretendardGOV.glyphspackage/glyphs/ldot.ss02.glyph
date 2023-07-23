@@ -37,22 +37,6 @@ ref = dotaccent;
 width = 598;
 },
 {
-associatedMasterId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
-layerId = "0CFB1D62-7175-44CD-943C-B6F8D1E0DC51";
-shapes = (
-{
-alignment = -1;
-ref = l.ss02;
-},
-{
-alignment = -1;
-pos = (418,-808);
-ref = dotaccent;
-}
-);
-width = 835.47925;
-},
-{
 layerId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
 shapes = (
 {

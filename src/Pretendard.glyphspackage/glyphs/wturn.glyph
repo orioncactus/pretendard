@@ -47,28 +47,6 @@ width = 2160;
 anchors = (
 {
 name = bottom;
-pos = (1146,0);
-},
-{
-name = top;
-pos = (1146,1792);
-}
-);
-associatedMasterId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
-layerId = "810729F2-5768-4E69-AA9B-4EFAA25911FF";
-shapes = (
-{
-angle = 180;
-pos = (2252,1536);
-ref = w;
-}
-);
-width = 2252;
-},
-{
-anchors = (
-{
-name = bottom;
 pos = (1150,0);
 },
 {

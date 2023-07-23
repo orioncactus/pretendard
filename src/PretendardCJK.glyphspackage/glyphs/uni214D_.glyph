@@ -82,45 +82,6 @@ ref = s.subs;
 width = 2584;
 },
 {
-associatedMasterId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
-layerId = "40C645ED-D1A1-4EBF-98B4-1F6AC0A8E7F5";
-shapes = (
-{
-closed = 1;
-nodes = (
-(302,1440,l),
-(302,1278,l),
-(886,1278,l),
-(886,1440,l)
-);
-},
-{
-closed = 1;
-nodes = (
-(1136,1024,l),
-(696,2048,l),
-(492,2048,l),
-(52,1024,l),
-(252,1024,l),
-(638,1926,l),
-(548,1926,l),
-(932,1024,l)
-);
-},
-{
-alignment = -1;
-pos = (1294,0);
-ref = fraction;
-},
-{
-alignment = -1;
-pos = (1986,352);
-ref = s.subs;
-}
-);
-width = 2941.0566;
-},
-{
 layerId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
 shapes = (
 {

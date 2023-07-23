@@ -32,22 +32,6 @@ ref = period;
 width = 648;
 },
 {
-associatedMasterId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
-layerId = "5B5D143D-C45B-4362-8399-5106E32EA8FF";
-shapes = (
-{
-alignment = -1;
-ref = period;
-},
-{
-alignment = -1;
-pos = (0,1138);
-ref = period;
-}
-);
-width = 716;
-},
-{
 layerId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
 shapes = (
 {
@@ -56,22 +40,6 @@ ref = period;
 },
 {
 pos = (0,1138);
-ref = period;
-}
-);
-width = 736;
-},
-{
-associatedMasterId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
-layerId = "4A55407A-29EA-4800-B5B2-84A6ABCC5CE2";
-name = "Feb 27, 22 17:59";
-shapes = (
-{
-alignment = 1;
-ref = period;
-},
-{
-pos = (2,1138);
 ref = period;
 }
 );

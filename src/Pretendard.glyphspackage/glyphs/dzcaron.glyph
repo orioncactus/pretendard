@@ -34,22 +34,6 @@ ref = zcaron;
 width = 2840;
 },
 {
-associatedMasterId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
-layerId = "E7E0DDE4-5A68-4E4D-AD61-CBFB319334F5";
-shapes = (
-{
-alignment = -1;
-ref = d;
-},
-{
-alignment = -1;
-pos = (1460,0);
-ref = zcaron;
-}
-);
-width = 2923.16226;
-},
-{
 layerId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
 shapes = (
 {

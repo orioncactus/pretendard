@@ -30,21 +30,6 @@ ref = rhotichookmod;
 width = 1710;
 },
 {
-associatedMasterId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
-layerId = "FD25CD14-5271-4D93-BAE3-597AB504C246";
-shapes = (
-{
-ref = ascript;
-},
-{
-alignment = 1;
-pos = (1378,-112);
-ref = rhotichookmod;
-}
-);
-width = 1764;
-},
-{
 layerId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
 shapes = (
 {

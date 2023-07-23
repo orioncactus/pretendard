@@ -30,20 +30,6 @@ ref = macronsubnosp;
 width = 916;
 },
 {
-associatedMasterId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
-layerId = "29D3E201-0D20-4B25-A66F-F4099C0961EA";
-shapes = (
-{
-ref = t;
-},
-{
-pos = (1416,0);
-ref = macronsubnosp;
-}
-);
-width = 984;
-},
-{
 layerId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
 shapes = (
 {

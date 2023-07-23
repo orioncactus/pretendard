@@ -30,20 +30,6 @@ ref = hook;
 width = 2232;
 },
 {
-associatedMasterId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
-layerId = "728E9932-8FEB-4BEF-9D0C-CE4F62F8763C";
-shapes = (
-{
-ref = Uhorn;
-},
-{
-pos = (1868,546);
-ref = hook;
-}
-);
-width = 2394;
-},
-{
 layerId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
 shapes = (
 {

@@ -33,23 +33,6 @@ ref = linevert;
 width = 0;
 },
 {
-associatedMasterId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
-layerId = "DC68C095-D9D7-4AE3-B13B-29B85585FE1A";
-shapes = (
-{
-alignment = -1;
-pos = (-1164,0);
-ref = linevert;
-},
-{
-alignment = -1;
-pos = (-818,0);
-ref = linevert;
-}
-);
-width = 0.09811;
-},
-{
 layerId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
 shapes = (
 {

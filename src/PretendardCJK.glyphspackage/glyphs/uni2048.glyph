@@ -32,22 +32,6 @@ ref = exclam;
 width = 1956;
 },
 {
-associatedMasterId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
-layerId = "57FA1547-A6D8-4D52-AAB5-AB21E8508BF7";
-shapes = (
-{
-alignment = 1;
-ref = question;
-},
-{
-alignment = 1;
-pos = (1390,0);
-ref = exclam;
-}
-);
-width = 2134;
-},
-{
 layerId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
 shapes = (
 {

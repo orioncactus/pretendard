@@ -75,23 +75,6 @@ nodes = (
 width = 704;
 },
 {
-associatedMasterId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
-layerId = "2A9C96B9-71C9-407E-B7F8-2372538C01DE";
-name = "Jun 9, 21 23:30";
-shapes = (
-{
-closed = 1;
-nodes = (
-(328,2708,l),
-(328,-660,l),
-(538,-660,l),
-(538,2708,l)
-);
-}
-);
-width = 866;
-},
-{
 associatedMasterId = "5C20EF92-B63D-42A8-8878-93C2863E0093";
 guides = (
 {

@@ -20,16 +20,6 @@ ref = vecyrillic;
 width = 1484;
 },
 {
-associatedMasterId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
-layerId = "08F56347-C6E6-4694-9D5E-BFA224D7BC0C";
-shapes = (
-{
-ref = vecyrillic;
-}
-);
-width = 1546;
-},
-{
 layerId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
 shapes = (
 {

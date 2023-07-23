@@ -24,18 +24,6 @@ ref = uptackmod;
 width = 0;
 },
 {
-associatedMasterId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
-layerId = "A1FBD904-DFE7-411F-80F6-9C44B87A3CBB";
-shapes = (
-{
-alignment = -1;
-pos = (-1206,1362);
-ref = uptackmod;
-}
-);
-width = 0.09811;
-},
-{
 layerId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
 shapes = (
 {

@@ -29,18 +29,6 @@ ref = dieresismacroncomb.cn;
 width = 0;
 },
 {
-associatedMasterId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
-layerId = "C280DF52-AC96-4B23-BF53-57DF513A44BB";
-shapes = (
-{
-alignment = -1;
-pos = (0,-488);
-ref = dieresismacroncomb.cn;
-}
-);
-width = 0;
-},
-{
 layerId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
 shapes = (
 {

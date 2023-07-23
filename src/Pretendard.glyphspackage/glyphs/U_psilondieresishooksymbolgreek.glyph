@@ -28,20 +28,6 @@ ref = dieresis;
 width = 1674;
 },
 {
-associatedMasterId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
-layerId = "3A600E45-A616-4965-9630-0ADF3E8B16AC";
-shapes = (
-{
-ref = Upsilonhooksymbol;
-},
-{
-pos = (102,512);
-ref = dieresis;
-}
-);
-width = 1828;
-},
-{
 layerId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
 shapes = (
 {

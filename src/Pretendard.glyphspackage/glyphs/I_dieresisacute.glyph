@@ -86,20 +86,6 @@ ref = dieresisacutecomb.cn;
 width = 640;
 },
 {
-associatedMasterId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
-layerId = "77E6CDA8-668E-4BC7-B9DD-08EFA4928DEC";
-shapes = (
-{
-ref = I;
-},
-{
-pos = (910,0);
-ref = dieresisacutecomb.cn;
-}
-);
-width = 706;
-},
-{
 layerId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
 shapes = (
 {

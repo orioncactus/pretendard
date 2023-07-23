@@ -26,18 +26,6 @@ ref = afii10026;
 width = 1994;
 },
 {
-associatedMasterId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
-layerId = "FC658384-6898-42B0-BFFB-9CFFE144F220";
-shapes = (
-{
-alignment = -1;
-pos = (2,0);
-ref = afii10026;
-}
-);
-width = 2058.9434;
-},
-{
 layerId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
 shapes = (
 {

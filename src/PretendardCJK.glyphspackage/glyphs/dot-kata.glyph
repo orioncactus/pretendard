@@ -71,23 +71,6 @@ nodes = (
 width = 2716;
 },
 {
-associatedMasterId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
-layerId = "ECF250A2-B841-44DD-9EE9-7661170D5A6E";
-name = "Mar 4, 22 21:35";
-shapes = (
-{
-closed = 1;
-nodes = (
-(1531,852,l),
-(1531,1199,l),
-(1184,1199,l),
-(1184,852,l)
-);
-}
-);
-width = 2716;
-},
-{
 associatedMasterId = "5C20EF92-B63D-42A8-8878-93C2863E0093";
 layerId = "3097AF57-BC81-4813-B32D-660F9A7D4CF8";
 name = "Mar 4, 22 21:35";

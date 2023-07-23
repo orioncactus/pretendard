@@ -30,20 +30,6 @@ ref = circumflex;
 width = 560;
 },
 {
-associatedMasterId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
-layerId = "56E47F7A-4E83-4CAA-8B4F-166A1D385BAD";
-shapes = (
-{
-ref = idotless;
-},
-{
-pos = (-306,0);
-ref = circumflex;
-}
-);
-width = 632;
-},
-{
 layerId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
 shapes = (
 {

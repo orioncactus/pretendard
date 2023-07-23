@@ -30,20 +30,6 @@ ref = ogonek;
 width = 2240;
 },
 {
-associatedMasterId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
-layerId = "426B8354-7C9A-4EBF-A657-E38E9299C013";
-shapes = (
-{
-ref = Aring;
-},
-{
-pos = (1238,0);
-ref = ogonek;
-}
-);
-width = 1868;
-},
-{
 layerId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
 shapes = (
 {

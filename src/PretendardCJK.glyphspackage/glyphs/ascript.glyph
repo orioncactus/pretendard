@@ -42,22 +42,6 @@ width = 1710;
 anchors = (
 {
 name = rhotichook;
-pos = (1346,768);
-}
-);
-associatedMasterId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
-layerId = "6468AE3B-27E0-42E4-B4D0-BB19A43CAE36";
-shapes = (
-{
-ref = alpha;
-}
-);
-width = 1764;
-},
-{
-anchors = (
-{
-name = rhotichook;
 pos = (1348,768);
 }
 );

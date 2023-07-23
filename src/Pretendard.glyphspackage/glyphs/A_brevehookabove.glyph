@@ -30,20 +30,6 @@ ref = brevehookcomb.cn;
 width = 1672;
 },
 {
-associatedMasterId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
-layerId = "FEF2D943-1E8E-4015-BE90-F18B1BCEA244";
-shapes = (
-{
-ref = A;
-},
-{
-pos = (304,540);
-ref = brevehookcomb.cn;
-}
-);
-width = 1868;
-},
-{
 layerId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
 shapes = (
 {

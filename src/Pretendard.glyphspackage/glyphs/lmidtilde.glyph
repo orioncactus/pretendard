@@ -32,23 +32,6 @@ ref = _tildecross.cn;
 width = 544;
 },
 {
-associatedMasterId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
-layerId = "913DABAE-43A3-426A-8672-1CE2EBD6A887";
-shapes = (
-{
-alignment = -1;
-pos = (96,0);
-ref = l;
-},
-{
-alignment = -1;
-pos = (-64,0);
-ref = _tildecross.cn;
-}
-);
-width = 795.63019;
-},
-{
 layerId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
 shapes = (
 {

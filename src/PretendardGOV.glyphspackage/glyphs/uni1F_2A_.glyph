@@ -35,23 +35,6 @@ ref = uni1FCD.tonos;
 width = 3012;
 },
 {
-associatedMasterId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
-layerId = "BE0A4C9B-AA00-4D80-B5DF-C6F2E08CF659";
-shapes = (
-{
-alignment = -1;
-pos = (992,0);
-ref = H;
-},
-{
-alignment = -1;
-pos = (-2,0);
-ref = uni1FCD.tonos;
-}
-);
-width = 3012.58868;
-},
-{
 layerId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
 shapes = (
 {

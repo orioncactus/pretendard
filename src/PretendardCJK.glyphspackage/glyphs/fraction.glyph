@@ -68,32 +68,6 @@ width = 704;
 anchors = (
 {
 name = dnom;
-pos = (676,1088);
-},
-{
-name = numr;
-pos = (36,960);
-}
-);
-associatedMasterId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
-layerId = "8D2562B1-873B-4408-B4E7-5D85FFBB3603";
-shapes = (
-{
-closed = 1;
-nodes = (
-(-236,0,l),
-(1172,2048,l),
-(944,2048,l),
-(-464,0,l)
-);
-}
-);
-width = 708.29434;
-},
-{
-anchors = (
-{
-name = dnom;
 pos = (686,1088);
 },
 {

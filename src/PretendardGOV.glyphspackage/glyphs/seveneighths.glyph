@@ -42,28 +42,6 @@ ref = eight.dnomf;
 width = 2328;
 },
 {
-associatedMasterId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
-layerId = "AE67F730-8655-406D-B5FA-6B1A9EE8CEA1";
-shapes = (
-{
-alignment = -1;
-pos = (690,0);
-ref = fraction;
-},
-{
-alignment = -1;
-pos = (0,-64);
-ref = seven.numr;
-},
-{
-alignment = -1;
-pos = (1398,0);
-ref = eight.dnomf;
-}
-);
-width = 2435.53208;
-},
-{
 layerId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
 shapes = (
 {

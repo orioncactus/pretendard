@@ -41,23 +41,6 @@ name = _tonos;
 pos = (634,2056);
 }
 );
-associatedMasterId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
-layerId = "F685A8C8-1086-4669-B43E-4D68F6673DE5";
-shapes = (
-{
-alignment = 1;
-ref = uni1FBD;
-}
-);
-width = 708;
-},
-{
-anchors = (
-{
-name = _tonos;
-pos = (634,2056);
-}
-);
 layerId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
 shapes = (
 {

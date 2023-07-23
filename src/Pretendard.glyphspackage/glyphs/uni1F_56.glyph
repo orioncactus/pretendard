@@ -30,20 +30,6 @@ ref = uni1FCF;
 width = 1594;
 },
 {
-associatedMasterId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
-layerId = "A879E6ED-979C-4B7B-8453-8849897C5C53";
-shapes = (
-{
-ref = upsilon;
-},
-{
-pos = (310,168);
-ref = uni1FCF;
-}
-);
-width = 1608;
-},
-{
 layerId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
 shapes = (
 {

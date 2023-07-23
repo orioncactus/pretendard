@@ -140,31 +140,6 @@ nodes = (
 width = 1396;
 },
 {
-associatedMasterId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
-layerId = "47BBA750-37D7-4099-AAF1-800BB839A18F";
-name = "Jun 14, 21 1:07";
-shapes = (
-{
-closed = 1;
-nodes = (
-(628,2048,l),
-(614,2024,o),
-(464,1744,o),
-(140,1742,c),
-(140,1530,l),
-(376,1530,o),
-(552,1624,o),
-(584,1682,c),
-(600,1682,l),
-(600,0,l),
-(856,0,l),
-(856,2048,l)
-);
-}
-);
-width = 1200;
-},
-{
 associatedMasterId = "B1F27B51-9973-4381-9301-4FE46FE1CA59";
 layerId = "8FC63BD1-A66D-4BD7-BEA6-778FD7021A80";
 name = "Jun 14, 21 1:07";

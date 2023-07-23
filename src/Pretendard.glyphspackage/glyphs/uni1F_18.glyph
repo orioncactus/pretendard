@@ -34,23 +34,6 @@ ref = koronisaccentleft.cn;
 width = 1884;
 },
 {
-associatedMasterId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
-layerId = "51FE7836-45C0-4340-9107-257C9E65D157";
-shapes = (
-{
-alignment = -1;
-pos = (358,0);
-ref = E;
-},
-{
-alignment = -1;
-pos = (-126,-8);
-ref = koronisaccentleft.cn;
-}
-);
-width = 1980.21887;
-},
-{
 layerId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
 shapes = (
 {

@@ -23,18 +23,6 @@ ref = trianglebullet;
 width = 1248;
 },
 {
-associatedMasterId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
-layerId = "5C025546-82D0-4541-922E-E93A4B3BFB71";
-shapes = (
-{
-alignment = -1;
-pos = (0,208);
-ref = trianglebullet;
-}
-);
-width = 1450.89811;
-},
-{
 layerId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
 shapes = (
 {

@@ -22,16 +22,6 @@ ref = Pi;
 width = 1846;
 },
 {
-associatedMasterId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
-layerId = "D257CE3D-D8D4-49F6-AFAF-F6DE5EAF1392";
-shapes = (
-{
-ref = Pi;
-}
-);
-width = 1994;
-},
-{
 layerId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
 shapes = (
 {

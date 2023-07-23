@@ -60,19 +60,6 @@ scale = (2,1);
 width = 2716;
 },
 {
-associatedMasterId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
-layerId = "B1B3D89A-5921-475F-BE8B-96990AA358CA";
-name = "Mar 4, 22 10:44";
-shapes = (
-{
-pos = (104,0);
-ref = hyphen;
-scale = (2,1);
-}
-);
-width = 2716;
-},
-{
 associatedMasterId = "B1F27B51-9973-4381-9301-4FE46FE1CA59";
 layerId = "21A008DE-B9B7-4299-9C85-0A1546A8216E";
 name = "Mar 4, 22 10:44";

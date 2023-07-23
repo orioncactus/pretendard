@@ -38,24 +38,6 @@ ref = macron;
 width = 544;
 },
 {
-associatedMasterId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
-layerId = "E0C83BF4-A046-4E94-B9C3-2E19B5C9169D";
-shapes = (
-{
-ref = l;
-},
-{
-pos = (1178,0);
-ref = dotbelow;
-},
-{
-pos = (-296,512);
-ref = macron;
-}
-);
-width = 632;
-},
-{
 layerId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
 shapes = (
 {

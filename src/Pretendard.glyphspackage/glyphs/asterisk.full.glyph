@@ -101,18 +101,6 @@ ref = asterisk;
 width = 2716;
 },
 {
-associatedMasterId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
-layerId = "0AF833B3-C3D8-4116-BE19-1E3C1D58A2A9";
-name = "Apr 10, 22 15:35";
-shapes = (
-{
-pos = (676,-448);
-ref = asterisk;
-}
-);
-width = 2716;
-},
-{
 associatedMasterId = "B1F27B51-9973-4381-9301-4FE46FE1CA59";
 layerId = "CA9A4855-D6EB-46D1-B81D-F37CB00422D8";
 name = "Apr 10, 22 15:35";
@@ -155,88 +143,6 @@ nodes = (
 attr = {
 strokeHeight = 64;
 strokeWidth = 64;
-};
-closed = 0;
-nodes = (
-(2108,592,l),
-(608,1456,l)
-);
-}
-);
-width = 2716;
-},
-{
-associatedMasterId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
-layerId = "738FDDE5-AD61-4EC1-9026-22078673EA43";
-name = "Apr 10, 22 15:36";
-shapes = (
-{
-attr = {
-strokeHeight = 160;
-strokeWidth = 160;
-};
-closed = 0;
-nodes = (
-(1358,1888,l),
-(1358,160,l)
-);
-},
-{
-attr = {
-strokeHeight = 160;
-strokeWidth = 160;
-};
-closed = 0;
-nodes = (
-(2108,1456,l),
-(608,592,l)
-);
-},
-{
-attr = {
-strokeHeight = 160;
-strokeWidth = 160;
-};
-closed = 0;
-nodes = (
-(2108,592,l),
-(608,1456,l)
-);
-}
-);
-width = 2716;
-},
-{
-associatedMasterId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
-layerId = "DF1F56F6-13A5-4CF5-B993-3FA3B1BE87B0";
-name = "Apr 10, 22 15:36";
-shapes = (
-{
-attr = {
-strokeHeight = 196;
-strokeWidth = 196;
-};
-closed = 0;
-nodes = (
-(1358,1888,l),
-(1358,160,l)
-);
-},
-{
-attr = {
-strokeHeight = 196;
-strokeWidth = 196;
-};
-closed = 0;
-nodes = (
-(2108,1456,l),
-(608,592,l)
-);
-},
-{
-attr = {
-strokeHeight = 196;
-strokeWidth = 196;
 };
 closed = 0;
 nodes = (

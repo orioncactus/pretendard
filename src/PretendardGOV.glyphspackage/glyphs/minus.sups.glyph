@@ -50,30 +50,6 @@ width = 66.6;
 width = 1128;
 },
 {
-associatedMasterId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
-layerId = "D22258A9-5459-4EE1-985B-D704C3F3EC05";
-shapes = (
-{
-closed = 1;
-nodes = (
-(144,1630,l),
-(144,1446,l),
-(1030,1446,l),
-(1030,1630,l)
-);
-}
-);
-userData = {
-RMXScaler = {
-height = 63;
-verticalShift = 1024;
-weight = -50;
-width = 66.6;
-};
-};
-width = 1173.4717;
-},
-{
 layerId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
 shapes = (
 {

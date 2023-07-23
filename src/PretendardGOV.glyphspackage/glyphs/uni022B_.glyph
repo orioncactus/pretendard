@@ -30,20 +30,6 @@ ref = dieresismacroncomb.lc;
 width = 1568;
 },
 {
-associatedMasterId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
-layerId = "AAF880F9-40FB-4800-8633-345A15B1251D";
-shapes = (
-{
-ref = o;
-},
-{
-pos = (1640,-24);
-ref = dieresismacroncomb.lc;
-}
-);
-width = 1642;
-},
-{
 layerId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
 shapes = (
 {

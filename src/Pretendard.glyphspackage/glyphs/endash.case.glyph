@@ -26,18 +26,6 @@ ref = endash;
 width = 1344;
 },
 {
-associatedMasterId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
-layerId = "479D6247-55D9-4C20-B88D-36ABABCA230D";
-shapes = (
-{
-alignment = -1;
-pos = (0,148);
-ref = endash;
-}
-);
-width = 1344.39245;
-},
-{
 layerId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
 shapes = (
 {

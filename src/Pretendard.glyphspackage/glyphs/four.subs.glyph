@@ -25,17 +25,6 @@ ref = four.sups;
 width = 1064;
 },
 {
-associatedMasterId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
-layerId = "DD901274-6782-44FB-B2B1-9987654C4451";
-shapes = (
-{
-pos = (0,-1376);
-ref = four.sups;
-}
-);
-width = 1188;
-},
-{
 layerId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
 shapes = (
 {

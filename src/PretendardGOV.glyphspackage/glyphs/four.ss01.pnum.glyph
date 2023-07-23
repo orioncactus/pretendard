@@ -84,18 +84,6 @@ ref = four.ss01;
 width = 1600;
 },
 {
-associatedMasterId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
-layerId = "5CF0BA88-3804-4C89-AE34-F5400A4265AF";
-shapes = (
-{
-alignment = -1;
-pos = (-10,0);
-ref = four.ss01;
-}
-);
-width = 1764.31698;
-},
-{
 layerId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
 shapes = (
 {

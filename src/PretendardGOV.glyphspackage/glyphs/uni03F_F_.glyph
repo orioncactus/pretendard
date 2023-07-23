@@ -28,22 +28,6 @@ ref = period;
 width = 1972;
 },
 {
-associatedMasterId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
-layerId = "B29A6E28-E4FD-4A1A-92CB-542766480F5C";
-shapes = (
-{
-alignment = -1;
-ref = Oopen;
-},
-{
-alignment = -1;
-pos = (596,874);
-ref = period;
-}
-);
-width = 1988;
-},
-{
 layerId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
 shapes = (
 {

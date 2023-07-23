@@ -31,22 +31,6 @@ ref = commaaccentright.cn;
 width = 544;
 },
 {
-associatedMasterId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
-layerId = "F765BD52-D0F7-4D4B-978D-77008FCF8E3A";
-shapes = (
-{
-alignment = -1;
-ref = l;
-},
-{
-alignment = -1;
-pos = (384,0);
-ref = commaaccentright.cn;
-}
-);
-width = 802.58491;
-},
-{
 layerId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
 shapes = (
 {

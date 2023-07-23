@@ -4,10 +4,11 @@ glyphname = bracketleft.full;
 layers = (
 {
 layerId = "B1F27B51-9973-4381-9301-4FE46FE1CA59";
+metricRight = "=bracketleft*2";
 shapes = (
 {
 alignment = -1;
-pos = (840,0);
+pos = (1528,0);
 ref = bracketleft.case;
 }
 );
@@ -15,10 +16,11 @@ width = 2504;
 },
 {
 layerId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
+metricRight = "=bracketleft*2";
 shapes = (
 {
 alignment = -1;
-pos = (760,0);
+pos = (1442,0);
 ref = bracketleft.case;
 }
 );
@@ -26,10 +28,11 @@ width = 2504;
 },
 {
 layerId = "5C20EF92-B63D-42A8-8878-93C2863E0093";
+metricRight = "=bracketleft*2";
 shapes = (
 {
 alignment = -1;
-pos = (632,0);
+pos = (1220,0);
 ref = bracketleft.case;
 }
 );

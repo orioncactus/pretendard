@@ -24534,5 +24534,5 @@ com.typemytype.robofont.shouldAddPointsInSplineConversion = 1;
 UFOFormat = 3;
 };
 versionMajor = 1;
-versionMinor = 307;
+versionMinor = 309;
 }

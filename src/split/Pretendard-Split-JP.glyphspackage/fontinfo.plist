@@ -79,7 +79,7 @@ value = "Adobe-Identity-0";
 }
 );
 date = "2023-07-21 15:00:30 +0000";
-familyName = "Pretendard JP";
+familyName = "Pretendard JP Split";
 featurePrefixes = (
 {
 automatic = 1;

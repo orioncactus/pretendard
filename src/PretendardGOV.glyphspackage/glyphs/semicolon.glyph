@@ -18,7 +18,7 @@ ref = comma;
 },
 {
 alignment = -1;
-pos = (0,1032);
+pos = (4,1032);
 ref = period;
 }
 );
@@ -96,7 +96,6 @@ width = 880;
 }
 );
 metricLeft = comma;
-metricWidth = period;
 unicode = 59;
 userData = {
 "interface.width-adjustments" = (

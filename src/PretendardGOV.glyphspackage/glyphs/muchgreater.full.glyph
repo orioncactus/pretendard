@@ -1,10 +1,12 @@
 {
+color = 11;
 glyphname = muchgreater.full;
 layers = (
 {
 layerId = "B1F27B51-9973-4381-9301-4FE46FE1CA59";
 shapes = (
 {
+alignment = -1;
 pos = (192,0);
 ref = muchgreater.case;
 }
@@ -15,6 +17,7 @@ width = 2504;
 layerId = "5C20EF92-B63D-42A8-8878-93C2863E0093";
 shapes = (
 {
+alignment = -1;
 pos = (24,0);
 ref = muchgreater.case;
 }

@@ -1,5 +1,5 @@
 {
-color = (227,245,235,1);
+color = 11;
 glyphname = zero.ss20;
 kernLeft = six;
 kernRight = nine;

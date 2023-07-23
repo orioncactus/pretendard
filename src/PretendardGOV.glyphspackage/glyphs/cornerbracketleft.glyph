@@ -76,7 +76,6 @@ nodes = (
 width = 986;
 }
 );
-metricLeft = bracketleft;
-metricRight = bracketleft;
+metricWidth = bracketleft;
 unicode = 12300;
 }

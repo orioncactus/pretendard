@@ -1,6 +1,5 @@
 {
 color = 8;
-export = 0;
 glyphname = semicolon.tf;
 layers = (
 {
@@ -14,6 +13,7 @@ ref = colon.tf;
 layerId = "5C20EF92-B63D-42A8-8878-93C2863E0093";
 shapes = (
 {
+pos = (-4,0);
 ref = semicolon;
 }
 );

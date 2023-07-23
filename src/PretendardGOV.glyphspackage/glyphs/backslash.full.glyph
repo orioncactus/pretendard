@@ -1,4 +1,5 @@
 {
+color = 11;
 glyphname = backslash.full;
 layers = (
 {
@@ -43,11 +44,10 @@ layerId = "43DB1B18-2D93-4354-9C42-1F6922CEAE0C";
 name = "Mar 4, 22 10:46";
 shapes = (
 {
-pos = (778,106);
 ref = backslash;
 }
 );
-width = 2716;
+width = 0;
 },
 {
 associatedMasterId = "B1F27B51-9973-4381-9301-4FE46FE1CA59";
@@ -55,11 +55,10 @@ layerId = "F4FA98E2-FB19-4F8E-B55F-686210B1EE59";
 name = "Mar 4, 22 10:46";
 shapes = (
 {
-pos = (936,106);
 ref = backslash;
 }
 );
-width = 2716;
+width = 0;
 }
 );
 metricWidth = hanBase;

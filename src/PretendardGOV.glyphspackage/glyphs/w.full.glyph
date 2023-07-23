@@ -1,4 +1,5 @@
 {
+color = 11;
 glyphname = w.full;
 layers = (
 {
@@ -28,7 +29,7 @@ layerId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
 shapes = (
 {
 alignment = -1;
-pos = (128,0);
+pos = (126,0);
 ref = w;
 }
 );

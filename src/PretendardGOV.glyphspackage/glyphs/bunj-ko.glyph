@@ -438,6 +438,7 @@ nodes = (
 );
 }
 );
+visible = 1;
 width = 2504;
 }
 );

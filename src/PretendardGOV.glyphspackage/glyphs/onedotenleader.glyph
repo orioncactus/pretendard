@@ -1,5 +1,7 @@
 {
 glyphname = onedotenleader;
+kernLeft = comma;
+kernRight = comma;
 layers = (
 {
 layerId = "5C20EF92-B63D-42A8-8878-93C2863E0093";
@@ -32,8 +34,6 @@ ref = period;
 width = 736;
 }
 );
-metricLeft = period;
-metricRight = period;
 unicode = 8228;
 userData = {
 interface.gridadjust.original = "{'width': 719, 'leftMargin': 210, 'rightMargin': 173}";

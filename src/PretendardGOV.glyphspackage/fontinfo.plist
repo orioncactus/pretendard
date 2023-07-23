@@ -5029,12 +5029,8 @@ languagesystem latn ROM;
 languagesystem latn MOL;
 languagesystem latn CAT;
 
-languagesystem hang dflt;
-languagesystem hang KOR;
-languagesystem hang JAN;
-
-languagesystem kana dflt;
-languagesystem kana JAN;
+languagesystem hani dflt;
+languagesystem hani JAN;
 ";
 name = Languagesystems;
 },
@@ -7125,6 +7121,9 @@ sub eight.tf by eight;
 sub nine.tf by nine;
 sub three.1.tf by three.1;
 sub comma.tf by comma;
+sub period.tf by period;
+sub colon.tf by colon;
+sub semicolon.tf by semicolon;
 ";
 tag = pnum;
 },
@@ -7143,6 +7142,9 @@ sub eight by eight.tf;
 sub nine by nine.tf;
 sub three.1 by three.1.tf;
 sub comma by comma.tf;
+sub period by period.tf;
+sub colon by colon.tf;
+sub semicolon by semicolon.tf;
 ";
 tag = tnum;
 },
@@ -7156,6 +7158,7 @@ sub blackleftbullet by blackleftbullet.case;
 sub blackrightbullet by blackrightbullet.case;
 sub hyphenbullet by hyphenbullet.case;
 sub colon.ss20 by colon.ss20.case;
+sub colon.tf by colon.tf.case;
 sub hyphen by hyphen.case;
 sub endash by endash.case;
 sub emdash by emdash.case;

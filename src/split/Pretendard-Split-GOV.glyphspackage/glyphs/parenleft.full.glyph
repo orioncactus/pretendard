@@ -7,30 +7,36 @@ layerId = "B1F27B51-9973-4381-9301-4FE46FE1CA59";
 metricRight = "=parenleft*2";
 shapes = (
 {
+alignment = -1;
+pos = (1528,0);
 ref = parenleft.case;
 }
 );
-width = 0;
+width = 2504;
 },
 {
 layerId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
 metricRight = "=parenleft*2";
 shapes = (
 {
+alignment = -1;
+pos = (1412,0);
 ref = parenleft.case;
 }
 );
-width = 0;
+width = 2504;
 },
 {
 layerId = "5C20EF92-B63D-42A8-8878-93C2863E0093";
 metricRight = "=parenleft*2";
 shapes = (
 {
+alignment = -1;
+pos = (1224,0);
 ref = parenleft.case;
 }
 );
-width = 0;
+width = 2504;
 }
 );
 metricRight = parenleft;

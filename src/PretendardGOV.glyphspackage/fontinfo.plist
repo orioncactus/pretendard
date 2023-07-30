@@ -5017,7 +5017,7 @@ name = ROS;
 value = "Adobe-Identity-0";
 }
 );
-date = "2023-07-23 15:00:30 +0000";
+date = "2023-07-30 15:00:30 +0000";
 familyName = "Pretendard GOV";
 featurePrefixes = (
 {
@@ -9443,7 +9443,9 @@ romanseven,
 romaneight,
 romannine,
 romaneleven,
-romantwelve
+romantwelve,
+Iota,
+uni2051
 );
 },
 {
@@ -9872,7 +9874,9 @@ romanseven,
 romaneight,
 romannine,
 romaneleven,
-romantwelve
+romantwelve,
+Iota,
+uni2051
 );
 },
 {
@@ -10301,7 +10305,9 @@ romanseven,
 romaneight,
 romannine,
 romaneleven,
-romantwelve
+romantwelve,
+Iota,
+uni2051
 );
 },
 {
@@ -10730,7 +10736,9 @@ romanseven,
 romaneight,
 romannine,
 romaneleven,
-romantwelve
+romantwelve,
+Iota,
+uni2051
 );
 },
 {
@@ -11157,7 +11165,9 @@ romanseven,
 romaneight,
 romannine,
 romaneleven,
-romantwelve
+romantwelve,
+Iota,
+uni2051
 );
 },
 {
@@ -11586,7 +11596,9 @@ romanseven,
 romaneight,
 romannine,
 romaneleven,
-romantwelve
+romantwelve,
+Iota,
+uni2051
 );
 },
 {
@@ -12015,7 +12027,9 @@ romanseven,
 romaneight,
 romannine,
 romaneleven,
-romantwelve
+romantwelve,
+Iota,
+uni2051
 );
 },
 {
@@ -12445,7 +12459,9 @@ romanseven,
 romaneight,
 romannine,
 romaneleven,
-romantwelve
+romantwelve,
+Iota,
+uni2051
 );
 },
 {
@@ -12874,7 +12890,9 @@ romanseven,
 romaneight,
 romannine,
 romaneleven,
-romantwelve
+romantwelve,
+Iota,
+uni2051
 );
 },
 {
@@ -13307,7 +13325,9 @@ romanseven,
 romaneight,
 romannine,
 romaneleven,
-romantwelve
+romantwelve,
+Iota,
+uni2051
 );
 },
 {
@@ -13740,7 +13760,9 @@ romanseven,
 romaneight,
 romannine,
 romaneleven,
-romantwelve
+romantwelve,
+Iota,
+uni2051
 );
 },
 {
@@ -14173,7 +14195,9 @@ romanseven,
 romaneight,
 romannine,
 romaneleven,
-romantwelve
+romantwelve,
+Iota,
+uni2051
 );
 },
 {
@@ -14606,7 +14630,9 @@ romanseven,
 romaneight,
 romannine,
 romaneleven,
-romantwelve
+romantwelve,
+Iota,
+uni2051
 );
 },
 {
@@ -15037,7 +15063,9 @@ romanseven,
 romaneight,
 romannine,
 romaneleven,
-romantwelve
+romantwelve,
+Iota,
+uni2051
 );
 },
 {
@@ -15470,7 +15498,9 @@ romanseven,
 romaneight,
 romannine,
 romaneleven,
-romantwelve
+romantwelve,
+Iota,
+uni2051
 );
 },
 {
@@ -15903,7 +15933,9 @@ romanseven,
 romaneight,
 romannine,
 romaneleven,
-romantwelve
+romantwelve,
+Iota,
+uni2051
 );
 },
 {
@@ -16337,7 +16369,9 @@ romanseven,
 romaneight,
 romannine,
 romaneleven,
-romantwelve
+romantwelve,
+Iota,
+uni2051
 );
 },
 {
@@ -16770,7 +16804,9 @@ romanseven,
 romaneight,
 romannine,
 romaneleven,
-romantwelve
+romantwelve,
+Iota,
+uni2051
 );
 },
 {
@@ -17305,7 +17341,9 @@ romanseven,
 romaneight,
 romannine,
 romaneleven,
-romantwelve
+romantwelve,
+Iota,
+uni2051
 );
 },
 {

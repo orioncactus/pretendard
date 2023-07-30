@@ -626,6 +626,11 @@ Pretendard에 기여해주셔서 진심으로 감사드립니다.
          align="center" height="32" alt="페이지콜" hspace="16">
       </picture>
    </a>
+  <a href="https://elice.io">
+      <picture>
+        <img src="https://github.com/kms0219kms/pretendard/assets/67222970/389f7eab-4519-440d-a4de-f826bebb4a54" align="center" height="32" alt="elice" hspace="16">
+      </picture>
+   </a>
 </p>
 
 ## 의견 나누기

@@ -631,6 +631,14 @@ Pretendard에 기여해주셔서 진심으로 감사드립니다.
         <img src="https://github.com/kms0219kms/pretendard/assets/67222970/389f7eab-4519-440d-a4de-f826bebb4a54" align="center" height="32" alt="elice" hspace="16">
       </picture>
    </a>
+     <a href="https://play.google.com/store/apps/details?id=com.mgrv.community.app">
+      <picture>
+         <source media="(prefers-color-scheme: dark)" srcset="https://github-production-user-asset-6210df.s3.amazonaws.com/118321177/265489209-835d2520-64af-45e1-aea2-6a0480d44ddc.png" height="24" align="center" hspace="16">
+         <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/118321177/265488088-4eef4a7b-854d-41ae-adbc-b08342fd345c.png"
+         align="center" height="24" alt="맹그로브" hspace="16">
+      </picture>
+
+  </a>
 </p>
 
 ## 의견 나누기

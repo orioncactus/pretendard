@@ -1,6 +1,8 @@
 {
 color = 9;
 glyphname = romantwo.1;
+kernLeft = B;
+kernRight = H;
 layers = (
 {
 layerId = "B1F27B51-9973-4381-9301-4FE46FE1CA59";

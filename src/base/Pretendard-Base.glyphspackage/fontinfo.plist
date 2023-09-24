@@ -3597,6 +3597,7 @@ sub greater.full by greater;
 sub less.full by less;
 sub plus.full by plus;
 sub coloncurrency.full by coloncurrency;
+sub I.full.1 by I.1;
 ";
 tag = pwid;
 }

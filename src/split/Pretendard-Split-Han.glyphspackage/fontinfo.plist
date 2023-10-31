@@ -1,5 +1,5 @@
 {
-.appVersion = "3208";
+.appVersion = "3223";
 .formatVersion = 3;
 axes = (
 {
@@ -3809,77 +3809,6 @@ uni9771";
 name = NLCK_R;
 }
 );
-customParameters = (
-{
-name = openTypeHeadFlags;
-value = (
-0,
-1,
-3,
-4
-);
-},
-{
-name = codePageRanges;
-value = (
-"1252",
-"1250",
-"1251",
-"1253",
-"1254",
-"1257",
-"1258",
-"949",
-"1361",
-"bit 29"
-);
-},
-{
-name = openTypeHeadLowestRecPPEM;
-value = 6;
-},
-{
-name = fsType;
-value = (
-);
-},
-{
-name = blueFuzz;
-value = 0;
-},
-{
-name = blueShift;
-value = 16;
-},
-{
-name = postscriptDefaultCharacter;
-value = space;
-},
-{
-name = postscriptDefaultWidthX;
-value = 256;
-},
-{
-name = postscriptForceBold;
-value = 0;
-},
-{
-name = postscriptIsFixedPitch;
-value = 0;
-},
-{
-name = "Use Typo Metrics";
-value = 1;
-},
-{
-name = "Disable Subroutines";
-value = 1;
-},
-{
-name = ROS;
-value = "Adobe-Identity-0";
-}
-);
 date = "2023-07-21 15:00:30 +0000";
 familyName = "Pretendard Split Han";
 featurePrefixes = (
@@ -3893,13 +3822,12 @@ languagesystem hani JAN;
 name = Languagesystems;
 },
 {
-code = "
-lookup LOOKUP_SS05_3 {
+code = "lookup LOOKUP_SS05_HAN {
 # Hanja localization
 sub @LOCL_JAN_R by @LOCL_JAN_L;
-} LOOKUP_SS05_3;
+} LOOKUP_SS05_HAN;
 ";
-name = LOOKUP_SS05;
+name = LOOKUP_SS05_HAN;
 }
 );
 features = (
@@ -3915,24 +3843,21 @@ disabled = 1;
 tag = aalt;
 },
 {
-code = "
-# Begin replacement LOCL_JAN
+code = "# Begin addition below
 
 lookup locl_haniJAN {
 	script hani;
 	language JAN;
 	sub @LOCL_JAN_L by @LOCL_JAN_R;
 } locl_haniJAN;
-
-# End replacement LOCL_JAN
+# End addition below
 ";
 tag = locl;
 },
 {
-code = "
-# Begin replacement SS05_JP
-lookup LOOKUP_SS05_3;
-# End replacement SS05_JP
+code = "# Begin addition below
+lookup LOOKUP_SS05_HAN;
+# End addition below
 ";
 labels = (
 {
@@ -6866,10 +6791,6 @@ values = (
 {
 language = dflt;
 value = "Copyright © 2023 Kil Hyung-jin";
-},
-{
-language = KOR;
-value = "Copyright © 2023 길형진";
 }
 );
 },
@@ -6883,27 +6804,6 @@ value = "Han glyphs from Noto Sans CJK(Source Han Sans) by Ryoko Nishizuka, Adob
 );
 },
 {
-key = designerURL;
-value = "https://orioncactus.com/";
-},
-{
-key = manufacturers;
-values = (
-{
-language = dflt;
-value = "Kil Hyung-jin";
-},
-{
-language = KOR;
-value = "길형진";
-}
-);
-},
-{
-key = manufacturerURL;
-value = "https://orioncactus.com/";
-},
-{
 key = licenses;
 values = (
 {
@@ -6913,12 +6813,13 @@ value = "This Font Software is licensed under the SIL Open Font License, Version
 );
 },
 {
-key = licenseURL;
-value = "http://scripts.sil.org/OFL";
-},
+key = manufacturers;
+values = (
 {
-key = vendorID;
-value = CTUS;
+language = dflt;
+value = "Kil Hyung-jin";
+}
+);
 },
 {
 key = trademarks;
@@ -6928,6 +6829,10 @@ language = dflt;
 value = "Pretendard is a trademark of Kil Hyung-jin; Source is a trademark of Adobe in the United States and/or other countries.";
 }
 );
+},
+{
+key = vendorID;
+value = CTUS;
 }
 );
 settings = {

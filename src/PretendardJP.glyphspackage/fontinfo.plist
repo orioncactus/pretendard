@@ -1,5 +1,5 @@
 {
-.appVersion = "3208";
+.appVersion = "3223";
 .formatVersion = 3;
 axes = (
 {
@@ -295,6 +295,322 @@ code = "guillemetright.case
 guilsinglright.case
 ";
 name = LOCL_HANG_R_R;
+},
+{
+code = "space
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+L
+M
+N
+O
+P
+Q
+R
+S
+T
+U
+V
+W
+X
+Y
+Z
+a
+b
+c
+d
+e
+f
+g
+h
+i
+j
+k
+l
+m
+n
+o
+p
+q
+r
+s
+t
+u
+v
+w
+x
+y
+z
+zero
+one
+two
+three
+four
+five
+six
+seven
+eight
+nine
+ampersand
+asterisk
+at
+backslash
+colon
+comma
+exclam
+periodcentered
+numbersign
+percent
+period
+question
+quotedbl
+quotesingle
+semicolon
+slash
+underscore
+emdash
+horizontalbar
+hyphen
+whiteparenleft
+whiteparenright
+braceleft
+braceright
+bracketleft
+bracketright
+anglebracketleft
+anglebracketright
+blacklenticularbracketleft
+blacklenticularbracketright
+cornerbracketleft
+cornerbracketright
+dblanglebracketleft
+dblanglebracketright
+tortoiseshellbracketleft
+tortoiseshellbracketright
+whitecornerbracketleft
+whitecornerbracketright
+whitelenticularbracketleft
+whitelenticularbracketright
+whitesquarebracketleft
+whitesquarebracketright
+whitetortoiseshellbracketleft
+whitetortoiseshellbracketright
+parenleft
+parenright
+quotedblleft
+quoteleft
+quoteright
+asciicircum
+grave
+cent
+dollar
+austral
+bitcoin
+cedi
+cruzeiro
+currency
+dong
+euro
+franc
+guarani
+hryvnia
+kip
+lari
+lira
+manat
+mill
+naira
+peso
+tenge
+tugrik
+sterling
+won
+yen
+asciitilde
+bar
+equal
+muchgreater
+muchless
+minus
+multiply
+divide
+greaterequal
+lessequal
+plusminus
+greater
+less
+plus
+coloncurrency
+I.1
+";
+name = FWID_L;
+},
+{
+code = "space-han
+A.full
+B.full
+C.full
+D.full
+E.full
+F.full
+G.full
+H.full
+I.full
+J.full
+K.full
+L.full
+M.full
+N.full
+O.full
+P.full
+Q.full
+R.full
+S.full
+T.full
+U.full
+V.full
+W.full
+X.full
+Y.full
+Z.full
+a.full
+b.full
+c.full
+d.full
+e.full
+f.full
+g.full
+h.full
+i.full
+j.full
+k.full
+l.full
+m.full
+n.full
+o.full
+p.full
+q.full
+r.full
+s.full
+t.full
+u.full
+v.full
+w.full
+x.full
+y.full
+z.full
+zero.full
+one.full
+two.full
+three.full
+four.full
+five.full
+six.full
+seven.full
+eight.full
+nine.full
+ampersand.full
+asterisk.full
+at.full
+backslash.full
+colon.full
+comma.full
+exclam.full
+periodcentered.full
+numbersign.full
+percent.full
+period.full
+question.full
+quotedbl.full
+quotesingle.full
+semicolon.full
+slash.full
+underscore.full
+emdash.full
+horizontalbar.full
+hyphen.full
+whiteparenleft.full
+whiteparenright.full
+braceleft.full
+braceright.full
+bracketleft.full
+bracketright.full
+anglebracketleft.full
+anglebracketright.full
+blacklenticularbracketleft.full
+blacklenticularbracketright.full
+cornerbracketleft.full
+cornerbracketright.full
+dblanglebracketleft.full
+dblanglebracketright.full
+tortoiseshellbracketleft.full
+tortoiseshellbracketright.full
+whitecornerbracketleft.full
+whitecornerbracketright.full
+whitelenticularbracketleft.full
+whitelenticularbracketright.full
+whitesquarebracketleft.full
+whitesquarebracketright.full
+whitetortoiseshellbracketleft.full
+whitetortoiseshellbracketright.full
+parenleft.full
+parenright.full
+quotedblleft.full
+quoteleft.full
+quoteright.full
+asciicircum.full
+grave.full
+cent.full
+dollar.full
+austral.full
+bitcoin.full
+cedi.full
+cruzeiro.full
+currency.full
+dong.full
+euro.full
+franc.full
+guarani.full
+hryvnia.full
+kip.full
+lari.full
+lira.full
+manat.full
+mill.full
+naira.full
+peso.full
+tenge.full
+tugrik.full
+sterling.full
+won.full
+yen.full
+asciitilde.full
+bar.full
+equal.full
+muchgreater.full
+muchless.full
+minus.full
+multiply.full
+divide.full
+greaterequal.full
+lessequal.full
+plusminus.full
+greater.full
+less.full
+plus.full
+coloncurrency.full
+I.full.1
+";
+name = FWID_R;
 },
 {
 code = "zero.circled
@@ -4792,10 +5108,6 @@ name = "Use Typo Metrics";
 value = 1;
 },
 {
-name = "Disable Subroutines";
-value = 1;
-},
-{
 name = ROS;
 value = "Adobe-Identity-0";
 }
@@ -4832,6 +5144,31 @@ sub @CASE_DELIM_R by @CASE_DELIM_R_R;
 } CASE_DELIM_R;
 ";
 name = Lookup;
+},
+{
+code = "lookup LOOKUP_SS01 {
+sub six by six.ss01;
+sub six.tf by six.tf.ss01;
+sub nine by nine.ss01;
+sub nine.tf by nine.tf.ss01;
+} LOOKUP_SS01;
+";
+name = LOOKUP_SS01;
+},
+{
+code = "lookup LOOKUP_SS02 {
+sub four by four.ss01;
+sub four.tf by four.tf.ss01;
+} LOOKUP_SS02;
+";
+name = LOOKUP_SS02;
+},
+{
+code = "lookup LOOKUP_SS03 {
+sub colon by colon.case;
+} LOOKUP_SS03;
+";
+name = LOOKUP_SS03;
 },
 {
 code = "lookup LOOKUP_SS05_1 {
@@ -4877,20 +5214,947 @@ sub @PAREN_L @ELLIPSIS_L' @PAREN_R by @ELLIPSIS_R;
 lookup LOOKUP_SS05_2 {
 # Case forms
 sub @CASE_HANG_LL by @CASE_HANG_RR;
-} LOOKUP_SS05_2;
-
-lookup LOOKUP_SS05_3 {
-# Hanja localization
-sub @LOCL_JAN_L by @LOCL_JAN_R;
-} LOOKUP_SS05_3;
-";
+} LOOKUP_SS05_2;";
 name = LOOKUP_SS05;
 },
 {
-code = "lookup LOOKUP_SS05_3_JP {
+code = "lookup LOOKUP_SS06_1 {
+# Numberical
+sub one by one.1;
+sub one.tf by one.1.tf;
+sub four by four.ss01;
+sub four.tf by four.tf.ss01;
+sub six by six.ss01;
+sub six.tf by six.tf.ss01;
+sub nine by nine.ss01;
+sub nine.tf by nine.tf.ss01;
+} LOOKUP_SS06_1;
+
+lookup LOOKUP_SS06_2 {
+# l
+sub l by l.ss02;
+sub lslash by lslash.ss02;
+sub lbar by lbar.ss02;
+sub lmidtilde by lmidtilde.ss02;
+sub lbelt by lbelt.ss02;
+sub ldot by ldot.ss02;
+sub lacute by lacute.ss02;
+sub lcommaaccent by lcommaaccent.ss02;
+sub lcaron by lcaron.ss02;
+sub ldotbelow by ldotbelow.ss02;
+sub ldotbelowmacron by ldotbelowmacron.ss02;
+sub llinebelow by llinebelow.ss02;
+sub lcircumflexbelow by lcircumflexbelow.ss02;
+
+# I
+sub I by I.1;
+sub Idieresis by Idieresis.1;
+sub Idieresisacute by Idieresisacute.1;
+sub Istroke by Istroke.1;
+sub Itildebelow by Itildebelow.1;
+sub Igrave by Igrave.1;
+sub Iacute by Iacute.1;
+sub Icircumflex by Icircumflex.1;
+sub Itilde by Itilde.1;
+sub Imacron by Imacron.1;
+sub Ibreve by Ibreve.1;
+sub Iogonek by Iogonek.1;
+sub Idotaccent by Idotaccent.1;
+sub Icaron by Icaron.1;
+sub Idblgrave by Idblgrave.1;
+sub Iinvertedbreve by Iinvertedbreve.1;
+sub Ihookabove by Ihookabove.1;
+sub Idotbelow by Idotbelow.1;
+sub uni1F38 by uni1F38.1;
+sub uni1F39 by uni1F39.1;
+sub uni1F3A by uni1F3A.1;
+sub uni1F3B by uni1F3B.1;
+sub uni1F3C by uni1F3C.1;
+sub uni1F3D by uni1F3D.1;
+sub uni1F3E by uni1F3E.1;
+sub uni1F3F by uni1F3F.1;
+sub uni1FD8 by uni1FD8.1;
+sub uni1FD9 by uni1FD9.1;
+sub uni1FDA by uni1FDA.1;
+sub uni1FDB by uni1FDB.1;
+sub afii10055 by afii10055.1;
+sub afii10056 by afii10056.1;
+sub IJ by IJ.1;
+sub I.full by I.full.1;
+sub romaneight by romaneight.1;
+sub romaneleven by romaneleven.1;
+sub romanfour by romanfour.1;
+sub romannine by romannine.1;
+sub romanone by romanone.1;
+sub romanseven by romanseven.1;
+sub romansix by romansix.1;
+sub romanthree by romanthree.1;
+sub romantwelve by romantwelve.1;
+sub romantwo by romantwo.1;
+
+sub germandbls by germandbls.1;
+} LOOKUP_SS06_2;
+";
+name = LOOKUP_SS06;
+},
+{
+code = "lookup LOOKUP_SS08 {
+sub three by three.1;
+sub three.tf by three.1.tf;
+} LOOKUP_SS08;
+";
+name = LOOKUP_SS08;
+},
+{
+code = "lookup LOOKUP_SALT_1 {
+sub one by one.ss01;
+sub one.tf by one.tf.ss01;
+sub three by three.1;
+sub three.tf by three.1.tf;
+sub four by four.ss01;
+sub four.tf by four.tf.ss01;
+sub six by six.ss01;
+sub six.tf by six.tf.ss01;
+sub nine by nine.ss01;
+sub nine.tf by nine.tf.ss01;
+} LOOKUP_SALT_1;
+
+lookup LOOKUP_SALT_2 {
+sub a by a.1;
+sub aacute by aacute.1;
+sub abreve by abreve.1;
+sub abreveacute by abreveacute.1;
+sub abrevedotbelow by abrevedotbelow.1;
+sub abrevegrave by abrevegrave.1;
+sub abrevehookabove by abrevehookabove.1;
+sub abrevetilde by abrevetilde.1;
+sub acaron by acaron.1;
+sub acircumflex by acircumflex.1;
+sub acircumflexacute by acircumflexacute.1;
+sub acircumflexdotbelow by acircumflexdotbelow.1;
+sub acircumflexgrave by acircumflexgrave.1;
+sub acircumflexhookabove by acircumflexhookabove.1;
+sub acircumflextilde by acircumflextilde.1;
+sub adblgrave by adblgrave.1;
+sub adieresis by adieresis.1;
+sub adieresismacron by adieresismacron.1;
+sub uni0227 by uni0227.1;
+sub adotbelow by adotbelow.1;
+sub adotmacron by adotmacron.1;
+sub agrave by agrave.1;
+sub ahookabove by ahookabove.1;
+sub ainvertedbreve by ainvertedbreve.1;
+sub amacron by amacron.1;
+sub aogonek by aogonek.1;
+sub arighthalfring by arighthalfring.1;
+sub aring by aring.1;
+sub aringacute by aringacute.1;
+sub aringbelow by aringbelow.1;
+sub atilde by atilde.1;
+
+sub I by I.1;
+sub Idieresis by Idieresis.1;
+sub Idieresisacute by Idieresisacute.1;
+sub Istroke by Istroke.1;
+sub Itildebelow by Itildebelow.1;
+sub Igrave by Igrave.1;
+sub Iacute by Iacute.1;
+sub Icircumflex by Icircumflex.1;
+sub Itilde by Itilde.1;
+sub Imacron by Imacron.1;
+sub Ibreve by Ibreve.1;
+sub Iogonek by Iogonek.1;
+sub Idotaccent by Idotaccent.1;
+sub Icaron by Icaron.1;
+sub Idblgrave by Idblgrave.1;
+sub Iinvertedbreve by Iinvertedbreve.1;
+sub Ihookabove by Ihookabove.1;
+sub Idotbelow by Idotbelow.1;
+sub uni1F38 by uni1F38.1;
+sub uni1F39 by uni1F39.1;
+sub uni1F3A by uni1F3A.1;
+sub uni1F3B by uni1F3B.1;
+sub uni1F3C by uni1F3C.1;
+sub uni1F3D by uni1F3D.1;
+sub uni1F3E by uni1F3E.1;
+sub uni1F3F by uni1F3F.1;
+sub uni1FD8 by uni1FD8.1;
+sub uni1FD9 by uni1FD9.1;
+sub uni1FDA by uni1FDA.1;
+sub uni1FDB by uni1FDB.1;
+sub afii10055 by afii10055.1;
+sub afii10056 by afii10056.1;
+
+sub l by l.ss02;
+sub lslash by lslash.ss02;
+sub lbar by lbar.ss02;
+sub lmidtilde by lmidtilde.ss02;
+sub lbelt by lbelt.ss02;
+sub ldot by ldot.ss02;
+sub lacute by lacute.ss02;
+sub lcommaaccent by lcommaaccent.ss02;
+sub lcaron by lcaron.ss02;
+sub ldotbelow by ldotbelow.ss02;
+sub ldotbelowmacron by ldotbelowmacron.ss02;
+sub llinebelow by llinebelow.ss02;
+sub lcircumflexbelow by lcircumflexbelow.ss02;
+
+sub G by G.1;
+sub Gbar by Gbar.1;
+sub Ghook by Ghook.1;
+sub Gcircumflex by Gcircumflex.1;
+sub Gbreve by Gbreve.1;
+sub Gdotaccent by Gdotaccent.1;
+sub Gcommaaccent by Gcommaaccent.1;
+sub Gcaron by Gcaron.1;
+sub Gacute by Gacute.1;
+sub Gmacron by Gmacron.1;
+
+sub germandbls by germandbls.1;
+} LOOKUP_SALT_2;
+";
+name = LOOKUP_SALT;
+},
+{
+code = "lookup LOOKUP_ZERO {
+sub zero by zero.slash;
+sub zero.tf by zero.tf.slash;
+} LOOKUP_ZERO;
+";
+name = LOOKUP_ZERO;
+},
+{
+code = "lookup LOOKUP_CALT_1 {
+# Glyph class definitions
+
+@DASH = [
+  hyphen
+  endash
+  emdash
+];
+@DASH_CASE = [
+  hyphen.case
+  endash.case
+  emdash.case
+];
+@DASH_ANY = [ @DASH @DASH_CASE ];
+
+# cap-height tall glyphs
+@UC = [
+  @Uppercase
+  @Numeral
+  @CJK
+  @CASE_DELIM_RR
+  @Symbol
+
+  # punctuation
+  ampersand exclam exclamdbl exclamdown uni2049 question uni2047 uni2048
+  questiondown interrobang invertedinterrobang bar paragraph
+
+  # currency
+  dollar cent yen sterling florin uni20BA uni20BD euro uni20B9 tenge peseta
+  peso kip won lira austral hryvnia naira guarani coloncurrency cedi cruzeiro
+  tugrik uni20AF mill afii57636 manat rupee lari franc
+
+  # cap-tall symbols
+  numero triagrt triagdn triagup warningSign blackleftpointingtriangle
+  blackCircle whiteCircle
+  diamondblack diamondblack_x diamondwhite diamondwhite_x
+  sunWithRays blackSunWithRays
+  heartWhiteSuit heartBlackSuit
+  upBlackArrow upWhiteArrow
+  capslock placeofinterestsign control projective option alternativekeysymbol
+  brokenCircleNorthWestArrow anticlockwiseOpenCircleArrow
+  clockwiseOpenCircleArrow
+  deleteleft deleteright clear ejectsymbol
+
+  # percent and fractions
+  onehalf onethird onequarter threequarters fivesixths onefraction seveneighths
+  oneeighth fiveeighths threeeighths percent perthousand pertenthousand uni214D
+  cadauna careof accountof addresssubject
+];
+
+@CASE_NONDELIM_L = [
+  at
+  multiply
+  minus
+  plus
+  plusminus
+  divide
+  equal
+  notequal
+  endash
+  figuredash
+  emdash
+  hyphen
+  bullet
+  openbullet
+  hyphenbullet
+  trianglebullet
+  blackleftbullet
+  blackrightbullet
+  blackSmallSquare
+  leftArrow
+  leftLongArrow
+  leftLongArrow2
+  leftDoubleArrow
+  leftLongDoubleArrow
+  rightArrow
+  rightLongArrow
+  rightLongArrow2
+  rightDoubleArrow
+  rightLongDoubleArrow
+  leftRightArrow
+  leftRightLongArrow
+  leftRightDoubleArrow
+  leftRightLongDoubleArrow
+  leftChevron
+  rightChevron
+  colon
+  colon.tf
+  approxequal
+  asciitilde
+  less
+  greater
+  lessequal
+  greaterequal
+];
+@CASE_L = [
+  @CASE_NONDELIM_L
+];
+@CASE_NONDELIM_R = [
+  at.case
+  multiply.case
+  minus.case
+  plus.case
+  plusminus.case
+  divide.case
+  equal.case
+  notequal.case
+  endash.case
+  figuredash.case
+  emdash.case
+  hyphen.case
+  bullet.case
+  openbullet.case
+  hyphenbullet.case
+  trianglebullet.case
+  blackleftbullet.case
+  blackrightbullet.case
+  blackSmallSquare.case
+  leftArrow.case
+  leftLongArrow.case
+  leftLongArrow2.case
+  leftDoubleArrow.case
+  leftLongDoubleArrow.case
+  rightArrow.case
+  rightLongArrow.case
+  rightLongArrow2.case
+  rightDoubleArrow.case
+  rightLongDoubleArrow.case
+  leftRightArrow.case
+  leftRightLongArrow.case
+  leftRightDoubleArrow.case
+  leftRightLongDoubleArrow.case
+  leftChevron.case
+  rightChevron.case
+  colon.case
+  colon.tf.case
+  approxequal.case
+  asciitilde.case
+  less.case
+  greater.case
+  lessequal.case
+  greaterequal.case
+];
+@CASE_R = [
+  @CASE_NONDELIM_R
+];
+
+@Punctuation = [
+  slash bar quoteleft quoteright apostrophemod quotesingle quotedbl
+  quotedblleft quotedblright quotedblbase quotesinglbase prime doubleprime
+  tripleprime quadrupleprime primerev doubleprimerev tripleprimerev primemod
+  doubleprimemod comma period ellipsis onedotenleader twodotenleader semicolon underscore
+  asciicircum circumflex
+  asterisk
+];
+
+# x-height tall glyphs # CTUS move to here
+@LC = [
+  @Lowercase
+];
+
+@UC_NOHANGEUL = [
+  @Uppercase
+  @Numeral
+  @CASE_DELIM_RR
+  @LC
+  @Symbol
+
+  # punctuation
+  ampersand exclam exclamdbl exclamdown uni2049 question uni2047 uni2048
+  questiondown interrobang invertedinterrobang bar paragraph
+
+  # currency
+  dollar cent yen sterling florin uni20BA uni20BD euro uni20B9 tenge peseta
+  peso kip won lira austral hryvnia naira guarani coloncurrency cedi cruzeiro
+  tugrik uni20AF mill afii57636 manat rupee lari franc
+
+  # cap-tall symbols
+  numero triagrt triagdn triagup warningSign blackleftpointingtriangle
+  blackCircle whiteCircle
+  diamondblack diamondblack_x diamondwhite diamondwhite_x
+  sunWithRays blackSunWithRays
+  heartWhiteSuit heartBlackSuit
+  upBlackArrow upWhiteArrow
+  capslock placeofinterestsign control projective option alternativekeysymbol
+  brokenCircleNorthWestArrow anticlockwiseOpenCircleArrow
+  clockwiseOpenCircleArrow
+  deleteleft deleteright clear ejectsymbol
+
+  # percent and fractions
+  onehalf onethird onequarter threequarters fivesixths onefraction seveneighths
+  oneeighth fiveeighths threeeighths percent perthousand pertenthousand uni214D
+  cadauna careof accountof addresssubject
+];
+} LOOKUP_CALT_1;
+
+lookup LOOKUP_CALT_2_1 {
+# Arrow replacements
+
+# --->
+sub @DASH @DASH @DASH greater by rightLongArrow2;
+sub @DASH_ANY @DASH_ANY @DASH_ANY greater.case by rightLongArrow2.case;
+
+# -->
+sub @DASH @DASH greater by rightLongArrow;
+sub @DASH_ANY @DASH_ANY greater.case by rightLongArrow.case;
+
+# [endash emdash]-> (legacy)
+sub [endash emdash] greater by rightLongArrow;
+sub [endash emdash endash.case emdash.case] greater.case by rightLongArrow.case;
+
+# ->
+sub hyphen greater by rightArrow;
+sub [hyphen hyphen.case] greater.case by rightArrow.case;
+
+# <---
+sub less @DASH @DASH @DASH by leftLongArrow2;
+sub less.case @DASH_ANY @DASH_ANY @DASH_ANY by leftLongArrow2.case;
+
+# <--
+sub less @DASH @DASH by leftLongArrow;
+sub less.case @DASH_ANY @DASH_ANY by leftLongArrow.case;
+
+# <-[endash emdash] (legacy)
+sub less [endash emdash] by leftLongArrow;
+sub less.case [endash emdash endash.case emdash.case] by leftLongArrow.case;
+
+# <->
+sub less rightArrow by leftRightArrow; #  <,->
+sub [less less.case] rightArrow.case by leftRightArrow.case;
+sub leftArrow greater by leftRightArrow; # <-,-
+sub leftArrow.case [greater greater.case] by leftRightArrow.case;
+
+# <-->
+sub less rightLongArrow by leftRightLongArrow; # <,-->
+sub [less less.case] rightLongArrow.case by leftRightLongArrow.case;
+sub leftLongArrow greater by leftRightLongArrow; # <--,>
+sub leftLongArrow.case [greater greater.case] by leftRightLongArrow.case;
+
+# <=>
+sub less equal greater by leftRightDoubleArrow;
+sub less.case [equal equal.case] [greater greater.case] by leftRightDoubleArrow.case;
+sub less equal equal greater by leftRightLongDoubleArrow;
+sub less.case [equal equal.case] [equal equal.case] [greater greater.case] by leftRightLongDoubleArrow.case;
+
+# =>
+sub equal equal greater by rightLongDoubleArrow;
+sub [equal equal.case] [equal equal.case] greater.case by rightLongDoubleArrow.case;
+sub equal greater by rightDoubleArrow;
+sub [equal equal.case] greater.case by rightDoubleArrow.case;
+
+# <==
+sub less equal equal by leftLongDoubleArrow;
+sub less.case [equal equal.case] [equal equal.case] by leftLongDoubleArrow.case;
+# Note: We do NOT (sub less equal by leftDoubleArrow) as that would
+# interfere with \"<=\" (less than or equal to)
+} LOOKUP_CALT_2_1;
+
+lookup LOOKUP_CALT_2_2 {
+# Arrow replacements
+
+# ignore e.g. \"<-3\" (\"less than negative\")
+ignore sub [less less.case]' [hyphen hyphen.case]' @Numeral;
+
+# <-
+sub less' hyphen' by leftArrow;
+sub less.case' [hyphen hyphen.case]' by leftArrow.case;
+} LOOKUP_CALT_2_2;
+
+lookup LOOKUP_CALT_3 {
+# BEGIN smiley
+
+# :-)
+sub colon' [ @DASH_ANY minus minus.case ] [parenright parenright.case] by colon.case;
+sub [colon colon.case] hyphen' [parenright parenright.case] by hyphen.case;
+sub [colon colon.case] endash' [parenright parenright.case] by endash.case;
+sub [colon colon.case] emdash' [parenright parenright.case] by emdash.case;
+sub [colon colon.case] [ @DASH_ANY minus minus.case ] parenright' by parenright.case;
+
+# ignore :) :( (: ):
+ignore sub colon' @CASE_DELIM_LL;
+ignore sub @CASE_DELIM_LL colon';
+} LOOKUP_CALT_3;
+
+lookup LOOKUP_CALT_4 {
+# Case
+
+# ignore case for a
+# a-
+ignore sub @LC @CASE_L'; # a-
+ignore sub @LC @CASE_L @CASE_L'; # a--
+ignore sub @LC @CASE_L @CASE_L @CASE_L'; # a---
+
+# -a
+ignore sub @CASE_L' @LC; # -a
+ignore sub @CASE_L' @CASE_L @LC; # --a
+ignore sub @CASE_L' @CASE_L @CASE_L @LC; # ---a
+
+# 'A
+sub @Punctuation @CASE_L' @UC by @CASE_R;
+
+# A-, A -, A  -
+sub [ @UC @CASE_R ] @CASE_L' by @CASE_R;
+sub [ @UC @CASE_R ] @Whitespace @CASE_L' by @CASE_R;
+sub [ @UC @CASE_R ] @Whitespace @Whitespace @CASE_L' by @CASE_R;
+
+# -A, --A, ---A, ----A, -----A
+sub @CASE_L' [ @UC @CASE_R ] by @CASE_R;
+sub @CASE_L' @CASE_L [ @CASE_R @UC ] by @CASE_R;
+sub @CASE_L' @CASE_L @CASE_L [ @CASE_R @UC ] by @CASE_R;
+sub @CASE_L' @CASE_L @CASE_L @CASE_L [ @CASE_R @UC ] by @CASE_R;
+sub @CASE_L' @CASE_L @CASE_L @CASE_L @CASE_L [ @CASE_R @UC ] by @CASE_R;
+
+# - A, -- A, --- A, ---- A, ----- A
+sub @CASE_L' @Whitespace [ @UC @CASE_R ] by @CASE_R;
+sub @CASE_L' @CASE_L @Whitespace [ @CASE_R @UC ] by @CASE_R;
+sub @CASE_L' @CASE_L @CASE_L @Whitespace [ @CASE_R @UC ] by @CASE_R;
+sub @CASE_L' @CASE_L @CASE_L @CASE_L @Whitespace [ @CASE_R @UC ] by @CASE_R;
+sub @CASE_L' @CASE_L @CASE_L @CASE_L @CASE_L @Whitespace [ @CASE_R @UC ] by @CASE_R;
+
+# -  A, --  A, ---  A, ----  A, -----  A
+sub @CASE_L' @Whitespace @Whitespace [ @UC @CASE_R ] by @CASE_R;
+sub @CASE_L' @CASE_L @Whitespace @Whitespace [ @CASE_R @UC ] by @CASE_R;
+sub @CASE_L' @CASE_L @CASE_L @Whitespace @Whitespace [ @CASE_R @UC ] by @CASE_R;
+sub @CASE_L' @CASE_L @CASE_L @CASE_L @Whitespace @Whitespace [ @CASE_R @UC ] by @CASE_R;
+sub @CASE_L' @CASE_L @CASE_L @CASE_L @CASE_L @Whitespace @Whitespace [ @CASE_R @UC ] by @CASE_R;
+
+# in between number position adjustment, e.g. 3x4 -> 3×4
+@between_num_L = [
+  multiply
+  asterisk
+];
+@between_num_R = [
+  multiply.case
+  asterisk.case
+];
+sub @Numeral @between_num_L' @Numeral                                                 by @between_num_R; # 3*9
+sub @Numeral @Whitespace @between_num_L' @Numeral                                     by @between_num_R; # 3 *9
+sub @Numeral @Whitespace @Whitespace @between_num_L' @Numeral                         by @between_num_R; # 3  *9
+sub @Numeral @between_num_L' @Whitespace @Numeral                                     by @between_num_R; # 3* 9
+sub @Numeral @Whitespace @between_num_L' @Whitespace @Numeral                         by @between_num_R; # 3 * 9
+sub @Numeral @Whitespace @Whitespace @between_num_L' @Whitespace @Numeral             by @between_num_R; # 3  * 9
+sub @Numeral @between_num_L' @Whitespace @Whitespace @Numeral                         by @between_num_R; # 3*  9
+sub @Numeral @Whitespace @between_num_L' @Whitespace @Whitespace @Numeral             by @between_num_R; # 3 *  9
+sub @Numeral @Whitespace @Whitespace @between_num_L' @Whitespace @Whitespace @Numeral by @between_num_R; # 3  *  9
+} LOOKUP_CALT_4;
+
+lookup LOOKUP_CALT_5 {
+# Lowercase
+
+# a-, a -, a  -
+sub [ @LC @CASE_L ] @CASE_R' by @CASE_L;
+sub [ @LC @CASE_L ] @CASE_L @CASE_R' by @CASE_L;
+sub [ @LC @CASE_L ] @CASE_L @CASE_L @CASE_R' by @CASE_L;
+sub [ @LC @CASE_L ] @CASE_L @CASE_L @CASE_L @CASE_R' by @CASE_L;
+sub [ @LC @CASE_L ] @CASE_L @CASE_L @CASE_L @CASE_L @CASE_R' by @CASE_L;
+sub [ @LC @CASE_L ] @Whitespace @CASE_R' by @CASE_L;
+sub [ @LC @CASE_L ] @Whitespace @Whitespace @CASE_R' by @CASE_L;
+
+# -a, --a, ---a, ----a, -----a
+sub @CASE_R' [ @LC @CASE_L ] by @CASE_L;
+sub @CASE_R' @CASE_R [ @CASE_L @LC ] by @CASE_L;
+sub @CASE_R' @CASE_R @CASE_R [ @CASE_L @LC ] by @CASE_L;
+sub @CASE_R' @CASE_R @CASE_R @CASE_R [ @CASE_L @LC ] by @CASE_L;
+sub @CASE_R' @CASE_R @CASE_R @CASE_R @CASE_R [ @CASE_L @LC ] by @CASE_L;
+
+# - a, -- a, --- a, ---- a, ----- a
+sub @CASE_R' @Whitespace [ @LC @CASE_L ] by @CASE_L;
+sub @CASE_R' @CASE_R @Whitespace [ @CASE_L @LC ] by @CASE_L;
+sub @CASE_R' @CASE_R @CASE_R @Whitespace [ @CASE_L @LC ] by @CASE_L;
+sub @CASE_R' @CASE_R @CASE_R @CASE_R @Whitespace [ @CASE_L @LC ] by @CASE_L;
+sub @CASE_R' @CASE_R @CASE_R @CASE_R @CASE_R @Whitespace [ @CASE_L @LC ] by @CASE_L;
+
+# -  a, --  a, ---  a, ----  a, -----  a
+sub @CASE_R' @Whitespace @Whitespace [ @LC @CASE_L ] by @CASE_L;
+sub @CASE_R' @CASE_R @Whitespace @Whitespace [ @CASE_L @LC ] by @CASE_L;
+sub @CASE_R' @CASE_R @CASE_R @Whitespace @Whitespace [ @CASE_L @LC ] by @CASE_L;
+sub @CASE_R' @CASE_R @CASE_R @CASE_R @Whitespace @Whitespace [ @CASE_L @LC ] by @CASE_L;
+sub @CASE_R' @CASE_R @CASE_R @CASE_R @CASE_R @Whitespace @Whitespace [ @CASE_L @LC ] by @CASE_L;
+} LOOKUP_CALT_5;
+
+lookup LOOKUP_CALT_6 {
+# NxN
+
+# x surrounded by numbers, e.g. 3x4 -> 3×4
+sub @Numeral x' @Numeral                                                 by multiply.case; # 3x9
+sub @Numeral @Whitespace x' @Numeral                                     by multiply.case; # 3 x9
+sub @Numeral @Whitespace @Whitespace x' @Numeral                         by multiply.case; # 3  x9
+sub @Numeral x' @Whitespace @Numeral                                     by multiply.case; # 3x 9
+sub @Numeral @Whitespace x' @Whitespace @Numeral                         by multiply.case; # 3 x 9
+sub @Numeral @Whitespace @Whitespace x' @Whitespace @Numeral             by multiply.case; # 3  x 9
+sub @Numeral x' @Whitespace @Whitespace @Numeral                         by multiply.case; # 3x  9
+sub @Numeral @Whitespace x' @Whitespace @Whitespace @Numeral             by multiply.case; # 3 x  9
+sub @Numeral @Whitespace @Whitespace x' @Whitespace @Whitespace @Numeral by multiply.case; # 3  x  9
+} LOOKUP_CALT_6;
+
+lookup LOOKUP_CALT_7 {
+# CJK
+
+# <) to <>
+ignore sub @LOCL_HANG_L @LOCL_HANG_R';
+
+# (> to <>
+ignore sub @LOCL_HANG_L' @LOCL_HANG_R;
+
+# <?) to <?>
+ignore sub @LOCL_HANG_L @UC_NOHANGEUL @LOCL_HANG_R';
+# (?> to <?>
+ignore sub @LOCL_HANG_L' @UC_NOHANGEUL @LOCL_HANG_R;
+
+# H' H?' H??'
+sub @CJK @LOCL_HANG_R' by @LOCL_HANG_R_R;
+sub @CJK @All @LOCL_HANG_R' by @LOCL_HANG_R_R;
+sub @CJK @All @All @LOCL_HANG_R' by @LOCL_HANG_R_R;
+sub @CJK @All @All @All @LOCL_HANG_R' by @LOCL_HANG_R_R;
+
+# <H  <?H <??H
+sub @LOCL_HANG_L' @CJK by @LOCL_HANG_L_R;
+sub @LOCL_HANG_L' @All @CJK by @LOCL_HANG_L_R;
+sub @LOCL_HANG_L' @All @All @CJK by @LOCL_HANG_L_R;
+sub @LOCL_HANG_L' @All @All @All @CJK by @LOCL_HANG_L_R;
+
+# CJK
+} LOOKUP_CALT_7;
+
+lookup LOOKUP_CALT_8 {
+# Hangeul
+
+# replace spacehan among hangul
+sub @Hangeul space-han' @Hangeul by fillerCompa-ko;
+sub @Hangeul space-han' space-han @Hangeul by fillerCompa-ko;
+sub @Hangeul fillerCompa-ko space-han' @Hangeul by fillerCompa-ko;
+sub fillerCompa-ko space-han' fillerCompa-ko by fillerCompa-ko;
+sub @Hangeul space-han' @Whitespace by fillerCompa-ko;
+sub @Whitespace space-han' @Hangeul by fillerCompa-ko;
+} LOOKUP_CALT_8;
+";
+name = LOOKUP_CALT;
+},
+{
+code = "lookup LOOKUP_CV02 {
+sub four by four.ss01;
+sub four.tf by four.tf.ss01;
+} LOOKUP_CV02;
+";
+name = LOOKUP_CV02;
+},
+{
+code = "lookup LOOKUP_CV03 {
+sub six by six.ss01;
+sub six.tf by six.tf.ss01;
+} LOOKUP_CV03;
+";
+name = LOOKUP_CV03;
+},
+{
+code = "lookup LOOKUP_CV04 {
+sub nine by nine.ss01;
+sub nine.tf by nine.tf.ss01;
+} LOOKUP_CV04;
+";
+name = LOOKUP_CV04;
+},
+{
+code = "lookup LOOKUP_CV05 {
+sub l by l.ss02;
+sub lslash by lslash.ss02;
+sub lbar by lbar.ss02;
+sub lmidtilde by lmidtilde.ss02;
+sub lbelt by lbelt.ss02;
+sub ldot by ldot.ss02;
+sub lacute by lacute.ss02;
+sub lcommaaccent by lcommaaccent.ss02;
+sub lcaron by lcaron.ss02;
+sub ldotbelow by ldotbelow.ss02;
+sub ldotbelowmacron by ldotbelowmacron.ss02;
+sub llinebelow by llinebelow.ss02;
+sub lcircumflexbelow by lcircumflexbelow.ss02;
+} LOOKUP_CV05;
+";
+name = LOOKUP_CV05;
+},
+{
+code = "lookup LOOKUP_CV08 {
+sub I by I.1;
+sub Idieresis by Idieresis.1;
+sub Idieresisacute by Idieresisacute.1;
+sub Istroke by Istroke.1;
+sub Itildebelow by Itildebelow.1;
+sub Igrave by Igrave.1;
+sub Iacute by Iacute.1;
+sub Icircumflex by Icircumflex.1;
+sub Itilde by Itilde.1;
+sub Imacron by Imacron.1;
+sub Ibreve by Ibreve.1;
+sub Iogonek by Iogonek.1;
+sub Idotaccent by Idotaccent.1;
+sub Icaron by Icaron.1;
+sub Idblgrave by Idblgrave.1;
+sub Iinvertedbreve by Iinvertedbreve.1;
+sub Ihookabove by Ihookabove.1;
+sub Idotbelow by Idotbelow.1;
+sub uni1F38 by uni1F38.1;
+sub uni1F39 by uni1F39.1;
+sub uni1F3A by uni1F3A.1;
+sub uni1F3B by uni1F3B.1;
+sub uni1F3C by uni1F3C.1;
+sub uni1F3D by uni1F3D.1;
+sub uni1F3E by uni1F3E.1;
+sub uni1F3F by uni1F3F.1;
+sub uni1FD8 by uni1FD8.1;
+sub uni1FD9 by uni1FD9.1;
+sub uni1FDA by uni1FDA.1;
+sub uni1FDB by uni1FDB.1;
+sub afii10055 by afii10055.1;
+sub afii10056 by afii10056.1;
+sub IJ by IJ.1;
+sub I.full by I.full.1;
+sub romaneight by romaneight.1;
+sub romaneleven by romaneleven.1;
+sub romanfour by romanfour.1;
+sub romannine by romannine.1;
+sub romanone by romanone.1;
+sub romanseven by romanseven.1;
+sub romansix by romansix.1;
+sub romanthree by romanthree.1;
+sub romantwelve by romantwelve.1;
+sub romantwo by romantwo.1;
+} LOOKUP_CV08;
+";
+name = LOOKUP_CV08;
+},
+{
+code = "lookup LOOKUP_CV09 {
+sub three by three.1;
+sub three.tf by three.1.tf;
+} LOOKUP_CV09;
+";
+name = LOOKUP_CV09;
+},
+{
+code = "lookup LOOKUP_CV12 {
+sub ellipsis by ellipsis.hang;
+sub twodotenleader by twodotenleader.hang;
+sub onedotenleader by onedotenleader.hang;
+} LOOKUP_CV12;
+";
+name = LOOKUP_CV12;
+},
+{
+code = "lookup LOOKUP_CV13 {
+sub one by one.1;
+sub one.tf by one.1.tf;
+sub one.ss01 by one.1;
+sub one.tf.ss01 by one.1.tf;
+} LOOKUP_CV13;
+";
+name = LOOKUP_CV13;
+},
+{
+code = "lookup LOOKUP_FWID {
+sub space by space-han;
+sub A by A.full;
+sub B by B.full;
+sub C by C.full;
+sub D by D.full;
+sub E by E.full;
+sub F by F.full;
+sub G by G.full;
+sub H by H.full;
+sub I by I.full;
+sub J by J.full;
+sub K by K.full;
+sub L by L.full;
+sub M by M.full;
+sub N by N.full;
+sub O by O.full;
+sub P by P.full;
+sub Q by Q.full;
+sub R by R.full;
+sub S by S.full;
+sub T by T.full;
+sub U by U.full;
+sub V by V.full;
+sub W by W.full;
+sub X by X.full;
+sub Y by Y.full;
+sub Z by Z.full;
+sub a by a.full;
+sub b by b.full;
+sub c by c.full;
+sub d by d.full;
+sub e by e.full;
+sub f by f.full;
+sub g by g.full;
+sub h by h.full;
+sub i by i.full;
+sub j by j.full;
+sub k by k.full;
+sub l by l.full;
+sub m by m.full;
+sub n by n.full;
+sub o by o.full;
+sub p by p.full;
+sub q by q.full;
+sub r by r.full;
+sub s by s.full;
+sub t by t.full;
+sub u by u.full;
+sub v by v.full;
+sub w by w.full;
+sub x by x.full;
+sub y by y.full;
+sub z by z.full;
+sub zero by zero.full;
+sub one by one.full;
+sub two by two.full;
+sub three by three.full;
+sub four by four.full;
+sub five by five.full;
+sub six by six.full;
+sub seven by seven.full;
+sub eight by eight.full;
+sub nine by nine.full;
+sub ampersand by ampersand.full;
+sub asterisk by asterisk.full;
+sub at by at.full;
+sub backslash by backslash.full;
+sub colon by colon.full;
+sub comma by comma.full;
+sub exclam by exclam.full;
+sub periodcentered by periodcentered.full;
+sub numbersign by numbersign.full;
+sub percent by percent.full;
+sub period by period.full;
+sub question by question.full;
+sub quotedbl by quotedbl.full;
+sub quotesingle by quotesingle.full;
+sub semicolon by semicolon.full;
+sub slash by slash.full;
+sub underscore by underscore.full;
+sub emdash by emdash.full;
+sub horizontalbar by horizontalbar.full;
+sub hyphen by hyphen.full;
+sub whiteparenleft by whiteparenleft.full;
+sub whiteparenright by whiteparenright.full;
+sub braceleft by braceleft.full;
+sub braceright by braceright.full;
+sub bracketleft by bracketleft.full;
+sub bracketright by bracketright.full;
+sub anglebracketleft by anglebracketleft.full;
+sub anglebracketright by anglebracketright.full;
+sub blacklenticularbracketleft by blacklenticularbracketleft.full;
+sub blacklenticularbracketright by blacklenticularbracketright.full;
+sub cornerbracketleft by cornerbracketleft.full;
+sub cornerbracketright by cornerbracketright.full;
+sub dblanglebracketleft by dblanglebracketleft.full;
+sub dblanglebracketright by dblanglebracketright.full;
+sub tortoiseshellbracketleft by tortoiseshellbracketleft.full;
+sub tortoiseshellbracketright by tortoiseshellbracketright.full;
+sub whitecornerbracketleft by whitecornerbracketleft.full;
+sub whitecornerbracketright by whitecornerbracketright.full;
+sub whitelenticularbracketleft by whitelenticularbracketleft.full;
+sub whitelenticularbracketright by whitelenticularbracketright.full;
+sub whitesquarebracketleft by whitesquarebracketleft.full;
+sub whitesquarebracketright by whitesquarebracketright.full;
+sub whitetortoiseshellbracketleft by whitetortoiseshellbracketleft.full;
+sub whitetortoiseshellbracketright by whitetortoiseshellbracketright.full;
+sub parenleft by parenleft.full;
+sub parenright by parenright.full;
+sub quotedblleft by quotedblleft.full;
+sub quoteleft by quoteleft.full;
+sub quoteright by quoteright.full;
+sub asciicircum by asciicircum.full;
+sub grave by grave.full;
+sub cent by cent.full;
+sub dollar by dollar.full;
+sub austral by austral.full;
+sub bitcoin by bitcoin.full;
+sub cedi by cedi.full;
+sub cruzeiro by cruzeiro.full;
+sub currency by currency.full;
+sub dong by dong.full;
+sub euro by euro.full;
+sub franc by franc.full;
+sub guarani by guarani.full;
+sub hryvnia by hryvnia.full;
+sub kip by kip.full;
+sub lari by lari.full;
+sub lira by lira.full;
+sub manat by manat.full;
+sub mill by mill.full;
+sub naira by naira.full;
+sub peso by peso.full;
+sub tenge by tenge.full;
+sub tugrik by tugrik.full;
+sub sterling by sterling.full;
+sub won by won.full;
+sub yen by yen.full;
+sub asciitilde by asciitilde.full;
+sub bar by bar.full;
+sub equal by equal.full;
+sub muchgreater by muchgreater.full;
+sub muchless by muchless.full;
+sub minus by minus.full;
+sub multiply by multiply.full;
+sub divide by divide.full;
+sub greaterequal by greaterequal.full;
+sub lessequal by lessequal.full;
+sub plusminus by plusminus.full;
+sub greater by greater.full;
+sub less by less.full;
+sub plus by plus.full;
+sub coloncurrency by coloncurrency.full;
+} LOOKUP_FWID;
+";
+name = LOOKUP_FWID;
+},
+{
+code = "lookup LOOKUP_SS05_HAN {
+# Hanja localization
+sub @LOCL_JAN_R by @LOCL_JAN_L;
+} LOOKUP_SS05_HAN;
+";
+name = LOOKUP_SS05_HAN;
+},
+{
+code = "lookup LOOKUP_SS05_JP {
 # Hanja localization
 sub @LOCL_JAN_L by @LOCL_JAN_R;
-} LOOKUP_SS05_3_JP;
+} LOOKUP_SS05_JP;
 ";
 name = LOOKUP_SS05_JP;
 }
@@ -4905,19 +6169,11 @@ feature dnom;
 feature ordn;
 feature tnum;
 feature case;
-feature calt;
 feature pnum;
-feature zero;
 feature sups;
 feature subs;
-feature salt;
-feature ss01;
-feature ss02;
-feature ss03;
 feature ss05;
-feature ss06;
 feature ss07;
-feature ss08;
 feature ss10;
 feature ss11;
 feature ss12;
@@ -4926,17 +6182,9 @@ feature ss14;
 feature ss15;
 feature ss16;
 feature cv01;
-feature cv02;
-feature cv03;
-feature cv04;
-feature cv05;
 feature cv07;
-feature cv08;
-feature cv09;
 feature cv10;
 feature cv11;
-feature cv12;
-feature cv13;
 feature sinf;
 feature fwid;
 feature pwid;
@@ -5795,15 +7043,11 @@ lookup locl_latn_1 {
 	sub  L' periodcentered' L by Ldot;
 } locl_latn_1;
 
-# Begin replacement LOCL_JAN
-
 lookup locl_haniJAN {
 	script hani;
 	language JAN;
 	sub @LOCL_JAN_L by @LOCL_JAN_R;
 } locl_haniJAN;
-
-# End replacement LOCL_JAN
 ";
 tag = locl;
 },
@@ -6144,440 +7388,32 @@ sub trianglebullet by trianglebullet.case;
 tag = case;
 },
 {
-code = "# -------------------------------------------------------------------------------------
-# BEGIN glyph class definitions
-
-@DASH = [
-  hyphen
-  endash
-  emdash
-];
-@DASH_CASE = [
-  hyphen.case
-  endash.case
-  emdash.case
-];
-@DASH_ANY = [ @DASH @DASH_CASE ];
-
-# cap-height tall glyphs
-@UC = [
-  @Uppercase
-  @Numeral
-  @CJK
-  @CASE_DELIM_RR
-  @Symbol
-
-  # punctuation
-  ampersand exclam exclamdbl exclamdown uni2049 question uni2047 uni2048
-  questiondown interrobang invertedinterrobang bar paragraph
-
-  # currency
-  dollar cent yen sterling florin uni20BA uni20BD euro uni20B9 tenge peseta
-  peso kip won lira austral hryvnia naira guarani coloncurrency cedi cruzeiro
-  tugrik uni20AF mill afii57636 manat rupee lari franc
-
-  # cap-tall symbols
-  numero triagrt triagdn triagup warningSign blackleftpointingtriangle
-  blackCircle whiteCircle
-  diamondblack diamondblack_x diamondwhite diamondwhite_x
-  sunWithRays blackSunWithRays
-  heartWhiteSuit heartBlackSuit
-  upBlackArrow upWhiteArrow
-  capslock placeofinterestsign control projective option alternativekeysymbol
-  brokenCircleNorthWestArrow anticlockwiseOpenCircleArrow
-  clockwiseOpenCircleArrow
-  deleteleft deleteright clear ejectsymbol
-
-  # percent and fractions
-  onehalf onethird onequarter threequarters fivesixths onefraction seveneighths
-  oneeighth fiveeighths threeeighths percent perthousand pertenthousand uni214D
-  cadauna careof accountof addresssubject
-];
-
-@CASE_NONDELIM_L = [
-  at
-  multiply
-  minus
-  plus
-  plusminus
-  divide
-  equal
-  notequal
-  endash
-  figuredash
-  emdash
-  hyphen
-  bullet
-  openbullet
-  hyphenbullet
-  trianglebullet
-  blackleftbullet
-  blackrightbullet
-  blackSmallSquare
-  leftArrow
-  leftLongArrow
-  leftLongArrow2
-  leftDoubleArrow
-  leftLongDoubleArrow
-  rightArrow
-  rightLongArrow
-  rightLongArrow2
-  rightDoubleArrow
-  rightLongDoubleArrow
-  leftRightArrow
-  leftRightLongArrow
-  leftRightDoubleArrow
-  leftRightLongDoubleArrow
-  leftChevron
-  rightChevron
-  colon
-  colon.tf
-  approxequal
-  asciitilde
-  less
-  greater
-  lessequal
-  greaterequal
-];
-@CASE_L = [
-  @CASE_NONDELIM_L
-];
-@CASE_NONDELIM_R = [
-  at.case
-  multiply.case
-  minus.case
-  plus.case
-  plusminus.case
-  divide.case
-  equal.case
-  notequal.case
-  endash.case
-  figuredash.case
-  emdash.case
-  hyphen.case
-  bullet.case
-  openbullet.case
-  hyphenbullet.case
-  trianglebullet.case
-  blackleftbullet.case
-  blackrightbullet.case
-  blackSmallSquare.case
-  leftArrow.case
-  leftLongArrow.case
-  leftLongArrow2.case
-  leftDoubleArrow.case
-  leftLongDoubleArrow.case
-  rightArrow.case
-  rightLongArrow.case
-  rightLongArrow2.case
-  rightDoubleArrow.case
-  rightLongDoubleArrow.case
-  leftRightArrow.case
-  leftRightLongArrow.case
-  leftRightDoubleArrow.case
-  leftRightLongDoubleArrow.case
-  leftChevron.case
-  rightChevron.case
-  colon.case
-  colon.tf.case
-  approxequal.case
-  asciitilde.case
-  less.case
-  greater.case
-  lessequal.case
-  greaterequal.case
-];
-@CASE_R = [
-  @CASE_NONDELIM_R
-];
-
-@Punctuation = [
-  slash bar quoteleft quoteright apostrophemod quotesingle quotedbl
-  quotedblleft quotedblright quotedblbase quotesinglbase prime doubleprime
-  tripleprime quadrupleprime primerev doubleprimerev tripleprimerev primemod
-  doubleprimemod comma period ellipsis onedotenleader twodotenleader semicolon underscore
-  asciicircum circumflex
-  asterisk
-];
-
-# x-height tall glyphs # CTUS move to here
-@LC = [
-  @Lowercase
-];
-
-@UC_NOHANGEUL = [
-  @Uppercase
-  @Numeral
-  @CASE_DELIM_RR
-  @LC
-  @Symbol
-
-  # punctuation
-  ampersand exclam exclamdbl exclamdown uni2049 question uni2047 uni2048
-  questiondown interrobang invertedinterrobang bar paragraph
-
-  # currency
-  dollar cent yen sterling florin uni20BA uni20BD euro uni20B9 tenge peseta
-  peso kip won lira austral hryvnia naira guarani coloncurrency cedi cruzeiro
-  tugrik uni20AF mill afii57636 manat rupee lari franc
-
-  # cap-tall symbols
-  numero triagrt triagdn triagup warningSign blackleftpointingtriangle
-  blackCircle whiteCircle
-  diamondblack diamondblack_x diamondwhite diamondwhite_x
-  sunWithRays blackSunWithRays
-  heartWhiteSuit heartBlackSuit
-  upBlackArrow upWhiteArrow
-  capslock placeofinterestsign control projective option alternativekeysymbol
-  brokenCircleNorthWestArrow anticlockwiseOpenCircleArrow
-  clockwiseOpenCircleArrow
-  deleteleft deleteright clear ejectsymbol
-
-  # percent and fractions
-  onehalf onethird onequarter threequarters fivesixths onefraction seveneighths
-  oneeighth fiveeighths threeeighths percent perthousand pertenthousand uni214D
-  cadauna careof accountof addresssubject
-];
-
-# END glyph class definitions
-# -------------------------------------------------------------------------------------
-# BEGIN arrow replacements
-
-# --->
-sub @DASH @DASH @DASH greater by rightLongArrow2;
-sub @DASH_ANY @DASH_ANY @DASH_ANY greater.case by rightLongArrow2.case;
-
-# -->
-sub @DASH @DASH greater by rightLongArrow;
-sub @DASH_ANY @DASH_ANY greater.case by rightLongArrow.case;
-
-# [endash emdash]-> (legacy)
-sub [endash emdash] greater by rightLongArrow;
-sub [endash emdash endash.case emdash.case] greater.case by rightLongArrow.case;
-
-# ->
-sub hyphen greater by rightArrow;
-sub [hyphen hyphen.case] greater.case by rightArrow.case;
-
-# <---
-sub less @DASH @DASH @DASH by leftLongArrow2;
-sub less.case @DASH_ANY @DASH_ANY @DASH_ANY by leftLongArrow2.case;
-
-# <--
-sub less @DASH @DASH by leftLongArrow;
-sub less.case @DASH_ANY @DASH_ANY by leftLongArrow.case;
-
-# <-[endash emdash] (legacy)
-sub less [endash emdash] by leftLongArrow;
-sub less.case [endash emdash endash.case emdash.case] by leftLongArrow.case;
-
-# ignore e.g. \"<-3\" (\"less than negative\")
-ignore sub less' hyphen' @Numeral;
-ignore sub less.case' [hyphen hyphen.case]' @Numeral;
-
-# <-
-sub less' hyphen' by leftArrow;
-sub less.case' [hyphen hyphen.case]' by leftArrow.case;
-
-# <->
-sub less rightArrow by leftRightArrow; #  <,->
-sub [less less.case] rightArrow.case by leftRightArrow.case;
-sub leftArrow greater by leftRightArrow; # <-,-
-sub leftArrow.case [greater greater.case] by leftRightArrow.case;
-
-# <-->
-sub less rightLongArrow by leftRightLongArrow; # <,-->
-sub [less less.case] rightLongArrow.case by leftRightLongArrow.case;
-sub leftLongArrow greater by leftRightLongArrow; # <--,>
-sub leftLongArrow.case [greater greater.case] by leftRightLongArrow.case;
-
-# <=>
-sub less equal greater by leftRightDoubleArrow;
-sub less.case [equal equal.case] [greater greater.case] by leftRightDoubleArrow.case;
-sub less equal equal greater by leftRightLongDoubleArrow;
-sub less.case [equal equal.case] [equal equal.case] [greater greater.case] by leftRightLongDoubleArrow.case;
-
-# =>
-sub equal equal greater by rightLongDoubleArrow;
-sub [equal equal.case] [equal equal.case] greater.case by rightLongDoubleArrow.case;
-sub equal greater by rightDoubleArrow;
-sub [equal equal.case] greater.case by rightDoubleArrow.case;
-
-# <==
-sub less equal equal by leftLongDoubleArrow;
-sub less.case [equal equal.case] [equal equal.case] by leftLongDoubleArrow.case;
-# Note: We do NOT (sub less equal by leftDoubleArrow) as that would
-# interfere with \"<=\" (less than or equal to)
-
-# END arrow replacements
-# -------------------------------------------------------------------------------------
-# BEGIN smiley
-# :-)
-sub colon' [ @DASH_ANY minus minus.case ] [parenright parenright.case] by colon.case;
-sub [colon colon.case] hyphen' [parenright parenright.case] by hyphen.case;
-sub [colon colon.case] endash' [parenright parenright.case] by endash.case;
-sub [colon colon.case] emdash' [parenright parenright.case] by emdash.case;
-sub [colon colon.case] [ @DASH_ANY minus minus.case ] parenright' by parenright.case;
-
-# ignore :) :( (: ):
-ignore sub colon' @CASE_DELIM_LL;
-ignore sub @CASE_DELIM_LL colon';
-
-# END smiley
-# -------------------------------------------------------------------------------------
-# BEGIN case
-
-# ignore case for a
-# a-
-ignore sub @LC @CASE_L'; # a-
-ignore sub @LC @CASE_L @CASE_L'; # a--
-ignore sub @LC @CASE_L @CASE_L @CASE_L'; # a---
-
-# -a
-ignore sub @CASE_L' @LC; # -a
-ignore sub @CASE_L' @CASE_L @LC; # --a
-ignore sub @CASE_L' @CASE_L @CASE_L @LC; # ---a
-
-# 'A
-sub @Punctuation @CASE_L' @UC by @CASE_R;
-
-# A-, A -, A  -
-sub [ @UC @CASE_R ] @CASE_L' by @CASE_R;
-sub [ @UC @CASE_R ] @Whitespace @CASE_L' by @CASE_R;
-sub [ @UC @CASE_R ] @Whitespace @Whitespace @CASE_L' by @CASE_R;
-
-# -A, --A, ---A, ----A, -----A
-sub @CASE_L' [ @UC @CASE_R ] by @CASE_R;
-sub @CASE_L' @CASE_L [ @CASE_R @UC ] by @CASE_R;
-sub @CASE_L' @CASE_L @CASE_L [ @CASE_R @UC ] by @CASE_R;
-sub @CASE_L' @CASE_L @CASE_L @CASE_L [ @CASE_R @UC ] by @CASE_R;
-sub @CASE_L' @CASE_L @CASE_L @CASE_L @CASE_L [ @CASE_R @UC ] by @CASE_R;
-
-# - A, -- A, --- A, ---- A, ----- A
-sub @CASE_L' @Whitespace [ @UC @CASE_R ] by @CASE_R;
-sub @CASE_L' @CASE_L @Whitespace [ @CASE_R @UC ] by @CASE_R;
-sub @CASE_L' @CASE_L @CASE_L @Whitespace [ @CASE_R @UC ] by @CASE_R;
-sub @CASE_L' @CASE_L @CASE_L @CASE_L @Whitespace [ @CASE_R @UC ] by @CASE_R;
-sub @CASE_L' @CASE_L @CASE_L @CASE_L @CASE_L @Whitespace [ @CASE_R @UC ] by @CASE_R;
-
-# -  A, --  A, ---  A, ----  A, -----  A
-sub @CASE_L' @Whitespace @Whitespace [ @UC @CASE_R ] by @CASE_R;
-sub @CASE_L' @CASE_L @Whitespace @Whitespace [ @CASE_R @UC ] by @CASE_R;
-sub @CASE_L' @CASE_L @CASE_L @Whitespace @Whitespace [ @CASE_R @UC ] by @CASE_R;
-sub @CASE_L' @CASE_L @CASE_L @CASE_L @Whitespace @Whitespace [ @CASE_R @UC ] by @CASE_R;
-sub @CASE_L' @CASE_L @CASE_L @CASE_L @CASE_L @Whitespace @Whitespace [ @CASE_R @UC ] by @CASE_R;
-
-# in between number position adjustment, e.g. 3x4 -> 3×4
-@between_num_L = [
-  multiply
-  asterisk
-];
-@between_num_R = [
-  multiply.case
-  asterisk.case
-];
-sub @Numeral @between_num_L' @Numeral                                                 by @between_num_R; # 3*9
-sub @Numeral @Whitespace @between_num_L' @Numeral                                     by @between_num_R; # 3 *9
-sub @Numeral @Whitespace @Whitespace @between_num_L' @Numeral                         by @between_num_R; # 3  *9
-sub @Numeral @between_num_L' @Whitespace @Numeral                                     by @between_num_R; # 3* 9
-sub @Numeral @Whitespace @between_num_L' @Whitespace @Numeral                         by @between_num_R; # 3 * 9
-sub @Numeral @Whitespace @Whitespace @between_num_L' @Whitespace @Numeral             by @between_num_R; # 3  * 9
-sub @Numeral @between_num_L' @Whitespace @Whitespace @Numeral                         by @between_num_R; # 3*  9
-sub @Numeral @Whitespace @between_num_L' @Whitespace @Whitespace @Numeral             by @between_num_R; # 3 *  9
-sub @Numeral @Whitespace @Whitespace @between_num_L' @Whitespace @Whitespace @Numeral by @between_num_R; # 3  *  9
-
-# END case
-# -------------------------------------------------------------------------------------
-# BEGIN lowcase
-
-# a-, a -, a  -
-sub [ @LC @CASE_L ] @CASE_R' by @CASE_L;
-sub [ @LC @CASE_L ] @CASE_L @CASE_R' by @CASE_L;
-sub [ @LC @CASE_L ] @CASE_L @CASE_L @CASE_R' by @CASE_L;
-sub [ @LC @CASE_L ] @CASE_L @CASE_L @CASE_L @CASE_R' by @CASE_L;
-sub [ @LC @CASE_L ] @CASE_L @CASE_L @CASE_L @CASE_L @CASE_R' by @CASE_L;
-sub [ @LC @CASE_L ] @Whitespace @CASE_R' by @CASE_L;
-sub [ @LC @CASE_L ] @Whitespace @Whitespace @CASE_R' by @CASE_L;
-
-# -a, --a, ---a, ----a, -----a
-sub @CASE_R' [ @LC @CASE_L ] by @CASE_L;
-sub @CASE_R' @CASE_R [ @CASE_L @LC ] by @CASE_L;
-sub @CASE_R' @CASE_R @CASE_R [ @CASE_L @LC ] by @CASE_L;
-sub @CASE_R' @CASE_R @CASE_R @CASE_R [ @CASE_L @LC ] by @CASE_L;
-sub @CASE_R' @CASE_R @CASE_R @CASE_R @CASE_R [ @CASE_L @LC ] by @CASE_L;
-
-# - a, -- a, --- a, ---- a, ----- a
-sub @CASE_R' @Whitespace [ @LC @CASE_L ] by @CASE_L;
-sub @CASE_R' @CASE_R @Whitespace [ @CASE_L @LC ] by @CASE_L;
-sub @CASE_R' @CASE_R @CASE_R @Whitespace [ @CASE_L @LC ] by @CASE_L;
-sub @CASE_R' @CASE_R @CASE_R @CASE_R @Whitespace [ @CASE_L @LC ] by @CASE_L;
-sub @CASE_R' @CASE_R @CASE_R @CASE_R @CASE_R @Whitespace [ @CASE_L @LC ] by @CASE_L;
-
-# -  a, --  a, ---  a, ----  a, -----  a
-sub @CASE_R' @Whitespace @Whitespace [ @LC @CASE_L ] by @CASE_L;
-sub @CASE_R' @CASE_R @Whitespace @Whitespace [ @CASE_L @LC ] by @CASE_L;
-sub @CASE_R' @CASE_R @CASE_R @Whitespace @Whitespace [ @CASE_L @LC ] by @CASE_L;
-sub @CASE_R' @CASE_R @CASE_R @CASE_R @Whitespace @Whitespace [ @CASE_L @LC ] by @CASE_L;
-sub @CASE_R' @CASE_R @CASE_R @CASE_R @CASE_R @Whitespace @Whitespace [ @CASE_L @LC ] by @CASE_L;
-
-# END lowcase
-# -------------------------------------------------------------------------------------
-# BEGIN NxN
-
-# x surrounded by numbers, e.g. 3x4 -> 3×4
-sub @Numeral x' @Numeral                                                 by multiply.case; # 3x9
-sub @Numeral @Whitespace x' @Numeral                                     by multiply.case; # 3 x9
-sub @Numeral @Whitespace @Whitespace x' @Numeral                         by multiply.case; # 3  x9
-sub @Numeral x' @Whitespace @Numeral                                     by multiply.case; # 3x 9
-sub @Numeral @Whitespace x' @Whitespace @Numeral                         by multiply.case; # 3 x 9
-sub @Numeral @Whitespace @Whitespace x' @Whitespace @Numeral             by multiply.case; # 3  x 9
-sub @Numeral x' @Whitespace @Whitespace @Numeral                         by multiply.case; # 3x  9
-sub @Numeral @Whitespace x' @Whitespace @Whitespace @Numeral             by multiply.case; # 3 x  9
-sub @Numeral @Whitespace @Whitespace x' @Whitespace @Whitespace @Numeral by multiply.case; # 3  x  9
-
-# END NxN
-# -------------------------------------------------------------------------------------
-# BEGIN CJK
-
-# <) to <>
-ignore sub @LOCL_HANG_L @LOCL_HANG_R';
-
-# (> to <>
-ignore sub @LOCL_HANG_L' @LOCL_HANG_R;
-
-# <?) to <?>
-ignore sub @LOCL_HANG_L @UC_NOHANGEUL @LOCL_HANG_R';
-# (?> to <?>
-ignore sub @LOCL_HANG_L' @UC_NOHANGEUL @LOCL_HANG_R;
-
-# H' H?' H??'
-sub @CJK @LOCL_HANG_R' by @LOCL_HANG_R_R;
-sub @CJK @All @LOCL_HANG_R' by @LOCL_HANG_R_R;
-sub @CJK @All @All @LOCL_HANG_R' by @LOCL_HANG_R_R;
-sub @CJK @All @All @All @LOCL_HANG_R' by @LOCL_HANG_R_R;
-
-# <H  <?H <??H
-sub @LOCL_HANG_L' @CJK by @LOCL_HANG_L_R;
-sub @LOCL_HANG_L' @All @CJK by @LOCL_HANG_L_R;
-sub @LOCL_HANG_L' @All @All @CJK by @LOCL_HANG_L_R;
-sub @LOCL_HANG_L' @All @All @All @CJK by @LOCL_HANG_L_R;
-
-# END CJK
-# -------------------------------------------------------------------------------------
-# BEGIN Hangeul
-
-# replace spacehan among hangul
-sub @Hangeul space-han' @Hangeul by fillerCompa-ko;
-sub @Hangeul space-han' space-han @Hangeul by fillerCompa-ko;
-sub @Hangeul fillerCompa-ko space-han' @Hangeul by fillerCompa-ko;
-sub fillerCompa-ko space-han' fillerCompa-ko by fillerCompa-ko;
-sub @Hangeul space-han' @Whitespace by fillerCompa-ko;
-sub @Whitespace space-han' @Hangeul by fillerCompa-ko;
-
-# END Hangeul
-# -------------------------------------------------------------------------------------
+code = "lookup LOOKUP_CALT_1;
+lookup LOOKUP_CALT_2_1;
+lookup LOOKUP_CALT_2_2;
+lookup LOOKUP_CALT_3;
+lookup LOOKUP_CALT_4;
+lookup LOOKUP_CALT_5;
+lookup LOOKUP_CALT_6;
+lookup LOOKUP_CALT_7;
+lookup LOOKUP_CALT_8;
 ";
 tag = calt;
+},
+{
+code = "# Duplicated calt due to the web's inability to support Hangeul characters in calt
+
+lookup LOOKUP_CALT_1;
+lookup LOOKUP_CALT_2_1;
+lookup LOOKUP_CALT_2_2;
+lookup LOOKUP_CALT_3;
+lookup LOOKUP_CALT_4;
+lookup LOOKUP_CALT_5;
+lookup LOOKUP_CALT_6;
+lookup LOOKUP_CALT_7;
+lookup LOOKUP_CALT_8;
+";
+tag = clig;
 },
 {
 code = "# Discretionary Ligatures
@@ -6611,8 +7447,8 @@ sub semicolon.tf by semicolon;
 tag = pnum;
 },
 {
-code = "sub zero by zero.slash;
-sub zero.tf by zero.tf.slash;";
+code = "lookup LOOKUP_ZERO;
+";
 tag = zero;
 },
 {
@@ -6720,147 +7556,51 @@ sub [equal equal.case] by equal.subs;
 tag = subs;
 },
 {
-code = "sub one by one.ss01;
-sub one.tf by one.tf.ss01;
-sub three by three.1;
-sub three.tf by three.1.tf;
-sub four by four.ss01;
-sub four.tf by four.tf.ss01;
-sub six by six.ss01;
-sub six.tf by six.tf.ss01;
-sub nine by nine.ss01;
-sub nine.tf by nine.tf.ss01;
-
-sub a by a.1;
-sub aacute by aacute.1;
-sub abreve by abreve.1;
-sub abreveacute by abreveacute.1;
-sub abrevedotbelow by abrevedotbelow.1;
-sub abrevegrave by abrevegrave.1;
-sub abrevehookabove by abrevehookabove.1;
-sub abrevetilde by abrevetilde.1;
-sub acaron by acaron.1;
-sub acircumflex by acircumflex.1;
-sub acircumflexacute by acircumflexacute.1;
-sub acircumflexdotbelow by acircumflexdotbelow.1;
-sub acircumflexgrave by acircumflexgrave.1;
-sub acircumflexhookabove by acircumflexhookabove.1;
-sub acircumflextilde by acircumflextilde.1;
-sub adblgrave by adblgrave.1;
-sub adieresis by adieresis.1;
-sub adieresismacron by adieresismacron.1;
-sub uni0227 by uni0227.1;
-sub adotbelow by adotbelow.1;
-sub adotmacron by adotmacron.1;
-sub agrave by agrave.1;
-sub ahookabove by ahookabove.1;
-sub ainvertedbreve by ainvertedbreve.1;
-sub amacron by amacron.1;
-sub aogonek by aogonek.1;
-sub arighthalfring by arighthalfring.1;
-sub aring by aring.1;
-sub aringacute by aringacute.1;
-sub aringbelow by aringbelow.1;
-sub atilde by atilde.1;
-
-sub I by I.1;
-sub Idieresis by Idieresis.1;
-sub Idieresisacute by Idieresisacute.1;
-sub Istroke by Istroke.1;
-sub Itildebelow by Itildebelow.1;
-sub Igrave by Igrave.1;
-sub Iacute by Iacute.1;
-sub Icircumflex by Icircumflex.1;
-sub Itilde by Itilde.1;
-sub Imacron by Imacron.1;
-sub Ibreve by Ibreve.1;
-sub Iogonek by Iogonek.1;
-sub Idotaccent by Idotaccent.1;
-sub Icaron by Icaron.1;
-sub Idblgrave by Idblgrave.1;
-sub Iinvertedbreve by Iinvertedbreve.1;
-sub Ihookabove by Ihookabove.1;
-sub Idotbelow by Idotbelow.1;
-sub uni1F38 by uni1F38.1;
-sub uni1F39 by uni1F39.1;
-sub uni1F3A by uni1F3A.1;
-sub uni1F3B by uni1F3B.1;
-sub uni1F3C by uni1F3C.1;
-sub uni1F3D by uni1F3D.1;
-sub uni1F3E by uni1F3E.1;
-sub uni1F3F by uni1F3F.1;
-sub uni1FD8 by uni1FD8.1;
-sub uni1FD9 by uni1FD9.1;
-sub uni1FDA by uni1FDA.1;
-sub uni1FDB by uni1FDB.1;
-sub afii10055 by afii10055.1;
-sub afii10056 by afii10056.1;
-
-sub l by l.ss02;
-sub lslash by lslash.ss02;
-sub lbar by lbar.ss02;
-sub lmidtilde by lmidtilde.ss02;
-sub lbelt by lbelt.ss02;
-sub ldot by ldot.ss02;
-sub lacute by lacute.ss02;
-sub lcommaaccent by lcommaaccent.ss02;
-sub lcaron by lcaron.ss02;
-sub ldotbelow by ldotbelow.ss02;
-sub ldotbelowmacron by ldotbelowmacron.ss02;
-sub llinebelow by llinebelow.ss02;
-sub lcircumflexbelow by lcircumflexbelow.ss02;
-
-sub G by G.1;
-sub Gbar by Gbar.1;
-sub Ghook by Ghook.1;
-sub Gcircumflex by Gcircumflex.1;
-sub Gbreve by Gbreve.1;
-sub Gdotaccent by Gdotaccent.1;
-sub Gcommaaccent by Gcommaaccent.1;
-sub Gcaron by Gcaron.1;
-sub Gacute by Gacute.1;
-sub Gmacron by Gmacron.1;
-
-sub germandbls by germandbls.1;
+code = "lookup LOOKUP_SALT_1;
+lookup LOOKUP_SALT_2;
 ";
 tag = salt;
 },
 {
-code = "sub six by six.ss01;
-sub six.tf by six.tf.ss01;
-sub nine by nine.ss01;
-sub nine.tf by nine.tf.ss01;
+code = "featureNames {
+    name \"Straight-sided six and nine\";
+    name 3 1 0x409 \"Straight-sided six and nine\";
+    name 3 1 0x412 \"Straight-sided six and nine\";
+    name 1 0 0 \"Straight-sided six and nine\";
+    name 1 3 0x23 \"Straight-sided six and nine\";
+};
+
+lookup LOOKUP_SS01;
 ";
 labels = (
 {
 language = dflt;
-value = "Straight-sided six and nine";
-},
-{
-language = KOR;
-value = "Straight-sided six and nine";
+value = "";
 }
 );
 tag = ss01;
 },
 {
-code = "sub four by four.ss01;
-sub four.tf by four.tf.ss01;
+code = "featureNames {
+    name \"Open four\";
+    name 3 1 0x409 \"Open four\";
+    name 3 1 0x412 \"Open four\";
+    name 1 0 0 \"Open four\";
+    name 1 3 0x23 \"Open four\";
+};
+
+lookup LOOKUP_SS02;
 ";
 labels = (
 {
 language = dflt;
-value = "Open four";
-},
-{
-language = KOR;
-value = "Open four";
+value = "";
 }
 );
 tag = ss02;
 },
 {
-code = "sub colon by colon.case;
+code = "lookup LOOKUP_SS03;
 ";
 labels = (
 {
@@ -6875,101 +7615,32 @@ value = "Vertically centered colon";
 tag = ss03;
 },
 {
-code = "@NULL_SS05 = [];
+code = "featureNames {
+    name \"Korean localization\";
+    name 3 1 0x409 \"Korean localization\";
+    name 3 1 0x412 \"Korean localization\";
+    name 1 0 0 \"Korean localization\";
+    name 1 3 0x23 \"Korean localization\";
+};
+
+@NULL_SS05 = [];
 ignore sub @NULL_SS05';
 
 lookup LOOKUP_SS05_1;
 lookup LOOKUP_SS05_2;
-
-# Begin replacement SS05_JP
-lookup LOOKUP_SS05_3;
-# End replacement SS05_JP
+lookup LOOKUP_SS05_HAN;
 ";
 labels = (
 {
 language = dflt;
-value = "Korean localization";
-},
-{
-language = KOR;
-value = "Korean localization";
+value = "";
 }
 );
 tag = ss05;
 },
 {
-code = "# Numberical
-sub one by one.1;
-sub one.tf by one.1.tf;
-sub four by four.ss01;
-sub four.tf by four.tf.ss01;
-sub six by six.ss01;
-sub six.tf by six.tf.ss01;
-sub nine by nine.ss01;
-sub nine.tf by nine.tf.ss01;
-
-# l
-sub l by l.ss02;
-sub lslash by lslash.ss02;
-sub lbar by lbar.ss02;
-sub lmidtilde by lmidtilde.ss02;
-sub lbelt by lbelt.ss02;
-sub ldot by ldot.ss02;
-sub lacute by lacute.ss02;
-sub lcommaaccent by lcommaaccent.ss02;
-sub lcaron by lcaron.ss02;
-sub ldotbelow by ldotbelow.ss02;
-sub ldotbelowmacron by ldotbelowmacron.ss02;
-sub llinebelow by llinebelow.ss02;
-sub lcircumflexbelow by lcircumflexbelow.ss02;
-
-# I
-sub I by I.1;
-sub Idieresis by Idieresis.1;
-sub Idieresisacute by Idieresisacute.1;
-sub Istroke by Istroke.1;
-sub Itildebelow by Itildebelow.1;
-sub Igrave by Igrave.1;
-sub Iacute by Iacute.1;
-sub Icircumflex by Icircumflex.1;
-sub Itilde by Itilde.1;
-sub Imacron by Imacron.1;
-sub Ibreve by Ibreve.1;
-sub Iogonek by Iogonek.1;
-sub Idotaccent by Idotaccent.1;
-sub Icaron by Icaron.1;
-sub Idblgrave by Idblgrave.1;
-sub Iinvertedbreve by Iinvertedbreve.1;
-sub Ihookabove by Ihookabove.1;
-sub Idotbelow by Idotbelow.1;
-sub uni1F38 by uni1F38.1;
-sub uni1F39 by uni1F39.1;
-sub uni1F3A by uni1F3A.1;
-sub uni1F3B by uni1F3B.1;
-sub uni1F3C by uni1F3C.1;
-sub uni1F3D by uni1F3D.1;
-sub uni1F3E by uni1F3E.1;
-sub uni1F3F by uni1F3F.1;
-sub uni1FD8 by uni1FD8.1;
-sub uni1FD9 by uni1FD9.1;
-sub uni1FDA by uni1FDA.1;
-sub uni1FDB by uni1FDB.1;
-sub afii10055 by afii10055.1;
-sub afii10056 by afii10056.1;
-sub IJ by IJ.1;
-sub I.full by I.full.1;
-sub romaneight by romaneight.1;
-sub romaneleven by romaneleven.1;
-sub romanfour by romanfour.1;
-sub romannine by romannine.1;
-sub romanone by romanone.1;
-sub romanseven by romanseven.1;
-sub romansix by romansix.1;
-sub romanthree by romanthree.1;
-sub romantwelve by romantwelve.1;
-sub romantwo by romantwo.1;
-
-sub germandbls by germandbls.1;
+code = "lookup LOOKUP_SS06_1;
+lookup LOOKUP_SS06_2;
 ";
 labels = (
 {
@@ -7066,16 +7737,20 @@ value = "One storey a";
 tag = ss07;
 },
 {
-code = "sub three by three.1;
-sub three.tf by three.1.tf;";
+code = "featureNames {
+    name \"Flat-top three\";
+    name 3 1 0x409 \"Flat-top three\";
+    name 3 1 0x412 \"Flat-top three\";
+    name 1 0 0 \"Flat-top three\";
+    name 1 3 0x23 \"Flat-top three\";
+};
+
+lookup LOOKUP_SS08;
+";
 labels = (
 {
 language = dflt;
-value = "Flat-top three";
-},
-{
-language = KOR;
-value = "Flat-top three";
+value = "";
 }
 );
 tag = ss08;
@@ -7221,16 +7896,17 @@ value = "Large symbols";
 tag = ss16;
 },
 {
-code = "cvParameters { 
-	FeatUILabelNameID { 
+code = "cvParameters { FeatUILabelNameID { 
 	name \"Alternate one\";
     name 3 1 0x409 \"Alternate one\";
     name 3 1 0x412 \"Alternate one\";
     name 1 0 0 \"Alternate one\";
     name 1 3 0x23 \"Alternate one\";
 }; };
+
 sub one by one.ss01;
-sub one.tf by one.tf.ss01;";
+sub one.tf by one.tf.ss01;
+";
 tag = cv01;
 },
 {
@@ -7241,8 +7917,9 @@ code = "cvParameters { FeatUILabelNameID {
     name 1 0 0 \"Open four\";
     name 1 3 0x23 \"Open four\";
 }; };
-sub four by four.ss01;
-sub four.tf by four.tf.ss01;";
+
+lookup LOOKUP_CV02;
+";
 tag = cv02;
 },
 {
@@ -7253,8 +7930,9 @@ code = "cvParameters { FeatUILabelNameID {
     name 1 0 0 \"Open six\";
     name 1 3 0x23 \"Open six\";
 }; };
-sub six by six.ss01;
-sub six.tf by six.tf.ss01;";
+
+lookup LOOKUP_CV03;
+";
 tag = cv03;
 },
 {
@@ -7265,8 +7943,9 @@ code = "cvParameters { FeatUILabelNameID {
     name 1 0 0 \"Open nine\";
     name 1 3 0x23 \"Open nine\";
 }; };
-sub nine by nine.ss01;
-sub nine.tf by nine.tf.ss01;";
+
+lookup LOOKUP_CV04;
+";
 tag = cv04;
 },
 {
@@ -7277,19 +7956,8 @@ code = "cvParameters { FeatUILabelNameID {
     name 1 0 0 \"Lower-case L with tail\";
     name 1 3 0x23 \"Lower-case L with tail\";
 }; };
-sub l by l.ss02;
-sub lslash by lslash.ss02;
-sub lbar by lbar.ss02;
-sub lmidtilde by lmidtilde.ss02;
-sub lbelt by lbelt.ss02;
-sub ldot by ldot.ss02;
-sub lacute by lacute.ss02;
-sub lcommaaccent by lcommaaccent.ss02;
-sub lcaron by lcaron.ss02;
-sub ldotbelow by ldotbelow.ss02;
-sub ldotbelowmacron by ldotbelowmacron.ss02;
-sub llinebelow by llinebelow.ss02;
-sub lcircumflexbelow by lcircumflexbelow.ss02;
+
+lookup LOOKUP_CV05;
 ";
 tag = cv05;
 },
@@ -7301,6 +7969,7 @@ code = "cvParameters { FeatUILabelNameID {
     name 1 0 0 \"Alternate German double s\";
     name 1 3 0x23 \"Alternate German double s\";
 }; };
+
 sub germandbls by germandbls.1;
 ";
 tag = cv07;
@@ -7313,50 +7982,8 @@ code = "cvParameters { FeatUILabelNameID {
     name 1 0 0 \"Upper-case i with serif\";
     name 1 3 0x23 \"Upper-case i with serif\";
 }; };
-sub I by I.1;
-sub Idieresis by Idieresis.1;
-sub Idieresisacute by Idieresisacute.1;
-sub Istroke by Istroke.1;
-sub Itildebelow by Itildebelow.1;
-sub Igrave by Igrave.1;
-sub Iacute by Iacute.1;
-sub Icircumflex by Icircumflex.1;
-sub Itilde by Itilde.1;
-sub Imacron by Imacron.1;
-sub Ibreve by Ibreve.1;
-sub Iogonek by Iogonek.1;
-sub Idotaccent by Idotaccent.1;
-sub Icaron by Icaron.1;
-sub Idblgrave by Idblgrave.1;
-sub Iinvertedbreve by Iinvertedbreve.1;
-sub Ihookabove by Ihookabove.1;
-sub Idotbelow by Idotbelow.1;
-sub uni1F38 by uni1F38.1;
-sub uni1F39 by uni1F39.1;
-sub uni1F3A by uni1F3A.1;
-sub uni1F3B by uni1F3B.1;
-sub uni1F3C by uni1F3C.1;
-sub uni1F3D by uni1F3D.1;
-sub uni1F3E by uni1F3E.1;
-sub uni1F3F by uni1F3F.1;
-sub uni1FD8 by uni1FD8.1;
-sub uni1FD9 by uni1FD9.1;
-sub uni1FDA by uni1FDA.1;
-sub uni1FDB by uni1FDB.1;
-sub afii10055 by afii10055.1;
-sub afii10056 by afii10056.1;
-sub IJ by IJ.1;
-sub I.full by I.full.1;
-sub romaneight by romaneight.1;
-sub romaneleven by romaneleven.1;
-sub romanfour by romanfour.1;
-sub romannine by romannine.1;
-sub romanone by romanone.1;
-sub romanseven by romanseven.1;
-sub romansix by romansix.1;
-sub romanthree by romanthree.1;
-sub romantwelve by romantwelve.1;
-sub romantwo by romantwo.1;
+
+lookup LOOKUP_CV08;
 ";
 tag = cv08;
 },
@@ -7368,8 +7995,9 @@ code = "cvParameters { FeatUILabelNameID {
     name 1 0 0 \"Flat-top three\";
     name 1 3 0x23 \"Flat-top three\";
 }; };
-sub three by three.1;
-sub three.tf by three.1.tf;";
+
+lookup LOOKUP_CV09;
+";
 tag = cv09;
 },
 {
@@ -7380,6 +8008,7 @@ code = "cvParameters { FeatUILabelNameID {
     name 1 0 0 \"Captital G with spur\";
     name 1 3 0x23 \"Captital G with spur\";
 }; };
+
 sub G by G.1;
 sub Gbar by Gbar.1;
 sub Ghook by Ghook.1;
@@ -7401,6 +8030,7 @@ code = "cvParameters { FeatUILabelNameID {
     name 1 0 0 \"Single-storey a\";
     name 1 3 0x23 \"Single-storey a\";
 }; };
+
 sub a by a.1;
 sub aacute by aacute.1;
 sub abreve by abreve.1;
@@ -7445,25 +8075,20 @@ code = "cvParameters { FeatUILabelNameID {
     name 1 3 0x23 \"Vertically centered ellipsis\";
 }; };
 
-sub ellipsis by ellipsis.hang;
-sub twodotenleader by twodotenleader.hang;
-sub onedotenleader by onedotenleader.hang;
+lookup LOOKUP_CV12;
 ";
 tag = cv12;
 },
 {
-code = "cvParameters { 
-	FeatUILabelNameID { 
+code = "cvParameters { FeatUILabelNameID { 
 	name \"High legibility one\";
     name 3 1 0x409 \"High legibility one\";
     name 3 1 0x412 \"High legibility one\";
     name 1 0 0 \"High legibility one\";
     name 1 3 0x23 \"High legibility one\";
 }; };
-sub one by one.1;
-sub one.tf by one.1.tf;
-sub one.ss01 by one.1;
-sub one.tf.ss01 by one.1.tf;
+
+lookup LOOKUP_CV13;
 ";
 tag = cv13;
 },
@@ -7516,319 +8141,12 @@ sub bracketright by bracketright.subs;
 tag = sinf;
 },
 {
-code = "sub space by space-han;
-sub A by A.full;
-sub B by B.full;
-sub C by C.full;
-sub D by D.full;
-sub E by E.full;
-sub F by F.full;
-sub G by G.full;
-sub H by H.full;
-sub I by I.full;
-sub J by J.full;
-sub K by K.full;
-sub L by L.full;
-sub M by M.full;
-sub N by N.full;
-sub O by O.full;
-sub P by P.full;
-sub Q by Q.full;
-sub R by R.full;
-sub S by S.full;
-sub T by T.full;
-sub U by U.full;
-sub V by V.full;
-sub W by W.full;
-sub X by X.full;
-sub Y by Y.full;
-sub Z by Z.full;
-sub a by a.full;
-sub b by b.full;
-sub c by c.full;
-sub d by d.full;
-sub e by e.full;
-sub f by f.full;
-sub g by g.full;
-sub h by h.full;
-sub i by i.full;
-sub j by j.full;
-sub k by k.full;
-sub l by l.full;
-sub m by m.full;
-sub n by n.full;
-sub o by o.full;
-sub p by p.full;
-sub q by q.full;
-sub r by r.full;
-sub s by s.full;
-sub t by t.full;
-sub u by u.full;
-sub v by v.full;
-sub w by w.full;
-sub x by x.full;
-sub y by y.full;
-sub z by z.full;
-sub zero by zero.full;
-sub one by one.full;
-sub two by two.full;
-sub three by three.full;
-sub four by four.full;
-sub five by five.full;
-sub six by six.full;
-sub seven by seven.full;
-sub eight by eight.full;
-sub nine by nine.full;
-sub ampersand by ampersand.full;
-sub asterisk by asterisk.full;
-sub at by at.full;
-sub backslash by backslash.full;
-sub colon by colon.full;
-sub comma by comma.full;
-sub exclam by exclam.full;
-sub periodcentered by periodcentered.full;
-sub numbersign by numbersign.full;
-sub percent by percent.full;
-sub period by period.full;
-sub question by question.full;
-sub quotedbl by quotedbl.full;
-sub quotesingle by quotesingle.full;
-sub semicolon by semicolon.full;
-sub slash by slash.full;
-sub underscore by underscore.full;
-sub emdash by emdash.full;
-sub horizontalbar by horizontalbar.full;
-sub hyphen by hyphen.full;
-sub whiteparenleft by whiteparenleft.full;
-sub whiteparenright by whiteparenright.full;
-sub braceleft by braceleft.full;
-sub braceright by braceright.full;
-sub bracketleft by bracketleft.full;
-sub bracketright by bracketright.full;
-sub anglebracketleft by anglebracketleft.full;
-sub anglebracketright by anglebracketright.full;
-sub blacklenticularbracketleft by blacklenticularbracketleft.full;
-sub blacklenticularbracketright by blacklenticularbracketright.full;
-sub cornerbracketleft by cornerbracketleft.full;
-sub cornerbracketright by cornerbracketright.full;
-sub dblanglebracketleft by dblanglebracketleft.full;
-sub dblanglebracketright by dblanglebracketright.full;
-sub tortoiseshellbracketleft by tortoiseshellbracketleft.full;
-sub tortoiseshellbracketright by tortoiseshellbracketright.full;
-sub whitecornerbracketleft by whitecornerbracketleft.full;
-sub whitecornerbracketright by whitecornerbracketright.full;
-sub whitelenticularbracketleft by whitelenticularbracketleft.full;
-sub whitelenticularbracketright by whitelenticularbracketright.full;
-sub whitesquarebracketleft by whitesquarebracketleft.full;
-sub whitesquarebracketright by whitesquarebracketright.full;
-sub whitetortoiseshellbracketleft by whitetortoiseshellbracketleft.full;
-sub whitetortoiseshellbracketright by whitetortoiseshellbracketright.full;
-sub parenleft by parenleft.full;
-sub parenright by parenright.full;
-sub quotedblleft by quotedblleft.full;
-sub quoteleft by quoteleft.full;
-sub quoteright by quoteright.full;
-sub asciicircum by asciicircum.full;
-sub grave by grave.full;
-sub cent by cent.full;
-sub dollar by dollar.full;
-sub austral by austral.full;
-sub bitcoin by bitcoin.full;
-sub cedi by cedi.full;
-sub cruzeiro by cruzeiro.full;
-sub currency by currency.full;
-sub dong by dong.full;
-sub euro by euro.full;
-sub franc by franc.full;
-sub guarani by guarani.full;
-sub hryvnia by hryvnia.full;
-sub kip by kip.full;
-sub lari by lari.full;
-sub lira by lira.full;
-sub manat by manat.full;
-sub mill by mill.full;
-sub naira by naira.full;
-sub peso by peso.full;
-sub tenge by tenge.full;
-sub tugrik by tugrik.full;
-sub sterling by sterling.full;
-sub won by won.full;
-sub yen by yen.full;
-sub asciitilde by asciitilde.full;
-sub bar by bar.full;
-sub equal by equal.full;
-sub muchgreater by muchgreater.full;
-sub muchless by muchless.full;
-sub minus by minus.full;
-sub multiply by multiply.full;
-sub divide by divide.full;
-sub greaterequal by greaterequal.full;
-sub lessequal by lessequal.full;
-sub plusminus by plusminus.full;
-sub greater by greater.full;
-sub less by less.full;
-sub plus by plus.full;
-sub coloncurrency by coloncurrency.full;
-sub I.1 by I.full.1;
+code = "sub @FWID_L by @FWID_R;
 ";
 tag = fwid;
 },
 {
-code = "sub space-han by space;
-sub A.full by A;
-sub B.full by B;
-sub C.full by C;
-sub D.full by D;
-sub E.full by E;
-sub F.full by F;
-sub G.full by G;
-sub H.full by H;
-sub I.full by I;
-sub J.full by J;
-sub K.full by K;
-sub L.full by L;
-sub M.full by M;
-sub N.full by N;
-sub O.full by O;
-sub P.full by P;
-sub Q.full by Q;
-sub R.full by R;
-sub S.full by S;
-sub T.full by T;
-sub U.full by U;
-sub V.full by V;
-sub W.full by W;
-sub X.full by X;
-sub Y.full by Y;
-sub Z.full by Z;
-sub a.full by a;
-sub b.full by b;
-sub c.full by c;
-sub d.full by d;
-sub e.full by e;
-sub f.full by f;
-sub g.full by g;
-sub h.full by h;
-sub i.full by i;
-sub j.full by j;
-sub k.full by k;
-sub l.full by l;
-sub m.full by m;
-sub n.full by n;
-sub o.full by o;
-sub p.full by p;
-sub q.full by q;
-sub r.full by r;
-sub s.full by s;
-sub t.full by t;
-sub u.full by u;
-sub v.full by v;
-sub w.full by w;
-sub x.full by x;
-sub y.full by y;
-sub z.full by z;
-sub zero.full by zero;
-sub one.full by one;
-sub two.full by two;
-sub three.full by three;
-sub four.full by four;
-sub five.full by five;
-sub six.full by six;
-sub seven.full by seven;
-sub eight.full by eight;
-sub nine.full by nine;
-sub ampersand.full by ampersand;
-sub asterisk.full by asterisk;
-sub at.full by at;
-sub backslash.full by backslash;
-sub colon.full by colon;
-sub comma.full by comma;
-sub exclam.full by exclam;
-sub periodcentered.full by periodcentered;
-sub numbersign.full by numbersign;
-sub percent.full by percent;
-sub period.full by period;
-sub question.full by question;
-sub quotedbl.full by quotedbl;
-sub quotesingle.full by quotesingle;
-sub semicolon.full by semicolon;
-sub slash.full by slash;
-sub underscore.full by underscore;
-sub emdash.full by emdash;
-sub horizontalbar.full by horizontalbar;
-sub hyphen.full by hyphen;
-sub whiteparenleft.full by whiteparenleft;
-sub whiteparenright.full by whiteparenright;
-sub braceleft.full by braceleft;
-sub braceright.full by braceright;
-sub bracketleft.full by bracketleft;
-sub bracketright.full by bracketright;
-sub anglebracketleft.full by anglebracketleft;
-sub anglebracketright.full by anglebracketright;
-sub blacklenticularbracketleft.full by blacklenticularbracketleft;
-sub blacklenticularbracketright.full by blacklenticularbracketright;
-sub cornerbracketleft.full by cornerbracketleft;
-sub cornerbracketright.full by cornerbracketright;
-sub dblanglebracketleft.full by dblanglebracketleft;
-sub dblanglebracketright.full by dblanglebracketright;
-sub tortoiseshellbracketleft.full by tortoiseshellbracketleft;
-sub tortoiseshellbracketright.full by tortoiseshellbracketright;
-sub whitecornerbracketleft.full by whitecornerbracketleft;
-sub whitecornerbracketright.full by whitecornerbracketright;
-sub whitelenticularbracketleft.full by whitelenticularbracketleft;
-sub whitelenticularbracketright.full by whitelenticularbracketright;
-sub whitesquarebracketleft.full by whitesquarebracketleft;
-sub whitesquarebracketright.full by whitesquarebracketright;
-sub whitetortoiseshellbracketleft.full by whitetortoiseshellbracketleft;
-sub whitetortoiseshellbracketright.full by whitetortoiseshellbracketright;
-sub parenleft.full by parenleft;
-sub parenright.full by parenright;
-sub quotedblleft.full by quotedblleft;
-sub quotedoubleprime by quotedblright;
-sub quoteleft.full by quoteleft;
-sub quoteright.full by quoteright;
-sub asciicircum.full by asciicircum;
-sub grave.full by grave;
-sub cent.full by cent;
-sub dollar.full by dollar;
-sub austral.full by austral;
-sub bitcoin.full by bitcoin;
-sub cedi.full by cedi;
-sub cruzeiro.full by cruzeiro;
-sub currency.full by currency;
-sub dong.full by dong;
-sub euro.full by euro;
-sub franc.full by franc;
-sub guarani.full by guarani;
-sub hryvnia.full by hryvnia;
-sub kip.full by kip;
-sub lari.full by lari;
-sub lira.full by lira;
-sub manat.full by manat;
-sub mill.full by mill;
-sub naira.full by naira;
-sub peso.full by peso;
-sub tenge.full by tenge;
-sub tugrik.full by tugrik;
-sub sterling.full by sterling;
-sub won.full by won;
-sub yen.full by yen;
-sub asciitilde.full by asciitilde;
-sub bar.full by bar;
-sub muchgreater.full by muchgreater;
-sub muchless.full by muchless;
-sub equal.full by equal;
-sub minus.full by minus;
-sub multiply.full by multiply;
-sub divide.full by divide;
-sub greaterequal.full by greaterequal;
-sub lessequal.full by lessequal;
-sub plusminus.full by plusminus;
-sub greater.full by greater;
-sub less.full by less;
-sub plus.full by plus;
-sub coloncurrency.full by coloncurrency;
-sub I.full.1 by I.1;
+code = "sub @FWID_R by @FWID_L;
 ";
 tag = pwid;
 },
@@ -8998,11 +9316,11 @@ guilsinglright.hang
 },
 {
 name = "Replace Feature";
-value = "locl;# Paste feature locl\012\012lookup locl_latn_0 {\012	script latn;\012	language ROM;\012	sub Scedilla by Scommaaccent;\012	sub scedilla by scommaaccent;\012	sub tcedilla by tcommaaccent;\012	language MOL;\012	sub Scedilla by Scommaaccent;\012	sub scedilla by scommaaccent;\012	sub tcedilla by tcommaaccent;\012} locl_latn_0;\012\012lookup locl_latn_1 {\012	script latn;\012	language CAT;\012	sub  l' periodcentered' l by ldot;\012	sub  L' periodcentered' L by Ldot;\012} locl_latn_1;\012\012# Begin replacement LOCL_JAN\012# End replacement LOCL_JAN\012\012lookup locl_haniKOR {\012	script hani;\012	language KOR;\012	sub @LOCL_JAN_L by @LOCL_JAN_R;\012} locl_haniKOR;\012";
+value = "locl;lookup locl_latn_0 {\012	script latn;\012	language ROM;\012	sub Scedilla by Scommaaccent;\012	sub scedilla by scommaaccent;\012	sub tcedilla by tcommaaccent;\012	language MOL;\012	sub Scedilla by Scommaaccent;\012	sub scedilla by scommaaccent;\012	sub tcedilla by tcommaaccent;\012} locl_latn_0;\012\012lookup locl_latn_1 {\012	script latn;\012	language CAT;\012	sub  l' periodcentered' l by ldot;\012	sub  L' periodcentered' L by Ldot;\012} locl_latn_1;\012\012# Replace locl_haniJAN\012lookup locl_haniKOR {\012	script hani;\012	language KOR;\012	sub @LOCL_JAN_L by @LOCL_JAN_R;\012} locl_haniKOR;\012";
 },
 {
 name = "Replace Feature";
-value = "ss05;# Paste feature ss05\012\012@NULL_SS05 = [];\012ignore sub @NULL_SS05';\012\012lookup LOOKUP_SS05_1;\012lookup LOOKUP_SS05_2;\012\012# Begin replacement SS05_JP\012lookup LOOKUP_SS05_3_JP;\012# End replacement SS05_JP\012";
+value = "ss05;featureNames {\012    name \"Korean localization\";\012    name 3 1 0x409 \"Korean localization\";\012    name 3 1 0x412 \"Korean localization\";\012    name 1 0 0 \"Korean localization\";\012    name 1 3 0x23 \"Korean localization\";\012};\012\012@NULL_SS05 = [];\012ignore sub @NULL_SS05';\012\012lookup LOOKUP_SS05_1;\012lookup LOOKUP_SS05_2;\012\012# Replace LOOKUP_SS05_HAN\012lookup LOOKUP_SS05_JP;\012";
 },
 {
 name = "Replace Prefix";
@@ -9678,11 +9996,11 @@ guilsinglright.hang
 },
 {
 name = "Replace Feature";
-value = "locl;# Paste feature locl\012\012lookup locl_latn_0 {\012	script latn;\012	language ROM;\012	sub Scedilla by Scommaaccent;\012	sub scedilla by scommaaccent;\012	sub tcedilla by tcommaaccent;\012	language MOL;\012	sub Scedilla by Scommaaccent;\012	sub scedilla by scommaaccent;\012	sub tcedilla by tcommaaccent;\012} locl_latn_0;\012\012lookup locl_latn_1 {\012	script latn;\012	language CAT;\012	sub  l' periodcentered' l by ldot;\012	sub  L' periodcentered' L by Ldot;\012} locl_latn_1;\012\012# Begin replacement LOCL_JAN\012# End replacement LOCL_JAN\012\012lookup locl_haniKOR {\012	script hani;\012	language KOR;\012	sub @LOCL_JAN_L by @LOCL_JAN_R;\012} locl_haniKOR;\012";
+value = "locl;lookup locl_latn_0 {\012	script latn;\012	language ROM;\012	sub Scedilla by Scommaaccent;\012	sub scedilla by scommaaccent;\012	sub tcedilla by tcommaaccent;\012	language MOL;\012	sub Scedilla by Scommaaccent;\012	sub scedilla by scommaaccent;\012	sub tcedilla by tcommaaccent;\012} locl_latn_0;\012\012lookup locl_latn_1 {\012	script latn;\012	language CAT;\012	sub  l' periodcentered' l by ldot;\012	sub  L' periodcentered' L by Ldot;\012} locl_latn_1;\012\012# Replace locl_haniJAN\012lookup locl_haniKOR {\012	script hani;\012	language KOR;\012	sub @LOCL_JAN_L by @LOCL_JAN_R;\012} locl_haniKOR;\012";
 },
 {
 name = "Replace Feature";
-value = "ss05;# Paste feature ss05\012\012@NULL_SS05 = [];\012ignore sub @NULL_SS05';\012\012lookup LOOKUP_SS05_1;\012lookup LOOKUP_SS05_2;\012\012# Begin replacement SS05_JP\012lookup LOOKUP_SS05_3_JP;\012# End replacement SS05_JP\012";
+value = "ss05;featureNames {\012    name \"Korean localization\";\012    name 3 1 0x409 \"Korean localization\";\012    name 3 1 0x412 \"Korean localization\";\012    name 1 0 0 \"Korean localization\";\012    name 1 3 0x23 \"Korean localization\";\012};\012\012@NULL_SS05 = [];\012ignore sub @NULL_SS05';\012\012lookup LOOKUP_SS05_1;\012lookup LOOKUP_SS05_2;\012\012# Replace LOOKUP_SS05_HAN\012lookup LOOKUP_SS05_JP;\012";
 },
 {
 name = "Replace Prefix";
@@ -10358,11 +10676,11 @@ guilsinglright.hang
 },
 {
 name = "Replace Feature";
-value = "locl;# Paste feature locl\012\012lookup locl_latn_0 {\012	script latn;\012	language ROM;\012	sub Scedilla by Scommaaccent;\012	sub scedilla by scommaaccent;\012	sub tcedilla by tcommaaccent;\012	language MOL;\012	sub Scedilla by Scommaaccent;\012	sub scedilla by scommaaccent;\012	sub tcedilla by tcommaaccent;\012} locl_latn_0;\012\012lookup locl_latn_1 {\012	script latn;\012	language CAT;\012	sub  l' periodcentered' l by ldot;\012	sub  L' periodcentered' L by Ldot;\012} locl_latn_1;\012\012# Begin replacement LOCL_JAN\012# End replacement LOCL_JAN\012\012lookup locl_haniKOR {\012	script hani;\012	language KOR;\012	sub @LOCL_JAN_L by @LOCL_JAN_R;\012} locl_haniKOR;\012";
+value = "locl;lookup locl_latn_0 {\012	script latn;\012	language ROM;\012	sub Scedilla by Scommaaccent;\012	sub scedilla by scommaaccent;\012	sub tcedilla by tcommaaccent;\012	language MOL;\012	sub Scedilla by Scommaaccent;\012	sub scedilla by scommaaccent;\012	sub tcedilla by tcommaaccent;\012} locl_latn_0;\012\012lookup locl_latn_1 {\012	script latn;\012	language CAT;\012	sub  l' periodcentered' l by ldot;\012	sub  L' periodcentered' L by Ldot;\012} locl_latn_1;\012\012# Replace locl_haniJAN\012lookup locl_haniKOR {\012	script hani;\012	language KOR;\012	sub @LOCL_JAN_L by @LOCL_JAN_R;\012} locl_haniKOR;\012";
 },
 {
 name = "Replace Feature";
-value = "ss05;# Paste feature ss05\012\012@NULL_SS05 = [];\012ignore sub @NULL_SS05';\012\012lookup LOOKUP_SS05_1;\012lookup LOOKUP_SS05_2;\012\012# Begin replacement SS05_JP\012lookup LOOKUP_SS05_3_JP;\012# End replacement SS05_JP\012";
+value = "ss05;featureNames {\012    name \"Korean localization\";\012    name 3 1 0x409 \"Korean localization\";\012    name 3 1 0x412 \"Korean localization\";\012    name 1 0 0 \"Korean localization\";\012    name 1 3 0x23 \"Korean localization\";\012};\012\012@NULL_SS05 = [];\012ignore sub @NULL_SS05';\012\012lookup LOOKUP_SS05_1;\012lookup LOOKUP_SS05_2;\012\012# Replace LOOKUP_SS05_HAN\012lookup LOOKUP_SS05_JP;\012";
 },
 {
 name = "Replace Prefix";
@@ -11038,11 +11356,11 @@ guilsinglright.hang
 },
 {
 name = "Replace Feature";
-value = "locl;# Paste feature locl\012\012lookup locl_latn_0 {\012	script latn;\012	language ROM;\012	sub Scedilla by Scommaaccent;\012	sub scedilla by scommaaccent;\012	sub tcedilla by tcommaaccent;\012	language MOL;\012	sub Scedilla by Scommaaccent;\012	sub scedilla by scommaaccent;\012	sub tcedilla by tcommaaccent;\012} locl_latn_0;\012\012lookup locl_latn_1 {\012	script latn;\012	language CAT;\012	sub  l' periodcentered' l by ldot;\012	sub  L' periodcentered' L by Ldot;\012} locl_latn_1;\012\012# Begin replacement LOCL_JAN\012# End replacement LOCL_JAN\012\012lookup locl_haniKOR {\012	script hani;\012	language KOR;\012	sub @LOCL_JAN_L by @LOCL_JAN_R;\012} locl_haniKOR;\012";
+value = "locl;lookup locl_latn_0 {\012	script latn;\012	language ROM;\012	sub Scedilla by Scommaaccent;\012	sub scedilla by scommaaccent;\012	sub tcedilla by tcommaaccent;\012	language MOL;\012	sub Scedilla by Scommaaccent;\012	sub scedilla by scommaaccent;\012	sub tcedilla by tcommaaccent;\012} locl_latn_0;\012\012lookup locl_latn_1 {\012	script latn;\012	language CAT;\012	sub  l' periodcentered' l by ldot;\012	sub  L' periodcentered' L by Ldot;\012} locl_latn_1;\012\012# Replace locl_haniJAN\012lookup locl_haniKOR {\012	script hani;\012	language KOR;\012	sub @LOCL_JAN_L by @LOCL_JAN_R;\012} locl_haniKOR;\012";
 },
 {
 name = "Replace Feature";
-value = "ss05;# Paste feature ss05\012\012@NULL_SS05 = [];\012ignore sub @NULL_SS05';\012\012lookup LOOKUP_SS05_1;\012lookup LOOKUP_SS05_2;\012\012# Begin replacement SS05_JP\012lookup LOOKUP_SS05_3_JP;\012# End replacement SS05_JP\012";
+value = "ss05;featureNames {\012    name \"Korean localization\";\012    name 3 1 0x409 \"Korean localization\";\012    name 3 1 0x412 \"Korean localization\";\012    name 1 0 0 \"Korean localization\";\012    name 1 3 0x23 \"Korean localization\";\012};\012\012@NULL_SS05 = [];\012ignore sub @NULL_SS05';\012\012lookup LOOKUP_SS05_1;\012lookup LOOKUP_SS05_2;\012\012# Replace LOOKUP_SS05_HAN\012lookup LOOKUP_SS05_JP;\012";
 },
 {
 name = "Replace Prefix";
@@ -11716,11 +12034,11 @@ guilsinglright.hang
 },
 {
 name = "Replace Feature";
-value = "locl;# Paste feature locl\012\012lookup locl_latn_0 {\012	script latn;\012	language ROM;\012	sub Scedilla by Scommaaccent;\012	sub scedilla by scommaaccent;\012	sub tcedilla by tcommaaccent;\012	language MOL;\012	sub Scedilla by Scommaaccent;\012	sub scedilla by scommaaccent;\012	sub tcedilla by tcommaaccent;\012} locl_latn_0;\012\012lookup locl_latn_1 {\012	script latn;\012	language CAT;\012	sub  l' periodcentered' l by ldot;\012	sub  L' periodcentered' L by Ldot;\012} locl_latn_1;\012\012# Begin replacement LOCL_JAN\012# End replacement LOCL_JAN\012\012lookup locl_haniKOR {\012	script hani;\012	language KOR;\012	sub @LOCL_JAN_L by @LOCL_JAN_R;\012} locl_haniKOR;\012";
+value = "locl;lookup locl_latn_0 {\012	script latn;\012	language ROM;\012	sub Scedilla by Scommaaccent;\012	sub scedilla by scommaaccent;\012	sub tcedilla by tcommaaccent;\012	language MOL;\012	sub Scedilla by Scommaaccent;\012	sub scedilla by scommaaccent;\012	sub tcedilla by tcommaaccent;\012} locl_latn_0;\012\012lookup locl_latn_1 {\012	script latn;\012	language CAT;\012	sub  l' periodcentered' l by ldot;\012	sub  L' periodcentered' L by Ldot;\012} locl_latn_1;\012\012# Replace locl_haniJAN\012lookup locl_haniKOR {\012	script hani;\012	language KOR;\012	sub @LOCL_JAN_L by @LOCL_JAN_R;\012} locl_haniKOR;\012";
 },
 {
 name = "Replace Feature";
-value = "ss05;# Paste feature ss05\012\012@NULL_SS05 = [];\012ignore sub @NULL_SS05';\012\012lookup LOOKUP_SS05_1;\012lookup LOOKUP_SS05_2;\012\012# Begin replacement SS05_JP\012lookup LOOKUP_SS05_3_JP;\012# End replacement SS05_JP\012";
+value = "ss05;featureNames {\012    name \"Korean localization\";\012    name 3 1 0x409 \"Korean localization\";\012    name 3 1 0x412 \"Korean localization\";\012    name 1 0 0 \"Korean localization\";\012    name 1 3 0x23 \"Korean localization\";\012};\012\012@NULL_SS05 = [];\012ignore sub @NULL_SS05';\012\012lookup LOOKUP_SS05_1;\012lookup LOOKUP_SS05_2;\012\012# Replace LOOKUP_SS05_HAN\012lookup LOOKUP_SS05_JP;\012";
 },
 {
 name = "Replace Prefix";
@@ -12396,11 +12714,11 @@ guilsinglright.hang
 },
 {
 name = "Replace Feature";
-value = "locl;# Paste feature locl\012\012lookup locl_latn_0 {\012	script latn;\012	language ROM;\012	sub Scedilla by Scommaaccent;\012	sub scedilla by scommaaccent;\012	sub tcedilla by tcommaaccent;\012	language MOL;\012	sub Scedilla by Scommaaccent;\012	sub scedilla by scommaaccent;\012	sub tcedilla by tcommaaccent;\012} locl_latn_0;\012\012lookup locl_latn_1 {\012	script latn;\012	language CAT;\012	sub  l' periodcentered' l by ldot;\012	sub  L' periodcentered' L by Ldot;\012} locl_latn_1;\012\012# Begin replacement LOCL_JAN\012# End replacement LOCL_JAN\012\012lookup locl_haniKOR {\012	script hani;\012	language KOR;\012	sub @LOCL_JAN_L by @LOCL_JAN_R;\012} locl_haniKOR;\012";
+value = "locl;lookup locl_latn_0 {\012	script latn;\012	language ROM;\012	sub Scedilla by Scommaaccent;\012	sub scedilla by scommaaccent;\012	sub tcedilla by tcommaaccent;\012	language MOL;\012	sub Scedilla by Scommaaccent;\012	sub scedilla by scommaaccent;\012	sub tcedilla by tcommaaccent;\012} locl_latn_0;\012\012lookup locl_latn_1 {\012	script latn;\012	language CAT;\012	sub  l' periodcentered' l by ldot;\012	sub  L' periodcentered' L by Ldot;\012} locl_latn_1;\012\012# Replace locl_haniJAN\012lookup locl_haniKOR {\012	script hani;\012	language KOR;\012	sub @LOCL_JAN_L by @LOCL_JAN_R;\012} locl_haniKOR;\012";
 },
 {
 name = "Replace Feature";
-value = "ss05;# Paste feature ss05\012\012@NULL_SS05 = [];\012ignore sub @NULL_SS05';\012\012lookup LOOKUP_SS05_1;\012lookup LOOKUP_SS05_2;\012\012# Begin replacement SS05_JP\012lookup LOOKUP_SS05_3_JP;\012# End replacement SS05_JP\012";
+value = "ss05;featureNames {\012    name \"Korean localization\";\012    name 3 1 0x409 \"Korean localization\";\012    name 3 1 0x412 \"Korean localization\";\012    name 1 0 0 \"Korean localization\";\012    name 1 3 0x23 \"Korean localization\";\012};\012\012@NULL_SS05 = [];\012ignore sub @NULL_SS05';\012\012lookup LOOKUP_SS05_1;\012lookup LOOKUP_SS05_2;\012\012# Replace LOOKUP_SS05_HAN\012lookup LOOKUP_SS05_JP;\012";
 },
 {
 name = "Replace Prefix";
@@ -13076,11 +13394,11 @@ guilsinglright.hang
 },
 {
 name = "Replace Feature";
-value = "locl;# Paste feature locl\012\012lookup locl_latn_0 {\012	script latn;\012	language ROM;\012	sub Scedilla by Scommaaccent;\012	sub scedilla by scommaaccent;\012	sub tcedilla by tcommaaccent;\012	language MOL;\012	sub Scedilla by Scommaaccent;\012	sub scedilla by scommaaccent;\012	sub tcedilla by tcommaaccent;\012} locl_latn_0;\012\012lookup locl_latn_1 {\012	script latn;\012	language CAT;\012	sub  l' periodcentered' l by ldot;\012	sub  L' periodcentered' L by Ldot;\012} locl_latn_1;\012\012# Begin replacement LOCL_JAN\012# End replacement LOCL_JAN\012\012lookup locl_haniKOR {\012	script hani;\012	language KOR;\012	sub @LOCL_JAN_L by @LOCL_JAN_R;\012} locl_haniKOR;\012";
+value = "locl;lookup locl_latn_0 {\012	script latn;\012	language ROM;\012	sub Scedilla by Scommaaccent;\012	sub scedilla by scommaaccent;\012	sub tcedilla by tcommaaccent;\012	language MOL;\012	sub Scedilla by Scommaaccent;\012	sub scedilla by scommaaccent;\012	sub tcedilla by tcommaaccent;\012} locl_latn_0;\012\012lookup locl_latn_1 {\012	script latn;\012	language CAT;\012	sub  l' periodcentered' l by ldot;\012	sub  L' periodcentered' L by Ldot;\012} locl_latn_1;\012\012# Replace locl_haniJAN\012lookup locl_haniKOR {\012	script hani;\012	language KOR;\012	sub @LOCL_JAN_L by @LOCL_JAN_R;\012} locl_haniKOR;\012";
 },
 {
 name = "Replace Feature";
-value = "ss05;# Paste feature ss05\012\012@NULL_SS05 = [];\012ignore sub @NULL_SS05';\012\012lookup LOOKUP_SS05_1;\012lookup LOOKUP_SS05_2;\012\012# Begin replacement SS05_JP\012lookup LOOKUP_SS05_3_JP;\012# End replacement SS05_JP\012";
+value = "ss05;featureNames {\012    name \"Korean localization\";\012    name 3 1 0x409 \"Korean localization\";\012    name 3 1 0x412 \"Korean localization\";\012    name 1 0 0 \"Korean localization\";\012    name 1 3 0x23 \"Korean localization\";\012};\012\012@NULL_SS05 = [];\012ignore sub @NULL_SS05';\012\012lookup LOOKUP_SS05_1;\012lookup LOOKUP_SS05_2;\012\012# Replace LOOKUP_SS05_HAN\012lookup LOOKUP_SS05_JP;\012";
 },
 {
 name = "Replace Prefix";
@@ -13757,11 +14075,11 @@ guilsinglright.hang
 },
 {
 name = "Replace Feature";
-value = "locl;# Paste feature locl\012\012lookup locl_latn_0 {\012	script latn;\012	language ROM;\012	sub Scedilla by Scommaaccent;\012	sub scedilla by scommaaccent;\012	sub tcedilla by tcommaaccent;\012	language MOL;\012	sub Scedilla by Scommaaccent;\012	sub scedilla by scommaaccent;\012	sub tcedilla by tcommaaccent;\012} locl_latn_0;\012\012lookup locl_latn_1 {\012	script latn;\012	language CAT;\012	sub  l' periodcentered' l by ldot;\012	sub  L' periodcentered' L by Ldot;\012} locl_latn_1;\012\012# Begin replacement LOCL_JAN\012# End replacement LOCL_JAN\012\012lookup locl_haniKOR {\012	script hani;\012	language KOR;\012	sub @LOCL_JAN_L by @LOCL_JAN_R;\012} locl_haniKOR;\012";
+value = "locl;lookup locl_latn_0 {\012	script latn;\012	language ROM;\012	sub Scedilla by Scommaaccent;\012	sub scedilla by scommaaccent;\012	sub tcedilla by tcommaaccent;\012	language MOL;\012	sub Scedilla by Scommaaccent;\012	sub scedilla by scommaaccent;\012	sub tcedilla by tcommaaccent;\012} locl_latn_0;\012\012lookup locl_latn_1 {\012	script latn;\012	language CAT;\012	sub  l' periodcentered' l by ldot;\012	sub  L' periodcentered' L by Ldot;\012} locl_latn_1;\012\012# Replace locl_haniJAN\012lookup locl_haniKOR {\012	script hani;\012	language KOR;\012	sub @LOCL_JAN_L by @LOCL_JAN_R;\012} locl_haniKOR;\012";
 },
 {
 name = "Replace Feature";
-value = "ss05;# Paste feature ss05\012\012@NULL_SS05 = [];\012ignore sub @NULL_SS05';\012\012lookup LOOKUP_SS05_1;\012lookup LOOKUP_SS05_2;\012\012# Begin replacement SS05_JP\012lookup LOOKUP_SS05_3_JP;\012# End replacement SS05_JP\012";
+value = "ss05;featureNames {\012    name \"Korean localization\";\012    name 3 1 0x409 \"Korean localization\";\012    name 3 1 0x412 \"Korean localization\";\012    name 1 0 0 \"Korean localization\";\012    name 1 3 0x23 \"Korean localization\";\012};\012\012@NULL_SS05 = [];\012ignore sub @NULL_SS05';\012\012lookup LOOKUP_SS05_1;\012lookup LOOKUP_SS05_2;\012\012# Replace LOOKUP_SS05_HAN\012lookup LOOKUP_SS05_JP;\012";
 },
 {
 name = "Replace Prefix";
@@ -14437,11 +14755,11 @@ guilsinglright.hang
 },
 {
 name = "Replace Feature";
-value = "locl;# Paste feature locl\012\012lookup locl_latn_0 {\012	script latn;\012	language ROM;\012	sub Scedilla by Scommaaccent;\012	sub scedilla by scommaaccent;\012	sub tcedilla by tcommaaccent;\012	language MOL;\012	sub Scedilla by Scommaaccent;\012	sub scedilla by scommaaccent;\012	sub tcedilla by tcommaaccent;\012} locl_latn_0;\012\012lookup locl_latn_1 {\012	script latn;\012	language CAT;\012	sub  l' periodcentered' l by ldot;\012	sub  L' periodcentered' L by Ldot;\012} locl_latn_1;\012\012# Begin replacement LOCL_JAN\012# End replacement LOCL_JAN\012\012lookup locl_haniKOR {\012	script hani;\012	language KOR;\012	sub @LOCL_JAN_L by @LOCL_JAN_R;\012} locl_haniKOR;\012";
+value = "locl;lookup locl_latn_0 {\012	script latn;\012	language ROM;\012	sub Scedilla by Scommaaccent;\012	sub scedilla by scommaaccent;\012	sub tcedilla by tcommaaccent;\012	language MOL;\012	sub Scedilla by Scommaaccent;\012	sub scedilla by scommaaccent;\012	sub tcedilla by tcommaaccent;\012} locl_latn_0;\012\012lookup locl_latn_1 {\012	script latn;\012	language CAT;\012	sub  l' periodcentered' l by ldot;\012	sub  L' periodcentered' L by Ldot;\012} locl_latn_1;\012\012# Replace locl_haniJAN\012lookup locl_haniKOR {\012	script hani;\012	language KOR;\012	sub @LOCL_JAN_L by @LOCL_JAN_R;\012} locl_haniKOR;\012";
 },
 {
 name = "Replace Feature";
-value = "ss05;# Paste feature ss05\012\012@NULL_SS05 = [];\012ignore sub @NULL_SS05';\012\012lookup LOOKUP_SS05_1;\012lookup LOOKUP_SS05_2;\012\012# Begin replacement SS05_JP\012lookup LOOKUP_SS05_3_JP;\012# End replacement SS05_JP\012";
+value = "ss05;featureNames {\012    name \"Korean localization\";\012    name 3 1 0x409 \"Korean localization\";\012    name 3 1 0x412 \"Korean localization\";\012    name 1 0 0 \"Korean localization\";\012    name 1 3 0x23 \"Korean localization\";\012};\012\012@NULL_SS05 = [];\012ignore sub @NULL_SS05';\012\012lookup LOOKUP_SS05_1;\012lookup LOOKUP_SS05_2;\012\012# Replace LOOKUP_SS05_HAN\012lookup LOOKUP_SS05_JP;\012";
 },
 {
 name = "Replace Prefix";
@@ -15121,11 +15439,11 @@ guilsinglright.hang
 },
 {
 name = "Replace Feature";
-value = "locl;# Paste feature locl\012\012lookup locl_latn_0 {\012	script latn;\012	language ROM;\012	sub Scedilla by Scommaaccent;\012	sub scedilla by scommaaccent;\012	sub tcedilla by tcommaaccent;\012	language MOL;\012	sub Scedilla by Scommaaccent;\012	sub scedilla by scommaaccent;\012	sub tcedilla by tcommaaccent;\012} locl_latn_0;\012\012lookup locl_latn_1 {\012	script latn;\012	language CAT;\012	sub  l' periodcentered' l by ldot;\012	sub  L' periodcentered' L by Ldot;\012} locl_latn_1;\012\012# Begin replacement LOCL_JAN\012# End replacement LOCL_JAN\012\012lookup locl_haniKOR {\012	script hani;\012	language KOR;\012	sub @LOCL_JAN_L by @LOCL_JAN_R;\012} locl_haniKOR;\012";
+value = "locl;lookup locl_latn_0 {\012	script latn;\012	language ROM;\012	sub Scedilla by Scommaaccent;\012	sub scedilla by scommaaccent;\012	sub tcedilla by tcommaaccent;\012	language MOL;\012	sub Scedilla by Scommaaccent;\012	sub scedilla by scommaaccent;\012	sub tcedilla by tcommaaccent;\012} locl_latn_0;\012\012lookup locl_latn_1 {\012	script latn;\012	language CAT;\012	sub  l' periodcentered' l by ldot;\012	sub  L' periodcentered' L by Ldot;\012} locl_latn_1;\012\012# Replace locl_haniJAN\012lookup locl_haniKOR {\012	script hani;\012	language KOR;\012	sub @LOCL_JAN_L by @LOCL_JAN_R;\012} locl_haniKOR;\012";
 },
 {
 name = "Replace Feature";
-value = "ss05;# Paste feature ss05\012\012@NULL_SS05 = [];\012ignore sub @NULL_SS05';\012\012lookup LOOKUP_SS05_1;\012lookup LOOKUP_SS05_2;\012\012# Begin replacement SS05_JP\012lookup LOOKUP_SS05_3_JP;\012# End replacement SS05_JP\012";
+value = "ss05;featureNames {\012    name \"Korean localization\";\012    name 3 1 0x409 \"Korean localization\";\012    name 3 1 0x412 \"Korean localization\";\012    name 1 0 0 \"Korean localization\";\012    name 1 3 0x23 \"Korean localization\";\012};\012\012@NULL_SS05 = [];\012ignore sub @NULL_SS05';\012\012lookup LOOKUP_SS05_1;\012lookup LOOKUP_SS05_2;\012\012# Replace LOOKUP_SS05_HAN\012lookup LOOKUP_SS05_JP;\012";
 },
 {
 name = "Replace Prefix";
@@ -15805,11 +16123,11 @@ guilsinglright.hang
 },
 {
 name = "Replace Feature";
-value = "locl;# Paste feature locl\012\012lookup locl_latn_0 {\012	script latn;\012	language ROM;\012	sub Scedilla by Scommaaccent;\012	sub scedilla by scommaaccent;\012	sub tcedilla by tcommaaccent;\012	language MOL;\012	sub Scedilla by Scommaaccent;\012	sub scedilla by scommaaccent;\012	sub tcedilla by tcommaaccent;\012} locl_latn_0;\012\012lookup locl_latn_1 {\012	script latn;\012	language CAT;\012	sub  l' periodcentered' l by ldot;\012	sub  L' periodcentered' L by Ldot;\012} locl_latn_1;\012\012# Begin replacement LOCL_JAN\012# End replacement LOCL_JAN\012\012lookup locl_haniKOR {\012	script hani;\012	language KOR;\012	sub @LOCL_JAN_L by @LOCL_JAN_R;\012} locl_haniKOR;\012";
+value = "locl;lookup locl_latn_0 {\012	script latn;\012	language ROM;\012	sub Scedilla by Scommaaccent;\012	sub scedilla by scommaaccent;\012	sub tcedilla by tcommaaccent;\012	language MOL;\012	sub Scedilla by Scommaaccent;\012	sub scedilla by scommaaccent;\012	sub tcedilla by tcommaaccent;\012} locl_latn_0;\012\012lookup locl_latn_1 {\012	script latn;\012	language CAT;\012	sub  l' periodcentered' l by ldot;\012	sub  L' periodcentered' L by Ldot;\012} locl_latn_1;\012\012# Replace locl_haniJAN\012lookup locl_haniKOR {\012	script hani;\012	language KOR;\012	sub @LOCL_JAN_L by @LOCL_JAN_R;\012} locl_haniKOR;\012";
 },
 {
 name = "Replace Feature";
-value = "ss05;# Paste feature ss05\012\012@NULL_SS05 = [];\012ignore sub @NULL_SS05';\012\012lookup LOOKUP_SS05_1;\012lookup LOOKUP_SS05_2;\012\012# Begin replacement SS05_JP\012lookup LOOKUP_SS05_3_JP;\012# End replacement SS05_JP\012";
+value = "ss05;featureNames {\012    name \"Korean localization\";\012    name 3 1 0x409 \"Korean localization\";\012    name 3 1 0x412 \"Korean localization\";\012    name 1 0 0 \"Korean localization\";\012    name 1 3 0x23 \"Korean localization\";\012};\012\012@NULL_SS05 = [];\012ignore sub @NULL_SS05';\012\012lookup LOOKUP_SS05_1;\012lookup LOOKUP_SS05_2;\012\012# Replace LOOKUP_SS05_HAN\012lookup LOOKUP_SS05_JP;\012";
 },
 {
 name = "Replace Prefix";
@@ -16489,11 +16807,11 @@ guilsinglright.hang
 },
 {
 name = "Replace Feature";
-value = "locl;# Paste feature locl\012\012lookup locl_latn_0 {\012	script latn;\012	language ROM;\012	sub Scedilla by Scommaaccent;\012	sub scedilla by scommaaccent;\012	sub tcedilla by tcommaaccent;\012	language MOL;\012	sub Scedilla by Scommaaccent;\012	sub scedilla by scommaaccent;\012	sub tcedilla by tcommaaccent;\012} locl_latn_0;\012\012lookup locl_latn_1 {\012	script latn;\012	language CAT;\012	sub  l' periodcentered' l by ldot;\012	sub  L' periodcentered' L by Ldot;\012} locl_latn_1;\012\012# Begin replacement LOCL_JAN\012# End replacement LOCL_JAN\012\012lookup locl_haniKOR {\012	script hani;\012	language KOR;\012	sub @LOCL_JAN_L by @LOCL_JAN_R;\012} locl_haniKOR;\012";
+value = "locl;lookup locl_latn_0 {\012	script latn;\012	language ROM;\012	sub Scedilla by Scommaaccent;\012	sub scedilla by scommaaccent;\012	sub tcedilla by tcommaaccent;\012	language MOL;\012	sub Scedilla by Scommaaccent;\012	sub scedilla by scommaaccent;\012	sub tcedilla by tcommaaccent;\012} locl_latn_0;\012\012lookup locl_latn_1 {\012	script latn;\012	language CAT;\012	sub  l' periodcentered' l by ldot;\012	sub  L' periodcentered' L by Ldot;\012} locl_latn_1;\012\012# Replace locl_haniJAN\012lookup locl_haniKOR {\012	script hani;\012	language KOR;\012	sub @LOCL_JAN_L by @LOCL_JAN_R;\012} locl_haniKOR;\012";
 },
 {
 name = "Replace Feature";
-value = "ss05;# Paste feature ss05\012\012@NULL_SS05 = [];\012ignore sub @NULL_SS05';\012\012lookup LOOKUP_SS05_1;\012lookup LOOKUP_SS05_2;\012\012# Begin replacement SS05_JP\012lookup LOOKUP_SS05_3_JP;\012# End replacement SS05_JP\012";
+value = "ss05;featureNames {\012    name \"Korean localization\";\012    name 3 1 0x409 \"Korean localization\";\012    name 3 1 0x412 \"Korean localization\";\012    name 1 0 0 \"Korean localization\";\012    name 1 3 0x23 \"Korean localization\";\012};\012\012@NULL_SS05 = [];\012ignore sub @NULL_SS05';\012\012lookup LOOKUP_SS05_1;\012lookup LOOKUP_SS05_2;\012\012# Replace LOOKUP_SS05_HAN\012lookup LOOKUP_SS05_JP;\012";
 },
 {
 name = "Replace Prefix";
@@ -17173,11 +17491,11 @@ guilsinglright.hang
 },
 {
 name = "Replace Feature";
-value = "locl;# Paste feature locl\012\012lookup locl_latn_0 {\012	script latn;\012	language ROM;\012	sub Scedilla by Scommaaccent;\012	sub scedilla by scommaaccent;\012	sub tcedilla by tcommaaccent;\012	language MOL;\012	sub Scedilla by Scommaaccent;\012	sub scedilla by scommaaccent;\012	sub tcedilla by tcommaaccent;\012} locl_latn_0;\012\012lookup locl_latn_1 {\012	script latn;\012	language CAT;\012	sub  l' periodcentered' l by ldot;\012	sub  L' periodcentered' L by Ldot;\012} locl_latn_1;\012\012# Begin replacement LOCL_JAN\012# End replacement LOCL_JAN\012\012lookup locl_haniKOR {\012	script hani;\012	language KOR;\012	sub @LOCL_JAN_L by @LOCL_JAN_R;\012} locl_haniKOR;\012";
+value = "locl;lookup locl_latn_0 {\012	script latn;\012	language ROM;\012	sub Scedilla by Scommaaccent;\012	sub scedilla by scommaaccent;\012	sub tcedilla by tcommaaccent;\012	language MOL;\012	sub Scedilla by Scommaaccent;\012	sub scedilla by scommaaccent;\012	sub tcedilla by tcommaaccent;\012} locl_latn_0;\012\012lookup locl_latn_1 {\012	script latn;\012	language CAT;\012	sub  l' periodcentered' l by ldot;\012	sub  L' periodcentered' L by Ldot;\012} locl_latn_1;\012\012# Replace locl_haniJAN\012lookup locl_haniKOR {\012	script hani;\012	language KOR;\012	sub @LOCL_JAN_L by @LOCL_JAN_R;\012} locl_haniKOR;\012";
 },
 {
 name = "Replace Feature";
-value = "ss05;# Paste feature ss05\012\012@NULL_SS05 = [];\012ignore sub @NULL_SS05';\012\012lookup LOOKUP_SS05_1;\012lookup LOOKUP_SS05_2;\012\012# Begin replacement SS05_JP\012lookup LOOKUP_SS05_3_JP;\012# End replacement SS05_JP\012";
+value = "ss05;featureNames {\012    name \"Korean localization\";\012    name 3 1 0x409 \"Korean localization\";\012    name 3 1 0x412 \"Korean localization\";\012    name 1 0 0 \"Korean localization\";\012    name 1 3 0x23 \"Korean localization\";\012};\012\012@NULL_SS05 = [];\012ignore sub @NULL_SS05';\012\012lookup LOOKUP_SS05_1;\012lookup LOOKUP_SS05_2;\012\012# Replace LOOKUP_SS05_HAN\012lookup LOOKUP_SS05_JP;\012";
 },
 {
 name = "Replace Prefix";
@@ -17855,11 +18173,11 @@ guilsinglright.hang
 },
 {
 name = "Replace Feature";
-value = "locl;# Paste feature locl\012\012lookup locl_latn_0 {\012	script latn;\012	language ROM;\012	sub Scedilla by Scommaaccent;\012	sub scedilla by scommaaccent;\012	sub tcedilla by tcommaaccent;\012	language MOL;\012	sub Scedilla by Scommaaccent;\012	sub scedilla by scommaaccent;\012	sub tcedilla by tcommaaccent;\012} locl_latn_0;\012\012lookup locl_latn_1 {\012	script latn;\012	language CAT;\012	sub  l' periodcentered' l by ldot;\012	sub  L' periodcentered' L by Ldot;\012} locl_latn_1;\012\012# Begin replacement LOCL_JAN\012# End replacement LOCL_JAN\012\012lookup locl_haniKOR {\012	script hani;\012	language KOR;\012	sub @LOCL_JAN_L by @LOCL_JAN_R;\012} locl_haniKOR;\012";
+value = "locl;lookup locl_latn_0 {\012	script latn;\012	language ROM;\012	sub Scedilla by Scommaaccent;\012	sub scedilla by scommaaccent;\012	sub tcedilla by tcommaaccent;\012	language MOL;\012	sub Scedilla by Scommaaccent;\012	sub scedilla by scommaaccent;\012	sub tcedilla by tcommaaccent;\012} locl_latn_0;\012\012lookup locl_latn_1 {\012	script latn;\012	language CAT;\012	sub  l' periodcentered' l by ldot;\012	sub  L' periodcentered' L by Ldot;\012} locl_latn_1;\012\012# Replace locl_haniJAN\012lookup locl_haniKOR {\012	script hani;\012	language KOR;\012	sub @LOCL_JAN_L by @LOCL_JAN_R;\012} locl_haniKOR;\012";
 },
 {
 name = "Replace Feature";
-value = "ss05;# Paste feature ss05\012\012@NULL_SS05 = [];\012ignore sub @NULL_SS05';\012\012lookup LOOKUP_SS05_1;\012lookup LOOKUP_SS05_2;\012\012# Begin replacement SS05_JP\012lookup LOOKUP_SS05_3_JP;\012# End replacement SS05_JP\012";
+value = "ss05;featureNames {\012    name \"Korean localization\";\012    name 3 1 0x409 \"Korean localization\";\012    name 3 1 0x412 \"Korean localization\";\012    name 1 0 0 \"Korean localization\";\012    name 1 3 0x23 \"Korean localization\";\012};\012\012@NULL_SS05 = [];\012ignore sub @NULL_SS05';\012\012lookup LOOKUP_SS05_1;\012lookup LOOKUP_SS05_2;\012\012# Replace LOOKUP_SS05_HAN\012lookup LOOKUP_SS05_JP;\012";
 },
 {
 name = "Replace Prefix";
@@ -18539,11 +18857,11 @@ guilsinglright.hang
 },
 {
 name = "Replace Feature";
-value = "locl;# Paste feature locl\012\012lookup locl_latn_0 {\012	script latn;\012	language ROM;\012	sub Scedilla by Scommaaccent;\012	sub scedilla by scommaaccent;\012	sub tcedilla by tcommaaccent;\012	language MOL;\012	sub Scedilla by Scommaaccent;\012	sub scedilla by scommaaccent;\012	sub tcedilla by tcommaaccent;\012} locl_latn_0;\012\012lookup locl_latn_1 {\012	script latn;\012	language CAT;\012	sub  l' periodcentered' l by ldot;\012	sub  L' periodcentered' L by Ldot;\012} locl_latn_1;\012\012# Begin replacement LOCL_JAN\012# End replacement LOCL_JAN\012\012lookup locl_haniKOR {\012	script hani;\012	language KOR;\012	sub @LOCL_JAN_L by @LOCL_JAN_R;\012} locl_haniKOR;\012";
+value = "locl;lookup locl_latn_0 {\012	script latn;\012	language ROM;\012	sub Scedilla by Scommaaccent;\012	sub scedilla by scommaaccent;\012	sub tcedilla by tcommaaccent;\012	language MOL;\012	sub Scedilla by Scommaaccent;\012	sub scedilla by scommaaccent;\012	sub tcedilla by tcommaaccent;\012} locl_latn_0;\012\012lookup locl_latn_1 {\012	script latn;\012	language CAT;\012	sub  l' periodcentered' l by ldot;\012	sub  L' periodcentered' L by Ldot;\012} locl_latn_1;\012\012# Replace locl_haniJAN\012lookup locl_haniKOR {\012	script hani;\012	language KOR;\012	sub @LOCL_JAN_L by @LOCL_JAN_R;\012} locl_haniKOR;\012";
 },
 {
 name = "Replace Feature";
-value = "ss05;# Paste feature ss05\012\012@NULL_SS05 = [];\012ignore sub @NULL_SS05';\012\012lookup LOOKUP_SS05_1;\012lookup LOOKUP_SS05_2;\012\012# Begin replacement SS05_JP\012lookup LOOKUP_SS05_3_JP;\012# End replacement SS05_JP\012";
+value = "ss05;featureNames {\012    name \"Korean localization\";\012    name 3 1 0x409 \"Korean localization\";\012    name 3 1 0x412 \"Korean localization\";\012    name 1 0 0 \"Korean localization\";\012    name 1 3 0x23 \"Korean localization\";\012};\012\012@NULL_SS05 = [];\012ignore sub @NULL_SS05';\012\012lookup LOOKUP_SS05_1;\012lookup LOOKUP_SS05_2;\012\012# Replace LOOKUP_SS05_HAN\012lookup LOOKUP_SS05_JP;\012";
 },
 {
 name = "Replace Prefix";
@@ -19223,11 +19541,11 @@ guilsinglright.hang
 },
 {
 name = "Replace Feature";
-value = "locl;# Paste feature locl\012\012lookup locl_latn_0 {\012	script latn;\012	language ROM;\012	sub Scedilla by Scommaaccent;\012	sub scedilla by scommaaccent;\012	sub tcedilla by tcommaaccent;\012	language MOL;\012	sub Scedilla by Scommaaccent;\012	sub scedilla by scommaaccent;\012	sub tcedilla by tcommaaccent;\012} locl_latn_0;\012\012lookup locl_latn_1 {\012	script latn;\012	language CAT;\012	sub  l' periodcentered' l by ldot;\012	sub  L' periodcentered' L by Ldot;\012} locl_latn_1;\012\012# Begin replacement LOCL_JAN\012# End replacement LOCL_JAN\012\012lookup locl_haniKOR {\012	script hani;\012	language KOR;\012	sub @LOCL_JAN_L by @LOCL_JAN_R;\012} locl_haniKOR;\012";
+value = "locl;lookup locl_latn_0 {\012	script latn;\012	language ROM;\012	sub Scedilla by Scommaaccent;\012	sub scedilla by scommaaccent;\012	sub tcedilla by tcommaaccent;\012	language MOL;\012	sub Scedilla by Scommaaccent;\012	sub scedilla by scommaaccent;\012	sub tcedilla by tcommaaccent;\012} locl_latn_0;\012\012lookup locl_latn_1 {\012	script latn;\012	language CAT;\012	sub  l' periodcentered' l by ldot;\012	sub  L' periodcentered' L by Ldot;\012} locl_latn_1;\012\012# Replace locl_haniJAN\012lookup locl_haniKOR {\012	script hani;\012	language KOR;\012	sub @LOCL_JAN_L by @LOCL_JAN_R;\012} locl_haniKOR;\012";
 },
 {
 name = "Replace Feature";
-value = "ss05;# Paste feature ss05\012\012@NULL_SS05 = [];\012ignore sub @NULL_SS05';\012\012lookup LOOKUP_SS05_1;\012lookup LOOKUP_SS05_2;\012\012# Begin replacement SS05_JP\012lookup LOOKUP_SS05_3_JP;\012# End replacement SS05_JP\012";
+value = "ss05;featureNames {\012    name \"Korean localization\";\012    name 3 1 0x409 \"Korean localization\";\012    name 3 1 0x412 \"Korean localization\";\012    name 1 0 0 \"Korean localization\";\012    name 1 3 0x23 \"Korean localization\";\012};\012\012@NULL_SS05 = [];\012ignore sub @NULL_SS05';\012\012lookup LOOKUP_SS05_1;\012lookup LOOKUP_SS05_2;\012\012# Replace LOOKUP_SS05_HAN\012lookup LOOKUP_SS05_JP;\012";
 },
 {
 name = "Replace Prefix";
@@ -19908,11 +20226,11 @@ guilsinglright.hang
 },
 {
 name = "Replace Feature";
-value = "locl;# Paste feature locl\012\012lookup locl_latn_0 {\012	script latn;\012	language ROM;\012	sub Scedilla by Scommaaccent;\012	sub scedilla by scommaaccent;\012	sub tcedilla by tcommaaccent;\012	language MOL;\012	sub Scedilla by Scommaaccent;\012	sub scedilla by scommaaccent;\012	sub tcedilla by tcommaaccent;\012} locl_latn_0;\012\012lookup locl_latn_1 {\012	script latn;\012	language CAT;\012	sub  l' periodcentered' l by ldot;\012	sub  L' periodcentered' L by Ldot;\012} locl_latn_1;\012\012# Begin replacement LOCL_JAN\012# End replacement LOCL_JAN\012\012lookup locl_haniKOR {\012	script hani;\012	language KOR;\012	sub @LOCL_JAN_L by @LOCL_JAN_R;\012} locl_haniKOR;\012";
+value = "locl;lookup locl_latn_0 {\012	script latn;\012	language ROM;\012	sub Scedilla by Scommaaccent;\012	sub scedilla by scommaaccent;\012	sub tcedilla by tcommaaccent;\012	language MOL;\012	sub Scedilla by Scommaaccent;\012	sub scedilla by scommaaccent;\012	sub tcedilla by tcommaaccent;\012} locl_latn_0;\012\012lookup locl_latn_1 {\012	script latn;\012	language CAT;\012	sub  l' periodcentered' l by ldot;\012	sub  L' periodcentered' L by Ldot;\012} locl_latn_1;\012\012# Replace locl_haniJAN\012lookup locl_haniKOR {\012	script hani;\012	language KOR;\012	sub @LOCL_JAN_L by @LOCL_JAN_R;\012} locl_haniKOR;\012";
 },
 {
 name = "Replace Feature";
-value = "ss05;# Paste feature ss05\012\012@NULL_SS05 = [];\012ignore sub @NULL_SS05';\012\012lookup LOOKUP_SS05_1;\012lookup LOOKUP_SS05_2;\012\012# Begin replacement SS05_JP\012lookup LOOKUP_SS05_3_JP;\012# End replacement SS05_JP\012";
+value = "ss05;featureNames {\012    name \"Korean localization\";\012    name 3 1 0x409 \"Korean localization\";\012    name 3 1 0x412 \"Korean localization\";\012    name 1 0 0 \"Korean localization\";\012    name 1 3 0x23 \"Korean localization\";\012};\012\012@NULL_SS05 = [];\012ignore sub @NULL_SS05';\012\012lookup LOOKUP_SS05_1;\012lookup LOOKUP_SS05_2;\012\012# Replace LOOKUP_SS05_HAN\012lookup LOOKUP_SS05_JP;\012";
 },
 {
 name = "Replace Prefix";
@@ -20592,11 +20910,11 @@ guilsinglright.hang
 },
 {
 name = "Replace Feature";
-value = "locl;# Paste feature locl\012\012lookup locl_latn_0 {\012	script latn;\012	language ROM;\012	sub Scedilla by Scommaaccent;\012	sub scedilla by scommaaccent;\012	sub tcedilla by tcommaaccent;\012	language MOL;\012	sub Scedilla by Scommaaccent;\012	sub scedilla by scommaaccent;\012	sub tcedilla by tcommaaccent;\012} locl_latn_0;\012\012lookup locl_latn_1 {\012	script latn;\012	language CAT;\012	sub  l' periodcentered' l by ldot;\012	sub  L' periodcentered' L by Ldot;\012} locl_latn_1;\012\012# Begin replacement LOCL_JAN\012# End replacement LOCL_JAN\012\012lookup locl_haniKOR {\012	script hani;\012	language KOR;\012	sub @LOCL_JAN_L by @LOCL_JAN_R;\012} locl_haniKOR;\012";
+value = "locl;lookup locl_latn_0 {\012	script latn;\012	language ROM;\012	sub Scedilla by Scommaaccent;\012	sub scedilla by scommaaccent;\012	sub tcedilla by tcommaaccent;\012	language MOL;\012	sub Scedilla by Scommaaccent;\012	sub scedilla by scommaaccent;\012	sub tcedilla by tcommaaccent;\012} locl_latn_0;\012\012lookup locl_latn_1 {\012	script latn;\012	language CAT;\012	sub  l' periodcentered' l by ldot;\012	sub  L' periodcentered' L by Ldot;\012} locl_latn_1;\012\012# Replace locl_haniJAN\012lookup locl_haniKOR {\012	script hani;\012	language KOR;\012	sub @LOCL_JAN_L by @LOCL_JAN_R;\012} locl_haniKOR;\012";
 },
 {
 name = "Replace Feature";
-value = "ss05;# Paste feature ss05\012\012@NULL_SS05 = [];\012ignore sub @NULL_SS05';\012\012lookup LOOKUP_SS05_1;\012lookup LOOKUP_SS05_2;\012\012# Begin replacement SS05_JP\012lookup LOOKUP_SS05_3_JP;\012# End replacement SS05_JP\012";
+value = "ss05;featureNames {\012    name \"Korean localization\";\012    name 3 1 0x409 \"Korean localization\";\012    name 3 1 0x412 \"Korean localization\";\012    name 1 0 0 \"Korean localization\";\012    name 1 3 0x23 \"Korean localization\";\012};\012\012@NULL_SS05 = [];\012ignore sub @NULL_SS05';\012\012lookup LOOKUP_SS05_1;\012lookup LOOKUP_SS05_2;\012\012# Replace LOOKUP_SS05_HAN\012lookup LOOKUP_SS05_JP;\012";
 },
 {
 name = "Replace Prefix";
@@ -21607,11 +21925,11 @@ value = (
 },
 {
 name = "Replace Feature";
-value = "locl;# Paste feature locl\012\012lookup locl_latn_0 {\012	script latn;\012	language ROM;\012	sub Scedilla by Scommaaccent;\012	sub scedilla by scommaaccent;\012	sub tcedilla by tcommaaccent;\012	language MOL;\012	sub Scedilla by Scommaaccent;\012	sub scedilla by scommaaccent;\012	sub tcedilla by tcommaaccent;\012} locl_latn_0;\012\012lookup locl_latn_1 {\012	script latn;\012	language CAT;\012	sub  l' periodcentered' l by ldot;\012	sub  L' periodcentered' L by Ldot;\012} locl_latn_1;\012\012# Begin replacement LOCL_JAN\012# End replacement LOCL_JAN\012\012lookup locl_haniKOR {\012	script hani;\012	language KOR;\012	sub @LOCL_JAN_L by @LOCL_JAN_R;\012} locl_haniKOR;\012";
+value = "locl;lookup locl_latn_0 {\012	script latn;\012	language ROM;\012	sub Scedilla by Scommaaccent;\012	sub scedilla by scommaaccent;\012	sub tcedilla by tcommaaccent;\012	language MOL;\012	sub Scedilla by Scommaaccent;\012	sub scedilla by scommaaccent;\012	sub tcedilla by tcommaaccent;\012} locl_latn_0;\012\012lookup locl_latn_1 {\012	script latn;\012	language CAT;\012	sub  l' periodcentered' l by ldot;\012	sub  L' periodcentered' L by Ldot;\012} locl_latn_1;\012\012# Replace locl_haniJAN\012lookup locl_haniKOR {\012	script hani;\012	language KOR;\012	sub @LOCL_JAN_L by @LOCL_JAN_R;\012} locl_haniKOR;\012";
 },
 {
 name = "Replace Feature";
-value = "ss05;# Paste feature ss05\012\012@NULL_SS05 = [];\012ignore sub @NULL_SS05';\012\012lookup LOOKUP_SS05_1;\012lookup LOOKUP_SS05_2;\012\012# Begin replacement SS05_JP\012lookup LOOKUP_SS05_3_JP;\012# End replacement SS05_JP\012";
+value = "ss05;featureNames {\012    name \"Korean localization\";\012    name 3 1 0x409 \"Korean localization\";\012    name 3 1 0x412 \"Korean localization\";\012    name 1 0 0 \"Korean localization\";\012    name 1 3 0x23 \"Korean localization\";\012};\012\012@NULL_SS05 = [];\012ignore sub @NULL_SS05';\012\012lookup LOOKUP_SS05_1;\012lookup LOOKUP_SS05_2;\012\012# Replace LOOKUP_SS05_HAN\012lookup LOOKUP_SS05_JP;\012";
 },
 {
 name = "Replace Prefix";
@@ -29346,6 +29664,19 @@ key = designerURL;
 value = "https://orioncactus.com/";
 },
 {
+key = licenses;
+values = (
+{
+language = dflt;
+value = "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL";
+}
+);
+},
+{
+key = licenseURL;
+value = "http://scripts.sil.org/OFL";
+},
+{
 key = manufacturers;
 values = (
 {
@@ -29363,23 +29694,6 @@ key = manufacturerURL;
 value = "https://orioncactus.com/";
 },
 {
-key = licenses;
-values = (
-{
-language = dflt;
-value = "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL";
-}
-);
-},
-{
-key = licenseURL;
-value = "http://scripts.sil.org/OFL";
-},
-{
-key = vendorID;
-value = CTUS;
-},
-{
 key = trademarks;
 values = (
 {
@@ -29387,6 +29701,10 @@ language = dflt;
 value = "Pretendard is a trademark of Kil Hyung-jin; Inter UI and Inter is a trademark of rsms; Source is a trademark of Adobe in the United States and/or other countries.";
 }
 );
+},
+{
+key = vendorID;
+value = CTUS;
 }
 );
 settings = {

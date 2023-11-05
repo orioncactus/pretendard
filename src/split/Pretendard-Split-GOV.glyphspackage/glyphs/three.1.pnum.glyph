@@ -3,6 +3,12 @@ color = 11;
 glyphname = three.1.pnum;
 layers = (
 {
+anchors = (
+{
+name = _symbol;
+pos = (834,1010);
+}
+);
 layerId = "5C20EF92-B63D-42A8-8878-93C2863E0093";
 shapes = (
 {
@@ -43,6 +49,12 @@ nodes = (
 width = 1668;
 },
 {
+anchors = (
+{
+name = _symbol;
+pos = (834,1010);
+}
+);
 layerId = "B1F27B51-9973-4381-9301-4FE46FE1CA59";
 shapes = (
 {
@@ -83,6 +95,12 @@ nodes = (
 width = 1668;
 },
 {
+anchors = (
+{
+name = _symbol;
+pos = (800,1010);
+}
+);
 associatedMasterId = "B1F27B51-9973-4381-9301-4FE46FE1CA59";
 layerId = "3AAE20A5-B357-42EE-A43C-6878E5BFA61C";
 name = "May 22, 21 14:08";
@@ -96,6 +114,12 @@ ref = three.1;
 width = 1600;
 },
 {
+anchors = (
+{
+name = _symbol;
+pos = (834,1010);
+}
+);
 background = {
 shapes = (
 {
@@ -205,6 +229,12 @@ nodes = (
 width = 1668;
 },
 {
+anchors = (
+{
+name = _symbol;
+pos = (834,1010);
+}
+);
 associatedMasterId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
 background = {
 shapes = (

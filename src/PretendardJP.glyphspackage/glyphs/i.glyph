@@ -5,6 +5,12 @@ kernLeft = idotless;
 kernRight = idotless;
 layers = (
 {
+anchors = (
+{
+name = _symbol;
+pos = (416,1100);
+}
+);
 guides = (
 {
 pos = (0,1238.875);
@@ -26,6 +32,12 @@ ref = dotaccent;
 width = 832;
 },
 {
+anchors = (
+{
+name = _symbol;
+pos = (280,972);
+}
+);
 layerId = "B1F27B51-9973-4381-9301-4FE46FE1CA59";
 shapes = (
 {
@@ -39,6 +51,12 @@ ref = dotaccent;
 width = 560;
 },
 {
+anchors = (
+{
+name = _symbol;
+pos = (316,1057);
+}
+);
 layerId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
 shapes = (
 {

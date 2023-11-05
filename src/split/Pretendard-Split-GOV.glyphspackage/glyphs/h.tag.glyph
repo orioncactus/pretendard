@@ -1,0 +1,199 @@
+{
+export = 0;
+glyphname = h.tag;
+kernLeft = B.tag;
+kernRight = a.tag;
+layers = (
+{
+anchors = (
+{
+name = _symbol;
+pos = (504,666);
+},
+{
+name = bottom;
+pos = (504,0);
+},
+{
+name = cedilla;
+pos = (186,-4);
+},
+{
+name = cross;
+pos = (182,1180);
+},
+{
+name = top;
+pos = (182,1498);
+}
+);
+layerId = "B1F27B51-9973-4381-9301-4FE46FE1CA59";
+shapes = (
+{
+closed = 1;
+nodes = (
+(214,830,o),
+(338,950,o),
+(510,950,cs),
+(680,950,o),
+(796,834,o),
+(796,662,cs),
+(796,0,l),
+(860,0,l),
+(860,664,ls),
+(860,874,o),
+(720,1012,o),
+(518,1012,cs),
+(374,1012,o),
+(266,942,o),
+(220,840,c),
+(214,840,l),
+(214,1332,l),
+(150,1332,l),
+(150,0,l),
+(214,0,l),
+(214,658,ls)
+);
+}
+);
+userData = {
+RMXScaler = {
+height = 65;
+weight = 28;
+width = 65;
+};
+};
+width = 1010;
+},
+{
+anchors = (
+{
+name = _symbol;
+pos = (546,666);
+},
+{
+name = bottom;
+pos = (544,0);
+},
+{
+name = cedilla;
+pos = (232,0);
+},
+{
+name = cross;
+pos = (220,1156);
+},
+{
+name = top;
+pos = (222,1498);
+}
+);
+layerId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
+shapes = (
+{
+closed = 1;
+nodes = (
+(328,742,o),
+(424,830,o),
+(558,830,cs),
+(686,830,o),
+(764,748,o),
+(764,606,cs),
+(764,0,l),
+(976,0,l),
+(976,636,ls),
+(976,882,o),
+(838,1012,o),
+(632,1012,cs),
+(476,1012,o),
+(382,942,o),
+(336,832,c),
+(324,832,l),
+(324,1332,l),
+(116,1332,l),
+(116,0,l),
+(328,0,l),
+(328,590,ls)
+);
+}
+);
+userData = {
+RMXScaler = {
+height = 65;
+weight = -48;
+width = 65;
+};
+};
+width = 1092;
+},
+{
+anchors = (
+{
+name = _symbol;
+pos = (584,666);
+},
+{
+name = bottom;
+pos = (586,0);
+},
+{
+name = cedilla;
+pos = (258,0);
+},
+{
+name = cross;
+pos = (256,1138);
+},
+{
+name = top;
+pos = (258,1498);
+}
+);
+layerId = "5C20EF92-B63D-42A8-8878-93C2863E0093";
+shapes = (
+{
+closed = 1;
+nodes = (
+(432,672,o),
+(496,736,o),
+(590,736,cs),
+(686,736,o),
+(742,672,o),
+(742,568,cs),
+(742,0,l),
+(1080,0,l),
+(1080,636,ls),
+(1080,860,o),
+(942,1012,o),
+(732,1012,cs),
+(580,1012,o),
+(476,934,o),
+(432,812,c),
+(422,812,l),
+(422,1332,l),
+(94,1332,l),
+(94,0,l),
+(432,0,l),
+(432,566,ls)
+);
+}
+);
+userData = {
+RMXScaler = {
+height = 65;
+weight = -360;
+width = 65;
+};
+};
+width = 1170;
+}
+);
+metricLeft = l.tag;
+metricRight = m.tag;
+unicode = 917608;
+userData = {
+RMXScaler = {
+source = h;
+};
+};
+}

@@ -5,6 +5,12 @@ kernLeft = C;
 kernRight = D;
 layers = (
 {
+anchors = (
+{
+name = _symbol;
+pos = (1122,962);
+}
+);
 guides = (
 {
 angle = 90;
@@ -33,6 +39,12 @@ ref = O;
 width = 2244;
 },
 {
+anchors = (
+{
+name = _symbol;
+pos = (1020,942);
+}
+);
 layerId = "B1F27B51-9973-4381-9301-4FE46FE1CA59";
 shapes = (
 {
@@ -56,6 +68,12 @@ ref = O;
 width = 2040;
 },
 {
+anchors = (
+{
+name = _symbol;
+pos = (1052,942);
+}
+);
 layerId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
 shapes = (
 {

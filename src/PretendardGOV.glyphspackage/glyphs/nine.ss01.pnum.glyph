@@ -3,6 +3,12 @@ color = 11;
 glyphname = nine.ss01.pnum;
 layers = (
 {
+anchors = (
+{
+name = _symbol;
+pos = (834,1038);
+}
+);
 guides = (
 {
 pos = (-142,764);
@@ -22,6 +28,12 @@ ref = six.ss01.pnum;
 width = 1668;
 },
 {
+anchors = (
+{
+name = _symbol;
+pos = (834,1038);
+}
+);
 layerId = "B1F27B51-9973-4381-9301-4FE46FE1CA59";
 shapes = (
 {
@@ -33,6 +45,12 @@ ref = six.ss01.pnum;
 width = 1668;
 },
 {
+anchors = (
+{
+name = _symbol;
+pos = (800,1038);
+}
+);
 associatedMasterId = "B1F27B51-9973-4381-9301-4FE46FE1CA59";
 layerId = "9F3F7C2D-F6C3-4ADC-AD12-941B22B30376";
 name = "May 22, 21 14:08";
@@ -46,6 +64,12 @@ ref = nine.ss01;
 width = 1600;
 },
 {
+anchors = (
+{
+name = _symbol;
+pos = (834,1038);
+}
+);
 layerId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
 shapes = (
 {
@@ -57,6 +81,12 @@ ref = six.ss01.pnum;
 width = 1668;
 },
 {
+anchors = (
+{
+name = _symbol;
+pos = (834,1038);
+}
+);
 associatedMasterId = "5C20EF92-B63D-42A8-8878-93C2863E0093";
 guides = (
 {
@@ -116,6 +146,12 @@ nodes = (
 width = 1668;
 },
 {
+anchors = (
+{
+name = _symbol;
+pos = (834,1038);
+}
+);
 associatedMasterId = "B1F27B51-9973-4381-9301-4FE46FE1CA59";
 layerId = "080EABF4-6720-404A-B76D-E66023CE5267";
 name = "Nov 12, 22 21:55";
@@ -167,6 +203,12 @@ nodes = (
 width = 1668;
 },
 {
+anchors = (
+{
+name = _symbol;
+pos = (834,1038);
+}
+);
 associatedMasterId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
 background = {
 shapes = (
@@ -225,6 +267,12 @@ nodes = (
 width = 1668;
 },
 {
+anchors = (
+{
+name = _symbol;
+pos = (834,1038);
+}
+);
 associatedMasterId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
 background = {
 shapes = (
@@ -283,6 +331,12 @@ nodes = (
 width = 1668;
 },
 {
+anchors = (
+{
+name = _symbol;
+pos = (834,1038);
+}
+);
 associatedMasterId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
 background = {
 shapes = (
@@ -382,6 +436,12 @@ nodes = (
 width = 1668;
 },
 {
+anchors = (
+{
+name = _symbol;
+pos = (834,1038);
+}
+);
 associatedMasterId = "B1F27B51-9973-4381-9301-4FE46FE1CA59";
 background = {
 shapes = (
@@ -444,6 +504,12 @@ nodes = (
 width = 1668;
 },
 {
+anchors = (
+{
+name = _symbol;
+pos = (834,1040);
+}
+);
 associatedMasterId = "B1F27B51-9973-4381-9301-4FE46FE1CA59";
 background = {
 shapes = (
@@ -542,6 +608,12 @@ nodes = (
 width = 1668;
 },
 {
+anchors = (
+{
+name = _symbol;
+pos = (834,1038);
+}
+);
 associatedMasterId = "5C20EF92-B63D-42A8-8878-93C2863E0093";
 background = {
 shapes = (
@@ -619,6 +691,12 @@ nodes = (
 width = 1668;
 },
 {
+anchors = (
+{
+name = _symbol;
+pos = (834,1038);
+}
+);
 associatedMasterId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
 background = {
 shapes = (

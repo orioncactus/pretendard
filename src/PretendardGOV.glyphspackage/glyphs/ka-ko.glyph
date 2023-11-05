@@ -3,6 +3,12 @@ color = 1;
 glyphname = "ka-ko";
 layers = (
 {
+anchors = (
+{
+name = _symbol;
+pos = (1252,1027);
+}
+);
 layerId = "B1F27B51-9973-4381-9301-4FE46FE1CA59";
 shapes = (
 {
@@ -59,6 +65,12 @@ nodes = (
 width = 2504;
 },
 {
+anchors = (
+{
+name = _symbol;
+pos = (1252,1031);
+}
+);
 layerId = "5C20EF92-B63D-42A8-8878-93C2863E0093";
 shapes = (
 {
@@ -115,6 +127,12 @@ nodes = (
 width = 2504;
 },
 {
+anchors = (
+{
+name = _symbol;
+pos = (1252,1028);
+}
+);
 layerId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
 shapes = (
 {

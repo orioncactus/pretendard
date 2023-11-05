@@ -5,7 +5,7 @@
 #### HTML
 
 ```html
-<link rel="stylesheet" as="style" crossorigin href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.8/dist/web/static/pretendard-gov.css" />
+<link rel="stylesheet" as="style" crossorigin href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/static/pretendard-gov.min.css" />
 ```
 
 <details>
@@ -15,13 +15,13 @@
 ###### cdnjs
 
 ```html
-<link rel="stylesheet" as="style" crossorigin href="https://cdnjs.cloudflare.com/ajax/libs/pretendard-gov/1.3.8/static/pretendard-gov.min.css" />
+<link rel="stylesheet" as="style" crossorigin href="https://cdnjs.cloudflare.com/ajax/libs/pretendard-gov/1.3.9/static/pretendard-gov.min.css" />
 ```
 
 ###### UNPKG
 
 ```html
-<link rel="stylesheet" as="style" crossorigin href="https://www.unpkg.com/pretendard-gov@1.3.8/dist/web/static/pretendard-gov.css" />
+<link rel="stylesheet" as="style" crossorigin href="https://www.unpkg.com/pretendard-gov@1.3.9/dist/web/static/pretendard-gov.css" />
 ```
 
 </details>
@@ -29,7 +29,7 @@
 #### CSS
 
 ```css
-@import url("https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.8/dist/web/static/pretendard-gov.css");
+@import url("https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/static/pretendard-gov.min.css");
 ```
 
 <details>
@@ -39,13 +39,13 @@
 ###### cdnjs
 
 ```css
-@import url("https://cdnjs.cloudflare.com/ajax/libs/pretendard-gov/1.3.8/static/pretendard-gov.min.css");
+@import url("https://cdnjs.cloudflare.com/ajax/libs/pretendard-gov/1.3.9/static/pretendard-gov.min.css");
 ```
 
 ###### UNPKG
 
 ```css
-@import url("https://www.unpkg.com/pretendard-gov@1.3.8/dist/web/static/pretendard-gov.css");
+@import url("https://www.unpkg.com/pretendard-gov@1.3.9/dist/web/static/pretendard-gov.css");
 ```
 
 </details>
@@ -59,7 +59,7 @@
 #### HTML
 
 ```html
-<link rel="stylesheet" as="style" crossorigin href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.8/dist/web/static/pretendard-gov-dynamic-subset.css" />
+<link rel="stylesheet" as="style" crossorigin href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/static/pretendard-gov-dynamic-subset.min.css" />
 ```
 
 <details>
@@ -69,13 +69,13 @@
 ###### cdnjs
 
 ```html
-<link rel="stylesheet" as="style" crossorigin href="https://cdnjs.cloudflare.com/ajax/libs/pretendard-gov/1.3.8/static/pretendard-gov-dynamic-subset.min.css" />
+<link rel="stylesheet" as="style" crossorigin href="https://cdnjs.cloudflare.com/ajax/libs/pretendard-gov/1.3.9/static/pretendard-gov-dynamic-subset.min.css" />
 ```
 
 ###### UNPKG
 
 ```html
-<link rel="stylesheet" as="style" crossorigin href="https://www.unpkg.com/pretendard-gov@1.3.8/dist/web/static/pretendard-gov-dynamic-subset.css" />
+<link rel="stylesheet" as="style" crossorigin href="https://www.unpkg.com/pretendard-gov@1.3.9/dist/web/static/pretendard-gov-dynamic-subset.css" />
 ```
 
 </details>
@@ -83,7 +83,7 @@
 #### CSS
 
 ```css
-@import url("https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.8/dist/web/static/pretendard-gov-dynamic-subset.css");
+@import url("https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/static/pretendard-gov-dynamic-subset.min.css");
 ```
 
 <details>
@@ -93,13 +93,13 @@
 ###### cdnjs
 
 ```css
-@import url("https://cdnjs.cloudflare.com/ajax/libs/pretendard-gov/1.3.8/static/pretendard-gov-dynamic-subset.min.css");
+@import url("https://cdnjs.cloudflare.com/ajax/libs/pretendard-gov/1.3.9/static/pretendard-gov-dynamic-subset.min.css");
 ```
 
 ###### UNPKG
 
 ```css
-@import url("https://www.unpkg.com/pretendard-gov@1.3.8/dist/web/static/pretendard-gov-dynamic-subset.css");
+@import url("https://www.unpkg.com/pretendard-gov@1.3.9/dist/web/static/pretendard-gov-dynamic-subset.css");
 ```
 
 </details>
@@ -113,7 +113,7 @@
 #### HTML
 
 ```html
-<link rel="stylesheet" as="style" crossorigin href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.8/dist/web/variable/pretendardvariable-gov-dynamic-subset.css" />
+<link rel="stylesheet" as="style" crossorigin href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/variable/pretendardvariable-gov-dynamic-subset.min.css" />
 ```
 
 <details>
@@ -123,13 +123,13 @@
 ###### cdnjs
 
 ```html
-<link rel="stylesheet" as="style" crossorigin href="https://cdnjs.cloudflare.com/ajax/libs/pretendard-gov/1.3.8/variable/pretendardvariable-gov-dynamic-subset.min.css" />
+<link rel="stylesheet" as="style" crossorigin href="https://cdnjs.cloudflare.com/ajax/libs/pretendard-gov/1.3.9/variable/pretendardvariable-gov-dynamic-subset.min.css" />
 ```
 
 ###### UNPKG
 
 ```html
-<link rel="stylesheet" as="style" crossorigin href="https://www.unpkg.com/pretendard-gov@1.3.8/dist/web/variable/pretendardvariable-gov-dynamic-subset.css" />
+<link rel="stylesheet" as="style" crossorigin href="https://www.unpkg.com/pretendard-gov@1.3.9/dist/web/variable/pretendardvariable-gov-dynamic-subset.css" />
 ```
 
 </details>
@@ -137,7 +137,7 @@
 #### CSS
 
 ```css
-@import url("https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.8/dist/web/variable/pretendardvariable-gov-dynamic-subset.css");
+@import url("https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/variable/pretendardvariable-gov-dynamic-subset.min.css");
 ```
 
 <details>
@@ -147,13 +147,13 @@
 ###### cdnjs
 
 ```css
-@import url("https://cdnjs.cloudflare.com/ajax/libs/pretendard-gov/1.3.8/variable/pretendardvariable-gov-dynamic-subset.min.css");
+@import url("https://cdnjs.cloudflare.com/ajax/libs/pretendard-gov/1.3.9/variable/pretendardvariable-gov-dynamic-subset.min.css");
 ```
 
 ###### UNPKG
 
 ```css
-@import url("https://www.unpkg.com/pretendard-gov@1.3.8/dist/web/variable/pretendardvariable-gov-dynamic-subset.css");
+@import url("https://www.unpkg.com/pretendard-gov@1.3.9/dist/web/variable/pretendardvariable-gov-dynamic-subset.css");
 ```
 
 </details>
@@ -165,7 +165,7 @@
 #### HTML
 
 ```html
-<link rel="stylesheet" as="style" crossorigin href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.8/dist/web/variable/pretendardvariable-gov.css" />
+<link rel="stylesheet" as="style" crossorigin href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/variable/pretendardvariable-gov.min.css" />
 ```
 
 <details>
@@ -175,13 +175,13 @@
 ###### cdnjs
 
 ```html
-<link rel="stylesheet" as="style" crossorigin href="https://cdnjs.cloudflare.com/ajax/libs/pretendard-gov/1.3.8/variable/pretendardvariable-gov.min.css" />
+<link rel="stylesheet" as="style" crossorigin href="https://cdnjs.cloudflare.com/ajax/libs/pretendard-gov/1.3.9/variable/pretendardvariable-gov.min.css" />
 ```
 
 ###### UNPKG
 
 ```html
-<link rel="stylesheet" as="style" crossorigin href="https://unpkg.com/pretendard-gov@1.3.8/dist/web/variable/pretendardvariable-gov.css" />
+<link rel="stylesheet" as="style" crossorigin href="https://unpkg.com/pretendard-gov@1.3.9/dist/web/variable/pretendardvariable-gov.css" />
 ```
 
 </details>
@@ -189,7 +189,7 @@
 #### CSS
 
 ```css
-@import url("https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.8/dist/web/variable/pretendardvariable-gov.css");
+@import url("https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/variable/pretendardvariable-gov.min.css");
 ```
 
 
@@ -200,13 +200,13 @@
 ###### cdnjs
 
 ```css
-@import url("https://cdnjs.cloudflare.com/ajax/libs/pretendard-gov/1.3.8/variable/pretendardvariable-gov.min.css");
+@import url("https://cdnjs.cloudflare.com/ajax/libs/pretendard-gov/1.3.9/variable/pretendardvariable-gov.min.css");
 ```
 
 ###### UNPKG
 
 ```css
-@import url("https://unpkg.com/pretendard-gov@1.3.8/dist/web/variable/pretendardvariable-gov.css");
+@import url("https://unpkg.com/pretendard-gov@1.3.9/dist/web/variable/pretendardvariable-gov.css");
 ```
 
 </details>

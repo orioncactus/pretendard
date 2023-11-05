@@ -4,6 +4,12 @@ glyphname = seven;
 kernRight = seven;
 layers = (
 {
+anchors = (
+{
+name = _symbol;
+pos = (860,1024);
+}
+);
 background = {
 shapes = (
 {
@@ -40,6 +46,12 @@ nodes = (
 width = 1720;
 },
 {
+anchors = (
+{
+name = _symbol;
+pos = (756,1024);
+}
+);
 layerId = "B1F27B51-9973-4381-9301-4FE46FE1CA59";
 shapes = (
 {
@@ -59,6 +71,12 @@ nodes = (
 width = 1512;
 },
 {
+anchors = (
+{
+name = _symbol;
+pos = (739,1024);
+}
+);
 associatedMasterId = "B1F27B51-9973-4381-9301-4FE46FE1CA59";
 layerId = "87F61EEB-22E2-4331-999A-09FF934BB4D3";
 name = "May 22, 21 14:07";
@@ -80,6 +98,12 @@ nodes = (
 width = 1478;
 },
 {
+anchors = (
+{
+name = _symbol;
+pos = (799,1024);
+}
+);
 layerId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
 shapes = (
 {

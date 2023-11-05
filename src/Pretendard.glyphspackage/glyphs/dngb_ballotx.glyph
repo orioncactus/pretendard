@@ -2,6 +2,12 @@
 glyphname = dngb_ballotx;
 layers = (
 {
+anchors = (
+{
+name = _symbol;
+pos = (1240,890);
+}
+);
 background = {
 shapes = (
 {
@@ -34,6 +40,12 @@ nodes = (
 width = 2480;
 },
 {
+anchors = (
+{
+name = _symbol;
+pos = (1208,966);
+}
+);
 layerId = "B1F27B51-9973-4381-9301-4FE46FE1CA59";
 shapes = (
 {
@@ -58,6 +70,12 @@ nodes = (
 width = 2416;
 },
 {
+anchors = (
+{
+name = _symbol;
+pos = (1240,964);
+}
+);
 associatedMasterId = "B1F27B51-9973-4381-9301-4FE46FE1CA59";
 background = {
 shapes = (
@@ -81,6 +99,12 @@ nodes = (
 width = 2480;
 },
 {
+anchors = (
+{
+name = _symbol;
+pos = (1240,886);
+}
+);
 associatedMasterId = "5C20EF92-B63D-42A8-8878-93C2863E0093";
 background = {
 shapes = (
@@ -111,6 +135,12 @@ nodes = (
 width = 2480;
 },
 {
+anchors = (
+{
+name = _symbol;
+pos = (1222,936);
+}
+);
 layerId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
 shapes = (
 {

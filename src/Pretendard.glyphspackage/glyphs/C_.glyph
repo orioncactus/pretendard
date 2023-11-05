@@ -7,6 +7,10 @@ layers = (
 {
 anchors = (
 {
+name = _symbol;
+pos = (1082,1024);
+},
+{
 name = cedilla;
 pos = (1100,8);
 },
@@ -143,6 +147,10 @@ width = 2164;
 {
 anchors = (
 {
+name = _symbol;
+pos = (986,1024);
+},
+{
 name = cedilla;
 pos = (1020,0);
 },
@@ -189,6 +197,10 @@ width = 1972;
 },
 {
 anchors = (
+{
+name = _symbol;
+pos = (1004,1024);
+},
 {
 name = cedilla;
 pos = (1050,-16);

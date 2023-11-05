@@ -3,6 +3,12 @@ glyphname = leftArrow;
 kernRight = hyphen;
 layers = (
 {
+anchors = (
+{
+name = _symbol;
+pos = (1312,896);
+}
+);
 guides = (
 {
 pos = (2352,1480);
@@ -36,6 +42,12 @@ nodes = (
 width = 2624;
 },
 {
+anchors = (
+{
+name = _symbol;
+pos = (1344,896);
+}
+);
 associatedMasterId = "B1F27B51-9973-4381-9301-4FE46FE1CA59";
 guides = (
 {
@@ -72,6 +84,12 @@ nodes = (
 width = 2688;
 },
 {
+anchors = (
+{
+name = _symbol;
+pos = (1458,950);
+}
+);
 associatedMasterId = "B1F27B51-9973-4381-9301-4FE46FE1CA59";
 layerId = "05110F3D-01C1-479A-ABF3-AB8D7398F1B7";
 name = "Jan 27 19, 10:23";
@@ -96,6 +114,12 @@ nodes = (
 width = 2916;
 },
 {
+anchors = (
+{
+name = _symbol;
+pos = (1344,896);
+}
+);
 guides = (
 {
 angle = 90;
@@ -133,6 +157,12 @@ nodes = (
 width = 2688;
 },
 {
+anchors = (
+{
+name = _symbol;
+pos = (1344,896);
+}
+);
 associatedMasterId = "5C20EF92-B63D-42A8-8878-93C2863E0093";
 guides = (
 {
@@ -173,6 +203,12 @@ nodes = (
 width = 2688;
 },
 {
+anchors = (
+{
+name = _symbol;
+pos = (1346,806);
+}
+);
 associatedMasterId = "5C20EF92-B63D-42A8-8878-93C2863E0093";
 guides = (
 {
@@ -203,6 +239,12 @@ nodes = (
 width = 2692;
 },
 {
+anchors = (
+{
+name = _symbol;
+pos = (1322,896);
+}
+);
 layerId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
 shapes = (
 {

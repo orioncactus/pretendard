@@ -3,6 +3,12 @@ color = 11;
 glyphname = seven.pnum;
 layers = (
 {
+anchors = (
+{
+name = _symbol;
+pos = (834,1024);
+}
+);
 layerId = "5C20EF92-B63D-42A8-8878-93C2863E0093";
 shapes = (
 {
@@ -22,6 +28,12 @@ nodes = (
 width = 1668;
 },
 {
+anchors = (
+{
+name = _symbol;
+pos = (834,1024);
+}
+);
 layerId = "B1F27B51-9973-4381-9301-4FE46FE1CA59";
 shapes = (
 {
@@ -41,6 +53,12 @@ nodes = (
 width = 1668;
 },
 {
+anchors = (
+{
+name = _symbol;
+pos = (800,1024);
+}
+);
 associatedMasterId = "B1F27B51-9973-4381-9301-4FE46FE1CA59";
 layerId = "2982A8FA-F50C-4EB5-8BD0-471BDD7100BA";
 name = "May 22, 21 14:07";
@@ -54,6 +72,12 @@ ref = seven;
 width = 1600;
 },
 {
+anchors = (
+{
+name = _symbol;
+pos = (834,1024);
+}
+);
 layerId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
 shapes = (
 {

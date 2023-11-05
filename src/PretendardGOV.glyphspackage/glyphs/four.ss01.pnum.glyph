@@ -3,6 +3,12 @@ color = 11;
 glyphname = four.ss01.pnum;
 layers = (
 {
+anchors = (
+{
+name = _symbol;
+pos = (834,1024);
+}
+);
 guides = (
 {
 pos = (-154,1240);
@@ -41,6 +47,12 @@ nodes = (
 width = 1668;
 },
 {
+anchors = (
+{
+name = _symbol;
+pos = (834,1024);
+}
+);
 layerId = "B1F27B51-9973-4381-9301-4FE46FE1CA59";
 shapes = (
 {
@@ -71,6 +83,12 @@ nodes = (
 width = 1668;
 },
 {
+anchors = (
+{
+name = _symbol;
+pos = (800,1024);
+}
+);
 associatedMasterId = "B1F27B51-9973-4381-9301-4FE46FE1CA59";
 layerId = "A6B939E5-BCF1-4A2A-BAA4-BDA23D1B7FD1";
 name = "May 22, 21 14:08";
@@ -84,6 +102,12 @@ ref = four.ss01;
 width = 1600;
 },
 {
+anchors = (
+{
+name = _symbol;
+pos = (834,1024);
+}
+);
 layerId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
 shapes = (
 {

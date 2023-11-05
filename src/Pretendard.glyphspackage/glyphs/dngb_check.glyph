@@ -2,6 +2,12 @@
 glyphname = dngb_check;
 layers = (
 {
+anchors = (
+{
+name = _symbol;
+pos = (1240,896);
+}
+);
 layerId = "5C20EF92-B63D-42A8-8878-93C2863E0093";
 shapes = (
 {
@@ -19,6 +25,12 @@ nodes = (
 width = 2480;
 },
 {
+anchors = (
+{
+name = _symbol;
+pos = (1208,974);
+}
+);
 layerId = "B1F27B51-9973-4381-9301-4FE46FE1CA59";
 shapes = (
 {
@@ -36,6 +48,12 @@ nodes = (
 width = 2416;
 },
 {
+anchors = (
+{
+name = _symbol;
+pos = (1240,986);
+}
+);
 associatedMasterId = "B1F27B51-9973-4381-9301-4FE46FE1CA59";
 layerId = "0202E0EA-461B-4E22-A22F-9706DE3D4933";
 name = "Jan 1 19, 20:30";
@@ -52,6 +70,12 @@ nodes = (
 width = 2480;
 },
 {
+anchors = (
+{
+name = _symbol;
+pos = (1218,946);
+}
+);
 layerId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
 shapes = (
 {

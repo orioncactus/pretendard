@@ -2,6 +2,12 @@
 glyphname = question;
 layers = (
 {
+anchors = (
+{
+name = _symbol;
+pos = (844,1024);
+}
+);
 guides = (
 {
 pos = (-176,2352);
@@ -61,6 +67,12 @@ ref = period;
 width = 1688;
 },
 {
+anchors = (
+{
+name = _symbol;
+pos = (642,1024);
+}
+);
 guides = (
 {
 angle = 90;
@@ -113,6 +125,12 @@ ref = period;
 width = 1284;
 },
 {
+anchors = (
+{
+name = _symbol;
+pos = (636,1016);
+}
+);
 associatedMasterId = "B1F27B51-9973-4381-9301-4FE46FE1CA59";
 layerId = "75D4D36F-F0AC-4556-9658-7C6E75F1070E";
 name = "Nov 30 18, 00:07";
@@ -143,6 +161,12 @@ ref = period;
 width = 1272;
 },
 {
+anchors = (
+{
+name = _symbol;
+pos = (636,1032);
+}
+);
 associatedMasterId = "B1F27B51-9973-4381-9301-4FE46FE1CA59";
 guides = (
 {
@@ -192,6 +216,12 @@ ref = period;
 width = 1272;
 },
 {
+anchors = (
+{
+name = _symbol;
+pos = (662,1016);
+}
+);
 associatedMasterId = "B1F27B51-9973-4381-9301-4FE46FE1CA59";
 background = {
 shapes = (
@@ -281,6 +311,12 @@ ref = period;
 width = 1324;
 },
 {
+anchors = (
+{
+name = _symbol;
+pos = (694,1032);
+}
+);
 associatedMasterId = "B1F27B51-9973-4381-9301-4FE46FE1CA59";
 guides = (
 {
@@ -330,6 +366,12 @@ ref = period;
 width = 1388;
 },
 {
+anchors = (
+{
+name = _symbol;
+pos = (694,1016);
+}
+);
 associatedMasterId = "B1F27B51-9973-4381-9301-4FE46FE1CA59";
 background = {
 shapes = (
@@ -390,6 +432,12 @@ ref = period;
 width = 1388;
 },
 {
+anchors = (
+{
+name = _symbol;
+pos = (674,1016);
+}
+);
 associatedMasterId = "B1F27B51-9973-4381-9301-4FE46FE1CA59";
 background = {
 shapes = (
@@ -450,6 +498,12 @@ ref = period;
 width = 1348;
 },
 {
+anchors = (
+{
+name = _symbol;
+pos = (696,1024);
+}
+);
 layerId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
 shapes = (
 {

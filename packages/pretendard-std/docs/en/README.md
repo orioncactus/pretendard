@@ -7,7 +7,7 @@ Use the code below to use Pretendard as a webfonts in a Latin environment with a
 #### HTML
 
 ```html
-<link rel="stylesheet" as="style" crossorigin href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.8/dist/web/static/pretendard-std.css" />
+<link rel="stylesheet" as="style" crossorigin href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/static/pretendard-std.min.css" />
 ```
 
 <details>
@@ -17,13 +17,13 @@ Use the code below to use Pretendard as a webfonts in a Latin environment with a
 ###### cdnjs
 
 ```html
-<link rel="stylesheet" as="style" crossorigin href="https://cdnjs.cloudflare.com/ajax/libs/pretendard/1.3.8/static/pretendard-std.css" />
+<link rel="stylesheet" as="style" crossorigin href="https://cdnjs.cloudflare.com/ajax/libs/pretendard/1.3.9/static/pretendard-std.css" />
 ```
 
 ###### UNPKG
 
 ```html
-<link rel="stylesheet" as="style" crossorigin href="https://unpkg.com/pretendard-std@1.3.8/dist/web/static/pretendard-std.css" />
+<link rel="stylesheet" as="style" crossorigin href="https://unpkg.com/pretendard-std@1.3.9/dist/web/static/pretendard-std.css" />
 ```
 
 </details>
@@ -31,7 +31,7 @@ Use the code below to use Pretendard as a webfonts in a Latin environment with a
 #### CSS
 
 ```css
-@import url("https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.8/dist/web/static/pretendard-std.css");
+@import url("https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/static/pretendard-std.min.css");
 ```
 
 <details>
@@ -41,13 +41,13 @@ Use the code below to use Pretendard as a webfonts in a Latin environment with a
 ###### cdnjs
 
 ```css
-@import url("https://cdnjs.cloudflare.com/ajax/libs/pretendard/1.3.8/static/pretendard-std.css");
+@import url("https://cdnjs.cloudflare.com/ajax/libs/pretendard/1.3.9/static/pretendard-std.css");
 ```
 
 ###### UNPKG
 
 ```css
-@import url("https://unpkg.com/pretendard-std@1.3.8/dist/web/static/pretendard-std.css");
+@import url("https://unpkg.com/pretendard-std@1.3.9/dist/web/static/pretendard-std.css");
 ```
 
 </details>
@@ -61,7 +61,7 @@ Use the code below to use Pretendard Std faster by loads the font-slices require
 #### HTML
 
 ```html
-<link rel="stylesheet" as="style" crossorigin href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.8/dist/web/static/pretendard-std-dynamic-subset.css" />
+<link rel="stylesheet" as="style" crossorigin href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/static/pretendard-std-dynamic-subset.min.css" />
 ```
 
 <details>
@@ -71,13 +71,13 @@ Use the code below to use Pretendard Std faster by loads the font-slices require
 ###### cdnjs
 
 ```html
-<link rel="stylesheet" as="style" crossorigin href="https://cdnjs.cloudflare.com/ajax/libs/pretendard/1.3.8/static/pretendard-std-dynamic-subset.css" />
+<link rel="stylesheet" as="style" crossorigin href="https://cdnjs.cloudflare.com/ajax/libs/pretendard/1.3.9/static/pretendard-std-dynamic-subset.css" />
 ```
 
 ###### UNPKG
 
 ```html
-<link rel="stylesheet" as="style" crossorigin href="https://unpkg.com/pretendard-std@1.3.8/dist/web/static/pretendard-std-dynamic-subset.css" />
+<link rel="stylesheet" as="style" crossorigin href="https://unpkg.com/pretendard-std@1.3.9/dist/web/static/pretendard-std-dynamic-subset.min.css" />
 ```
 
 </details>
@@ -85,7 +85,7 @@ Use the code below to use Pretendard Std faster by loads the font-slices require
 #### CSS
 
 ```css
-@import url("https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.8/dist/web/static/pretendard-std-dynamic-subset.css");
+@import url("https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/static/pretendard-std-dynamic-subset.min.css");
 ```
 
 <details>
@@ -95,13 +95,13 @@ Use the code below to use Pretendard Std faster by loads the font-slices require
 ###### cdnjs
 
 ```css
-@import url("https://cdnjs.cloudflare.com/ajax/libs/pretendard/1.3.8/static/pretendard-std-dynamic-subset.css");
+@import url("https://cdnjs.cloudflare.com/ajax/libs/pretendard/1.3.9/static/pretendard-std-dynamic-subset.css");
 ```
 
 ###### UNPKG
 
 ```css
-@import url("https://unpkg.com/pretendard-std@1.3.8/dist/web/static/pretendard-std-dynamic-subset.css");
+@import url("https://unpkg.com/pretendard-std@1.3.9/dist/web/static/pretendard-std-dynamic-subset.min.css");
 ```
 
 </details>
@@ -115,7 +115,7 @@ You can use Pretendard Std dynamic subset much faster and smaller file size with
 #### HTML
 
 ```html
-<link rel="stylesheet" as="style" crossorigin href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.8/dist/web/variable/pretendardvariable-std-dynamic-subset.css" />
+<link rel="stylesheet" as="style" crossorigin href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/variable/pretendardvariable-std-dynamic-subset.min.css" />
 ```
 
 <details>
@@ -125,13 +125,13 @@ You can use Pretendard Std dynamic subset much faster and smaller file size with
 ###### cdnjs
 
 ```html
-<link rel="stylesheet" as="style" crossorigin href="https://cdnjs.cloudflare.com/ajax/libs/pretendard/1.3.8/variable/pretendardvariable-std-dynamic-subset.css" />
+<link rel="stylesheet" as="style" crossorigin href="https://cdnjs.cloudflare.com/ajax/libs/pretendard/1.3.9/variable/pretendardvariable-std-dynamic-subset.css" />
 ```
 
 ###### UNPKG
 
 ```html
-<link rel="stylesheet" as="style" crossorigin href="https://unpkg.com/pretendard-std@1.3.8/dist/web/variable/pretendardvariable-std-dynamic-subset.css" />
+<link rel="stylesheet" as="style" crossorigin href="https://unpkg.com/pretendard-std@1.3.9/dist/web/variable/pretendardvariable-std-dynamic-subset.css" />
 ```
 
 </details>
@@ -139,7 +139,7 @@ You can use Pretendard Std dynamic subset much faster and smaller file size with
 #### CSS
 
 ```css
-@import url("https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.8/dist/web/variable/pretendardvariable-std-dynamic-subset.css");
+@import url("https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/variable/pretendardvariable-std-dynamic-subset.min.css");
 ```
 
 <details>
@@ -149,13 +149,13 @@ You can use Pretendard Std dynamic subset much faster and smaller file size with
 ###### cdnjs
 
 ```css
-@import url("https://cdnjs.cloudflare.com/ajax/libs/pretendard/1.3.8/variable/pretendardvariable-std-dynamic-subset.css");
+@import url("https://cdnjs.cloudflare.com/ajax/libs/pretendard/1.3.9/variable/pretendardvariable-std-dynamic-subset.css");
 ```
 
 ###### UNPKG
 
 ```css
-@import url("https://unpkg.com/pretendard-std@1.3.8/dist/web/variable/pretendardvariable-std-dynamic-subset.css");
+@import url("https://unpkg.com/pretendard-std@1.3.9/dist/web/variable/pretendardvariable-std-dynamic-subset.css");
 ```
 
 </details>
@@ -169,7 +169,7 @@ Use the code below to use Pretendard Std with a variable weight axis. Provided f
 #### HTML
 
 ```html
-<link rel="stylesheet" as="style" crossorigin href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.8/dist/web/variable/pretendardvariable-std.css" />
+<link rel="stylesheet" as="style" crossorigin href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/variable/pretendardvariable-std.min.css" />
 ```
 
 <details>
@@ -179,13 +179,13 @@ Use the code below to use Pretendard Std with a variable weight axis. Provided f
 ###### cdnjs
 
 ```html
-<link rel="stylesheet" as="style" crossorigin href="https://cdnjs.cloudflare.com/ajax/libs/pretendard/1.3.8/variable/pretendardvariable-std.css" />
+<link rel="stylesheet" as="style" crossorigin href="https://cdnjs.cloudflare.com/ajax/libs/pretendard/1.3.9/variable/pretendardvariable-std.css" />
 ```
 
 ###### UNPKG
 
 ```html
-<link rel="stylesheet" as="style" crossorigin href="https://unpkg.com/pretendard-std@1.3.8/dist/web/variable/pretendardvariable-std.css" />
+<link rel="stylesheet" as="style" crossorigin href="https://unpkg.com/pretendard-std@1.3.9/dist/web/variable/pretendardvariable-std.css" />
 ```
 
 </details>
@@ -193,7 +193,7 @@ Use the code below to use Pretendard Std with a variable weight axis. Provided f
 #### CSS
 
 ```css
-@import url("https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.8/dist/web/variable/pretendardvariable-std.css");
+@import url("https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/variable/pretendardvariable-std.min.css");
 ```
 
 <details>
@@ -203,13 +203,13 @@ Use the code below to use Pretendard Std with a variable weight axis. Provided f
 ###### cdnjs
 
 ```css
-@import url("https://cdnjs.cloudflare.com/ajax/libs/pretendard/1.3.8/variable/pretendardvariable-std.css");
+@import url("https://cdnjs.cloudflare.com/ajax/libs/pretendard/1.3.9/variable/pretendardvariable-std.css");
 ```
 
 ###### UNPKG
 
 ```css
-@import url("https://unpkg.com/pretendard-std@1.3.8/dist/web/variable/pretendardvariable-std.css");
+@import url("https://unpkg.com/pretendard-std@1.3.9/dist/web/variable/pretendardvariable-std.css");
 ```
 
 </details>

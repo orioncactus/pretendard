@@ -1,6 +1,5 @@
 {
 color = 11;
-export = 0;
 glyphname = question.tag.medium;
 layers = (
 {

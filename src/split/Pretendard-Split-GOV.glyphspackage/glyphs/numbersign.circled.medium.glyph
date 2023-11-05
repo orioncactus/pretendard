@@ -1,6 +1,5 @@
 {
 color = 11;
-export = 0;
 glyphname = numbersign.circled.medium;
 layers = (
 {

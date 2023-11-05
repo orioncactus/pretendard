@@ -335,11 +335,11 @@ Pretendardにコントリビュートしていただきありがとうござい�
 
 [@leejh10003](https://github.com/leejh10003): Pretendardが使用された[例](/examples)を作成しました。
 
-[@black7375](https://github.com/black7375): すべてのWebフォントビルド自動化、npmjsおよびYarnにPublishおよびリリースファイル生成自動化、CDN URLでブザーニング改善、monorepo対応、そしてビルドパフォーマンスの向上を作業してくださいました。
+[@black7375](https://github.com/black7375): すべてのWebフォントビルド自動化、npmjsおよびYarnにPublishおよびリリースファイル生成自動化、CDN URLでブザーニング改善、monorepo対応、ビルドパフォーマンスの向上、そしてPretendard GOV CDNのドキュメンテーション作業を行ってくださいました。
 
 [@victorrica](https://github.com/victorrica): npmとYarn パッケージの配布を作業しました。
 
-[@kms0219kms](https://github.com/kms0219kms): WebフォントCDN配布多重化、ReadmeでのFormattingの改善、Readmeの英語及び日本語文書化を作業してくださいました。
+[@kms0219kms](https://github.com/kms0219kms): すべてのWebフォントCDN配布多重化、ReadmeでのFormattingの改善、Readmeの英語及び日本語文書化を作業してくださいました。
 
 [@Gamsake](https://github.com/Gamsake): ビルド自動化を改善しました。
 

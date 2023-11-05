@@ -336,11 +336,11 @@ Thank you so much for your contribution to Pretendard.
 
 [@leejh10003](https://github.com/leejh10003): Worked making an [example](/examples) using Pretendard.
 
-[@black7375](https://github.com/black7375): Worked automating all Webfont builds, automating release file creation, automating publish on npmjs and Yarn, improving versioning from CDN URLs, setting monorepo, and improving build performance.
+[@black7375](https://github.com/black7375): Worked automating all Webfont builds, automating release file creation, automating publish on npmjs and Yarn, improving versioning from CDN URLs, setting monorepo, and improving build performance, and documenting Pretendard GOV CDN.
 
 [@victorrica](https://github.com/victorrica): Worked publishing npm and Yarn packages.
 
-[@kms0219kms](https://github.com/kms0219kms): Worked webfonts CDN multiplexing, improving formatting from documentation, and readme localization.
+[@kms0219kms](https://github.com/kms0219kms): Worked all webfonts CDN multiplexing, improving formatting from documentation, and readme localization.
 
 [@Gamsake](https://github.com/Gamsake): Worked improving build automation.
 

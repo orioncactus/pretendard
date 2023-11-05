@@ -9,7 +9,7 @@
 #### HTML
 
 ```html
-<link rel="stylesheet" as="style" crossorigin href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.8/dist/web/static/pretendard-jp.css" />
+<link rel="stylesheet" as="style" crossorigin href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/static/pretendard-jp.css" />
 ```
 
 <details>
@@ -19,13 +19,13 @@
 ###### cdnjs
 
 ```html
-<link rel="stylesheet" as="style" crossorigin href="https://cdnjs.cloudflare.com/ajax/libs/pretendard-jp/1.3.8/static/pretendard-jp.css" />
+<link rel="stylesheet" as="style" crossorigin href="https://cdnjs.cloudflare.com/ajax/libs/pretendard-jp/1.3.9/static/pretendard-jp.css" />
 ```
 
 ###### UNPKG
 
 ```html
-<link rel="stylesheet" as="style" crossorigin href="https://unpkg.com/pretendard-jp@1.3.8/dist/web/static/pretendard-jp.css" />
+<link rel="stylesheet" as="style" crossorigin href="https://unpkg.com/pretendard-jp@1.3.9/dist/web/static/pretendard-jp.css" />
 ```
 
 </details>
@@ -33,7 +33,7 @@
 #### CSS
 
 ```css
-@import url("https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.8/dist/web/static/pretendard-jp.css");
+@import url("https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/static/pretendard-jp.css");
 ```
 
 <details>
@@ -43,13 +43,13 @@
 ###### cdnjs
 
 ```css
-@import url("https://cdnjs.cloudflare.com/ajax/libs/pretendard-jp/1.3.8/static/pretendard-jp.css");
+@import url("https://cdnjs.cloudflare.com/ajax/libs/pretendard-jp/1.3.9/static/pretendard-jp.css");
 ```
 
 ###### UNPKG
 
 ```css
-@import url("https://unpkg.com/pretendard-jp@1.3.8/dist/web/static/pretendard-jp.css");
+@import url("https://unpkg.com/pretendard-jp@1.3.9/dist/web/static/pretendard-jp.css");
 ```
 
 </details>
@@ -63,7 +63,7 @@
 #### HTML
 
 ```html
-<link rel="stylesheet" as="style" crossorigin href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.8/dist/web/static/pretendard-jp-dynamic-subset.css" />
+<link rel="stylesheet" as="style" crossorigin href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/static/pretendard-jp-dynamic-subset.css" />
 ```
 
 <details>
@@ -73,13 +73,13 @@
 ###### cdnjs
 
 ```html
-<link rel="stylesheet" as="style" crossorigin href="https://cdnjs.cloudflare.com/ajax/libs/pretendard-jp/1.3.8/static/pretendard-jp-dynamic-subset.css" />
+<link rel="stylesheet" as="style" crossorigin href="https://cdnjs.cloudflare.com/ajax/libs/pretendard-jp/1.3.9/static/pretendard-jp-dynamic-subset.css" />
 ```
 
 ###### UNPKG
 
 ```html
-<link rel="stylesheet" as="style" crossorigin href="https://unpkg.com/pretendard-jp@1.3.8/dist/web/static/pretendard-jp-dynamic-subset.css" />
+<link rel="stylesheet" as="style" crossorigin href="https://unpkg.com/pretendard-jp@1.3.9/dist/web/static/pretendard-jp-dynamic-subset.css" />
 ```
 
 </details>
@@ -87,7 +87,7 @@
 #### CSS
 
 ```css
-@import url("https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.8/dist/web/static/pretendard-jp-dynamic-subset.css");
+@import url("https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/static/pretendard-jp-dynamic-subset.css");
 ```
 
 <details>
@@ -97,13 +97,13 @@
 ###### cdnjs
 
 ```css
-@import url("https://cdnjs.cloudflare.com/ajax/libs/pretendard-jp/1.3.8/static/pretendard-jp-dynamic-subset.css");
+@import url("https://cdnjs.cloudflare.com/ajax/libs/pretendard-jp/1.3.9/static/pretendard-jp-dynamic-subset.css");
 ```
 
 ###### UNPKG
 
 ```css
-@import url("https://unpkg.com/pretendard-jp@1.3.8/dist/web/static/pretendard-jp-dynamic-subset.css");
+@import url("https://unpkg.com/pretendard-jp@1.3.9/dist/web/static/pretendard-jp-dynamic-subset.css");
 ```
 
 </details>
@@ -117,7 +117,7 @@
 #### HTML
 
 ```html
-<link rel="stylesheet" as="style" crossorigin href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.8/dist/web/variable/pretendardvariable-jp-dynamic-subset.css" />
+<link rel="stylesheet" as="style" crossorigin href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/variable/pretendardvariable-jp-dynamic-subset.css" />
 ```
 
 <details>
@@ -127,13 +127,13 @@
 ###### cdnjs
 
 ```html
-<link rel="stylesheet" as="style" crossorigin href="https://cdnjs.cloudflare.com/ajax/libs/pretendard-jp/1.3.8/variable/pretendardvariable-jp-dynamic-subset.css" />
+<link rel="stylesheet" as="style" crossorigin href="https://cdnjs.cloudflare.com/ajax/libs/pretendard-jp/1.3.9/variable/pretendardvariable-jp-dynamic-subset.css" />
 ```
 
 ###### UNPKG
 
 ```html
-<link rel="stylesheet" as="style" crossorigin href="https://unpkg.com/pretendard-jp@1.3.8/dist/web/variable/pretendardvariable-jp-dynamic-subset.css" />
+<link rel="stylesheet" as="style" crossorigin href="https://unpkg.com/pretendard-jp@1.3.9/dist/web/variable/pretendardvariable-jp-dynamic-subset.css" />
 ```
 
 </details>
@@ -141,7 +141,7 @@
 #### CSS
 
 ```css
-@import url("https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.8/dist/web/variable/pretendardvariable-jp-dynamic-subset.css");
+@import url("https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/variable/pretendardvariable-jp-dynamic-subset.css");
 ```
 
 <details>
@@ -151,13 +151,13 @@
 ###### cdnjs
 
 ```css
-@import url("https://cdnjs.cloudflare.com/ajax/libs/pretendard-jp/1.3.8/variable/pretendardvariable-jp-dynamic-subset.css");
+@import url("https://cdnjs.cloudflare.com/ajax/libs/pretendard-jp/1.3.9/variable/pretendardvariable-jp-dynamic-subset.css");
 ```
 
 ###### UNPKG
 
 ```css
-@import url("https://unpkg.com/pretendard-jp@1.3.8/dist/web/variable/pretendardvariable-jp-dynamic-subset.css");
+@import url("https://unpkg.com/pretendard-jp@1.3.9/dist/web/variable/pretendardvariable-jp-dynamic-subset.css");
 ```
 
 </details>
@@ -169,7 +169,7 @@
 #### HTML
 
 ```html
-<link rel="stylesheet" as="style" crossorigin href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.8/dist/web/variable/pretendardvariable-jp.css" />
+<link rel="stylesheet" as="style" crossorigin href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/variable/pretendardvariable-jp.css" />
 ```
 
 <details>
@@ -179,13 +179,13 @@
 ###### cdnjs
 
 ```html
-<link rel="stylesheet" as="style" crossorigin href="https://cdnjs.cloudflare.com/ajax/libs/pretendard-jp/1.3.8/variable/pretendardvariable-jp.css" />
+<link rel="stylesheet" as="style" crossorigin href="https://cdnjs.cloudflare.com/ajax/libs/pretendard-jp/1.3.9/variable/pretendardvariable-jp.css" />
 ```
 
 ###### UNPKG
 
 ```html
-<link rel="stylesheet" as="style" crossorigin href="https://unpkg.com/pretendard-jp@1.3.8/dist/web/variable/pretendardvariable-jp.css" />
+<link rel="stylesheet" as="style" crossorigin href="https://unpkg.com/pretendard-jp@1.3.9/dist/web/variable/pretendardvariable-jp.css" />
 ```
 
 </details>
@@ -193,7 +193,7 @@
 #### CSS
 
 ```css
-@import url("https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.8/dist/web/variable/pretendardvariable-jp.css");
+@import url("https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/variable/pretendardvariable-jp.css");
 ```
 
 <details>
@@ -203,13 +203,13 @@
 ###### cdnjs
 
 ```css
-@import url("https://cdnjs.cloudflare.com/ajax/libs/pretendard-jp/1.3.8/variable/pretendardvariable-jp.css");
+@import url("https://cdnjs.cloudflare.com/ajax/libs/pretendard-jp/1.3.9/variable/pretendardvariable-jp.css");
 ```
 
 ###### UNPKG
 
 ```css
-@import url("https://unpkg.com/pretendard-jp@1.3.8/dist/web/variable/pretendardvariable-jp.css");
+@import url("https://unpkg.com/pretendard-jp@1.3.9/dist/web/variable/pretendardvariable-jp.css");
 ```
 
 </details>

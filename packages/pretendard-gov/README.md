@@ -177,7 +177,7 @@
 ```html
 <link rel="stylesheet" as="style" crossorigin href="https://cdnjs.cloudflare.com/ajax/libs/pretendard-gov/1.3.9/variable/pretendardvariable-gov.min.css" />
 ```
-  
+
 ###### UNPKG
 
 ```html

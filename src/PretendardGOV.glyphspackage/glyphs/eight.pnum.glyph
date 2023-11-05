@@ -3,6 +3,12 @@ color = 11;
 glyphname = eight.pnum;
 layers = (
 {
+anchors = (
+{
+name = _symbol;
+pos = (834,1024);
+}
+);
 associatedMasterId = "5C20EF92-B63D-42A8-8878-93C2863E0093";
 layerId = "92C60E57-30C2-429E-BB4D-A2926C4F04FC";
 name = "Nov 12, 22 19:01";
@@ -76,6 +82,12 @@ nodes = (
 width = 1668;
 },
 {
+anchors = (
+{
+name = _symbol;
+pos = (834,1024);
+}
+);
 associatedMasterId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
 layerId = "23FFFE89-9770-4FA6-A4F0-8FB580A571A6";
 name = "Nov 12, 22 22:39";
@@ -149,6 +161,12 @@ nodes = (
 width = 1668;
 },
 {
+anchors = (
+{
+name = _symbol;
+pos = (834,1024);
+}
+);
 associatedMasterId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
 layerId = "0A51E312-1547-4D90-BDA3-DB24EAA1E16B";
 name = "Nov 13, 22 0:21";
@@ -222,6 +240,12 @@ nodes = (
 width = 1668;
 },
 {
+anchors = (
+{
+name = _symbol;
+pos = (834,1024);
+}
+);
 associatedMasterId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
 layerId = "A3DD655D-DA9C-48BC-98F6-FF3DEDA4B208";
 name = "Nov 14, 22 1:11";
@@ -295,6 +319,12 @@ nodes = (
 width = 1668;
 },
 {
+anchors = (
+{
+name = _symbol;
+pos = (834,1024);
+}
+);
 associatedMasterId = "5C20EF92-B63D-42A8-8878-93C2863E0093";
 layerId = "DA23CF16-6D77-4859-A4A7-CFA08139D2A0";
 name = "Feb 26, 23 17:37";
@@ -368,6 +398,12 @@ nodes = (
 width = 1668;
 },
 {
+anchors = (
+{
+name = _symbol;
+pos = (834,1024);
+}
+);
 layerId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
 name = Normal;
 shapes = (
@@ -440,6 +476,12 @@ nodes = (
 width = 1668;
 },
 {
+anchors = (
+{
+name = _symbol;
+pos = (834,1024);
+}
+);
 associatedMasterId = "5C20EF92-B63D-42A8-8878-93C2863E0093";
 background = {
 shapes = (
@@ -526,6 +568,12 @@ nodes = (
 width = 1668;
 },
 {
+anchors = (
+{
+name = _symbol;
+pos = (834,1024);
+}
+);
 layerId = "5C20EF92-B63D-42A8-8878-93C2863E0093";
 name = Black;
 shapes = (
@@ -598,6 +646,12 @@ nodes = (
 width = 1668;
 },
 {
+anchors = (
+{
+name = _symbol;
+pos = (834,1024);
+}
+);
 associatedMasterId = "B1F27B51-9973-4381-9301-4FE46FE1CA59";
 background = {
 shapes = (
@@ -693,6 +747,12 @@ nodes = (
 width = 1668;
 },
 {
+anchors = (
+{
+name = _symbol;
+pos = (834,1024);
+}
+);
 layerId = "B1F27B51-9973-4381-9301-4FE46FE1CA59";
 name = Thin;
 shapes = (

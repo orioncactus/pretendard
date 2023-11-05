@@ -17,7 +17,7 @@ alignment = 1;
 ref = whiteCircle;
 }
 );
-width = 2468;
+width = 2504;
 },
 {
 guides = (
@@ -33,7 +33,7 @@ alignment = 1;
 ref = whiteCircle;
 }
 );
-width = 2644;
+width = 2504;
 },
 {
 layerId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
@@ -43,7 +43,7 @@ alignment = 1;
 ref = whiteCircle;
 }
 );
-width = 2524;
+width = 2504;
 },
 {
 associatedMasterId = "5C20EF92-B63D-42A8-8878-93C2863E0093";

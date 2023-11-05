@@ -4,55 +4,99 @@ export = 0;
 glyphname = dngb_check.tag;
 layers = (
 {
+anchors = (
+{
+name = _symbol;
+pos = (846,678);
+}
+);
 layerId = "B1F27B51-9973-4381-9301-4FE46FE1CA59";
 shapes = (
 {
 closed = 1;
 nodes = (
-(354,660,l),
-(980,1282,l),
-(934,1328,l),
-(354,748,l),
-(64,1036,l),
-(20,990,l)
+(648,240,l),
+(1488,1076,l),
+(1442,1118,l),
+(648,326,l),
+(246,722,l),
+(204,678,l)
 );
 }
 );
-width = 1000;
+userData = {
+RMXScaler = {
+height = 70;
+weight = 24;
+width = 70;
+};
+};
+width = 1692;
 },
 {
+anchors = (
+{
+name = _symbol;
+pos = (866,634);
+}
+);
 layerId = "5C20EF92-B63D-42A8-8878-93C2863E0093";
 shapes = (
 {
 closed = 1;
 nodes = (
-(366,538,l),
-(1010,1180,l),
-(812,1378,l),
-(366,934,l),
-(184,1112,l),
-(-14,914,l)
+(668,58,l),
+(1598,986,l),
+(1372,1210,l),
+(668,508,l),
+(358,814,l),
+(132,588,l)
 );
 }
 );
-width = 1000;
+userData = {
+RMXScaler = {
+height = 70;
+weight = -360;
+width = 70;
+};
+};
+width = 1730;
 },
 {
+anchors = (
+{
+name = _symbol;
+pos = (856,656);
+}
+);
 layerId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
 shapes = (
 {
 closed = 1;
 nodes = (
-(362,594,l),
-(994,1224,l),
-(866,1354,l),
-(362,850,l),
-(132,1076,l),
-(4,950,l)
+(658,140,l),
+(1548,1028,l),
+(1404,1170,l),
+(658,426,l),
+(304,772,l),
+(164,630,l)
 );
 }
 );
-width = 1000;
+userData = {
+RMXScaler = {
+height = 70;
+weight = -44;
+width = 70;
+};
+};
+width = 1712;
 }
 );
+userData = {
+RMXScaler = {
+source = dngb_check;
+};
+};
 }

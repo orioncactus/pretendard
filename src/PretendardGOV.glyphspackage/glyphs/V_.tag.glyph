@@ -2,16 +2,22 @@
 color = 4;
 export = 0;
 glyphname = V.tag;
+kernLeft = V.tag;
+kernRight = V.tag;
 layers = (
 {
 anchors = (
 {
+name = _symbol;
+pos = (556,666);
+},
+{
 name = bottom;
-pos = (500.223,496);
+pos = (556,0);
 },
 {
 name = top;
-pos = (500.223,1685.58);
+pos = (556,1498);
 }
 );
 layerId = "B1F27B51-9973-4381-9301-4FE46FE1CA59";
@@ -19,28 +25,39 @@ shapes = (
 {
 closed = 1;
 nodes = (
-(78,1554,l),
-(460,496,l),
-(540,496,l),
-(922,1554,l),
-(848,1554,l),
-(504,584,l),
-(496,584,l),
-(152,1554,l)
+(38,1332,l),
+(516,0,l),
+(596,0,l),
+(1074,1332,l),
+(1004,1332,l),
+(560,82,l),
+(552,82,l),
+(108,1332,l)
 );
 }
 );
-width = 1000;
+userData = {
+RMXScaler = {
+height = 65;
+weight = 28;
+width = 65;
+};
+};
+width = 1112;
 },
 {
 anchors = (
 {
+name = _symbol;
+pos = (716,666);
+},
+{
 name = bottom;
-pos = (496.522,546);
+pos = (716,0);
 },
 {
 name = top;
-pos = (496.522,1622.229);
+pos = (716,1498);
 }
 );
 layerId = "5C20EF92-B63D-42A8-8878-93C2863E0093";
@@ -48,28 +65,39 @@ shapes = (
 {
 closed = 1;
 nodes = (
-(-20,1502,l),
-(290,546,l),
-(704,546,l),
-(1014,1502,l),
-(674,1502,l),
-(500,868,l),
-(494,868,l),
-(320,1502,l)
+(40,1332,l),
+(484,0,l),
+(946,0,l),
+(1390,1332,l),
+(1006,1332,l),
+(720,374,l),
+(710,374,l),
+(424,1332,l)
 );
 }
 );
-width = 1000;
+userData = {
+RMXScaler = {
+height = 65;
+weight = -360;
+width = 65;
+};
+};
+width = 1430;
 },
 {
 anchors = (
 {
+name = _symbol;
+pos = (638,666);
+},
+{
 name = bottom;
-pos = (502,524);
+pos = (638,0);
 },
 {
 name = top;
-pos = (502,1648);
+pos = (638,1498);
 }
 );
 layerId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
@@ -77,19 +105,33 @@ shapes = (
 {
 closed = 1;
 nodes = (
-(28,1522,l),
-(376,524,l),
-(626,524,l),
-(974,1522,l),
-(756,1522,l),
-(506,752,l),
-(496,752,l),
-(246,1522,l)
+(34,1332,l),
+(508,0,l),
+(768,0,l),
+(1242,1332,l),
+(1006,1332,l),
+(646,262,l),
+(632,262,l),
+(272,1332,l)
 );
 }
 );
-width = 1000;
+userData = {
+RMXScaler = {
+height = 65;
+weight = -48;
+width = 65;
+};
+};
+width = 1276;
 }
 );
+metricLeft = A.tag;
+metricRight = A.tag;
 unicode = 917590;
+userData = {
+RMXScaler = {
+source = V;
+};
+};
 }

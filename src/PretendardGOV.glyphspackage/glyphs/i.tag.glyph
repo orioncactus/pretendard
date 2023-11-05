@@ -1,0 +1,197 @@
+{
+export = 0;
+glyphname = i.tag;
+kernLeft = idotless.tag;
+kernRight = idotless.tag;
+layers = (
+{
+anchors = (
+{
+name = _symbol;
+pos = (186,642);
+},
+{
+name = bottom;
+pos = (186,0);
+},
+{
+name = cross;
+pos = (186,522);
+},
+{
+name = ogonek;
+pos = (218,0);
+},
+{
+name = top;
+pos = (186,1164);
+}
+);
+layerId = "B1F27B51-9973-4381-9301-4FE46FE1CA59";
+shapes = (
+{
+closed = 1;
+nodes = (
+(218,0,l),
+(218,998,l),
+(154,998,l),
+(154,0,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(216,1178,o),
+(242,1202,o),
+(242,1230,cs),
+(242,1260,o),
+(218,1284,o),
+(186,1284,cs),
+(158,1284,o),
+(132,1260,o),
+(132,1230,cs),
+(132,1202,o),
+(158,1178,o),
+(186,1178,cs)
+);
+}
+);
+userData = {
+RMXScaler = {
+height = 65;
+weight = 28;
+width = 65;
+};
+};
+width = 374;
+},
+{
+anchors = (
+{
+name = _symbol;
+pos = (222,694);
+},
+{
+name = bottom;
+pos = (224,0);
+},
+{
+name = cross;
+pos = (222,534);
+},
+{
+name = ogonek;
+pos = (328,0);
+},
+{
+name = top;
+pos = (224,1164);
+}
+);
+layerId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
+shapes = (
+{
+closed = 1;
+nodes = (
+(328,0,l),
+(328,998,l),
+(116,998,l),
+(116,0,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(294,1148,o),
+(352,1202,o),
+(352,1268,cs),
+(352,1336,o),
+(292,1390,o),
+(224,1390,cs),
+(154,1390,o),
+(94,1336,o),
+(94,1268,cs),
+(94,1202,o),
+(152,1148,o),
+(224,1148,cs)
+);
+}
+);
+userData = {
+RMXScaler = {
+height = 65;
+weight = -48;
+width = 65;
+};
+};
+width = 446;
+},
+{
+anchors = (
+{
+name = _symbol;
+pos = (264,712);
+},
+{
+name = bottom;
+pos = (266,0);
+},
+{
+name = cross;
+pos = (262,544);
+},
+{
+name = ogonek;
+pos = (434,0);
+},
+{
+name = top;
+pos = (264,1164);
+}
+);
+layerId = "5C20EF92-B63D-42A8-8878-93C2863E0093";
+shapes = (
+{
+closed = 1;
+nodes = (
+(434,0,l),
+(434,998,l),
+(94,998,l),
+(94,0,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(358,1108,o),
+(434,1180,o),
+(434,1266,cs),
+(434,1354,o),
+(358,1424,o),
+(264,1424,cs),
+(170,1424,o),
+(94,1354,o),
+(94,1266,cs),
+(94,1180,o),
+(170,1108,o),
+(264,1108,cs)
+);
+}
+);
+userData = {
+RMXScaler = {
+height = 65;
+weight = -360;
+width = 65;
+};
+};
+width = 528;
+}
+);
+unicode = 917609;
+userData = {
+RMXScaler = {
+source = i;
+};
+};
+}

@@ -1,0 +1,46 @@
+{
+glyphname = one_five.paren.ss20;
+layers = (
+{
+layerId = "B1F27B51-9973-4381-9301-4FE46FE1CA59";
+shapes = (
+{
+ref = _part.paren.symbol;
+},
+{
+pos = (418,468);
+ref = one_five.tag.ss20;
+}
+);
+width = 2504;
+},
+{
+layerId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
+shapes = (
+{
+ref = _part.paren.symbol;
+},
+{
+pos = (460,468);
+ref = one_five.tag.ss20;
+}
+);
+width = 2504;
+},
+{
+layerId = "5C20EF92-B63D-42A8-8878-93C2863E0093";
+shapes = (
+{
+ref = _part.paren.symbol;
+},
+{
+pos = (502,468);
+ref = one_five.tag.ss20;
+}
+);
+width = 2504;
+}
+);
+metricLeft = _part.paren.symbol;
+metricRight = _part.paren.symbol;
+}

@@ -11,15 +11,14 @@ alignment = 1;
 ref = blackCircle;
 },
 {
-alignment = -1;
 attr = {
 reversePaths = "1";
 };
-pos = (737,36);
+pos = (406,350);
 ref = dngb_ballotx.tag;
 }
 );
-width = 2468;
+width = 2504;
 },
 {
 layerId = "5C20EF92-B63D-42A8-8878-93C2863E0093";
@@ -29,34 +28,31 @@ alignment = 1;
 ref = blackCircle;
 },
 {
-alignment = -1;
 attr = {
 reversePaths = "1";
 };
-pos = (822,68);
+pos = (388,394);
 ref = dngb_ballotx.tag;
 }
 );
-width = 2644;
+width = 2504;
 },
 {
 layerId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
 shapes = (
 {
-alignment = -1;
-pos = (-2,0);
+alignment = 1;
 ref = blackCircle;
 },
 {
-alignment = -1;
 attr = {
 reversePaths = "1";
 };
-pos = (764,54);
+pos = (394,376);
 ref = dngb_ballotx.tag;
 }
 );
-width = 2524;
+width = 2504;
 }
 );
 unicode = 61463;

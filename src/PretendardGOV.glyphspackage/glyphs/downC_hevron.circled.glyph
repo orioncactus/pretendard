@@ -11,12 +11,11 @@ alignment = 1;
 ref = whiteCircle;
 },
 {
-alignment = -1;
-pos = (736,0);
+pos = (334,246);
 ref = downChevron.tag;
 }
 );
-width = 2468;
+width = 2504;
 },
 {
 layerId = "5C20EF92-B63D-42A8-8878-93C2863E0093";
@@ -26,28 +25,25 @@ alignment = 1;
 ref = whiteCircle;
 },
 {
-alignment = -1;
-pos = (822,0);
+pos = (314,248);
 ref = downChevron.tag;
 }
 );
-width = 2644;
+width = 2504;
 },
 {
 layerId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
 shapes = (
 {
-alignment = -1;
-pos = (-2,0);
+alignment = 1;
 ref = whiteCircle;
 },
 {
-alignment = -1;
-pos = (764,0);
+pos = (324,248);
 ref = downChevron.tag;
 }
 );
-width = 2524;
+width = 2504;
 }
 );
 unicode = 61511;

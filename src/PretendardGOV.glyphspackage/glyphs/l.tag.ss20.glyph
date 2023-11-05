@@ -1,0 +1,182 @@
+{
+export = 0;
+glyphname = l.tag.ss20;
+kernLeft = B.tag;
+kernRight = H.tag;
+layers = (
+{
+anchors = (
+{
+name = _symbol;
+pos = (242,666);
+},
+{
+name = bottom;
+pos = (246,0);
+},
+{
+name = cross;
+pos = (182,686);
+},
+{
+name = raccent;
+pos = (336,1332);
+},
+{
+name = top;
+pos = (182,1498);
+}
+);
+layerId = "B1F27B51-9973-4381-9301-4FE46FE1CA59";
+shapes = (
+{
+closed = 1;
+nodes = (
+(150,1332,l),
+(150,242,ls),
+(150,94,o),
+(254,0,o),
+(390,0,cs),
+(398,0,o),
+(402,0,o),
+(410,0,c),
+(410,62,l),
+(404,62,o),
+(398,62,o),
+(392,62,cs),
+(294,62,o),
+(214,130,o),
+(214,242,cs),
+(214,1332,l)
+);
+}
+);
+userData = {
+RMXScaler = {
+height = 65;
+weight = 28;
+width = 65;
+};
+};
+width = 486;
+},
+{
+anchors = (
+{
+name = _symbol;
+pos = (274,666);
+},
+{
+name = bottom;
+pos = (276,0);
+},
+{
+name = cross;
+pos = (222,692);
+},
+{
+name = raccent;
+pos = (450,1332);
+},
+{
+name = top;
+pos = (222,1498);
+}
+);
+layerId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
+shapes = (
+{
+closed = 1;
+nodes = (
+(116,1332,l),
+(116,312,l),
+(116,106,o),
+(234,0,o),
+(446,0,cs),
+(462,0,o),
+(474,0,o),
+(490,0,c),
+(490,178,l),
+(478,178,o),
+(468,178,o),
+(458,178,cs),
+(366,178,o),
+(328,226,o),
+(328,316,c),
+(328,1332,l)
+);
+}
+);
+userData = {
+RMXScaler = {
+height = 65;
+weight = -48;
+width = 65;
+};
+};
+width = 548;
+},
+{
+anchors = (
+{
+name = _symbol;
+pos = (318,666);
+},
+{
+name = bottom;
+pos = (314,0);
+},
+{
+name = cross;
+pos = (264,702);
+},
+{
+name = raccent;
+pos = (540,1332);
+},
+{
+name = top;
+pos = (264,1498);
+}
+);
+layerId = "5C20EF92-B63D-42A8-8878-93C2863E0093";
+shapes = (
+{
+closed = 1;
+nodes = (
+(94,1332,l),
+(94,336,ls),
+(94,82,o),
+(262,0,o),
+(518,0,cs),
+(522,0,o),
+(570,0,o),
+(588,2,c),
+(588,256,l),
+(576,256,o),
+(568,254,o),
+(546,254,cs),
+(460,254,o),
+(432,282,o),
+(432,344,cs),
+(432,1332,l)
+);
+}
+);
+userData = {
+RMXScaler = {
+height = 65;
+weight = -360;
+width = 65;
+};
+};
+width = 636;
+}
+);
+metricLeft = h.tag;
+userData = {
+RMXScaler = {
+source = l.ss02;
+};
+};
+}

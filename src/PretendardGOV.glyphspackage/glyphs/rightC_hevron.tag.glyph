@@ -4,55 +4,101 @@ export = 0;
 glyphname = rightChevron.tag;
 layers = (
 {
+anchors = (
+{
+name = _symbol;
+pos = (590,716);
+}
+);
 layerId = "B1F27B51-9973-4381-9301-4FE46FE1CA59";
 shapes = (
 {
 closed = 1;
 nodes = (
-(812,1024,l),
-(350,1488,l),
-(306,1442,l),
-(724,1024,l),
-(306,608,l),
-(350,562,l)
+(338,1300,l),
+(924,716,l),
+(338,132,l),
+(382,90,l),
+(1010,716,l),
+(382,1344,l)
 );
 }
 );
-width = 1000;
+userData = {
+RMXScaler = {
+height = 70;
+weight = 24;
+width = 70;
+};
+};
+width = 1096;
 },
 {
+anchors = (
+{
+name = _symbol;
+pos = (728,716);
+}
+);
 layerId = "5C20EF92-B63D-42A8-8878-93C2863E0093";
 shapes = (
 {
 closed = 1;
 nodes = (
-(878,1024,l),
-(352,1550,l),
-(202,1400,l),
-(576,1024,l),
-(202,648,l),
-(352,500,l)
+(366,1268,l),
+(918,716,l),
+(366,166,l),
+(546,-12,l),
+(1276,716,l),
+(546,1446,l)
 );
 }
 );
-width = 1000;
+userData = {
+RMXScaler = {
+height = 70;
+weight = -360;
+width = 70;
+};
+};
+width = 1372;
 },
 {
+anchors = (
+{
+name = _symbol;
+pos = (656,716);
+}
+);
 layerId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
 shapes = (
 {
 closed = 1;
 nodes = (
-(844,1024,l),
-(362,1508,l),
-(254,1400,l),
-(632,1022,l),
-(254,648,l),
-(362,540,l)
+(352,1246,l),
+(882,716,l),
+(352,186,l),
+(480,60,l),
+(1136,716,l),
+(480,1372,l)
 );
 }
 );
-width = 1000;
+userData = {
+RMXScaler = {
+height = 70;
+weight = -44;
+width = 70;
+};
+};
+width = 1228;
 }
 );
+metricLeft = rightChevron.tag;
+metricRight = rightChevron.tag;
+userData = {
+RMXScaler = {
+source = rightChevron.case;
+};
+};
 }

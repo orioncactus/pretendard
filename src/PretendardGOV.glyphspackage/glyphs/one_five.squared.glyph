@@ -11,11 +11,11 @@ alignment = 1;
 ref = whiteRoundedCornersSquare;
 },
 {
-pos = (736,0);
+pos = (554,468);
 ref = one_five.tag;
 }
 );
-width = 2468;
+width = 2504;
 },
 {
 layerId = "5C20EF92-B63D-42A8-8878-93C2863E0093";
@@ -25,11 +25,11 @@ alignment = 1;
 ref = whiteRoundedCornersSquare;
 },
 {
-pos = (822,0);
+pos = (566,468);
 ref = one_five.tag;
 }
 );
-width = 2644;
+width = 2504;
 },
 {
 layerId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
@@ -39,11 +39,11 @@ alignment = 1;
 ref = whiteRoundedCornersSquare;
 },
 {
-pos = (762,0);
+pos = (528,468);
 ref = one_five.tag;
 }
 );
-width = 2524;
+width = 2504;
 }
 );
 unicode = 61445;

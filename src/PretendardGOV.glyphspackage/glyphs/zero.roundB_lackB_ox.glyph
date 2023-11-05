@@ -255,14 +255,15 @@ alignment = 1;
 ref = blackSquare;
 },
 {
+alignment = 1;
 attr = {
 reversePaths = "1";
 };
-pos = (736,0);
+pos = (696,308);
 ref = zero.tag;
 }
 );
-width = 2468;
+width = 2504;
 },
 {
 background = {
@@ -516,14 +517,15 @@ alignment = 1;
 ref = blackSquare;
 },
 {
+alignment = 1;
 attr = {
 reversePaths = "1";
 };
-pos = (822,0);
+pos = (594,358);
 ref = zero.tag;
 }
 );
-width = 2644;
+width = 2504;
 },
 {
 associatedMasterId = "B1F27B51-9973-4381-9301-4FE46FE1CA59";
@@ -567,14 +569,15 @@ alignment = 1;
 ref = blackSquare;
 },
 {
+alignment = 1;
 attr = {
 reversePaths = "1";
 };
-pos = (762,0);
+pos = (632,308);
 ref = zero.tag;
 }
 );
-width = 2524;
+width = 2504;
 }
 );
 unicode = 61468;

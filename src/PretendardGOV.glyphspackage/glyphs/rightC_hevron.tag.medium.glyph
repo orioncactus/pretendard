@@ -1,58 +1,19 @@
 {
-color = 4;
+color = 11;
 export = 0;
 glyphname = rightChevron.tag.medium;
 layers = (
 {
-layerId = "5C20EF92-B63D-42A8-8878-93C2863E0093";
-shapes = (
-{
-closed = 1;
-nodes = (
-(241,1475,l),
-(692,1025,l),
-(241,574,l),
-(422,395,l),
-(1052,1025,l),
-(422,1655,l)
-);
-}
-);
-width = 1200;
-},
-{
 layerId = "B1F27B51-9973-4381-9301-4FE46FE1CA59";
-shapes = (
-{
-closed = 1;
-nodes = (
-(365,1542,l),
-(883,1025,l),
-(365,507,l),
-(408,465,l),
-(968,1025,l),
-(408,1585,l)
-);
-}
-);
-width = 1200;
+width = 0;
 },
 {
 layerId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
-shapes = (
+width = 1700;
+},
 {
-closed = 1;
-nodes = (
-(304,1474,l),
-(754,1024,l),
-(304,574,l),
-(428,450,l),
-(1004,1024,l),
-(428,1600,l)
-);
-}
-);
-width = 1200;
+layerId = "5C20EF92-B63D-42A8-8878-93C2863E0093";
+width = 1700;
 }
 );
 }

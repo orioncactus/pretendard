@@ -11,14 +11,15 @@ alignment = 1;
 ref = blackCircle;
 },
 {
+alignment = 1;
 attr = {
 reversePaths = "1";
 };
-pos = (735,0);
+pos = (596,358);
 ref = H.tag;
 }
 );
-width = 2468;
+width = 2504;
 },
 {
 layerId = "5C20EF92-B63D-42A8-8878-93C2863E0093";
@@ -28,14 +29,15 @@ alignment = 1;
 ref = blackCircle;
 },
 {
+alignment = 1;
 attr = {
 reversePaths = "1";
 };
-pos = (822,0);
+pos = (568,358);
 ref = H.tag;
 }
 );
-width = 2644;
+width = 2504;
 },
 {
 layerId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
@@ -45,14 +47,15 @@ alignment = 1;
 ref = blackCircle;
 },
 {
+alignment = 1;
 attr = {
 reversePaths = "1";
 };
-pos = (762,0);
+pos = (582,358);
 ref = H.tag;
 }
 );
-width = 2524;
+width = 2504;
 }
 );
 unicode = 127319;

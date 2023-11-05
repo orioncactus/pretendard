@@ -255,11 +255,11 @@ alignment = 1;
 ref = whiteCircle;
 },
 {
-pos = (735,0);
+pos = (696,308);
 ref = zero.tag;
 }
 );
-width = 2468;
+width = 2504;
 },
 {
 background = {
@@ -513,11 +513,11 @@ alignment = 1;
 ref = whiteCircle;
 },
 {
-pos = (822,0);
+pos = (594,358);
 ref = zero.tag;
 }
 );
-width = 2644;
+width = 2504;
 },
 {
 associatedMasterId = "B1F27B51-9973-4381-9301-4FE46FE1CA59";
@@ -561,11 +561,11 @@ alignment = 1;
 ref = whiteCircle;
 },
 {
-pos = (764,0);
+pos = (632,308);
 ref = zero.tag;
 }
 );
-width = 2524;
+width = 2504;
 }
 );
 unicode = (9450,127243);

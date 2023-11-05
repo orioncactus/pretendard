@@ -1,70 +1,19 @@
 {
+color = 11;
+export = 0;
 glyphname = whiteCircle.medium;
-kernLeft = C;
-kernRight = D;
 layers = (
 {
 layerId = "B1F27B51-9973-4381-9301-4FE46FE1CA59";
-metricLeft = "=O*1.2";
-metricRight = "=O*1.2";
-shapes = (
-{
-pos = (26,0);
-ref = u100000;
-}
-);
-width = 2948;
-},
-{
-guides = (
-{
-pos = (988,1652);
-},
-{
-orientation = center;
-angle = 90;
-pos = (-9142,1008);
-},
-{
-pos = (1236,388);
-},
-{
-angle = 90;
-pos = (1868,952);
-},
-{
-pos = (1340,1056);
-}
-);
-layerId = "5C20EF92-B63D-42A8-8878-93C2863E0093";
-metricLeft = "=O*1.21";
-metricRight = "=O*1.21";
-shapes = (
-{
-pos = (120,0);
-ref = u100000;
-}
-);
-width = 3136;
+width = 0;
 },
 {
 layerId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
-metricLeft = "=O*1.203";
-metricRight = "=O*1.203";
-shapes = (
+width = 1700;
+},
 {
-alignment = -1;
-pos = (56,0);
-ref = u100000;
+layerId = "5C20EF92-B63D-42A8-8878-93C2863E0093";
+width = 1700;
 }
 );
-width = 3008;
-}
-);
-userData = {
-com.typemytype.robofont.guideline.magnetic.Gw8NYBUw9n = 5;
-com.typemytype.robofont.guideline.magnetic.GxjzbBzVSW = 5;
-com.typemytype.robofont.guideline.magnetic.bHs3wYU2wA = 5;
-com.typemytype.robofont.guideline.magnetic.rCGYNmaBe7 = 5;
-};
 }

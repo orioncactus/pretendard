@@ -7,7 +7,7 @@ Use the code below to use Pretendard as a webfonts in a Latin environment with a
 #### HTML
 
 ```html
-<link rel="stylesheet" as="style" crossorigin href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/static/pretendard-std.css" />
+<link rel="stylesheet" as="style" crossorigin href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/static/pretendard-std.min.css" />
 ```
 
 <details>
@@ -31,7 +31,7 @@ Use the code below to use Pretendard as a webfonts in a Latin environment with a
 #### CSS
 
 ```css
-@import url("https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/static/pretendard-std.css");
+@import url("https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/static/pretendard-std.min.css");
 ```
 
 <details>
@@ -77,7 +77,7 @@ Use the code below to use Pretendard Std faster by loads the font-slices require
 ###### UNPKG
 
 ```html
-<link rel="stylesheet" as="style" crossorigin href="https://unpkg.com/pretendard-std@1.3.9/dist/web/static/pretendard-std-dynamic-subset.css" />
+<link rel="stylesheet" as="style" crossorigin href="https://unpkg.com/pretendard-std@1.3.9/dist/web/static/pretendard-std-dynamic-subset.min.css" />
 ```
 
 </details>
@@ -101,7 +101,7 @@ Use the code below to use Pretendard Std faster by loads the font-slices require
 ###### UNPKG
 
 ```css
-@import url("https://unpkg.com/pretendard-std@1.3.9/dist/web/static/pretendard-std-dynamic-subset.css");
+@import url("https://unpkg.com/pretendard-std@1.3.9/dist/web/static/pretendard-std-dynamic-subset.min.css");
 ```
 
 </details>

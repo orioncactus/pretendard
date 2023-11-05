@@ -11,61 +11,61 @@ http://scripts.sil.org/OFL
 	font-family: 'Pretendard GOV';
 	font-weight: 900;
 	font-display: swap;
-	src: local('Pretendard GOV Black'), url('../../../packages/pretendard-gov/dist/web/static/woff2/PretendardGOV-Black.woff2') format('woff2'), url('../../../packages/pretendard-gov/dist/web/static/woff/PretendardGOV-Black.woff') format('woff');
+	src: local('Pretendard GOV Black'), url(../../../packages/pretendard-gov/dist/web/static/woff2/PretendardGOV-Black.woff2) format('woff2'), url(../../../packages/pretendard-gov/dist/web/static/woff/PretendardGOV-Black.woff) format('woff');
 }
 
 @font-face {
 	font-family: 'Pretendard GOV';
 	font-weight: 800;
 	font-display: swap;
-	src: local('Pretendard GOV ExtraBold'), url('../../../packages/pretendard-gov/dist/web/static/woff2/PretendardGOV-ExtraBold.woff2') format('woff2'), url('../../../packages/pretendard-gov/dist/web/static/woff/PretendardGOV-ExtraBold.woff') format('woff');
+	src: local('Pretendard GOV ExtraBold'), url(../../../packages/pretendard-gov/dist/web/static/woff2/PretendardGOV-ExtraBold.woff2) format('woff2'), url(../../../packages/pretendard-gov/dist/web/static/woff/PretendardGOV-ExtraBold.woff) format('woff');
 }
 
 @font-face {
 	font-family: 'Pretendard GOV';
 	font-weight: 700;
 	font-display: swap;
-	src: local('Pretendard GOV Bold'), url('../../../packages/pretendard-gov/dist/web/static/woff2/PretendardGOV-Bold.woff2') format('woff2'), url('../../../packages/pretendard-gov/dist/web/static/woff/PretendardGOV-Bold.woff') format('woff');
+	src: local('Pretendard GOV Bold'), url(../../../packages/pretendard-gov/dist/web/static/woff2/PretendardGOV-Bold.woff2) format('woff2'), url(../../../packages/pretendard-gov/dist/web/static/woff/PretendardGOV-Bold.woff) format('woff');
 }
 
 @font-face {
 	font-family: 'Pretendard GOV';
 	font-weight: 600;
 	font-display: swap;
-	src: local('Pretendard GOV SemiBold'), url('../../../packages/pretendard-gov/dist/web/static/woff2/PretendardGOV-SemiBold.woff2') format('woff2'), url('../../../packages/pretendard-gov/dist/web/static/woff/PretendardGOV-SemiBold.woff') format('woff');
+	src: local('Pretendard GOV SemiBold'), url(../../../packages/pretendard-gov/dist/web/static/woff2/PretendardGOV-SemiBold.woff2) format('woff2'), url(../../../packages/pretendard-gov/dist/web/static/woff/PretendardGOV-SemiBold.woff) format('woff');
 }
 
 @font-face {
 	font-family: 'Pretendard GOV';
 	font-weight: 500;
 	font-display: swap;
-	src: local('Pretendard GOV Medium'), url('../../../packages/pretendard-gov/dist/web/static/woff2/PretendardGOV-Medium.woff2') format('woff2'), url('../../../packages/pretendard-gov/dist/web/static/woff/PretendardGOV-Medium.woff') format('woff');
+	src: local('Pretendard GOV Medium'), url(../../../packages/pretendard-gov/dist/web/static/woff2/PretendardGOV-Medium.woff2) format('woff2'), url(../../../packages/pretendard-gov/dist/web/static/woff/PretendardGOV-Medium.woff) format('woff');
 }
 
 @font-face {
 	font-family: 'Pretendard GOV';
 	font-weight: 400;
 	font-display: swap;
-	src: local('Pretendard GOV Regular'), url('../../../packages/pretendard-gov/dist/web/static/woff2/PretendardGOV-Regular.woff2') format('woff2'), url('../../../packages/pretendard-gov/dist/web/static/woff/PretendardGOV-Regular.woff') format('woff');
+	src: local('Pretendard GOV Regular'), url(../../../packages/pretendard-gov/dist/web/static/woff2/PretendardGOV-Regular.woff2) format('woff2'), url(../../../packages/pretendard-gov/dist/web/static/woff/PretendardGOV-Regular.woff) format('woff');
 }
 
 @font-face {
 	font-family: 'Pretendard GOV';
 	font-weight: 300;
 	font-display: swap;
-	src: local('Pretendard GOV Light'), url('../../../packages/pretendard-gov/dist/web/static/woff2/PretendardGOV-Light.woff2') format('woff2'), url('../../../packages/pretendard-gov/dist/web/static/woff/PretendardGOV-Light.woff') format('woff');
+	src: local('Pretendard GOV Light'), url(../../../packages/pretendard-gov/dist/web/static/woff2/PretendardGOV-Light.woff2) format('woff2'), url(../../../packages/pretendard-gov/dist/web/static/woff/PretendardGOV-Light.woff) format('woff');
 }
 
 @font-face {
 	font-family: 'Pretendard GOV';
 	font-weight: 200;
 	font-display: swap;
-	src: local('Pretendard GOV ExtraLight'), url('../../../packages/pretendard-gov/dist/web/static/woff2/PretendardGOV-ExtraLight.woff2') format('woff2'), url('../../../packages/pretendard-gov/dist/web/static/woff/PretendardGOV-ExtraLight.woff') format('woff');
+	src: local('Pretendard GOV ExtraLight'), url(../../../packages/pretendard-gov/dist/web/static/woff2/PretendardGOV-ExtraLight.woff2) format('woff2'), url(../../../packages/pretendard-gov/dist/web/static/woff/PretendardGOV-ExtraLight.woff) format('woff');
 }
 
 @font-face {
 	font-family: 'Pretendard GOV';
 	font-weight: 100;
 	font-display: swap;
-	src: local('Pretendard GOV Thin'), url('../../../packages/pretendard-gov/dist/web/static/woff2/PretendardGOV-Thin.woff2') format('woff2'), url('../../../packages/pretendard-gov/dist/web/static/woff/PretendardGOV-Thin.woff') format('woff');
+	src: local('Pretendard GOV Thin'), url(../../../packages/pretendard-gov/dist/web/static/woff2/PretendardGOV-Thin.woff2) format('woff2'), url(../../../packages/pretendard-gov/dist/web/static/woff/PretendardGOV-Thin.woff) format('woff');
 }

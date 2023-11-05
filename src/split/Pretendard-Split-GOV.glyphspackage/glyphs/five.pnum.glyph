@@ -3,6 +3,12 @@ color = 11;
 glyphname = five.pnum;
 layers = (
 {
+anchors = (
+{
+name = _symbol;
+pos = (834,1010);
+}
+);
 layerId = "5C20EF92-B63D-42A8-8878-93C2863E0093";
 shapes = (
 {
@@ -46,6 +52,12 @@ nodes = (
 width = 1668;
 },
 {
+anchors = (
+{
+name = _symbol;
+pos = (834,1010);
+}
+);
 layerId = "B1F27B51-9973-4381-9301-4FE46FE1CA59";
 shapes = (
 {
@@ -89,6 +101,12 @@ nodes = (
 width = 1668;
 },
 {
+anchors = (
+{
+name = _symbol;
+pos = (800,1010);
+}
+);
 associatedMasterId = "B1F27B51-9973-4381-9301-4FE46FE1CA59";
 layerId = "FC96CF8C-49C5-4F3D-91D8-92840895E29E";
 name = "May 22, 21 14:07";
@@ -102,6 +120,12 @@ ref = five;
 width = 1600;
 },
 {
+anchors = (
+{
+name = _symbol;
+pos = (834,1010);
+}
+);
 background = {
 shapes = (
 {
@@ -214,6 +238,12 @@ nodes = (
 width = 1668;
 },
 {
+anchors = (
+{
+name = _symbol;
+pos = (834,1010);
+}
+);
 associatedMasterId = "5C20EF92-B63D-42A8-8878-93C2863E0093";
 layerId = "D5F9CD27-6954-43CC-9B8C-26EFD45370F7";
 name = "Nov 12, 22 19:04";
@@ -259,6 +289,12 @@ nodes = (
 width = 1668;
 },
 {
+anchors = (
+{
+name = _symbol;
+pos = (834,1010);
+}
+);
 associatedMasterId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
 background = {
 shapes = (

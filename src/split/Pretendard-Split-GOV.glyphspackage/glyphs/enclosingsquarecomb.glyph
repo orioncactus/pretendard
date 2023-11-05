@@ -1,0 +1,204 @@
+{
+glyphname = enclosingsquarecomb;
+kernLeft = B;
+kernRight = H;
+layers = (
+{
+guides = (
+{
+angle = 90;
+pos = (688,1548);
+}
+);
+layerId = "B1F27B51-9973-4381-9301-4FE46FE1CA59";
+shapes = (
+{
+alignment = 1;
+ref = whiteRoundedCornersSquare;
+}
+);
+width = 2504;
+},
+{
+guides = (
+{
+angle = 90;
+pos = (948,1454);
+}
+);
+layerId = "5C20EF92-B63D-42A8-8878-93C2863E0093";
+shapes = (
+{
+alignment = 1;
+ref = whiteRoundedCornersSquare;
+}
+);
+width = 2504;
+},
+{
+layerId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
+shapes = (
+{
+alignment = 1;
+ref = whiteRoundedCornersSquare;
+}
+);
+width = 2504;
+},
+{
+associatedMasterId = "5C20EF92-B63D-42A8-8878-93C2863E0093";
+background = {
+shapes = (
+{
+closed = 1;
+nodes = (
+(-784,-488,ls),
+(-784,-712,o),
+(-664,-832,o),
+(-440,-832,cs),
+(2584,-832,ls),
+(2808,-832,o),
+(2928,-712,o),
+(2928,-488,cs),
+(2928,2536,ls),
+(2928,2760,o),
+(2808,2880,o),
+(2584,2880,cs),
+(-440,2880,ls),
+(-664,2880,o),
+(-784,2760,o),
+(-784,2536,cs)
+);
+},
+{
+closed = 1;
+nodes = (
+(2608,2560,l),
+(2608,-512,l),
+(-464,-512,l),
+(-464,2560,l)
+);
+}
+);
+};
+guides = (
+{
+angle = 90;
+pos = (948,1454);
+}
+);
+layerId = "53CC0B67-0AC1-4EAD-9DF2-F0CC18323343";
+name = "Oct 4, 21 23:12";
+shapes = (
+{
+closed = 1;
+nodes = (
+(2584,-832,ls),
+(2808,-832,o),
+(2928,-712,o),
+(2928,-488,cs),
+(2928,2536,ls),
+(2928,2760,o),
+(2808,2880,o),
+(2584,2880,cs),
+(-440,2880,ls),
+(-664,2880,o),
+(-784,2760,o),
+(-784,2536,cs),
+(-784,-488,ls),
+(-784,-712,o),
+(-664,-832,o),
+(-440,-832,cs)
+);
+},
+{
+closed = 1;
+nodes = (
+(-458,-512,o),
+(-464,-506,o),
+(-464,-496,cs),
+(-464,2544,ls),
+(-464,2554,o),
+(-458,2560,o),
+(-448,2560,cs),
+(2592,2560,ls),
+(2602,2560,o),
+(2608,2554,o),
+(2608,2544,cs),
+(2608,-496,ls),
+(2608,-506,o),
+(2602,-512,o),
+(2592,-512,cs),
+(-448,-512,ls)
+);
+}
+);
+width = 0;
+},
+{
+associatedMasterId = "B1F27B51-9973-4381-9301-4FE46FE1CA59";
+guides = (
+{
+angle = 90;
+pos = (688,1548);
+}
+);
+layerId = "E3AF21EF-F5C0-47B5-B494-59BF38184FF9";
+name = "Oct 4, 21 23:12";
+shapes = (
+{
+closed = 1;
+nodes = (
+(2304,-832,ls),
+(2528,-832,o),
+(2648,-712,o),
+(2648,-488,cs),
+(2648,2536,ls),
+(2648,2760,o),
+(2528,2880,o),
+(2304,2880,cs),
+(-720,2880,ls),
+(-944,2880,o),
+(-1064,2760,o),
+(-1064,2536,cs),
+(-1064,-488,ls),
+(-1064,-712,o),
+(-944,-832,o),
+(-720,-832,cs)
+);
+},
+{
+closed = 1;
+nodes = (
+(-908,-768,o),
+(-1000,-676,o),
+(-1000,-488,cs),
+(-1000,2536,ls),
+(-1000,2724,o),
+(-908,2816,o),
+(-720,2816,cs),
+(2304,2816,ls),
+(2492,2816,o),
+(2584,2724,o),
+(2584,2536,cs),
+(2584,-488,ls),
+(2584,-676,o),
+(2492,-768,o),
+(2304,-768,cs),
+(-720,-768,ls)
+);
+}
+);
+width = 0;
+}
+);
+note = "Origin aligned to /X (blue guide should align with center of /X when following this glyph.)
+
+corner radius outer:
+R: 344, visual corrections on
+corner radius inner:
+R: 76, v.c. off
+B: 16, v.c. off
+L: Made from stroke outer";
+unicode = 8414;
+}

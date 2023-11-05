@@ -1,0 +1,195 @@
+{
+color = 4;
+export = 0;
+glyphname = H.tag;
+kernLeft = B.tag;
+kernRight = H.tag;
+layers = (
+{
+anchors = (
+{
+name = _symbol;
+pos = (656,666);
+},
+{
+name = bottom;
+pos = (656,0);
+},
+{
+name = cedilla;
+pos = (216,-4);
+},
+{
+name = cyrtic;
+pos = (1158,16);
+},
+{
+name = right;
+pos = (1130,0);
+},
+{
+name = tonos;
+pos = (148,1332);
+},
+{
+name = top;
+pos = (656,1498);
+}
+);
+layerId = "B1F27B51-9973-4381-9301-4FE46FE1CA59";
+shapes = (
+{
+closed = 1;
+nodes = (
+(246,0,l),
+(246,636,l),
+(1066,636,l),
+(1066,0,l),
+(1130,0,l),
+(1130,1332,l),
+(1066,1332,l),
+(1066,696,l),
+(246,696,l),
+(246,1332,l),
+(180,1332,l),
+(180,0,l)
+);
+}
+);
+userData = {
+RMXScaler = {
+height = 65;
+weight = 28;
+width = 65;
+};
+};
+width = 1310;
+},
+{
+anchors = (
+{
+name = _symbol;
+pos = (684,666);
+},
+{
+name = bottom;
+pos = (684,0);
+},
+{
+name = cedilla;
+pos = (256,0);
+},
+{
+name = cyrtic;
+pos = (1438,138);
+},
+{
+name = right;
+pos = (1276,0);
+},
+{
+name = tonos;
+pos = (60,1332);
+},
+{
+name = top;
+pos = (684,1498);
+}
+);
+layerId = "5C20EF92-B63D-42A8-8878-93C2863E0093";
+shapes = (
+{
+closed = 1;
+nodes = (
+(434,0,l),
+(434,528,l),
+(934,528,l),
+(934,0,l),
+(1276,0,l),
+(1276,1332,l),
+(934,1332,l),
+(934,804,l),
+(434,804,l),
+(434,1332,l),
+(92,1332,l),
+(92,0,l)
+);
+}
+);
+userData = {
+RMXScaler = {
+height = 65;
+weight = -360;
+width = 65;
+};
+};
+width = 1368;
+},
+{
+anchors = (
+{
+name = _symbol;
+pos = (670,666);
+},
+{
+name = bottom;
+pos = (668,0);
+},
+{
+name = cedilla;
+pos = (252,-2);
+},
+{
+name = cyrtic;
+pos = (1302,82);
+},
+{
+name = right;
+pos = (1210,0);
+},
+{
+name = tonos;
+pos = (98,1332);
+},
+{
+name = top;
+pos = (674,1500);
+}
+);
+layerId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
+shapes = (
+{
+closed = 1;
+nodes = (
+(348,0,l),
+(348,574,l),
+(992,574,l),
+(992,0,l),
+(1210,0,l),
+(1210,1332,l),
+(992,1332,l),
+(992,758,l),
+(348,758,l),
+(348,1332,l),
+(130,1332,l),
+(130,0,l)
+);
+}
+);
+userData = {
+RMXScaler = {
+height = 65;
+weight = -48;
+width = 65;
+};
+};
+width = 1340;
+}
+);
+unicode = 917576;
+userData = {
+RMXScaler = {
+source = H;
+};
+};
+}

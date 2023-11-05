@@ -1,0 +1,189 @@
+{
+color = 4;
+export = 0;
+glyphname = X.tag;
+kernLeft = X.tag;
+kernRight = X.tag;
+layers = (
+{
+anchors = (
+{
+name = _symbol;
+pos = (526,666);
+},
+{
+name = bottom;
+pos = (526,10);
+},
+{
+name = cross;
+pos = (526,666);
+},
+{
+name = cyrtic;
+pos = (1004,16);
+},
+{
+name = right;
+pos = (954,0);
+},
+{
+name = top;
+pos = (526,1498);
+}
+);
+layerId = "B1F27B51-9973-4381-9301-4FE46FE1CA59";
+shapes = (
+{
+closed = 1;
+nodes = (
+(40,1332,l),
+(484,666,l),
+(40,0,l),
+(120,0,l),
+(522,610,l),
+(530,610,l),
+(932,0,l),
+(1012,0,l),
+(570,666,l),
+(1012,1332,l),
+(932,1332,l),
+(530,720,l),
+(522,720,l),
+(120,1332,l)
+);
+}
+);
+userData = {
+RMXScaler = {
+height = 65;
+weight = 28;
+width = 65;
+};
+};
+width = 1052;
+},
+{
+anchors = (
+{
+name = _symbol;
+pos = (686,666);
+},
+{
+name = bottom;
+pos = (684,-4);
+},
+{
+name = cross;
+pos = (684,666);
+},
+{
+name = cyrtic;
+pos = (1254,138);
+},
+{
+name = right;
+pos = (1138,0);
+},
+{
+name = top;
+pos = (684,1498);
+}
+);
+layerId = "5C20EF92-B63D-42A8-8878-93C2863E0093";
+shapes = (
+{
+closed = 1;
+nodes = (
+(64,1332,l),
+(462,666,l),
+(52,0,l),
+(442,0,l),
+(678,410,l),
+(690,410,l),
+(926,0,l),
+(1318,0,l),
+(904,666,l),
+(1304,1332,l),
+(922,1332,l),
+(690,928,l),
+(678,928,l),
+(448,1332,l)
+);
+}
+);
+userData = {
+RMXScaler = {
+height = 65;
+weight = -360;
+width = 65;
+};
+};
+width = 1370;
+},
+{
+anchors = (
+{
+name = _symbol;
+pos = (608,666);
+},
+{
+name = bottom;
+pos = (608,6);
+},
+{
+name = cross;
+pos = (608,666);
+},
+{
+name = cyrtic;
+pos = (1136,82);
+},
+{
+name = right;
+pos = (1040,0);
+},
+{
+name = top;
+pos = (608,1498);
+}
+);
+layerId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
+shapes = (
+{
+closed = 1;
+nodes = (
+(44,1332,l),
+(464,666,l),
+(40,0,l),
+(292,0,l),
+(602,500,l),
+(614,500,l),
+(924,0,l),
+(1176,0,l),
+(760,666,l),
+(1172,1332,l),
+(922,1332,l),
+(614,824,l),
+(602,824,l),
+(296,1332,l)
+);
+}
+);
+userData = {
+RMXScaler = {
+height = 65;
+weight = -48;
+width = 65;
+};
+};
+width = 1216;
+}
+);
+unicode = 917592;
+userData = {
+RMXScaler = {
+source = X;
+};
+};
+}

@@ -1,0 +1,69 @@
+{
+export = 0;
+glyphname = _part.four_one.tag;
+layers = (
+{
+anchors = (
+{
+name = _symbol;
+pos = (1359,1024);
+}
+);
+layerId = "B1F27B51-9973-4381-9301-4FE46FE1CA59";
+shapes = (
+{
+alignment = 1;
+ref = four;
+},
+{
+alignment = 1;
+pos = (1622,0);
+ref = one;
+}
+);
+width = 2718;
+},
+{
+anchors = (
+{
+name = _symbol;
+pos = (1524,1024);
+}
+);
+layerId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
+shapes = (
+{
+alignment = 1;
+ref = four;
+},
+{
+alignment = 1;
+pos = (1778,0);
+ref = one;
+}
+);
+width = 3048;
+},
+{
+anchors = (
+{
+name = _symbol;
+pos = (1686,1024);
+}
+);
+layerId = "5C20EF92-B63D-42A8-8878-93C2863E0093";
+shapes = (
+{
+alignment = 1;
+ref = four;
+},
+{
+alignment = 1;
+pos = (1948,0);
+ref = one;
+}
+);
+width = 3372;
+}
+);
+}

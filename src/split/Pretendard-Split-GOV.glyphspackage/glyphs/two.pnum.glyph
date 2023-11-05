@@ -5,6 +5,10 @@ layers = (
 {
 anchors = (
 {
+name = _symbol;
+pos = (834,1038);
+},
+{
 name = cross;
 pos = (1108,1124);
 }
@@ -48,6 +52,10 @@ width = 1668;
 {
 anchors = (
 {
+name = _symbol;
+pos = (834,1038);
+},
+{
 name = cross;
 pos = (1078,1024);
 }
@@ -89,6 +97,12 @@ nodes = (
 width = 1668;
 },
 {
+anchors = (
+{
+name = _symbol;
+pos = (800,1038);
+}
+);
 associatedMasterId = "B1F27B51-9973-4381-9301-4FE46FE1CA59";
 layerId = "48D67162-A680-4503-AF27-7049E7485B66";
 name = "May 22, 21 14:07";
@@ -103,6 +117,10 @@ width = 1600;
 },
 {
 anchors = (
+{
+name = _symbol;
+pos = (834,1038);
+},
 {
 name = cross;
 pos = (1148,1058);
@@ -146,6 +164,10 @@ width = 1668;
 },
 {
 anchors = (
+{
+name = _symbol;
+pos = (834,1038);
+},
 {
 name = cross;
 pos = (1108,1124);

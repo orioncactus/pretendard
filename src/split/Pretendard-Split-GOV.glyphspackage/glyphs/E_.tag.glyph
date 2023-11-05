@@ -1,0 +1,184 @@
+{
+color = 4;
+export = 0;
+glyphname = E.tag;
+kernLeft = B.tag;
+kernRight = E.tag;
+layers = (
+{
+anchors = (
+{
+name = _symbol;
+pos = (518,666);
+},
+{
+name = bottom;
+pos = (520,0);
+},
+{
+name = cedilla;
+pos = (522,0);
+},
+{
+name = ogonek;
+pos = (924,0);
+},
+{
+name = tonos;
+pos = (134,1332);
+},
+{
+name = top;
+pos = (546,1498);
+}
+);
+layerId = "B1F27B51-9973-4381-9301-4FE46FE1CA59";
+shapes = (
+{
+closed = 1;
+nodes = (
+(924,0,l),
+(924,62,l),
+(246,62,l),
+(246,636,l),
+(868,636,l),
+(868,696,l),
+(246,696,l),
+(246,1270,l),
+(908,1270,l),
+(908,1332,l),
+(180,1332,l),
+(180,0,l)
+);
+}
+);
+userData = {
+RMXScaler = {
+height = 65;
+weight = 28;
+width = 65;
+};
+};
+width = 1034;
+},
+{
+anchors = (
+{
+name = _symbol;
+pos = (566,666);
+},
+{
+name = bottom;
+pos = (566,0);
+},
+{
+name = cedilla;
+pos = (568,0);
+},
+{
+name = ogonek;
+pos = (1034,0);
+},
+{
+name = tonos;
+pos = (56,1332);
+},
+{
+name = top;
+pos = (568,1498);
+}
+);
+layerId = "5C20EF92-B63D-42A8-8878-93C2863E0093";
+shapes = (
+{
+closed = 1;
+nodes = (
+(1034,0,l),
+(1034,276,l),
+(434,276,l),
+(434,528,l),
+(988,528,l),
+(988,804,l),
+(434,804,l),
+(434,1054,l),
+(1036,1054,l),
+(1036,1332,l),
+(92,1332,l),
+(92,0,l)
+);
+}
+);
+userData = {
+RMXScaler = {
+height = 65;
+weight = -360;
+width = 65;
+};
+};
+width = 1132;
+},
+{
+anchors = (
+{
+name = _symbol;
+pos = (544,666);
+},
+{
+name = bottom;
+pos = (544,0);
+},
+{
+name = cedilla;
+pos = (546,0);
+},
+{
+name = ogonek;
+pos = (984,0);
+},
+{
+name = tonos;
+pos = (90,1332);
+},
+{
+name = top;
+pos = (554,1498);
+}
+);
+layerId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
+shapes = (
+{
+closed = 1;
+nodes = (
+(984,0,l),
+(984,186,l),
+(348,186,l),
+(348,574,l),
+(934,574,l),
+(934,758,l),
+(348,758,l),
+(348,1146,l),
+(978,1146,l),
+(978,1332,l),
+(130,1332,l),
+(130,0,l)
+);
+}
+);
+userData = {
+RMXScaler = {
+height = 65;
+weight = -48;
+width = 65;
+};
+};
+width = 1086;
+}
+);
+metricLeft = H.tag;
+unicode = 917573;
+userData = {
+RMXScaler = {
+source = E;
+};
+};
+}

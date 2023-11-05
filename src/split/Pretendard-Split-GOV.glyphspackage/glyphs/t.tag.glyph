@@ -1,0 +1,209 @@
+{
+export = 0;
+glyphname = t.tag;
+kernLeft = t.tag;
+kernRight = t.tag;
+layers = (
+{
+anchors = (
+{
+name = _symbol;
+pos = (302,610);
+},
+{
+name = bottom;
+pos = (368,0);
+},
+{
+name = cedilla;
+pos = (400,0);
+},
+{
+name = raccent;
+pos = (402,1396);
+},
+{
+name = top;
+pos = (246,1332);
+}
+);
+layerId = "B1F27B51-9973-4381-9301-4FE46FE1CA59";
+shapes = (
+{
+closed = 1;
+nodes = (
+(68,998,l),
+(68,940,l),
+(486,940,l),
+(486,998,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(214,218,ls),
+(214,70,o),
+(328,-18,o),
+(452,-18,cs),
+(480,-18,o),
+(500,-16,o),
+(516,-14,c),
+(516,46,l),
+(500,46,o),
+(470,46,o),
+(454,46,cs),
+(362,46,o),
+(278,106,o),
+(278,226,cs),
+(278,1238,l),
+(214,1238,l)
+);
+}
+);
+userData = {
+RMXScaler = {
+height = 65;
+weight = 28;
+width = 65;
+};
+};
+width = 604;
+},
+{
+anchors = (
+{
+name = _symbol;
+pos = (334,612);
+},
+{
+name = bottom;
+pos = (376,0);
+},
+{
+name = cedilla;
+pos = (456,0);
+},
+{
+name = raccent;
+pos = (508,1396);
+},
+{
+name = top;
+pos = (292,1344);
+}
+);
+layerId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
+shapes = (
+{
+closed = 1;
+nodes = (
+(40,998,l),
+(40,832,l),
+(596,832,l),
+(596,998,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(184,256,ls),
+(184,72,o),
+(322,-14,o),
+(484,-14,cs),
+(544,-14,o),
+(588,-8,o),
+(610,-4,c),
+(610,174,l),
+(574,172,o),
+(532,170,o),
+(510,170,cs),
+(414,172,o),
+(396,228,o),
+(396,296,cs),
+(396,1238,l),
+(184,1238,l)
+);
+}
+);
+userData = {
+RMXScaler = {
+height = 65;
+weight = -48;
+width = 65;
+};
+};
+width = 666;
+},
+{
+anchors = (
+{
+name = _symbol;
+pos = (366,612);
+},
+{
+name = bottom;
+pos = (410,0);
+},
+{
+name = cedilla;
+pos = (502,0);
+},
+{
+name = raccent;
+pos = (614,1396);
+},
+{
+name = top;
+pos = (330,1374);
+}
+);
+layerId = "5C20EF92-B63D-42A8-8878-93C2863E0093";
+shapes = (
+{
+closed = 1;
+nodes = (
+(30,998,l),
+(30,752,l),
+(674,752,l),
+(674,998,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(160,284,l),
+(158,78,o),
+(288,-14,o),
+(524,-14,cs),
+(600,-14,o),
+(652,-8,o),
+(688,-2,c),
+(688,252,l),
+(658,250,o),
+(592,246,o),
+(572,246,cs),
+(530,248,o),
+(498,262,o),
+(498,318,cs),
+(498,1238,l),
+(160,1238,l)
+);
+}
+);
+userData = {
+RMXScaler = {
+height = 65;
+weight = -360;
+width = 65;
+};
+};
+width = 732;
+}
+);
+unicode = 917620;
+userData = {
+RMXScaler = {
+source = t;
+};
+};
+}

@@ -1,0 +1,191 @@
+{
+color = 4;
+export = 0;
+glyphname = U.tag;
+kernLeft = U.tag;
+kernRight = J.tag;
+layers = (
+{
+anchors = (
+{
+name = _symbol;
+pos = (666,654);
+},
+{
+name = bottom;
+pos = (666,-20);
+},
+{
+name = ogonek;
+pos = (736,0);
+},
+{
+name = right;
+pos = (724,0);
+},
+{
+name = top;
+pos = (666,1498);
+}
+);
+layerId = "B1F27B51-9973-4381-9301-4FE46FE1CA59";
+shapes = (
+{
+closed = 1;
+nodes = (
+(1086,452,ls),
+(1086,216,o),
+(910,42,o),
+(666,42,cs),
+(422,42,o),
+(246,216,o),
+(246,452,cs),
+(246,1332,l),
+(180,1332,l),
+(180,450,ls),
+(180,180,o),
+(386,-22,o),
+(666,-22,cs),
+(948,-22,o),
+(1152,180,o),
+(1152,450,cs),
+(1152,1332,l),
+(1086,1332,l)
+);
+}
+);
+userData = {
+RMXScaler = {
+height = 65;
+weight = 28;
+width = 65;
+};
+};
+width = 1332;
+},
+{
+anchors = (
+{
+name = _symbol;
+pos = (662,658);
+},
+{
+name = bottom;
+pos = (662,6);
+},
+{
+name = ogonek;
+pos = (852,0);
+},
+{
+name = right;
+pos = (772,0);
+},
+{
+name = top;
+pos = (662,1498);
+}
+);
+layerId = "5C20EF92-B63D-42A8-8878-93C2863E0093";
+shapes = (
+{
+closed = 1;
+nodes = (
+(888,506,ls),
+(888,374,o),
+(794,280,o),
+(662,280,cs),
+(528,280,o),
+(434,374,o),
+(434,506,cs),
+(434,1332,l),
+(92,1332,l),
+(92,476,ls),
+(92,174,o),
+(320,-16,o),
+(662,-16,cs),
+(998,-16,o),
+(1230,174,o),
+(1230,476,cs),
+(1230,1332,l),
+(888,1332,l)
+);
+}
+);
+userData = {
+RMXScaler = {
+height = 65;
+weight = -360;
+width = 65;
+};
+};
+width = 1322;
+},
+{
+anchors = (
+{
+name = _symbol;
+pos = (664,654);
+},
+{
+name = bottom;
+pos = (664,-12);
+},
+{
+name = ogonek;
+pos = (810,2);
+},
+{
+name = right;
+pos = (750,0);
+},
+{
+name = top;
+pos = (664,1498);
+}
+);
+layerId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
+shapes = (
+{
+closed = 1;
+nodes = (
+(978,476,ls),
+(978,302,o),
+(858,176,o),
+(664,176,cs),
+(470,176,o),
+(348,302,o),
+(348,476,cs),
+(348,1332,l),
+(130,1332,l),
+(130,458,ls),
+(130,176,o),
+(342,-22,o),
+(664,-22,cs),
+(984,-22,o),
+(1198,176,o),
+(1198,458,cs),
+(1198,1332,l),
+(978,1332,l)
+);
+}
+);
+userData = {
+RMXScaler = {
+height = 65;
+weight = -48;
+width = 65;
+};
+};
+width = 1328;
+}
+);
+metricLeft = H.tag;
+metricRight = H.tag;
+unicode = 917589;
+userData = {
+RMXScaler = {
+source = U;
+};
+};
+}

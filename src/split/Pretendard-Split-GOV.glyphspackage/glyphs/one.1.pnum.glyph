@@ -3,6 +3,12 @@ color = 11;
 glyphname = one.1.pnum;
 layers = (
 {
+anchors = (
+{
+name = _symbol;
+pos = (834,1024);
+}
+);
 layerId = "B1F27B51-9973-4381-9301-4FE46FE1CA59";
 shapes = (
 {
@@ -31,6 +37,12 @@ nodes = (
 width = 1668;
 },
 {
+anchors = (
+{
+name = _symbol;
+pos = (834,1024);
+}
+);
 background = {
 shapes = (
 {
@@ -76,6 +88,12 @@ nodes = (
 width = 1668;
 },
 {
+anchors = (
+{
+name = _symbol;
+pos = (834,1022);
+}
+);
 guides = (
 {
 pos = (114,1240);
@@ -112,6 +130,12 @@ nodes = (
 width = 1668;
 },
 {
+anchors = (
+{
+name = _symbol;
+pos = (834,1024);
+}
+);
 associatedMasterId = "B1F27B51-9973-4381-9301-4FE46FE1CA59";
 layerId = "A95FCEF3-0270-4C64-9D28-6A99AB8123C4";
 name = "Jul 9, 22 19:41";
@@ -142,6 +166,12 @@ nodes = (
 width = 1668;
 },
 {
+anchors = (
+{
+name = _symbol;
+pos = (834,1022);
+}
+);
 associatedMasterId = "5C20EF92-B63D-42A8-8878-93C2863E0093";
 guides = (
 {
@@ -180,6 +210,12 @@ nodes = (
 width = 1668;
 },
 {
+anchors = (
+{
+name = _symbol;
+pos = (834,1024);
+}
+);
 associatedMasterId = "5C20EF92-B63D-42A8-8878-93C2863E0093";
 guides = (
 {

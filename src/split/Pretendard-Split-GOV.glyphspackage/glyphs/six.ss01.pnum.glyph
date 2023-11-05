@@ -3,6 +3,12 @@ color = 11;
 glyphname = six.ss01.pnum;
 layers = (
 {
+anchors = (
+{
+name = _symbol;
+pos = (834,1010);
+}
+);
 background = {
 shapes = (
 {
@@ -63,6 +69,12 @@ nodes = (
 width = 1668;
 },
 {
+anchors = (
+{
+name = _symbol;
+pos = (834,1010);
+}
+);
 layerId = "B1F27B51-9973-4381-9301-4FE46FE1CA59";
 shapes = (
 {
@@ -112,6 +124,12 @@ nodes = (
 width = 1668;
 },
 {
+anchors = (
+{
+name = _symbol;
+pos = (800,1010);
+}
+);
 associatedMasterId = "B1F27B51-9973-4381-9301-4FE46FE1CA59";
 layerId = "98B78C17-9F4A-4F69-8D74-42D57F90143F";
 name = "May 22, 21 14:08";
@@ -125,6 +143,12 @@ ref = six.ss01;
 width = 1600;
 },
 {
+anchors = (
+{
+name = _symbol;
+pos = (834,1010);
+}
+);
 background = {
 shapes = (
 {
@@ -215,6 +239,12 @@ nodes = (
 width = 1668;
 },
 {
+anchors = (
+{
+name = _symbol;
+pos = (834,1010);
+}
+);
 associatedMasterId = "B1F27B51-9973-4381-9301-4FE46FE1CA59";
 layerId = "354F7664-1FBD-47BF-82E2-A509CA313C82";
 name = "Nov 12, 22 16:41";
@@ -263,6 +293,12 @@ nodes = (
 width = 1668;
 },
 {
+anchors = (
+{
+name = _symbol;
+pos = (834,1010);
+}
+);
 associatedMasterId = "5C20EF92-B63D-42A8-8878-93C2863E0093";
 background = {
 shapes = (
@@ -355,6 +391,12 @@ nodes = (
 width = 1668;
 },
 {
+anchors = (
+{
+name = _symbol;
+pos = (834,1010);
+}
+);
 associatedMasterId = "5C20EF92-B63D-42A8-8878-93C2863E0093";
 background = {
 shapes = (
@@ -450,6 +492,12 @@ nodes = (
 width = 1668;
 },
 {
+anchors = (
+{
+name = _symbol;
+pos = (834,1010);
+}
+);
 associatedMasterId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
 background = {
 shapes = (
@@ -542,6 +590,12 @@ nodes = (
 width = 1668;
 },
 {
+anchors = (
+{
+name = _symbol;
+pos = (834,1010);
+}
+);
 associatedMasterId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
 background = {
 shapes = (
@@ -634,6 +688,12 @@ nodes = (
 width = 1668;
 },
 {
+anchors = (
+{
+name = _symbol;
+pos = (834,1010);
+}
+);
 associatedMasterId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
 background = {
 shapes = (
@@ -764,6 +824,12 @@ nodes = (
 width = 1668;
 },
 {
+anchors = (
+{
+name = _symbol;
+pos = (834,1010);
+}
+);
 associatedMasterId = "5C20EF92-B63D-42A8-8878-93C2863E0093";
 background = {
 shapes = (

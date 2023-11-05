@@ -4,6 +4,12 @@ kernLeft = one;
 kernRight = one;
 layers = (
 {
+anchors = (
+{
+name = _symbol;
+pos = (712,1024);
+}
+);
 guides = (
 {
 pos = (-92,1240);
@@ -31,6 +37,12 @@ nodes = (
 width = 1424;
 },
 {
+anchors = (
+{
+name = _symbol;
+pos = (548,1024);
+}
+);
 layerId = "B1F27B51-9973-4381-9301-4FE46FE1CA59";
 shapes = (
 {
@@ -50,6 +62,12 @@ nodes = (
 width = 1096;
 },
 {
+anchors = (
+{
+name = _symbol;
+pos = (542,1024);
+}
+);
 associatedMasterId = "B1F27B51-9973-4381-9301-4FE46FE1CA59";
 layerId = "6F6789DD-1646-44FE-9FBB-C71ED2C14E05";
 name = "May 22, 21 14:05";
@@ -71,6 +89,12 @@ nodes = (
 width = 1084;
 },
 {
+anchors = (
+{
+name = _symbol;
+pos = (635,1024);
+}
+);
 layerId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
 shapes = (
 {

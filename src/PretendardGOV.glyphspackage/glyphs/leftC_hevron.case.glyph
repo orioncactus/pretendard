@@ -2,6 +2,12 @@
 glyphname = leftChevron.case;
 layers = (
 {
+anchors = (
+{
+name = _symbol;
+pos = (712,1024);
+}
+);
 layerId = "B1F27B51-9973-4381-9301-4FE46FE1CA59";
 shapes = (
 {
@@ -14,6 +20,12 @@ scale = (1,-1);
 width = 1544;
 },
 {
+anchors = (
+{
+name = _symbol;
+pos = (956,1024);
+}
+);
 layerId = "5C20EF92-B63D-42A8-8878-93C2863E0093";
 shapes = (
 {
@@ -26,6 +38,12 @@ scale = (1,-1);
 width = 2032;
 },
 {
+anchors = (
+{
+name = _symbol;
+pos = (782,1024);
+}
+);
 layerId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
 shapes = (
 {

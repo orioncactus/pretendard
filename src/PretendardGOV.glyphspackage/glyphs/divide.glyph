@@ -5,6 +5,12 @@ kernLeft = hyphen;
 kernRight = hyphen;
 layers = (
 {
+anchors = (
+{
+name = _symbol;
+pos = (976,832);
+}
+);
 guides = (
 {
 orientation = center;
@@ -60,6 +66,12 @@ nodes = (
 width = 1952;
 },
 {
+anchors = (
+{
+name = _symbol;
+pos = (864,800);
+}
+);
 guides = (
 {
 pos = (132,1384);
@@ -114,6 +126,12 @@ nodes = (
 width = 1728;
 },
 {
+anchors = (
+{
+name = _symbol;
+pos = (908,800);
+}
+);
 layerId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
 shapes = (
 {

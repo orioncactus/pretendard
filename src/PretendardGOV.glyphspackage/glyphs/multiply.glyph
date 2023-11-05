@@ -5,6 +5,12 @@ kernLeft = bullet;
 kernRight = bullet;
 layers = (
 {
+anchors = (
+{
+name = _symbol;
+pos = (976,832);
+}
+);
 guides = (
 {
 orientation = center;
@@ -34,6 +40,12 @@ nodes = (
 width = 1952;
 },
 {
+anchors = (
+{
+name = _symbol;
+pos = (794,892);
+}
+);
 associatedMasterId = "5C20EF92-B63D-42A8-8878-93C2863E0093";
 guides = (
 {
@@ -65,6 +77,12 @@ nodes = (
 width = 1588;
 },
 {
+anchors = (
+{
+name = _symbol;
+pos = (864,801);
+}
+);
 guides = (
 {
 pos = (132,1384);
@@ -93,6 +111,12 @@ nodes = (
 width = 1728;
 },
 {
+anchors = (
+{
+name = _symbol;
+pos = (896,0);
+}
+);
 associatedMasterId = "B1F27B51-9973-4381-9301-4FE46FE1CA59";
 background = {
 guides = (
@@ -147,6 +171,12 @@ nodes = (
 width = 1792;
 },
 {
+anchors = (
+{
+name = _symbol;
+pos = (908,801);
+}
+);
 layerId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
 shapes = (
 {
@@ -170,6 +200,12 @@ nodes = (
 width = 1816;
 },
 {
+anchors = (
+{
+name = _symbol;
+pos = (864,801);
+}
+);
 associatedMasterId = "B1F27B51-9973-4381-9301-4FE46FE1CA59";
 guides = (
 {
@@ -201,6 +237,12 @@ nodes = (
 width = 1728;
 },
 {
+anchors = (
+{
+name = _symbol;
+pos = (976,832);
+}
+);
 associatedMasterId = "5C20EF92-B63D-42A8-8878-93C2863E0093";
 guides = (
 {

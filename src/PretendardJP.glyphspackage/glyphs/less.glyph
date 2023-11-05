@@ -3,6 +3,12 @@ color = (204,240,242,1);
 glyphname = less;
 layers = (
 {
+anchors = (
+{
+name = _symbol;
+pos = (1056,832);
+}
+);
 background = {
 guides = (
 {
@@ -49,6 +55,12 @@ nodes = (
 width = 1952;
 },
 {
+anchors = (
+{
+name = _symbol;
+pos = (702,896);
+}
+);
 associatedMasterId = "5C20EF92-B63D-42A8-8878-93C2863E0093";
 guides = (
 {
@@ -81,6 +93,12 @@ nodes = (
 width = 1404;
 },
 {
+anchors = (
+{
+name = _symbol;
+pos = (976,832);
+}
+);
 associatedMasterId = "5C20EF92-B63D-42A8-8878-93C2863E0093";
 background = {
 guides = (
@@ -150,6 +168,12 @@ nodes = (
 width = 1952;
 },
 {
+anchors = (
+{
+name = _symbol;
+pos = (964,800);
+}
+);
 guides = (
 {
 orientation = center;
@@ -177,6 +201,12 @@ nodes = (
 width = 1728;
 },
 {
+anchors = (
+{
+name = _symbol;
+pos = (896,800);
+}
+);
 associatedMasterId = "B1F27B51-9973-4381-9301-4FE46FE1CA59";
 guides = (
 {
@@ -199,6 +229,12 @@ nodes = (
 width = 1792;
 },
 {
+anchors = (
+{
+name = _symbol;
+pos = (988,802);
+}
+);
 layerId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
 shapes = (
 {

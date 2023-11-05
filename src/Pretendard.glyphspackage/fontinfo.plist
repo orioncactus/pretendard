@@ -3771,16 +3771,20 @@ value = "";
 tag = ss02;
 },
 {
-code = "lookup LOOKUP_SS03;
+code = "featureNames {
+    name \"Vertically centered colon\";
+    name 3 1 0x409 \"Vertically centered colon\";
+    name 3 1 0x412 \"Vertically centered colon\";
+    name 1 0 0 \"Vertically centered colon\";
+    name 1 3 0x23 \"Vertically centered colon\";
+};
+
+lookup LOOKUP_SS03;
 ";
 labels = (
 {
 language = dflt;
-value = "Vertically centered colon";
-},
-{
-language = KOR;
-value = "Vertically centered colon";
+value = "";
 }
 );
 tag = ss03;
@@ -3811,6 +3815,10 @@ tag = ss05;
 {
 code = "featureNames {
     name \"High legibility\";
+    name 3 1 0x409 \"High legibility\";
+    name 3 1 0x412 \"High legibility\";
+    name 1 0 0 \"High legibility\";
+    name 1 3 0x23 \"High legibility\";
 };
 
 lookup LOOKUP_SS06_1;
@@ -3819,13 +3827,21 @@ lookup LOOKUP_SS06_2;
 labels = (
 {
 language = dflt;
-value = "High legibility";
+value = "";
 }
 );
 tag = ss06;
 },
 {
-code = "@SS01_L = [
+code = "featureNames {
+    name \"One storey a\";
+    name 3 1 0x409 \"One storey a\";
+    name 3 1 0x412 \"One storey a\";
+    name 1 0 0 \"One storey a\";
+    name 1 3 0x23 \"One storey a\";
+};
+
+@SS01_L = [
 a
 aacute
 abreve
@@ -3893,15 +3909,12 @@ aringbelow.1
 atilde.1
 ];
 
-sub @SS01_L by @SS01_R;";
+sub @SS01_L by @SS01_R;
+";
 labels = (
 {
 language = dflt;
-value = "One storey a";
-},
-{
-language = KOR;
-value = "One storey a";
+value = "";
 }
 );
 tag = ss07;
@@ -3926,7 +3939,15 @@ value = "";
 tag = ss08;
 },
 {
-code = "sub @Circled by @Circled_Medium;
+code = "featureNames {
+    name \"Medium symbols\";
+    name 3 1 0x409 \"Medium symbols\";
+    name 3 1 0x412 \"Medium symbols\";
+    name 1 0 0 \"Medium symbols\";
+    name 1 3 0x23 \"Medium symbols\";
+};
+
+sub @Circled by @Circled_Medium;
 sub @Circled_Fill by @Circled_Fill_Medium;
 sub @Squared by @Squared_Medium;
 sub @Squared_Fill by @Squared_Fill_Medium;
@@ -3938,17 +3959,21 @@ sub @Symbol_Fill_Large by @Symbol_Fill_Medium;
 labels = (
 {
 language = dflt;
-value = "Medium symbols";
-},
-{
-language = KOR;
-value = "Medium symbols";
+value = "";
 }
 );
 tag = ss10;
 },
 {
-code = "sub @Circled_Fill by @Circled;
+code = "featureNames {
+    name \"Outlined symbols\";
+    name 3 1 0x409 \"Outlined symbols\";
+    name 3 1 0x412 \"Outlined symbols\";
+    name 1 0 0 \"Outlined symbols\";
+    name 1 3 0x23 \"Outlined symbols\";
+};
+
+sub @Circled_Fill by @Circled;
 sub @Circled_Fill_Medium by @Circled_Medium;
 sub @Squared_Fill by @Squared;
 sub @Squared_Fill_Medium by @Squared_Medium;
@@ -3959,17 +3984,21 @@ sub @Symbol_Fill_Large by @Symbol_Large;
 labels = (
 {
 language = dflt;
-value = "Outlined symbols";
-},
-{
-language = KOR;
-value = "Outlined symbols";
+value = "";
 }
 );
 tag = ss11;
 },
 {
-code = "sub @Squared by @Circled;
+code = "featureNames {
+    name \"Circle symbols\";
+    name 3 1 0x409 \"Circle symbols\";
+    name 3 1 0x412 \"Circle symbols\";
+    name 1 0 0 \"Circle symbols\";
+    name 1 3 0x23 \"Circle symbols\";
+};
+
+sub @Squared by @Circled;
 sub @Squared_Medium by @Circled_Medium;
 sub @Squared_Fill by @Circled_Fill;
 sub @Squared_Fill_Medium by @Circled_Fill_Medium;
@@ -3977,17 +4006,21 @@ sub @Squared_Fill_Medium by @Circled_Fill_Medium;
 labels = (
 {
 language = dflt;
-value = "Circle symbols";
-},
-{
-language = KOR;
-value = "Circle symbols";
+value = "";
 }
 );
 tag = ss12;
 },
 {
-code = "sub @Circled by @Squared;
+code = "featureNames {
+    name \"Square symbols\";
+    name 3 1 0x409 \"Square symbols\";
+    name 3 1 0x412 \"Square symbols\";
+    name 1 0 0 \"Square symbols\";
+    name 1 3 0x23 \"Square symbols\";
+};
+
+sub @Circled by @Squared;
 sub @Circled_Medium by @Squared_Medium;
 sub @Circled_Fill by @Squared_Fill;
 sub @Circled_Fill_Medium by @Squared_Fill_Medium;
@@ -3995,17 +4028,21 @@ sub @Circled_Fill_Medium by @Squared_Fill_Medium;
 labels = (
 {
 language = dflt;
-value = "Square symbols";
-},
-{
-language = KOR;
-value = "Square symbols";
+value = "";
 }
 );
 tag = ss13;
 },
 {
-code = "sub @Circled by @Circled_Fill;
+code = "featureNames {
+    name \"Filled symbols\";
+    name 3 1 0x409 \"Filled symbols\";
+    name 3 1 0x412 \"Filled symbols\";
+    name 1 0 0 \"Filled symbols\";
+    name 1 3 0x23 \"Filled symbols\";
+};
+
+sub @Circled by @Circled_Fill;
 sub @Circled_Medium by @Circled_Fill_Medium;
 sub @Squared by @Squared_Fill;
 sub @Squared_Medium by @Squared_Fill_Medium;
@@ -4016,17 +4053,21 @@ sub @Symbol_Large by @Symbol_Fill_Large;
 labels = (
 {
 language = dflt;
-value = "Filled symbols";
-},
-{
-language = KOR;
-value = "Filled symbols";
+value = "";
 }
 );
 tag = ss14;
 },
 {
-code = "sub @Circled_Medium by @Circled;
+code = "featureNames {
+    name \"Small symbols\";
+    name 3 1 0x409 \"Small symbols\";
+    name 3 1 0x412 \"Small symbols\";
+    name 1 0 0 \"Small symbols\";
+    name 1 3 0x23 \"Small symbols\";
+};
+
+sub @Circled_Medium by @Circled;
 sub @Circled_Fill_Medium by @Circled_Fill;
 sub @Squared_Medium by @Squared;
 sub @Squared_Fill_Medium by @Squared_Fill;
@@ -4038,17 +4079,21 @@ sub @Symbol_Fill_Large by @Symbol_Fill_Small;
 labels = (
 {
 language = dflt;
-value = "Small symbols";
-},
-{
-language = KOR;
-value = "Small symbols";
+value = "";
 }
 );
 tag = ss15;
 },
 {
-code = "sub @Symbol_Small by @Symbol_Large;
+code = "featureNames {
+    name \"Large symbols\";
+    name 3 1 0x409 \"Large symbols\";
+    name 3 1 0x412 \"Large symbols\";
+    name 1 0 0 \"Large symbols\";
+    name 1 3 0x23 \"Large symbols\";
+};
+
+sub @Symbol_Small by @Symbol_Large;
 sub @Symbol_Medium by @Symbol_Large;
 sub @Symbol_Fill_Small by @Symbol_Fill_Large;
 sub @Symbol_Fill_Medium by @Symbol_Fill_Large;
@@ -4056,11 +4101,7 @@ sub @Symbol_Fill_Medium by @Symbol_Fill_Large;
 labels = (
 {
 language = dflt;
-value = "Large symbols";
-},
-{
-language = KOR;
-value = "Large symbols";
+value = "";
 }
 );
 tag = ss16;

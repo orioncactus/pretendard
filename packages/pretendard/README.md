@@ -642,7 +642,18 @@ Pretendard에 기여해주셔서 진심으로 감사드립니다.
          <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/118321177/265557430-06327387-6763-47bb-84e7-d9e754f90ad7.png"
          align="center" height="24" alt="맹그로브" hspace="16">
       </picture>
-
+  </a>
+  <a href="https://qanda.ai" target="_blank">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github.com/statios/pretendard/assets/42381560/99bc70a1-b814-4983-991f-7042f4fb9fb3">
+        <img src="https://github.com/statios/pretendard/assets/42381560/db4c32c5-7e34-41d7-8e00-4368d0470f5f" align="center" height="24" alt="QANDA" hspace="16">
+      </picture>
+  </a>
+  <a href="https://tutor.qanda.ai" target="_blank">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github.com/statios/pretendard/assets/42381560/487dfa75-578d-42c0-b77d-0e45c7ce0c3c">
+        <img src="https://github.com/statios/pretendard/assets/42381560/efcf3ea3-f39f-4d61-a808-be5f5a5cb331" align="center" height="32" alt="콴다과외" hspace="16">
+      </picture>
   </a>
 </p>
 

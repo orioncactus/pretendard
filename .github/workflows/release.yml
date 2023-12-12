@@ -7,6 +7,7 @@ on:
 
 jobs:
   upload:
+    name: Upload Assets
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v3
@@ -43,7 +44,18 @@ jobs:
           packages/PretendardJP-${{ env.RELEASE_NAME }}.zip
           packages/PretendardStd-${{ env.RELEASE_NAME }}.zip
           packages/PretendardGOV-${{ env.RELEASE_NAME }}.zip
-    - name: Purge jsDelivr cache
-      run: |
-        curl https://purge.jsdelivr.net/gh/orioncactus/pretendard/dist/web/static
-        curl https://purge.jsdelivr.net/gh/orioncactus/pretendard/dist/web/variable
+  jsdelivrpurge:
+    name: Purge jsDelivr cache
+    runs-on: ubuntu-latest
+    permissions:
+      actions: read
+      contents: read
+    needs: upload
+    steps:
+    - name: Set up NodeJS LTS
+      uses: actions/setup-node@v4
+      with:
+        node-version: 'lts/*'
+    - name: Run jsDelivr-Purge
+      uses: List-KR/jsdelivr-purge@5.1
+

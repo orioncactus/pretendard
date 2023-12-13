@@ -57,5 +57,5 @@ jobs:
       with:
         node-version: 'lts/*'
     - name: Run jsDelivr-Purge
-      uses: List-KR/jsdelivr-purge@5.1.0
+      uses: List-KR/jsdelivr-purge@5.1.1
 

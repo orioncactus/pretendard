@@ -655,6 +655,12 @@ Pretendard에 기여해주셔서 진심으로 감사드립니다.
         <img src="https://github.com/statios/pretendard/assets/42381560/efcf3ea3-f39f-4d61-a808-be5f5a5cb331" align="center" height="32" alt="콴다과외" hspace="16">
       </picture>
   </a>
+  <a href="https://penxle.com" target="_blank">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github.com/devunt/pretendard/assets/337728/7903a48f-8d3c-4088-af62-8113e4e0a52e">
+        <img src="https://github.com/devunt/pretendard/assets/337728/ac841e1f-dc76-415b-b2a2-60c448a7eb51" align="center" height="32" alt="펜슬" hspace="16">
+      </picture>
+  </a>
 </p>
 
 ## 의견 나누기

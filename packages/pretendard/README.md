@@ -541,7 +541,7 @@ Pretendard에 기여해주셔서 진심으로 감사드립니다.
          <img src="https://user-images.githubusercontent.com/7247848/200342728-7aa0fdaf-e8e4-4e7f-b558-240283401e91.png" align="center" height="50" alt="SeMA" hspace="16">
       </picture>
    </a>
-   <a href="https://workspace.wesub.io" target="_blank">
+   <a href="https://gamramstone.com" target="_blank">
       <picture>
          <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/67222970/223708059-32c90573-2d61-48fe-bd79-53935582c345.png">
          <img src="https://user-images.githubusercontent.com/67222970/223707937-8dbc201d-9914-48fa-a316-789047d4b1d1.png" align="center" height="50" alt="감람스톤" hspace="16">

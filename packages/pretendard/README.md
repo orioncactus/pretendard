@@ -608,22 +608,19 @@ Pretendard에 기여해주셔서 진심으로 감사드립니다.
    <a href="https://www.musinsa.com/" target="_blank">
       <picture>
          <source media="(prefers-color-scheme: dark)" srcset="https://github-production-user-asset-6210df.s3.amazonaws.com/7247848/248793922-6cb4ea9d-a00f-4f0b-89b9-41f12468b2a7.png">
-         <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/7247848/248793907-a3436f1a-b086-404d-9eba-03c39bc0c817.png"
-         align="center" height="50" alt="무신사" hspace="16">
+         <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/7247848/248793907-a3436f1a-b086-404d-9eba-03c39bc0c817.png" align="center" height="50" alt="무신사" hspace="16">
       </picture>
   </a>
   <a href="https://wakmusic.xyz/" target="_blank">
       <picture>
          <source media="(prefers-color-scheme: dark)" srcset="https://github-production-user-asset-6210df.s3.amazonaws.com/7247848/248793911-b0da2d43-7865-4a24-ae7f-bd0e8a459833.png">
-         <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/7247848/248793917-6ee7ddb7-3510-4e6b-ac43-5b47c343f41e.png"
-         align="center" height="45" alt="왁타버스 뮤직" hspace="16">
+         <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/7247848/248793917-6ee7ddb7-3510-4e6b-ac43-5b47c343f41e.png" align="center" height="45" alt="왁타버스 뮤직" hspace="16">
       </picture>
    </a>
   <a href="https://pagecall.com/" target="_blank">
       <picture>
          <source media="(prefers-color-scheme: dark)" srcset="https://github.com/orioncactus/pretendard/assets/66673866/1177156a-5e5f-4270-b150-57e5333eea24">
-         <img src="https://github.com/orioncactus/pretendard/assets/66673866/7961fe5e-23b3-48c0-9abb-6719cc2c133f"
-         align="center" height="32" alt="페이지콜" hspace="16">
+         <img src="https://github.com/orioncactus/pretendard/assets/66673866/7961fe5e-23b3-48c0-9abb-6719cc2c133f" align="center" height="32" alt="페이지콜" hspace="16">
       </picture>
    </a>
   <a href="https://elice.io" target="_blank">
@@ -639,8 +636,7 @@ Pretendard에 기여해주셔서 진심으로 감사드립니다.
      <a href="https://play.google.com/store/apps/details?id=com.mgrv.community.app">
       <picture>
          <source media="(prefers-color-scheme: dark)" srcset="https://github-production-user-asset-6210df.s3.amazonaws.com/118321177/265489209-835d2520-64af-45e1-aea2-6a0480d44ddc.png" height="24" align="center" hspace="16">
-         <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/118321177/265557430-06327387-6763-47bb-84e7-d9e754f90ad7.png"
-         align="center" height="24" alt="맹그로브" hspace="16">
+         <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/118321177/265557430-06327387-6763-47bb-84e7-d9e754f90ad7.png" align="center" height="24" alt="맹그로브" hspace="16">
       </picture>
   </a>
   <a href="https://qanda.ai" target="_blank">
@@ -659,6 +655,12 @@ Pretendard에 기여해주셔서 진심으로 감사드립니다.
       <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://github.com/devunt/pretendard/assets/337728/7903a48f-8d3c-4088-af62-8113e4e0a52e">
         <img src="https://github.com/devunt/pretendard/assets/337728/ac841e1f-dc76-415b-b2a2-60c448a7eb51" align="center" height="32" alt="펜슬" hspace="16">
+      </picture>
+  </a>
+  <a href="https://kcp.co.kr/brand/#/sub/typography" target="_blank">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github.com/orioncactus/pretendard/assets/67222970/59dcbc07-94fe-49ab-ac69-32ea9146efeb">
+        <img src="https://github.com/orioncactus/pretendard/assets/67222970/4c3fe365-cc5b-458e-bdaa-37cf8664f328" align="center" height="24" alt="NHN KCP" hspace="16">
       </picture>
   </a>
 </p>

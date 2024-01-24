@@ -571,6 +571,11 @@ Pretendard에 기여해주셔서 진심으로 감사드립니다.
          <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/7247848/238137911-f46e5952-9ff4-478d-8d6c-a741bbbe6d1b.png" align="center" height="50" alt="Naver Webtoon" hspace="16">
       </picture>
    </a>
+   <a href="https://bbq.co.kr" target="_blank">
+       <picture>
+         <img src="https://github.com/orioncactus/pretendard/assets/3013607/087e1c34-6192-4604-8697-4ae1f3ea1a61" align="center" height="50" alt="BBQ 치킨" hspace="16">
+       </picture>
+   </a>
    <a href="https://apps.apple.com/kr/app/번개장터/id395672275" target="_blank">
       <picture>
          <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/7247848/238137906-b8338e38-c6f0-4844-b705-570fe248cc56.png" align="center" height="50" alt="번개장터" hspace="16">

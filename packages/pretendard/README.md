@@ -328,6 +328,19 @@ yay -S ttf-pretendard
 
 Pretendard는 [SIL 오픈 폰트 라이선스](https://scripts.sil.org/OFL)로 배포됩니다. 글꼴 단독 판매를 제외한 모든 상업적 행위 및 수정, 재배포가 가능합니다.
 
+## 후원자
+
+Pretendard 프로젝트를 더욱 원활히 이어나갈 수 있도록 지원해주셔서 진심으로 감사드립니다.
+
+<p align="center">
+   <a href="https://2023.feconf.kr" target="_blank">
+      <picture>
+         <source media="(prefers-color-scheme: dark)" srcset="https://github.com/orioncactus/pretendard/assets/7247848/68bdd6d6-54f1-4f80-af6e-e76454d1e5dd">
+         <img src="https://github.com/orioncactus/pretendard/assets/7247848/798743e6-2774-4d4c-ade6-6acc1c90b48d" align="center" height="50" alt="FEConf" hspace="16">
+      </picture>
+   </a>
+</p>
+
 ## 기여자
 
 Pretendard에 기여해주셔서 진심으로 감사드립니다.

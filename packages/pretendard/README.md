@@ -306,6 +306,22 @@ yay -S otf-pretendard
 yay -S ttf-pretendard
 ```
 
+## Next.js
+
+Next.js에서 로컬 폰트 기능을 활용하여 Pretendard를 사용할 수 있습니다.
+
+```ts
+import localFont from 'next/font/local'
+
+const pretendard = localFont({
+  src: './fonts/PretendardVariable.woff2',
+  display: 'swap',
+  weight: '45 920',
+})
+```
+
+`weight` 옵션을 지정하지 않으면 WebKit 기반의 브라우저에서 굵기가 잘못 렌더링 될 수 있으니 주의해 주세요.
+
 ## 크레딧
 
 #### 바탕

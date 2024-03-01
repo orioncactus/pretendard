@@ -3007,10 +3007,10 @@ value = "Large symbols";
 tag = ss16;
 },
 {
-code = "cvParameters { 
-	FeatUILabelNameID { 
+code = "cvParameters { FeatUILabelNameID { 
 	name \"Alternate one\";
 }; };
+
 sub one by one.ss01;
 sub one.tf by one.tf.ss01;
 ";
@@ -3020,6 +3020,7 @@ tag = cv01;
 code = "cvParameters { FeatUILabelNameID { 
 	name \"Open four\";
 }; };
+
 sub four by four.ss01;
 sub four.tf by four.tf.ss01;
 ";
@@ -3029,6 +3030,7 @@ tag = cv02;
 code = "cvParameters { FeatUILabelNameID { 
 	name \"Open six\";
 }; };
+
 sub six by six.ss01;
 sub six.tf by six.tf.ss01;
 ";
@@ -3038,6 +3040,7 @@ tag = cv03;
 code = "cvParameters { FeatUILabelNameID { 
 	name \"Open nine\";
 }; };
+
 sub nine by nine.ss01;
 sub nine.tf by nine.tf.ss01;
 ";
@@ -3047,6 +3050,7 @@ tag = cv04;
 code = "cvParameters { FeatUILabelNameID { 
 	name \"Lower-case L with tail\";
 }; };
+
 sub l by l.ss02;
 sub lslash by lslash.ss02;
 sub lbar by lbar.ss02;
@@ -3067,6 +3071,7 @@ tag = cv05;
 code = "cvParameters { FeatUILabelNameID { 
 	name \"Alternate German double s\";
 }; };
+
 sub germandbls by germandbls.1;
 ";
 tag = cv07;
@@ -3075,6 +3080,7 @@ tag = cv07;
 code = "cvParameters { FeatUILabelNameID { 
 	name \"Upper-case i with serif\";
 }; };
+
 sub I by I.1;
 sub Idieresis by Idieresis.1;
 sub Idieresisacute by Idieresisacute.1;
@@ -3126,6 +3132,7 @@ tag = cv08;
 code = "cvParameters { FeatUILabelNameID { 
 	name \"Flat-top three\";
 }; };
+
 sub three by three.1;
 sub three.tf by three.1.tf;
 ";
@@ -3135,6 +3142,7 @@ tag = cv09;
 code = "cvParameters { FeatUILabelNameID { 
 	name \"Captital G with spur\";
 }; };
+
 sub G by G.1;
 sub Gbar by Gbar.1;
 sub Ghook by Ghook.1;
@@ -3152,6 +3160,7 @@ tag = cv10;
 code = "cvParameters { FeatUILabelNameID { 
 	name \"Single-storey a\";
 }; };
+
 sub a by a.1;
 sub aacute by aacute.1;
 sub abreve by abreve.1;
@@ -3188,10 +3197,10 @@ sub acyrillic by a.1;  # acyrillic is just a reference to /a
 tag = cv11;
 },
 {
-code = "cvParameters { 
-	FeatUILabelNameID { 
+code = "cvParameters { FeatUILabelNameID { 
 	name \"High legibility one\";
 }; };
+
 sub one by one.1;
 sub one.tf by one.1.tf;
 sub one.ss01 by one.1;

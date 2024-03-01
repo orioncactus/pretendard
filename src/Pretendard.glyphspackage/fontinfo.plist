@@ -3734,10 +3734,6 @@ tag = salt;
 {
 code = "featureNames {
     name \"Straight-sided six and nine\";
-    name 3 1 0x409 \"Straight-sided six and nine\";
-    name 3 1 0x412 \"Straight-sided six and nine\";
-    name 1 0 0 \"Straight-sided six and nine\";
-    name 1 3 0x23 \"Straight-sided six and nine\";
 };
 
 lookup LOOKUP_SS01;
@@ -3753,10 +3749,6 @@ tag = ss01;
 {
 code = "featureNames {
     name \"Open four\";
-    name 3 1 0x409 \"Open four\";
-    name 3 1 0x412 \"Open four\";
-    name 1 0 0 \"Open four\";
-    name 1 3 0x23 \"Open four\";
 };
 
 lookup LOOKUP_SS02;
@@ -3772,10 +3764,6 @@ tag = ss02;
 {
 code = "featureNames {
     name \"Vertically centered colon\";
-    name 3 1 0x409 \"Vertically centered colon\";
-    name 3 1 0x412 \"Vertically centered colon\";
-    name 1 0 0 \"Vertically centered colon\";
-    name 1 3 0x23 \"Vertically centered colon\";
 };
 
 lookup LOOKUP_SS03;
@@ -3791,10 +3779,6 @@ tag = ss03;
 {
 code = "featureNames {
     name \"Korean localization\";
-    name 3 1 0x409 \"Korean localization\";
-    name 3 1 0x412 \"Korean localization\";
-    name 1 0 0 \"Korean localization\";
-    name 1 3 0x23 \"Korean localization\";
 };
 
 @NULL_SS05 = [];
@@ -3814,10 +3798,6 @@ tag = ss05;
 {
 code = "featureNames {
     name \"High legibility\";
-    name 3 1 0x409 \"High legibility\";
-    name 3 1 0x412 \"High legibility\";
-    name 1 0 0 \"High legibility\";
-    name 1 3 0x23 \"High legibility\";
 };
 
 lookup LOOKUP_SS06_1;
@@ -3834,10 +3814,6 @@ tag = ss06;
 {
 code = "featureNames {
     name \"One storey a\";
-    name 3 1 0x409 \"One storey a\";
-    name 3 1 0x412 \"One storey a\";
-    name 1 0 0 \"One storey a\";
-    name 1 3 0x23 \"One storey a\";
 };
 
 @SS01_L = [
@@ -3921,10 +3897,6 @@ tag = ss07;
 {
 code = "featureNames {
     name \"Flat-top three\";
-    name 3 1 0x409 \"Flat-top three\";
-    name 3 1 0x412 \"Flat-top three\";
-    name 1 0 0 \"Flat-top three\";
-    name 1 3 0x23 \"Flat-top three\";
 };
 
 lookup LOOKUP_SS08;
@@ -3940,10 +3912,6 @@ tag = ss08;
 {
 code = "featureNames {
     name \"Medium symbols\";
-    name 3 1 0x409 \"Medium symbols\";
-    name 3 1 0x412 \"Medium symbols\";
-    name 1 0 0 \"Medium symbols\";
-    name 1 3 0x23 \"Medium symbols\";
 };
 
 sub @Circled by @Circled_Medium;
@@ -3966,10 +3934,6 @@ tag = ss10;
 {
 code = "featureNames {
     name \"Outlined symbols\";
-    name 3 1 0x409 \"Outlined symbols\";
-    name 3 1 0x412 \"Outlined symbols\";
-    name 1 0 0 \"Outlined symbols\";
-    name 1 3 0x23 \"Outlined symbols\";
 };
 
 sub @Circled_Fill by @Circled;
@@ -3991,10 +3955,6 @@ tag = ss11;
 {
 code = "featureNames {
     name \"Circle symbols\";
-    name 3 1 0x409 \"Circle symbols\";
-    name 3 1 0x412 \"Circle symbols\";
-    name 1 0 0 \"Circle symbols\";
-    name 1 3 0x23 \"Circle symbols\";
 };
 
 sub @Squared by @Circled;
@@ -4013,10 +3973,6 @@ tag = ss12;
 {
 code = "featureNames {
     name \"Square symbols\";
-    name 3 1 0x409 \"Square symbols\";
-    name 3 1 0x412 \"Square symbols\";
-    name 1 0 0 \"Square symbols\";
-    name 1 3 0x23 \"Square symbols\";
 };
 
 sub @Circled by @Squared;
@@ -4035,10 +3991,6 @@ tag = ss13;
 {
 code = "featureNames {
     name \"Filled symbols\";
-    name 3 1 0x409 \"Filled symbols\";
-    name 3 1 0x412 \"Filled symbols\";
-    name 1 0 0 \"Filled symbols\";
-    name 1 3 0x23 \"Filled symbols\";
 };
 
 sub @Circled by @Circled_Fill;
@@ -4060,10 +4012,6 @@ tag = ss14;
 {
 code = "featureNames {
     name \"Small symbols\";
-    name 3 1 0x409 \"Small symbols\";
-    name 3 1 0x412 \"Small symbols\";
-    name 1 0 0 \"Small symbols\";
-    name 1 3 0x23 \"Small symbols\";
 };
 
 sub @Circled_Medium by @Circled;
@@ -4086,10 +4034,6 @@ tag = ss15;
 {
 code = "featureNames {
     name \"Large symbols\";
-    name 3 1 0x409 \"Large symbols\";
-    name 3 1 0x412 \"Large symbols\";
-    name 1 0 0 \"Large symbols\";
-    name 1 3 0x23 \"Large symbols\";
 };
 
 sub @Symbol_Small by @Symbol_Large;
@@ -4108,10 +4052,6 @@ tag = ss16;
 {
 code = "cvParameters { FeatUILabelNameID { 
 	name \"Alternate one\";
-    name 3 1 0x409 \"Alternate one\";
-    name 3 1 0x412 \"Alternate one\";
-    name 1 0 0 \"Alternate one\";
-    name 1 3 0x23 \"Alternate one\";
 }; };
 
 sub one by one.ss01;
@@ -4122,10 +4062,6 @@ tag = cv01;
 {
 code = "cvParameters { FeatUILabelNameID { 
 	name \"Open four\";
-    name 3 1 0x409 \"Open four\";
-    name 3 1 0x412 \"Open four\";
-    name 1 0 0 \"Open four\";
-    name 1 3 0x23 \"Open four\";
 }; };
 
 lookup LOOKUP_CV02;
@@ -4135,10 +4071,6 @@ tag = cv02;
 {
 code = "cvParameters { FeatUILabelNameID { 
 	name \"Open six\";
-    name 3 1 0x409 \"Open six\";
-    name 3 1 0x412 \"Open six\";
-    name 1 0 0 \"Open six\";
-    name 1 3 0x23 \"Open six\";
 }; };
 
 lookup LOOKUP_CV03;
@@ -4148,10 +4080,6 @@ tag = cv03;
 {
 code = "cvParameters { FeatUILabelNameID { 
 	name \"Open nine\";
-    name 3 1 0x409 \"Open nine\";
-    name 3 1 0x412 \"Open nine\";
-    name 1 0 0 \"Open nine\";
-    name 1 3 0x23 \"Open nine\";
 }; };
 
 lookup LOOKUP_CV04;
@@ -4161,10 +4089,6 @@ tag = cv04;
 {
 code = "cvParameters { FeatUILabelNameID { 
 	name \"Lower-case L with tail\";
-    name 3 1 0x409 \"Lower-case L with tail\";
-    name 3 1 0x412 \"Lower-case L with tail\";
-    name 1 0 0 \"Lower-case L with tail\";
-    name 1 3 0x23 \"Lower-case L with tail\";
 }; };
 
 lookup LOOKUP_CV05;
@@ -4174,10 +4098,6 @@ tag = cv05;
 {
 code = "cvParameters { FeatUILabelNameID { 
 	name \"Alternate German double s\";
-    name 3 1 0x409 \"Alternate German double s\";
-    name 3 1 0x412 \"Alternate German double s\";
-    name 1 0 0 \"Alternate German double s\";
-    name 1 3 0x23 \"Alternate German double s\";
 }; };
 
 sub germandbls by germandbls.1;
@@ -4187,10 +4107,6 @@ tag = cv07;
 {
 code = "cvParameters { FeatUILabelNameID { 
 	name \"Upper-case i with serif\";
-    name 3 1 0x409 \"Upper-case i with serif\";
-    name 3 1 0x412 \"Upper-case i with serif\";
-    name 1 0 0 \"Upper-case i with serif\";
-    name 1 3 0x23 \"Upper-case i with serif\";
 }; };
 
 lookup LOOKUP_CV08;
@@ -4200,10 +4116,6 @@ tag = cv08;
 {
 code = "cvParameters { FeatUILabelNameID { 
 	name \"Flat-top three\";
-    name 3 1 0x409 \"Flat-top three\";
-    name 3 1 0x412 \"Flat-top three\";
-    name 1 0 0 \"Flat-top three\";
-    name 1 3 0x23 \"Flat-top three\";
 }; };
 
 lookup LOOKUP_CV09;
@@ -4213,10 +4125,6 @@ tag = cv09;
 {
 code = "cvParameters { FeatUILabelNameID { 
 	name \"Captital G with spur\";
-    name 3 1 0x409 \"Captital G with spur\";
-    name 3 1 0x412 \"Captital G with spur\";
-    name 1 0 0 \"Captital G with spur\";
-    name 1 3 0x23 \"Captital G with spur\";
 }; };
 
 sub G by G.1;
@@ -4235,10 +4143,6 @@ tag = cv10;
 {
 code = "cvParameters { FeatUILabelNameID { 
 	name \"Single-storey a\";
-    name 3 1 0x409 \"Single-storey a\";
-    name 3 1 0x412 \"Single-storey a\";
-    name 1 0 0 \"Single-storey a\";
-    name 1 3 0x23 \"Single-storey a\";
 }; };
 
 sub a by a.1;
@@ -4279,10 +4183,6 @@ tag = cv11;
 {
 code = "cvParameters { FeatUILabelNameID { 
 	name \"Vertically centered ellipsis\";
-    name 3 1 0x409 \"Vertically centered ellipsis\";
-    name 3 1 0x412 \"Vertically centered ellipsis\";
-    name 1 0 0 \"Vertically centered ellipsis\";
-    name 1 3 0x23 \"Vertically centered ellipsis\";
 }; };
 
 lookup LOOKUP_CV12;
@@ -4292,10 +4192,6 @@ tag = cv12;
 {
 code = "cvParameters { FeatUILabelNameID { 
 	name \"High legibility one\";
-    name 3 1 0x409 \"High legibility one\";
-    name 3 1 0x412 \"High legibility one\";
-    name 1 0 0 \"High legibility one\";
-    name 1 3 0x23 \"High legibility one\";
 }; };
 
 lookup LOOKUP_CV13;

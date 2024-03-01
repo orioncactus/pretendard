@@ -749,10 +749,6 @@ tag = ss06;
 {
 code = "featureNames {
     name \"GOV forms\";
-    name 3 1 0x409 \"GOV forms\";
-    name 3 1 0x412 \"GOV forms\";
-    name 1 0 0 \"GOV forms\";
-    name 1 3 0x23 \"GOV forms\";
 };
 
 lookup LOOKUP_SS20_1;
@@ -1475,31 +1471,31 @@ value = "salt;lookup LOOKUP_SALT_1_GOV;\012lookup LOOKUP_SALT_2;\012";
 },
 {
 name = "Replace Feature";
-value = "ss03;featureNames {\012    name \"Vertically centered colon\";\012    name 3 1 0x409 \"Vertically centered colon\";\012    name 3 1 0x412 \"Vertically centered colon\";\012    name 1 0 0 \"Vertically centered colon\";\012    name 1 3 0x23 \"Vertically centered colon\";\012};\012\012lookup LOOKUP_SS03_GOV;\012";
+value = "ss03;featureNames {\012    name \"Vertically centered colon\";\012};\012\012lookup LOOKUP_SS03_GOV;\012";
 },
 {
 name = "Replace Feature";
-value = "ss01;featureNames {\012    name \"Circular six and nine\";\012    name 3 1 0x409 \"Circular six and nine\";\012    name 3 1 0x412 \"Circular six and nine\";\012    name 1 0 0 \"Circular six and nine\";\012    name 1 3 0x23 \"Circular six and nine\";\012};\012\012lookup LOOKUP_SS01_GOV;\012";
+value = "ss01;featureNames {\012    name \"Circular six and nine\";\012};\012\012lookup LOOKUP_SS01_GOV;\012";
 },
 {
 name = "Replace Feature";
-value = "ss02;featureNames {\012    name \"Closed four\";\012    name 3 1 0x409 \"Closed four\";\012    name 3 1 0x412 \"Closed four\";\012    name 1 0 0 \"Closed four\";\012    name 1 3 0x23 \"Closed four\";\012};\012\012lookup LOOKUP_SS02_GOV;\012";
+value = "ss02;featureNames {\012    name \"Closed four\";\012};\012\012lookup LOOKUP_SS02_GOV;\012";
 },
 {
 name = "Replace Feature";
-value = "ss05;featureNames {\012    name \"Global localization\";\012    name 3 1 0x409 \"Global localization\";\012    name 3 1 0x412 \"Global localization\";\012    name 1 0 0 \"Global localization\";\012    name 1 3 0x23 \"Global localization\";\012};\012\012lookup LOOKUP_SS05_GOV;\012";
+value = "ss05;featureNames {\012    name \"Global localization\";\012};\012\012lookup LOOKUP_SS05_GOV;\012";
 },
 {
 name = "Replace Feature";
-value = "ss06;featureNames {\012    name \"Normal legibility\";\012    name 3 1 0x409 \"Normal legibility\";\012    name 3 1 0x412 \"Normal legibility\";\012    name 1 0 0 \"Normal legibility\";\012    name 1 3 0x23 \"Normal legibility\";\012};\012\012lookup LOOKUP_SS06_1_GOV;\012lookup LOOKUP_SS06_2;\012lookup LOOKUP_SS06_GOV;\012";
+value = "ss06;featureNames {\012    name \"Normal legibility\";\012};\012\012lookup LOOKUP_SS06_1_GOV;\012lookup LOOKUP_SS06_2;\012lookup LOOKUP_SS06_GOV;\012";
 },
 {
 name = "Replace Feature";
-value = "ss08;featureNames {\012    name \"Circular three\";\012    name 3 1 0x409 \"Circular three\";\012    name 3 1 0x412 \"Circular three\";\012    name 1 0 0 \"Circular three\";\012    name 1 3 0x23 \"Circular three\";\012};\012\012lookup LOOKUP_SS08_GOV;\012";
+value = "ss08;featureNames {\012    name \"Circular three\";\012};\012\012lookup LOOKUP_SS08_GOV;\012";
 },
 {
 name = "Replace Feature";
-value = "ss20;featureNames {\012    name \"Original forms\";\012    name 3 1 0x409 \"Original forms\";\012    name 3 1 0x412 \"Original forms\";\012    name 1 0 0 \"Original forms\";\012    name 1 3 0x23 \"Original forms\";\012};\012\012lookup LOOKUP_SS20_1_GOV;\012lookup LOOKUP_SS20_2;\012lookup LOOKUP_SS20_3_GOV;\012lookup LOOKUP_SS20_4_GOV;\012lookup LOOKUP_SS20_5;\012";
+value = "ss20;featureNames {\012    name \"Original forms\";\012};\012\012lookup LOOKUP_SS20_1_GOV;\012lookup LOOKUP_SS20_2;\012lookup LOOKUP_SS20_3_GOV;\012lookup LOOKUP_SS20_4_GOV;\012lookup LOOKUP_SS20_5;\012";
 },
 {
 name = "Replace Feature";
@@ -1660,35 +1656,35 @@ uni2051
 },
 {
 name = "Replace Feature";
-value = "cv02;cvParameters { FeatUILabelNameID { \012	name \"Closed four\";\012    name 3 1 0x409 \"Closed four\";\012    name 3 1 0x412 \"Closed four\";\012    name 1 0 0 \"Closed four\";\012    name 1 3 0x23 \"Closed four\";\012}; };\012\012lookup LOOKUP_CV02;\012";
+value = "cv02;cvParameters { FeatUILabelNameID { \012	name \"Closed four\";\012}; };\012\012lookup LOOKUP_CV02;\012";
 },
 {
 name = "Replace Feature";
-value = "cv03;cvParameters { FeatUILabelNameID { \012	name \"Closed six\";\012    name 3 1 0x409 \"Closed six\";\012    name 3 1 0x412 \"Closed six\";\012    name 1 0 0 \"Closed six\";\012    name 1 3 0x23 \"Closed six\";\012}; };\012\012lookup LOOKUP_CV03;\012";
+value = "cv03;cvParameters { FeatUILabelNameID { \012	name \"Closed six\";\012}; };\012\012lookup LOOKUP_CV03;\012";
 },
 {
 name = "Replace Feature";
-value = "cv04;cvParameters { FeatUILabelNameID { \012	name \"Closed nine\";\012    name 3 1 0x409 \"Closed nine\";\012    name 3 1 0x412 \"Closed nine\";\012    name 1 0 0 \"Closed nine\";\012    name 1 3 0x23 \"Closed nine\";\012}; };\012\012lookup LOOKUP_CV04;\012";
+value = "cv04;cvParameters { FeatUILabelNameID { \012	name \"Closed nine\";\012}; };\012\012lookup LOOKUP_CV04;\012";
 },
 {
 name = "Replace Feature";
-value = "cv05;cvParameters { FeatUILabelNameID { \012	name \"Lower-case L without tail\";\012    name 3 1 0x409 \"Lower-case L without tail\";\012    name 3 1 0x412 \"Lower-case L without tail\";\012    name 1 0 0 \"Lower-case L without tail\";\012    name 1 3 0x23 \"Lower-case L without tail\";\012}; };\012\012lookup LOOKUP_CV05;\012";
+value = "cv05;cvParameters { FeatUILabelNameID { \012	name \"Lower-case L without tail\";\012}; };\012\012lookup LOOKUP_CV05;\012";
 },
 {
 name = "Replace Feature";
-value = "cv08;cvParameters { FeatUILabelNameID { \012	name \"Upper-case i without serif\";\012    name 3 1 0x409 \"Upper-case i without serif\";\012    name 3 1 0x412 \"Upper-case i without serif\";\012    name 1 0 0 \"Upper-case i without serif\";\012    name 1 3 0x23 \"Upper-case i without serif\";\012}; };\012\012lookup LOOKUP_CV08;\012";
+value = "cv08;cvParameters { FeatUILabelNameID { \012	name \"Upper-case i without serif\";\012}; };\012\012lookup LOOKUP_CV08;\012";
 },
 {
 name = "Replace Feature";
-value = "cv09;cvParameters { FeatUILabelNameID { \012	name \"Circular three\";\012    name 3 1 0x409 \"Circular three\";\012    name 3 1 0x412 \"Circular three\";\012    name 1 0 0 \"Circular three\";\012    name 1 3 0x23 \"Circular three\";\012}; };\012\012lookup LOOKUP_CV09;\012";
+value = "cv09;cvParameters { FeatUILabelNameID { \012	name \"Circular three\";\012}; };\012\012lookup LOOKUP_CV09;\012";
 },
 {
 name = "Replace Feature";
-value = "cv12;cvParameters { FeatUILabelNameID { \012	name \"Baseline aligned ellipsis\";\012    name 3 1 0x409 \"Baseline aligned ellipsis\";\012    name 3 1 0x412 \"Baseline aligned ellipsis\";\012    name 1 0 0 \"Baseline aligned ellipsis\";\012    name 1 3 0x23 \"Baseline aligned ellipsis\";\012}; };\012\012lookup LOOKUP_CV12;\012";
+value = "cv12;cvParameters { FeatUILabelNameID { \012	name \"Baseline aligned ellipsis\";\012}; };\012\012lookup LOOKUP_CV12;\012";
 },
 {
 name = "Replace Feature";
-value = "cv13;cvParameters { FeatUILabelNameID { \012	name \"Normal legibility one\";\012    name 3 1 0x409 \"Normal legibility one\";\012    name 3 1 0x412 \"Normal legibility one\";\012    name 1 0 0 \"Normal legibility one\";\012    name 1 3 0x23 \"Normal legibility one\";\012}; };\012\012lookup LOOKUP_CV13;\012";
+value = "cv13;cvParameters { FeatUILabelNameID { \012	name \"Normal legibility one\";\012}; };\012\012lookup LOOKUP_CV13;\012";
 },
 {
 name = "Remove Glyphs";
@@ -2043,31 +2039,31 @@ zero.tag.medium
 },
 {
 name = "Replace Feature";
-value = "ss10;featureNames {\012    name \"Medium symbols\";\012    name 3 1 0x409 \"Medium symbols\";\012    name 3 1 0x412 \"Medium symbols\";\012    name 1 0 0 \"Medium symbols\";\012    name 1 3 0x23 \"Medium symbols\";\012};\012\012sub @Symbol_Small by @Symbol_Medium;\012sub @Symbol_Fill_Small by @Symbol_Fill_Medium;\012sub @Symbol_Large by @Symbol_Medium;\012sub @Symbol_Fill_Large by @Symbol_Fill_Medium;\012";
+value = "ss10;featureNames {\012    name \"Medium symbols\";\012};\012\012sub @Symbol_Small by @Symbol_Medium;\012sub @Symbol_Fill_Small by @Symbol_Fill_Medium;\012sub @Symbol_Large by @Symbol_Medium;\012sub @Symbol_Fill_Large by @Symbol_Fill_Medium;\012";
 },
 {
 name = "Replace Feature";
-value = "ss11;featureNames {\012    name \"Outlined symbols\";\012    name 3 1 0x409 \"Outlined symbols\";\012    name 3 1 0x412 \"Outlined symbols\";\012    name 1 0 0 \"Outlined symbols\";\012    name 1 3 0x23 \"Outlined symbols\";\012};\012\012sub @Circled_Fill by @Circled;\012sub @Squared_Fill by @Squared;\012sub @Symbol_Fill_Small by @Symbol_Small;\012sub @Symbol_Fill_Medium by @Symbol_Medium;\012sub @Symbol_Fill_Large by @Symbol_Large;\012";
+value = "ss11;featureNames {\012    name \"Outlined symbols\";\012};\012\012sub @Circled_Fill by @Circled;\012sub @Squared_Fill by @Squared;\012sub @Symbol_Fill_Small by @Symbol_Small;\012sub @Symbol_Fill_Medium by @Symbol_Medium;\012sub @Symbol_Fill_Large by @Symbol_Large;\012";
 },
 {
 name = "Replace Feature";
-value = "ss12;featureNames {\012    name \"Circle symbols\";\012    name 3 1 0x409 \"Circle symbols\";\012    name 3 1 0x412 \"Circle symbols\";\012    name 1 0 0 \"Circle symbols\";\012    name 1 3 0x23 \"Circle symbols\";\012};\012\012sub @Squared by @Circled;\012sub @Squared_Fill by @Circled_Fill;\012";
+value = "ss12;featureNames {\012    name \"Circle symbols\";\012};\012\012sub @Squared by @Circled;\012sub @Squared_Fill by @Circled_Fill;\012";
 },
 {
 name = "Replace Feature";
-value = "ss13;featureNames {\012    name \"Square symbols\";\012    name 3 1 0x409 \"Square symbols\";\012    name 3 1 0x412 \"Square symbols\";\012    name 1 0 0 \"Square symbols\";\012    name 1 3 0x23 \"Square symbols\";\012};\012\012sub @Circled by @Squared;\012sub @Circled_Fill by @Squared_Fill;\012";
+value = "ss13;featureNames {\012    name \"Square symbols\";\012};\012\012sub @Circled by @Squared;\012sub @Circled_Fill by @Squared_Fill;\012";
 },
 {
 name = "Replace Feature";
-value = "ss14;featureNames {\012    name \"Filled symbols\";\012    name 3 1 0x409 \"Filled symbols\";\012    name 3 1 0x412 \"Filled symbols\";\012    name 1 0 0 \"Filled symbols\";\012    name 1 3 0x23 \"Filled symbols\";\012};\012\012sub @Circled by @Circled_Fill;\012sub @Squared by @Squared_Fill;\012sub @Symbol_Small by @Symbol_Fill_Small;\012sub @Symbol_Medium by @Symbol_Fill_Medium;\012sub @Symbol_Large by @Symbol_Fill_Large;\012";
+value = "ss14;featureNames {\012    name \"Filled symbols\";\012};\012\012sub @Circled by @Circled_Fill;\012sub @Squared by @Squared_Fill;\012sub @Symbol_Small by @Symbol_Fill_Small;\012sub @Symbol_Medium by @Symbol_Fill_Medium;\012sub @Symbol_Large by @Symbol_Fill_Large;\012";
 },
 {
 name = "Replace Feature";
-value = "ss15;featureNames {\012    name \"Small symbols\";\012    name 3 1 0x409 \"Small symbols\";\012    name 3 1 0x412 \"Small symbols\";\012    name 1 0 0 \"Small symbols\";\012    name 1 3 0x23 \"Small symbols\";\012};\012\012sub @Symbol_Medium by @Symbol_Small;\012sub @Symbol_Fill_Medium by @Symbol_Fill_Small;\012sub @Symbol_Large by @Symbol_Small;\012sub @Symbol_Fill_Large by @Symbol_Fill_Small;\012";
+value = "ss15;featureNames {\012    name \"Small symbols\";\012};\012\012sub @Symbol_Medium by @Symbol_Small;\012sub @Symbol_Fill_Medium by @Symbol_Fill_Small;\012sub @Symbol_Large by @Symbol_Small;\012sub @Symbol_Fill_Large by @Symbol_Fill_Small;\012";
 },
 {
 name = "Replace Feature";
-value = "ss16;featureNames {\012    name \"Large symbols\";\012    name 3 1 0x409 \"Large symbols\";\012    name 3 1 0x412 \"Large symbols\";\012    name 1 0 0 \"Large symbols\";\012    name 1 3 0x23 \"Large symbols\";\012};\012\012sub @Symbol_Small by @Symbol_Large;\012sub @Symbol_Medium by @Symbol_Large;\012sub @Symbol_Fill_Small by @Symbol_Fill_Large;\012sub @Symbol_Fill_Medium by @Symbol_Fill_Large;\012";
+value = "ss16;featureNames {\012    name \"Large symbols\";\012};\012\012sub @Symbol_Small by @Symbol_Large;\012sub @Symbol_Medium by @Symbol_Large;\012sub @Symbol_Fill_Small by @Symbol_Fill_Large;\012sub @Symbol_Fill_Medium by @Symbol_Fill_Large;\012";
 },
 {
 name = "Replace Class";
@@ -2322,31 +2318,31 @@ value = "salt;lookup LOOKUP_SALT_1_GOV;\012lookup LOOKUP_SALT_2;\012";
 },
 {
 name = "Replace Feature";
-value = "ss03;featureNames {\012    name \"Vertically centered colon\";\012    name 3 1 0x409 \"Vertically centered colon\";\012    name 3 1 0x412 \"Vertically centered colon\";\012    name 1 0 0 \"Vertically centered colon\";\012    name 1 3 0x23 \"Vertically centered colon\";\012};\012\012lookup LOOKUP_SS03_GOV;\012";
+value = "ss03;featureNames {\012    name \"Vertically centered colon\";\012};\012\012lookup LOOKUP_SS03_GOV;\012";
 },
 {
 name = "Replace Feature";
-value = "ss01;featureNames {\012    name \"Circular six and nine\";\012    name 3 1 0x409 \"Circular six and nine\";\012    name 3 1 0x412 \"Circular six and nine\";\012    name 1 0 0 \"Circular six and nine\";\012    name 1 3 0x23 \"Circular six and nine\";\012};\012\012lookup LOOKUP_SS01_GOV;\012";
+value = "ss01;featureNames {\012    name \"Circular six and nine\";\012};\012\012lookup LOOKUP_SS01_GOV;\012";
 },
 {
 name = "Replace Feature";
-value = "ss02;featureNames {\012    name \"Closed four\";\012    name 3 1 0x409 \"Closed four\";\012    name 3 1 0x412 \"Closed four\";\012    name 1 0 0 \"Closed four\";\012    name 1 3 0x23 \"Closed four\";\012};\012\012lookup LOOKUP_SS02_GOV;\012";
+value = "ss02;featureNames {\012    name \"Closed four\";\012};\012\012lookup LOOKUP_SS02_GOV;\012";
 },
 {
 name = "Replace Feature";
-value = "ss05;featureNames {\012    name \"Global localization\";\012    name 3 1 0x409 \"Global localization\";\012    name 3 1 0x412 \"Global localization\";\012    name 1 0 0 \"Global localization\";\012    name 1 3 0x23 \"Global localization\";\012};\012\012lookup LOOKUP_SS05_GOV;\012";
+value = "ss05;featureNames {\012    name \"Global localization\";\012};\012\012lookup LOOKUP_SS05_GOV;\012";
 },
 {
 name = "Replace Feature";
-value = "ss06;featureNames {\012    name \"Normal legibility\";\012    name 3 1 0x409 \"Normal legibility\";\012    name 3 1 0x412 \"Normal legibility\";\012    name 1 0 0 \"Normal legibility\";\012    name 1 3 0x23 \"Normal legibility\";\012};\012\012lookup LOOKUP_SS06_1_GOV;\012lookup LOOKUP_SS06_2;\012lookup LOOKUP_SS06_GOV;\012";
+value = "ss06;featureNames {\012    name \"Normal legibility\";\012};\012\012lookup LOOKUP_SS06_1_GOV;\012lookup LOOKUP_SS06_2;\012lookup LOOKUP_SS06_GOV;\012";
 },
 {
 name = "Replace Feature";
-value = "ss08;featureNames {\012    name \"Circular three\";\012    name 3 1 0x409 \"Circular three\";\012    name 3 1 0x412 \"Circular three\";\012    name 1 0 0 \"Circular three\";\012    name 1 3 0x23 \"Circular three\";\012};\012\012lookup LOOKUP_SS08_GOV;\012";
+value = "ss08;featureNames {\012    name \"Circular three\";\012};\012\012lookup LOOKUP_SS08_GOV;\012";
 },
 {
 name = "Replace Feature";
-value = "ss20;featureNames {\012    name \"Original forms\";\012    name 3 1 0x409 \"Original forms\";\012    name 3 1 0x412 \"Original forms\";\012    name 1 0 0 \"Original forms\";\012    name 1 3 0x23 \"Original forms\";\012};\012\012lookup LOOKUP_SS20_1_GOV;\012lookup LOOKUP_SS20_2;\012lookup LOOKUP_SS20_3_GOV;\012lookup LOOKUP_SS20_4_GOV;\012lookup LOOKUP_SS20_5;\012";
+value = "ss20;featureNames {\012    name \"Original forms\";\012};\012\012lookup LOOKUP_SS20_1_GOV;\012lookup LOOKUP_SS20_2;\012lookup LOOKUP_SS20_3_GOV;\012lookup LOOKUP_SS20_4_GOV;\012lookup LOOKUP_SS20_5;\012";
 },
 {
 name = "Replace Feature";
@@ -2507,35 +2503,35 @@ uni2051
 },
 {
 name = "Replace Feature";
-value = "cv02;cvParameters { FeatUILabelNameID { \012	name \"Closed four\";\012    name 3 1 0x409 \"Closed four\";\012    name 3 1 0x412 \"Closed four\";\012    name 1 0 0 \"Closed four\";\012    name 1 3 0x23 \"Closed four\";\012}; };\012\012lookup LOOKUP_CV02;\012";
+value = "cv02;cvParameters { FeatUILabelNameID { \012	name \"Closed four\";\012}; };\012\012lookup LOOKUP_CV02;\012";
 },
 {
 name = "Replace Feature";
-value = "cv03;cvParameters { FeatUILabelNameID { \012	name \"Closed six\";\012    name 3 1 0x409 \"Closed six\";\012    name 3 1 0x412 \"Closed six\";\012    name 1 0 0 \"Closed six\";\012    name 1 3 0x23 \"Closed six\";\012}; };\012\012lookup LOOKUP_CV03;\012";
+value = "cv03;cvParameters { FeatUILabelNameID { \012	name \"Closed six\";\012}; };\012\012lookup LOOKUP_CV03;\012";
 },
 {
 name = "Replace Feature";
-value = "cv04;cvParameters { FeatUILabelNameID { \012	name \"Closed nine\";\012    name 3 1 0x409 \"Closed nine\";\012    name 3 1 0x412 \"Closed nine\";\012    name 1 0 0 \"Closed nine\";\012    name 1 3 0x23 \"Closed nine\";\012}; };\012\012lookup LOOKUP_CV04;\012";
+value = "cv04;cvParameters { FeatUILabelNameID { \012	name \"Closed nine\";\012}; };\012\012lookup LOOKUP_CV04;\012";
 },
 {
 name = "Replace Feature";
-value = "cv05;cvParameters { FeatUILabelNameID { \012	name \"Lower-case L without tail\";\012    name 3 1 0x409 \"Lower-case L without tail\";\012    name 3 1 0x412 \"Lower-case L without tail\";\012    name 1 0 0 \"Lower-case L without tail\";\012    name 1 3 0x23 \"Lower-case L without tail\";\012}; };\012\012lookup LOOKUP_CV05;\012";
+value = "cv05;cvParameters { FeatUILabelNameID { \012	name \"Lower-case L without tail\";\012}; };\012\012lookup LOOKUP_CV05;\012";
 },
 {
 name = "Replace Feature";
-value = "cv08;cvParameters { FeatUILabelNameID { \012	name \"Upper-case i without serif\";\012    name 3 1 0x409 \"Upper-case i without serif\";\012    name 3 1 0x412 \"Upper-case i without serif\";\012    name 1 0 0 \"Upper-case i without serif\";\012    name 1 3 0x23 \"Upper-case i without serif\";\012}; };\012\012lookup LOOKUP_CV08;\012";
+value = "cv08;cvParameters { FeatUILabelNameID { \012	name \"Upper-case i without serif\";\012}; };\012\012lookup LOOKUP_CV08;\012";
 },
 {
 name = "Replace Feature";
-value = "cv09;cvParameters { FeatUILabelNameID { \012	name \"Circular three\";\012    name 3 1 0x409 \"Circular three\";\012    name 3 1 0x412 \"Circular three\";\012    name 1 0 0 \"Circular three\";\012    name 1 3 0x23 \"Circular three\";\012}; };\012\012lookup LOOKUP_CV09;\012";
+value = "cv09;cvParameters { FeatUILabelNameID { \012	name \"Circular three\";\012}; };\012\012lookup LOOKUP_CV09;\012";
 },
 {
 name = "Replace Feature";
-value = "cv12;cvParameters { FeatUILabelNameID { \012	name \"Baseline aligned ellipsis\";\012    name 3 1 0x409 \"Baseline aligned ellipsis\";\012    name 3 1 0x412 \"Baseline aligned ellipsis\";\012    name 1 0 0 \"Baseline aligned ellipsis\";\012    name 1 3 0x23 \"Baseline aligned ellipsis\";\012}; };\012\012lookup LOOKUP_CV12;\012";
+value = "cv12;cvParameters { FeatUILabelNameID { \012	name \"Baseline aligned ellipsis\";\012}; };\012\012lookup LOOKUP_CV12;\012";
 },
 {
 name = "Replace Feature";
-value = "cv13;cvParameters { FeatUILabelNameID { \012	name \"Normal legibility one\";\012    name 3 1 0x409 \"Normal legibility one\";\012    name 3 1 0x412 \"Normal legibility one\";\012    name 1 0 0 \"Normal legibility one\";\012    name 1 3 0x23 \"Normal legibility one\";\012}; };\012\012lookup LOOKUP_CV13;\012";
+value = "cv13;cvParameters { FeatUILabelNameID { \012	name \"Normal legibility one\";\012}; };\012\012lookup LOOKUP_CV13;\012";
 },
 {
 name = "Remove Glyphs";
@@ -2890,31 +2886,31 @@ zero.tag.medium
 },
 {
 name = "Replace Feature";
-value = "ss10;featureNames {\012    name \"Medium symbols\";\012    name 3 1 0x409 \"Medium symbols\";\012    name 3 1 0x412 \"Medium symbols\";\012    name 1 0 0 \"Medium symbols\";\012    name 1 3 0x23 \"Medium symbols\";\012};\012\012sub @Symbol_Small by @Symbol_Medium;\012sub @Symbol_Fill_Small by @Symbol_Fill_Medium;\012sub @Symbol_Large by @Symbol_Medium;\012sub @Symbol_Fill_Large by @Symbol_Fill_Medium;\012";
+value = "ss10;featureNames {\012    name \"Medium symbols\";\012};\012\012sub @Symbol_Small by @Symbol_Medium;\012sub @Symbol_Fill_Small by @Symbol_Fill_Medium;\012sub @Symbol_Large by @Symbol_Medium;\012sub @Symbol_Fill_Large by @Symbol_Fill_Medium;\012";
 },
 {
 name = "Replace Feature";
-value = "ss11;featureNames {\012    name \"Outlined symbols\";\012    name 3 1 0x409 \"Outlined symbols\";\012    name 3 1 0x412 \"Outlined symbols\";\012    name 1 0 0 \"Outlined symbols\";\012    name 1 3 0x23 \"Outlined symbols\";\012};\012\012sub @Circled_Fill by @Circled;\012sub @Squared_Fill by @Squared;\012sub @Symbol_Fill_Small by @Symbol_Small;\012sub @Symbol_Fill_Medium by @Symbol_Medium;\012sub @Symbol_Fill_Large by @Symbol_Large;\012";
+value = "ss11;featureNames {\012    name \"Outlined symbols\";\012};\012\012sub @Circled_Fill by @Circled;\012sub @Squared_Fill by @Squared;\012sub @Symbol_Fill_Small by @Symbol_Small;\012sub @Symbol_Fill_Medium by @Symbol_Medium;\012sub @Symbol_Fill_Large by @Symbol_Large;\012";
 },
 {
 name = "Replace Feature";
-value = "ss12;featureNames {\012    name \"Circle symbols\";\012    name 3 1 0x409 \"Circle symbols\";\012    name 3 1 0x412 \"Circle symbols\";\012    name 1 0 0 \"Circle symbols\";\012    name 1 3 0x23 \"Circle symbols\";\012};\012\012sub @Squared by @Circled;\012sub @Squared_Fill by @Circled_Fill;\012";
+value = "ss12;featureNames {\012    name \"Circle symbols\";\012};\012\012sub @Squared by @Circled;\012sub @Squared_Fill by @Circled_Fill;\012";
 },
 {
 name = "Replace Feature";
-value = "ss13;featureNames {\012    name \"Square symbols\";\012    name 3 1 0x409 \"Square symbols\";\012    name 3 1 0x412 \"Square symbols\";\012    name 1 0 0 \"Square symbols\";\012    name 1 3 0x23 \"Square symbols\";\012};\012\012sub @Circled by @Squared;\012sub @Circled_Fill by @Squared_Fill;\012";
+value = "ss13;featureNames {\012    name \"Square symbols\";\012};\012\012sub @Circled by @Squared;\012sub @Circled_Fill by @Squared_Fill;\012";
 },
 {
 name = "Replace Feature";
-value = "ss14;featureNames {\012    name \"Filled symbols\";\012    name 3 1 0x409 \"Filled symbols\";\012    name 3 1 0x412 \"Filled symbols\";\012    name 1 0 0 \"Filled symbols\";\012    name 1 3 0x23 \"Filled symbols\";\012};\012\012sub @Circled by @Circled_Fill;\012sub @Squared by @Squared_Fill;\012sub @Symbol_Small by @Symbol_Fill_Small;\012sub @Symbol_Medium by @Symbol_Fill_Medium;\012sub @Symbol_Large by @Symbol_Fill_Large;\012";
+value = "ss14;featureNames {\012    name \"Filled symbols\";\012};\012\012sub @Circled by @Circled_Fill;\012sub @Squared by @Squared_Fill;\012sub @Symbol_Small by @Symbol_Fill_Small;\012sub @Symbol_Medium by @Symbol_Fill_Medium;\012sub @Symbol_Large by @Symbol_Fill_Large;\012";
 },
 {
 name = "Replace Feature";
-value = "ss15;featureNames {\012    name \"Small symbols\";\012    name 3 1 0x409 \"Small symbols\";\012    name 3 1 0x412 \"Small symbols\";\012    name 1 0 0 \"Small symbols\";\012    name 1 3 0x23 \"Small symbols\";\012};\012\012sub @Symbol_Medium by @Symbol_Small;\012sub @Symbol_Fill_Medium by @Symbol_Fill_Small;\012sub @Symbol_Large by @Symbol_Small;\012sub @Symbol_Fill_Large by @Symbol_Fill_Small;\012";
+value = "ss15;featureNames {\012    name \"Small symbols\";\012};\012\012sub @Symbol_Medium by @Symbol_Small;\012sub @Symbol_Fill_Medium by @Symbol_Fill_Small;\012sub @Symbol_Large by @Symbol_Small;\012sub @Symbol_Fill_Large by @Symbol_Fill_Small;\012";
 },
 {
 name = "Replace Feature";
-value = "ss16;featureNames {\012    name \"Large symbols\";\012    name 3 1 0x409 \"Large symbols\";\012    name 3 1 0x412 \"Large symbols\";\012    name 1 0 0 \"Large symbols\";\012    name 1 3 0x23 \"Large symbols\";\012};\012\012sub @Symbol_Small by @Symbol_Large;\012sub @Symbol_Medium by @Symbol_Large;\012sub @Symbol_Fill_Small by @Symbol_Fill_Large;\012sub @Symbol_Fill_Medium by @Symbol_Fill_Large;\012";
+value = "ss16;featureNames {\012    name \"Large symbols\";\012};\012\012sub @Symbol_Small by @Symbol_Large;\012sub @Symbol_Medium by @Symbol_Large;\012sub @Symbol_Fill_Small by @Symbol_Fill_Large;\012sub @Symbol_Fill_Medium by @Symbol_Fill_Large;\012";
 },
 {
 name = "Replace Class";
@@ -3169,31 +3165,31 @@ value = "salt;lookup LOOKUP_SALT_1_GOV;\012lookup LOOKUP_SALT_2;\012";
 },
 {
 name = "Replace Feature";
-value = "ss03;featureNames {\012    name \"Vertically centered colon\";\012    name 3 1 0x409 \"Vertically centered colon\";\012    name 3 1 0x412 \"Vertically centered colon\";\012    name 1 0 0 \"Vertically centered colon\";\012    name 1 3 0x23 \"Vertically centered colon\";\012};\012\012lookup LOOKUP_SS03_GOV;\012";
+value = "ss03;featureNames {\012    name \"Vertically centered colon\";\012};\012\012lookup LOOKUP_SS03_GOV;\012";
 },
 {
 name = "Replace Feature";
-value = "ss01;featureNames {\012    name \"Circular six and nine\";\012    name 3 1 0x409 \"Circular six and nine\";\012    name 3 1 0x412 \"Circular six and nine\";\012    name 1 0 0 \"Circular six and nine\";\012    name 1 3 0x23 \"Circular six and nine\";\012};\012\012lookup LOOKUP_SS01_GOV;\012";
+value = "ss01;featureNames {\012    name \"Circular six and nine\";\012};\012\012lookup LOOKUP_SS01_GOV;\012";
 },
 {
 name = "Replace Feature";
-value = "ss02;featureNames {\012    name \"Closed four\";\012    name 3 1 0x409 \"Closed four\";\012    name 3 1 0x412 \"Closed four\";\012    name 1 0 0 \"Closed four\";\012    name 1 3 0x23 \"Closed four\";\012};\012\012lookup LOOKUP_SS02_GOV;\012";
+value = "ss02;featureNames {\012    name \"Closed four\";\012};\012\012lookup LOOKUP_SS02_GOV;\012";
 },
 {
 name = "Replace Feature";
-value = "ss05;featureNames {\012    name \"Global localization\";\012    name 3 1 0x409 \"Global localization\";\012    name 3 1 0x412 \"Global localization\";\012    name 1 0 0 \"Global localization\";\012    name 1 3 0x23 \"Global localization\";\012};\012\012lookup LOOKUP_SS05_GOV;\012";
+value = "ss05;featureNames {\012    name \"Global localization\";\012};\012\012lookup LOOKUP_SS05_GOV;\012";
 },
 {
 name = "Replace Feature";
-value = "ss06;featureNames {\012    name \"Normal legibility\";\012    name 3 1 0x409 \"Normal legibility\";\012    name 3 1 0x412 \"Normal legibility\";\012    name 1 0 0 \"Normal legibility\";\012    name 1 3 0x23 \"Normal legibility\";\012};\012\012lookup LOOKUP_SS06_1_GOV;\012lookup LOOKUP_SS06_2;\012lookup LOOKUP_SS06_GOV;\012";
+value = "ss06;featureNames {\012    name \"Normal legibility\";\012};\012\012lookup LOOKUP_SS06_1_GOV;\012lookup LOOKUP_SS06_2;\012lookup LOOKUP_SS06_GOV;\012";
 },
 {
 name = "Replace Feature";
-value = "ss08;featureNames {\012    name \"Circular three\";\012    name 3 1 0x409 \"Circular three\";\012    name 3 1 0x412 \"Circular three\";\012    name 1 0 0 \"Circular three\";\012    name 1 3 0x23 \"Circular three\";\012};\012\012lookup LOOKUP_SS08_GOV;\012";
+value = "ss08;featureNames {\012    name \"Circular three\";\012};\012\012lookup LOOKUP_SS08_GOV;\012";
 },
 {
 name = "Replace Feature";
-value = "ss20;featureNames {\012    name \"Original forms\";\012    name 3 1 0x409 \"Original forms\";\012    name 3 1 0x412 \"Original forms\";\012    name 1 0 0 \"Original forms\";\012    name 1 3 0x23 \"Original forms\";\012};\012\012lookup LOOKUP_SS20_1_GOV;\012lookup LOOKUP_SS20_2;\012lookup LOOKUP_SS20_3_GOV;\012lookup LOOKUP_SS20_4_GOV;\012lookup LOOKUP_SS20_5;\012";
+value = "ss20;featureNames {\012    name \"Original forms\";\012};\012\012lookup LOOKUP_SS20_1_GOV;\012lookup LOOKUP_SS20_2;\012lookup LOOKUP_SS20_3_GOV;\012lookup LOOKUP_SS20_4_GOV;\012lookup LOOKUP_SS20_5;\012";
 },
 {
 name = "Replace Feature";
@@ -3354,35 +3350,35 @@ uni2051
 },
 {
 name = "Replace Feature";
-value = "cv02;cvParameters { FeatUILabelNameID { \012	name \"Closed four\";\012    name 3 1 0x409 \"Closed four\";\012    name 3 1 0x412 \"Closed four\";\012    name 1 0 0 \"Closed four\";\012    name 1 3 0x23 \"Closed four\";\012}; };\012\012lookup LOOKUP_CV02;\012";
+value = "cv02;cvParameters { FeatUILabelNameID { \012	name \"Closed four\";\012}; };\012\012lookup LOOKUP_CV02;\012";
 },
 {
 name = "Replace Feature";
-value = "cv03;cvParameters { FeatUILabelNameID { \012	name \"Closed six\";\012    name 3 1 0x409 \"Closed six\";\012    name 3 1 0x412 \"Closed six\";\012    name 1 0 0 \"Closed six\";\012    name 1 3 0x23 \"Closed six\";\012}; };\012\012lookup LOOKUP_CV03;\012";
+value = "cv03;cvParameters { FeatUILabelNameID { \012	name \"Closed six\";\012}; };\012\012lookup LOOKUP_CV03;\012";
 },
 {
 name = "Replace Feature";
-value = "cv04;cvParameters { FeatUILabelNameID { \012	name \"Closed nine\";\012    name 3 1 0x409 \"Closed nine\";\012    name 3 1 0x412 \"Closed nine\";\012    name 1 0 0 \"Closed nine\";\012    name 1 3 0x23 \"Closed nine\";\012}; };\012\012lookup LOOKUP_CV04;\012";
+value = "cv04;cvParameters { FeatUILabelNameID { \012	name \"Closed nine\";\012}; };\012\012lookup LOOKUP_CV04;\012";
 },
 {
 name = "Replace Feature";
-value = "cv05;cvParameters { FeatUILabelNameID { \012	name \"Lower-case L without tail\";\012    name 3 1 0x409 \"Lower-case L without tail\";\012    name 3 1 0x412 \"Lower-case L without tail\";\012    name 1 0 0 \"Lower-case L without tail\";\012    name 1 3 0x23 \"Lower-case L without tail\";\012}; };\012\012lookup LOOKUP_CV05;\012";
+value = "cv05;cvParameters { FeatUILabelNameID { \012	name \"Lower-case L without tail\";\012}; };\012\012lookup LOOKUP_CV05;\012";
 },
 {
 name = "Replace Feature";
-value = "cv08;cvParameters { FeatUILabelNameID { \012	name \"Upper-case i without serif\";\012    name 3 1 0x409 \"Upper-case i without serif\";\012    name 3 1 0x412 \"Upper-case i without serif\";\012    name 1 0 0 \"Upper-case i without serif\";\012    name 1 3 0x23 \"Upper-case i without serif\";\012}; };\012\012lookup LOOKUP_CV08;\012";
+value = "cv08;cvParameters { FeatUILabelNameID { \012	name \"Upper-case i without serif\";\012}; };\012\012lookup LOOKUP_CV08;\012";
 },
 {
 name = "Replace Feature";
-value = "cv09;cvParameters { FeatUILabelNameID { \012	name \"Circular three\";\012    name 3 1 0x409 \"Circular three\";\012    name 3 1 0x412 \"Circular three\";\012    name 1 0 0 \"Circular three\";\012    name 1 3 0x23 \"Circular three\";\012}; };\012\012lookup LOOKUP_CV09;\012";
+value = "cv09;cvParameters { FeatUILabelNameID { \012	name \"Circular three\";\012}; };\012\012lookup LOOKUP_CV09;\012";
 },
 {
 name = "Replace Feature";
-value = "cv12;cvParameters { FeatUILabelNameID { \012	name \"Baseline aligned ellipsis\";\012    name 3 1 0x409 \"Baseline aligned ellipsis\";\012    name 3 1 0x412 \"Baseline aligned ellipsis\";\012    name 1 0 0 \"Baseline aligned ellipsis\";\012    name 1 3 0x23 \"Baseline aligned ellipsis\";\012}; };\012\012lookup LOOKUP_CV12;\012";
+value = "cv12;cvParameters { FeatUILabelNameID { \012	name \"Baseline aligned ellipsis\";\012}; };\012\012lookup LOOKUP_CV12;\012";
 },
 {
 name = "Replace Feature";
-value = "cv13;cvParameters { FeatUILabelNameID { \012	name \"Normal legibility one\";\012    name 3 1 0x409 \"Normal legibility one\";\012    name 3 1 0x412 \"Normal legibility one\";\012    name 1 0 0 \"Normal legibility one\";\012    name 1 3 0x23 \"Normal legibility one\";\012}; };\012\012lookup LOOKUP_CV13;\012";
+value = "cv13;cvParameters { FeatUILabelNameID { \012	name \"Normal legibility one\";\012}; };\012\012lookup LOOKUP_CV13;\012";
 },
 {
 name = "Remove Glyphs";
@@ -3737,31 +3733,31 @@ zero.tag.medium
 },
 {
 name = "Replace Feature";
-value = "ss10;featureNames {\012    name \"Medium symbols\";\012    name 3 1 0x409 \"Medium symbols\";\012    name 3 1 0x412 \"Medium symbols\";\012    name 1 0 0 \"Medium symbols\";\012    name 1 3 0x23 \"Medium symbols\";\012};\012\012sub @Symbol_Small by @Symbol_Medium;\012sub @Symbol_Fill_Small by @Symbol_Fill_Medium;\012sub @Symbol_Large by @Symbol_Medium;\012sub @Symbol_Fill_Large by @Symbol_Fill_Medium;\012";
+value = "ss10;featureNames {\012    name \"Medium symbols\";\012};\012\012sub @Symbol_Small by @Symbol_Medium;\012sub @Symbol_Fill_Small by @Symbol_Fill_Medium;\012sub @Symbol_Large by @Symbol_Medium;\012sub @Symbol_Fill_Large by @Symbol_Fill_Medium;\012";
 },
 {
 name = "Replace Feature";
-value = "ss11;featureNames {\012    name \"Outlined symbols\";\012    name 3 1 0x409 \"Outlined symbols\";\012    name 3 1 0x412 \"Outlined symbols\";\012    name 1 0 0 \"Outlined symbols\";\012    name 1 3 0x23 \"Outlined symbols\";\012};\012\012sub @Circled_Fill by @Circled;\012sub @Squared_Fill by @Squared;\012sub @Symbol_Fill_Small by @Symbol_Small;\012sub @Symbol_Fill_Medium by @Symbol_Medium;\012sub @Symbol_Fill_Large by @Symbol_Large;\012";
+value = "ss11;featureNames {\012    name \"Outlined symbols\";\012};\012\012sub @Circled_Fill by @Circled;\012sub @Squared_Fill by @Squared;\012sub @Symbol_Fill_Small by @Symbol_Small;\012sub @Symbol_Fill_Medium by @Symbol_Medium;\012sub @Symbol_Fill_Large by @Symbol_Large;\012";
 },
 {
 name = "Replace Feature";
-value = "ss12;featureNames {\012    name \"Circle symbols\";\012    name 3 1 0x409 \"Circle symbols\";\012    name 3 1 0x412 \"Circle symbols\";\012    name 1 0 0 \"Circle symbols\";\012    name 1 3 0x23 \"Circle symbols\";\012};\012\012sub @Squared by @Circled;\012sub @Squared_Fill by @Circled_Fill;\012";
+value = "ss12;featureNames {\012    name \"Circle symbols\";\012};\012\012sub @Squared by @Circled;\012sub @Squared_Fill by @Circled_Fill;\012";
 },
 {
 name = "Replace Feature";
-value = "ss13;featureNames {\012    name \"Square symbols\";\012    name 3 1 0x409 \"Square symbols\";\012    name 3 1 0x412 \"Square symbols\";\012    name 1 0 0 \"Square symbols\";\012    name 1 3 0x23 \"Square symbols\";\012};\012\012sub @Circled by @Squared;\012sub @Circled_Fill by @Squared_Fill;\012";
+value = "ss13;featureNames {\012    name \"Square symbols\";\012};\012\012sub @Circled by @Squared;\012sub @Circled_Fill by @Squared_Fill;\012";
 },
 {
 name = "Replace Feature";
-value = "ss14;featureNames {\012    name \"Filled symbols\";\012    name 3 1 0x409 \"Filled symbols\";\012    name 3 1 0x412 \"Filled symbols\";\012    name 1 0 0 \"Filled symbols\";\012    name 1 3 0x23 \"Filled symbols\";\012};\012\012sub @Circled by @Circled_Fill;\012sub @Squared by @Squared_Fill;\012sub @Symbol_Small by @Symbol_Fill_Small;\012sub @Symbol_Medium by @Symbol_Fill_Medium;\012sub @Symbol_Large by @Symbol_Fill_Large;\012";
+value = "ss14;featureNames {\012    name \"Filled symbols\";\012};\012\012sub @Circled by @Circled_Fill;\012sub @Squared by @Squared_Fill;\012sub @Symbol_Small by @Symbol_Fill_Small;\012sub @Symbol_Medium by @Symbol_Fill_Medium;\012sub @Symbol_Large by @Symbol_Fill_Large;\012";
 },
 {
 name = "Replace Feature";
-value = "ss15;featureNames {\012    name \"Small symbols\";\012    name 3 1 0x409 \"Small symbols\";\012    name 3 1 0x412 \"Small symbols\";\012    name 1 0 0 \"Small symbols\";\012    name 1 3 0x23 \"Small symbols\";\012};\012\012sub @Symbol_Medium by @Symbol_Small;\012sub @Symbol_Fill_Medium by @Symbol_Fill_Small;\012sub @Symbol_Large by @Symbol_Small;\012sub @Symbol_Fill_Large by @Symbol_Fill_Small;\012";
+value = "ss15;featureNames {\012    name \"Small symbols\";\012};\012\012sub @Symbol_Medium by @Symbol_Small;\012sub @Symbol_Fill_Medium by @Symbol_Fill_Small;\012sub @Symbol_Large by @Symbol_Small;\012sub @Symbol_Fill_Large by @Symbol_Fill_Small;\012";
 },
 {
 name = "Replace Feature";
-value = "ss16;featureNames {\012    name \"Large symbols\";\012    name 3 1 0x409 \"Large symbols\";\012    name 3 1 0x412 \"Large symbols\";\012    name 1 0 0 \"Large symbols\";\012    name 1 3 0x23 \"Large symbols\";\012};\012\012sub @Symbol_Small by @Symbol_Large;\012sub @Symbol_Medium by @Symbol_Large;\012sub @Symbol_Fill_Small by @Symbol_Fill_Large;\012sub @Symbol_Fill_Medium by @Symbol_Fill_Large;\012";
+value = "ss16;featureNames {\012    name \"Large symbols\";\012};\012\012sub @Symbol_Small by @Symbol_Large;\012sub @Symbol_Medium by @Symbol_Large;\012sub @Symbol_Fill_Small by @Symbol_Fill_Large;\012sub @Symbol_Fill_Medium by @Symbol_Fill_Large;\012";
 },
 {
 name = "Replace Class";
@@ -4016,31 +4012,31 @@ value = "salt;lookup LOOKUP_SALT_1_GOV;\012lookup LOOKUP_SALT_2;\012";
 },
 {
 name = "Replace Feature";
-value = "ss03;featureNames {\012    name \"Vertically centered colon\";\012    name 3 1 0x409 \"Vertically centered colon\";\012    name 3 1 0x412 \"Vertically centered colon\";\012    name 1 0 0 \"Vertically centered colon\";\012    name 1 3 0x23 \"Vertically centered colon\";\012};\012\012lookup LOOKUP_SS03_GOV;\012";
+value = "ss03;featureNames {\012    name \"Vertically centered colon\";\012};\012\012lookup LOOKUP_SS03_GOV;\012";
 },
 {
 name = "Replace Feature";
-value = "ss01;featureNames {\012    name \"Circular six and nine\";\012    name 3 1 0x409 \"Circular six and nine\";\012    name 3 1 0x412 \"Circular six and nine\";\012    name 1 0 0 \"Circular six and nine\";\012    name 1 3 0x23 \"Circular six and nine\";\012};\012\012lookup LOOKUP_SS01_GOV;\012";
+value = "ss01;featureNames {\012    name \"Circular six and nine\";\012};\012\012lookup LOOKUP_SS01_GOV;\012";
 },
 {
 name = "Replace Feature";
-value = "ss02;featureNames {\012    name \"Closed four\";\012    name 3 1 0x409 \"Closed four\";\012    name 3 1 0x412 \"Closed four\";\012    name 1 0 0 \"Closed four\";\012    name 1 3 0x23 \"Closed four\";\012};\012\012lookup LOOKUP_SS02_GOV;\012";
+value = "ss02;featureNames {\012    name \"Closed four\";\012};\012\012lookup LOOKUP_SS02_GOV;\012";
 },
 {
 name = "Replace Feature";
-value = "ss05;featureNames {\012    name \"Global localization\";\012    name 3 1 0x409 \"Global localization\";\012    name 3 1 0x412 \"Global localization\";\012    name 1 0 0 \"Global localization\";\012    name 1 3 0x23 \"Global localization\";\012};\012\012lookup LOOKUP_SS05_GOV;\012";
+value = "ss05;featureNames {\012    name \"Global localization\";\012};\012\012lookup LOOKUP_SS05_GOV;\012";
 },
 {
 name = "Replace Feature";
-value = "ss06;featureNames {\012    name \"Normal legibility\";\012    name 3 1 0x409 \"Normal legibility\";\012    name 3 1 0x412 \"Normal legibility\";\012    name 1 0 0 \"Normal legibility\";\012    name 1 3 0x23 \"Normal legibility\";\012};\012\012lookup LOOKUP_SS06_1_GOV;\012lookup LOOKUP_SS06_2;\012lookup LOOKUP_SS06_GOV;\012";
+value = "ss06;featureNames {\012    name \"Normal legibility\";\012};\012\012lookup LOOKUP_SS06_1_GOV;\012lookup LOOKUP_SS06_2;\012lookup LOOKUP_SS06_GOV;\012";
 },
 {
 name = "Replace Feature";
-value = "ss08;featureNames {\012    name \"Circular three\";\012    name 3 1 0x409 \"Circular three\";\012    name 3 1 0x412 \"Circular three\";\012    name 1 0 0 \"Circular three\";\012    name 1 3 0x23 \"Circular three\";\012};\012\012lookup LOOKUP_SS08_GOV;\012";
+value = "ss08;featureNames {\012    name \"Circular three\";\012};\012\012lookup LOOKUP_SS08_GOV;\012";
 },
 {
 name = "Replace Feature";
-value = "ss20;featureNames {\012    name \"Original forms\";\012    name 3 1 0x409 \"Original forms\";\012    name 3 1 0x412 \"Original forms\";\012    name 1 0 0 \"Original forms\";\012    name 1 3 0x23 \"Original forms\";\012};\012\012lookup LOOKUP_SS20_1_GOV;\012lookup LOOKUP_SS20_2;\012lookup LOOKUP_SS20_3_GOV;\012lookup LOOKUP_SS20_4_GOV;\012lookup LOOKUP_SS20_5;\012";
+value = "ss20;featureNames {\012    name \"Original forms\";\012};\012\012lookup LOOKUP_SS20_1_GOV;\012lookup LOOKUP_SS20_2;\012lookup LOOKUP_SS20_3_GOV;\012lookup LOOKUP_SS20_4_GOV;\012lookup LOOKUP_SS20_5;\012";
 },
 {
 name = "Replace Feature";
@@ -4201,35 +4197,35 @@ uni2051
 },
 {
 name = "Replace Feature";
-value = "cv02;cvParameters { FeatUILabelNameID { \012	name \"Closed four\";\012    name 3 1 0x409 \"Closed four\";\012    name 3 1 0x412 \"Closed four\";\012    name 1 0 0 \"Closed four\";\012    name 1 3 0x23 \"Closed four\";\012}; };\012\012lookup LOOKUP_CV02;\012";
+value = "cv02;cvParameters { FeatUILabelNameID { \012	name \"Closed four\";\012}; };\012\012lookup LOOKUP_CV02;\012";
 },
 {
 name = "Replace Feature";
-value = "cv03;cvParameters { FeatUILabelNameID { \012	name \"Closed six\";\012    name 3 1 0x409 \"Closed six\";\012    name 3 1 0x412 \"Closed six\";\012    name 1 0 0 \"Closed six\";\012    name 1 3 0x23 \"Closed six\";\012}; };\012\012lookup LOOKUP_CV03;\012";
+value = "cv03;cvParameters { FeatUILabelNameID { \012	name \"Closed six\";\012}; };\012\012lookup LOOKUP_CV03;\012";
 },
 {
 name = "Replace Feature";
-value = "cv04;cvParameters { FeatUILabelNameID { \012	name \"Closed nine\";\012    name 3 1 0x409 \"Closed nine\";\012    name 3 1 0x412 \"Closed nine\";\012    name 1 0 0 \"Closed nine\";\012    name 1 3 0x23 \"Closed nine\";\012}; };\012\012lookup LOOKUP_CV04;\012";
+value = "cv04;cvParameters { FeatUILabelNameID { \012	name \"Closed nine\";\012}; };\012\012lookup LOOKUP_CV04;\012";
 },
 {
 name = "Replace Feature";
-value = "cv05;cvParameters { FeatUILabelNameID { \012	name \"Lower-case L without tail\";\012    name 3 1 0x409 \"Lower-case L without tail\";\012    name 3 1 0x412 \"Lower-case L without tail\";\012    name 1 0 0 \"Lower-case L without tail\";\012    name 1 3 0x23 \"Lower-case L without tail\";\012}; };\012\012lookup LOOKUP_CV05;\012";
+value = "cv05;cvParameters { FeatUILabelNameID { \012	name \"Lower-case L without tail\";\012}; };\012\012lookup LOOKUP_CV05;\012";
 },
 {
 name = "Replace Feature";
-value = "cv08;cvParameters { FeatUILabelNameID { \012	name \"Upper-case i without serif\";\012    name 3 1 0x409 \"Upper-case i without serif\";\012    name 3 1 0x412 \"Upper-case i without serif\";\012    name 1 0 0 \"Upper-case i without serif\";\012    name 1 3 0x23 \"Upper-case i without serif\";\012}; };\012\012lookup LOOKUP_CV08;\012";
+value = "cv08;cvParameters { FeatUILabelNameID { \012	name \"Upper-case i without serif\";\012}; };\012\012lookup LOOKUP_CV08;\012";
 },
 {
 name = "Replace Feature";
-value = "cv09;cvParameters { FeatUILabelNameID { \012	name \"Circular three\";\012    name 3 1 0x409 \"Circular three\";\012    name 3 1 0x412 \"Circular three\";\012    name 1 0 0 \"Circular three\";\012    name 1 3 0x23 \"Circular three\";\012}; };\012\012lookup LOOKUP_CV09;\012";
+value = "cv09;cvParameters { FeatUILabelNameID { \012	name \"Circular three\";\012}; };\012\012lookup LOOKUP_CV09;\012";
 },
 {
 name = "Replace Feature";
-value = "cv12;cvParameters { FeatUILabelNameID { \012	name \"Baseline aligned ellipsis\";\012    name 3 1 0x409 \"Baseline aligned ellipsis\";\012    name 3 1 0x412 \"Baseline aligned ellipsis\";\012    name 1 0 0 \"Baseline aligned ellipsis\";\012    name 1 3 0x23 \"Baseline aligned ellipsis\";\012}; };\012\012lookup LOOKUP_CV12;\012";
+value = "cv12;cvParameters { FeatUILabelNameID { \012	name \"Baseline aligned ellipsis\";\012}; };\012\012lookup LOOKUP_CV12;\012";
 },
 {
 name = "Replace Feature";
-value = "cv13;cvParameters { FeatUILabelNameID { \012	name \"Normal legibility one\";\012    name 3 1 0x409 \"Normal legibility one\";\012    name 3 1 0x412 \"Normal legibility one\";\012    name 1 0 0 \"Normal legibility one\";\012    name 1 3 0x23 \"Normal legibility one\";\012}; };\012\012lookup LOOKUP_CV13;\012";
+value = "cv13;cvParameters { FeatUILabelNameID { \012	name \"Normal legibility one\";\012}; };\012\012lookup LOOKUP_CV13;\012";
 },
 {
 name = "Remove Glyphs";
@@ -4584,31 +4580,31 @@ zero.tag.medium
 },
 {
 name = "Replace Feature";
-value = "ss10;featureNames {\012    name \"Medium symbols\";\012    name 3 1 0x409 \"Medium symbols\";\012    name 3 1 0x412 \"Medium symbols\";\012    name 1 0 0 \"Medium symbols\";\012    name 1 3 0x23 \"Medium symbols\";\012};\012\012sub @Symbol_Small by @Symbol_Medium;\012sub @Symbol_Fill_Small by @Symbol_Fill_Medium;\012sub @Symbol_Large by @Symbol_Medium;\012sub @Symbol_Fill_Large by @Symbol_Fill_Medium;\012";
+value = "ss10;featureNames {\012    name \"Medium symbols\";\012};\012\012sub @Symbol_Small by @Symbol_Medium;\012sub @Symbol_Fill_Small by @Symbol_Fill_Medium;\012sub @Symbol_Large by @Symbol_Medium;\012sub @Symbol_Fill_Large by @Symbol_Fill_Medium;\012";
 },
 {
 name = "Replace Feature";
-value = "ss11;featureNames {\012    name \"Outlined symbols\";\012    name 3 1 0x409 \"Outlined symbols\";\012    name 3 1 0x412 \"Outlined symbols\";\012    name 1 0 0 \"Outlined symbols\";\012    name 1 3 0x23 \"Outlined symbols\";\012};\012\012sub @Circled_Fill by @Circled;\012sub @Squared_Fill by @Squared;\012sub @Symbol_Fill_Small by @Symbol_Small;\012sub @Symbol_Fill_Medium by @Symbol_Medium;\012sub @Symbol_Fill_Large by @Symbol_Large;\012";
+value = "ss11;featureNames {\012    name \"Outlined symbols\";\012};\012\012sub @Circled_Fill by @Circled;\012sub @Squared_Fill by @Squared;\012sub @Symbol_Fill_Small by @Symbol_Small;\012sub @Symbol_Fill_Medium by @Symbol_Medium;\012sub @Symbol_Fill_Large by @Symbol_Large;\012";
 },
 {
 name = "Replace Feature";
-value = "ss12;featureNames {\012    name \"Circle symbols\";\012    name 3 1 0x409 \"Circle symbols\";\012    name 3 1 0x412 \"Circle symbols\";\012    name 1 0 0 \"Circle symbols\";\012    name 1 3 0x23 \"Circle symbols\";\012};\012\012sub @Squared by @Circled;\012sub @Squared_Fill by @Circled_Fill;\012";
+value = "ss12;featureNames {\012    name \"Circle symbols\";\012};\012\012sub @Squared by @Circled;\012sub @Squared_Fill by @Circled_Fill;\012";
 },
 {
 name = "Replace Feature";
-value = "ss13;featureNames {\012    name \"Square symbols\";\012    name 3 1 0x409 \"Square symbols\";\012    name 3 1 0x412 \"Square symbols\";\012    name 1 0 0 \"Square symbols\";\012    name 1 3 0x23 \"Square symbols\";\012};\012\012sub @Circled by @Squared;\012sub @Circled_Fill by @Squared_Fill;\012";
+value = "ss13;featureNames {\012    name \"Square symbols\";\012};\012\012sub @Circled by @Squared;\012sub @Circled_Fill by @Squared_Fill;\012";
 },
 {
 name = "Replace Feature";
-value = "ss14;featureNames {\012    name \"Filled symbols\";\012    name 3 1 0x409 \"Filled symbols\";\012    name 3 1 0x412 \"Filled symbols\";\012    name 1 0 0 \"Filled symbols\";\012    name 1 3 0x23 \"Filled symbols\";\012};\012\012sub @Circled by @Circled_Fill;\012sub @Squared by @Squared_Fill;\012sub @Symbol_Small by @Symbol_Fill_Small;\012sub @Symbol_Medium by @Symbol_Fill_Medium;\012sub @Symbol_Large by @Symbol_Fill_Large;\012";
+value = "ss14;featureNames {\012    name \"Filled symbols\";\012};\012\012sub @Circled by @Circled_Fill;\012sub @Squared by @Squared_Fill;\012sub @Symbol_Small by @Symbol_Fill_Small;\012sub @Symbol_Medium by @Symbol_Fill_Medium;\012sub @Symbol_Large by @Symbol_Fill_Large;\012";
 },
 {
 name = "Replace Feature";
-value = "ss15;featureNames {\012    name \"Small symbols\";\012    name 3 1 0x409 \"Small symbols\";\012    name 3 1 0x412 \"Small symbols\";\012    name 1 0 0 \"Small symbols\";\012    name 1 3 0x23 \"Small symbols\";\012};\012\012sub @Symbol_Medium by @Symbol_Small;\012sub @Symbol_Fill_Medium by @Symbol_Fill_Small;\012sub @Symbol_Large by @Symbol_Small;\012sub @Symbol_Fill_Large by @Symbol_Fill_Small;\012";
+value = "ss15;featureNames {\012    name \"Small symbols\";\012};\012\012sub @Symbol_Medium by @Symbol_Small;\012sub @Symbol_Fill_Medium by @Symbol_Fill_Small;\012sub @Symbol_Large by @Symbol_Small;\012sub @Symbol_Fill_Large by @Symbol_Fill_Small;\012";
 },
 {
 name = "Replace Feature";
-value = "ss16;featureNames {\012    name \"Large symbols\";\012    name 3 1 0x409 \"Large symbols\";\012    name 3 1 0x412 \"Large symbols\";\012    name 1 0 0 \"Large symbols\";\012    name 1 3 0x23 \"Large symbols\";\012};\012\012sub @Symbol_Small by @Symbol_Large;\012sub @Symbol_Medium by @Symbol_Large;\012sub @Symbol_Fill_Small by @Symbol_Fill_Large;\012sub @Symbol_Fill_Medium by @Symbol_Fill_Large;\012";
+value = "ss16;featureNames {\012    name \"Large symbols\";\012};\012\012sub @Symbol_Small by @Symbol_Large;\012sub @Symbol_Medium by @Symbol_Large;\012sub @Symbol_Fill_Small by @Symbol_Fill_Large;\012sub @Symbol_Fill_Medium by @Symbol_Fill_Large;\012";
 },
 {
 name = "Replace Class";
@@ -4861,31 +4857,31 @@ value = "salt;lookup LOOKUP_SALT_1_GOV;\012lookup LOOKUP_SALT_2;\012";
 },
 {
 name = "Replace Feature";
-value = "ss03;featureNames {\012    name \"Vertically centered colon\";\012    name 3 1 0x409 \"Vertically centered colon\";\012    name 3 1 0x412 \"Vertically centered colon\";\012    name 1 0 0 \"Vertically centered colon\";\012    name 1 3 0x23 \"Vertically centered colon\";\012};\012\012lookup LOOKUP_SS03_GOV;\012";
+value = "ss03;featureNames {\012    name \"Vertically centered colon\";\012};\012\012lookup LOOKUP_SS03_GOV;\012";
 },
 {
 name = "Replace Feature";
-value = "ss01;featureNames {\012    name \"Circular six and nine\";\012    name 3 1 0x409 \"Circular six and nine\";\012    name 3 1 0x412 \"Circular six and nine\";\012    name 1 0 0 \"Circular six and nine\";\012    name 1 3 0x23 \"Circular six and nine\";\012};\012\012lookup LOOKUP_SS01_GOV;\012";
+value = "ss01;featureNames {\012    name \"Circular six and nine\";\012};\012\012lookup LOOKUP_SS01_GOV;\012";
 },
 {
 name = "Replace Feature";
-value = "ss02;featureNames {\012    name \"Closed four\";\012    name 3 1 0x409 \"Closed four\";\012    name 3 1 0x412 \"Closed four\";\012    name 1 0 0 \"Closed four\";\012    name 1 3 0x23 \"Closed four\";\012};\012\012lookup LOOKUP_SS02_GOV;\012";
+value = "ss02;featureNames {\012    name \"Closed four\";\012};\012\012lookup LOOKUP_SS02_GOV;\012";
 },
 {
 name = "Replace Feature";
-value = "ss05;featureNames {\012    name \"Global localization\";\012    name 3 1 0x409 \"Global localization\";\012    name 3 1 0x412 \"Global localization\";\012    name 1 0 0 \"Global localization\";\012    name 1 3 0x23 \"Global localization\";\012};\012\012lookup LOOKUP_SS05_GOV;\012";
+value = "ss05;featureNames {\012    name \"Global localization\";\012};\012\012lookup LOOKUP_SS05_GOV;\012";
 },
 {
 name = "Replace Feature";
-value = "ss06;featureNames {\012    name \"Normal legibility\";\012    name 3 1 0x409 \"Normal legibility\";\012    name 3 1 0x412 \"Normal legibility\";\012    name 1 0 0 \"Normal legibility\";\012    name 1 3 0x23 \"Normal legibility\";\012};\012\012lookup LOOKUP_SS06_1_GOV;\012lookup LOOKUP_SS06_2;\012lookup LOOKUP_SS06_GOV;\012";
+value = "ss06;featureNames {\012    name \"Normal legibility\";\012};\012\012lookup LOOKUP_SS06_1_GOV;\012lookup LOOKUP_SS06_2;\012lookup LOOKUP_SS06_GOV;\012";
 },
 {
 name = "Replace Feature";
-value = "ss08;featureNames {\012    name \"Circular three\";\012    name 3 1 0x409 \"Circular three\";\012    name 3 1 0x412 \"Circular three\";\012    name 1 0 0 \"Circular three\";\012    name 1 3 0x23 \"Circular three\";\012};\012\012lookup LOOKUP_SS08_GOV;\012";
+value = "ss08;featureNames {\012    name \"Circular three\";\012};\012\012lookup LOOKUP_SS08_GOV;\012";
 },
 {
 name = "Replace Feature";
-value = "ss20;featureNames {\012    name \"Original forms\";\012    name 3 1 0x409 \"Original forms\";\012    name 3 1 0x412 \"Original forms\";\012    name 1 0 0 \"Original forms\";\012    name 1 3 0x23 \"Original forms\";\012};\012\012lookup LOOKUP_SS20_1_GOV;\012lookup LOOKUP_SS20_2;\012lookup LOOKUP_SS20_3_GOV;\012lookup LOOKUP_SS20_4_GOV;\012lookup LOOKUP_SS20_5;\012";
+value = "ss20;featureNames {\012    name \"Original forms\";\012};\012\012lookup LOOKUP_SS20_1_GOV;\012lookup LOOKUP_SS20_2;\012lookup LOOKUP_SS20_3_GOV;\012lookup LOOKUP_SS20_4_GOV;\012lookup LOOKUP_SS20_5;\012";
 },
 {
 name = "Replace Feature";
@@ -5046,35 +5042,35 @@ uni2051
 },
 {
 name = "Replace Feature";
-value = "cv02;cvParameters { FeatUILabelNameID { \012	name \"Closed four\";\012    name 3 1 0x409 \"Closed four\";\012    name 3 1 0x412 \"Closed four\";\012    name 1 0 0 \"Closed four\";\012    name 1 3 0x23 \"Closed four\";\012}; };\012\012lookup LOOKUP_CV02;\012";
+value = "cv02;cvParameters { FeatUILabelNameID { \012	name \"Closed four\";\012}; };\012\012lookup LOOKUP_CV02;\012";
 },
 {
 name = "Replace Feature";
-value = "cv03;cvParameters { FeatUILabelNameID { \012	name \"Closed six\";\012    name 3 1 0x409 \"Closed six\";\012    name 3 1 0x412 \"Closed six\";\012    name 1 0 0 \"Closed six\";\012    name 1 3 0x23 \"Closed six\";\012}; };\012\012lookup LOOKUP_CV03;\012";
+value = "cv03;cvParameters { FeatUILabelNameID { \012	name \"Closed six\";\012}; };\012\012lookup LOOKUP_CV03;\012";
 },
 {
 name = "Replace Feature";
-value = "cv04;cvParameters { FeatUILabelNameID { \012	name \"Closed nine\";\012    name 3 1 0x409 \"Closed nine\";\012    name 3 1 0x412 \"Closed nine\";\012    name 1 0 0 \"Closed nine\";\012    name 1 3 0x23 \"Closed nine\";\012}; };\012\012lookup LOOKUP_CV04;\012";
+value = "cv04;cvParameters { FeatUILabelNameID { \012	name \"Closed nine\";\012}; };\012\012lookup LOOKUP_CV04;\012";
 },
 {
 name = "Replace Feature";
-value = "cv05;cvParameters { FeatUILabelNameID { \012	name \"Lower-case L without tail\";\012    name 3 1 0x409 \"Lower-case L without tail\";\012    name 3 1 0x412 \"Lower-case L without tail\";\012    name 1 0 0 \"Lower-case L without tail\";\012    name 1 3 0x23 \"Lower-case L without tail\";\012}; };\012\012lookup LOOKUP_CV05;\012";
+value = "cv05;cvParameters { FeatUILabelNameID { \012	name \"Lower-case L without tail\";\012}; };\012\012lookup LOOKUP_CV05;\012";
 },
 {
 name = "Replace Feature";
-value = "cv08;cvParameters { FeatUILabelNameID { \012	name \"Upper-case i without serif\";\012    name 3 1 0x409 \"Upper-case i without serif\";\012    name 3 1 0x412 \"Upper-case i without serif\";\012    name 1 0 0 \"Upper-case i without serif\";\012    name 1 3 0x23 \"Upper-case i without serif\";\012}; };\012\012lookup LOOKUP_CV08;\012";
+value = "cv08;cvParameters { FeatUILabelNameID { \012	name \"Upper-case i without serif\";\012}; };\012\012lookup LOOKUP_CV08;\012";
 },
 {
 name = "Replace Feature";
-value = "cv09;cvParameters { FeatUILabelNameID { \012	name \"Circular three\";\012    name 3 1 0x409 \"Circular three\";\012    name 3 1 0x412 \"Circular three\";\012    name 1 0 0 \"Circular three\";\012    name 1 3 0x23 \"Circular three\";\012}; };\012\012lookup LOOKUP_CV09;\012";
+value = "cv09;cvParameters { FeatUILabelNameID { \012	name \"Circular three\";\012}; };\012\012lookup LOOKUP_CV09;\012";
 },
 {
 name = "Replace Feature";
-value = "cv12;cvParameters { FeatUILabelNameID { \012	name \"Baseline aligned ellipsis\";\012    name 3 1 0x409 \"Baseline aligned ellipsis\";\012    name 3 1 0x412 \"Baseline aligned ellipsis\";\012    name 1 0 0 \"Baseline aligned ellipsis\";\012    name 1 3 0x23 \"Baseline aligned ellipsis\";\012}; };\012\012lookup LOOKUP_CV12;\012";
+value = "cv12;cvParameters { FeatUILabelNameID { \012	name \"Baseline aligned ellipsis\";\012}; };\012\012lookup LOOKUP_CV12;\012";
 },
 {
 name = "Replace Feature";
-value = "cv13;cvParameters { FeatUILabelNameID { \012	name \"Normal legibility one\";\012    name 3 1 0x409 \"Normal legibility one\";\012    name 3 1 0x412 \"Normal legibility one\";\012    name 1 0 0 \"Normal legibility one\";\012    name 1 3 0x23 \"Normal legibility one\";\012}; };\012\012lookup LOOKUP_CV13;\012";
+value = "cv13;cvParameters { FeatUILabelNameID { \012	name \"Normal legibility one\";\012}; };\012\012lookup LOOKUP_CV13;\012";
 },
 {
 name = "Remove Glyphs";
@@ -5429,31 +5425,31 @@ zero.tag.medium
 },
 {
 name = "Replace Feature";
-value = "ss10;featureNames {\012    name \"Medium symbols\";\012    name 3 1 0x409 \"Medium symbols\";\012    name 3 1 0x412 \"Medium symbols\";\012    name 1 0 0 \"Medium symbols\";\012    name 1 3 0x23 \"Medium symbols\";\012};\012\012sub @Symbol_Small by @Symbol_Medium;\012sub @Symbol_Fill_Small by @Symbol_Fill_Medium;\012sub @Symbol_Large by @Symbol_Medium;\012sub @Symbol_Fill_Large by @Symbol_Fill_Medium;\012";
+value = "ss10;featureNames {\012    name \"Medium symbols\";\012};\012\012sub @Symbol_Small by @Symbol_Medium;\012sub @Symbol_Fill_Small by @Symbol_Fill_Medium;\012sub @Symbol_Large by @Symbol_Medium;\012sub @Symbol_Fill_Large by @Symbol_Fill_Medium;\012";
 },
 {
 name = "Replace Feature";
-value = "ss11;featureNames {\012    name \"Outlined symbols\";\012    name 3 1 0x409 \"Outlined symbols\";\012    name 3 1 0x412 \"Outlined symbols\";\012    name 1 0 0 \"Outlined symbols\";\012    name 1 3 0x23 \"Outlined symbols\";\012};\012\012sub @Circled_Fill by @Circled;\012sub @Squared_Fill by @Squared;\012sub @Symbol_Fill_Small by @Symbol_Small;\012sub @Symbol_Fill_Medium by @Symbol_Medium;\012sub @Symbol_Fill_Large by @Symbol_Large;\012";
+value = "ss11;featureNames {\012    name \"Outlined symbols\";\012};\012\012sub @Circled_Fill by @Circled;\012sub @Squared_Fill by @Squared;\012sub @Symbol_Fill_Small by @Symbol_Small;\012sub @Symbol_Fill_Medium by @Symbol_Medium;\012sub @Symbol_Fill_Large by @Symbol_Large;\012";
 },
 {
 name = "Replace Feature";
-value = "ss12;featureNames {\012    name \"Circle symbols\";\012    name 3 1 0x409 \"Circle symbols\";\012    name 3 1 0x412 \"Circle symbols\";\012    name 1 0 0 \"Circle symbols\";\012    name 1 3 0x23 \"Circle symbols\";\012};\012\012sub @Squared by @Circled;\012sub @Squared_Fill by @Circled_Fill;\012";
+value = "ss12;featureNames {\012    name \"Circle symbols\";\012};\012\012sub @Squared by @Circled;\012sub @Squared_Fill by @Circled_Fill;\012";
 },
 {
 name = "Replace Feature";
-value = "ss13;featureNames {\012    name \"Square symbols\";\012    name 3 1 0x409 \"Square symbols\";\012    name 3 1 0x412 \"Square symbols\";\012    name 1 0 0 \"Square symbols\";\012    name 1 3 0x23 \"Square symbols\";\012};\012\012sub @Circled by @Squared;\012sub @Circled_Fill by @Squared_Fill;\012";
+value = "ss13;featureNames {\012    name \"Square symbols\";\012};\012\012sub @Circled by @Squared;\012sub @Circled_Fill by @Squared_Fill;\012";
 },
 {
 name = "Replace Feature";
-value = "ss14;featureNames {\012    name \"Filled symbols\";\012    name 3 1 0x409 \"Filled symbols\";\012    name 3 1 0x412 \"Filled symbols\";\012    name 1 0 0 \"Filled symbols\";\012    name 1 3 0x23 \"Filled symbols\";\012};\012\012sub @Circled by @Circled_Fill;\012sub @Squared by @Squared_Fill;\012sub @Symbol_Small by @Symbol_Fill_Small;\012sub @Symbol_Medium by @Symbol_Fill_Medium;\012sub @Symbol_Large by @Symbol_Fill_Large;\012";
+value = "ss14;featureNames {\012    name \"Filled symbols\";\012};\012\012sub @Circled by @Circled_Fill;\012sub @Squared by @Squared_Fill;\012sub @Symbol_Small by @Symbol_Fill_Small;\012sub @Symbol_Medium by @Symbol_Fill_Medium;\012sub @Symbol_Large by @Symbol_Fill_Large;\012";
 },
 {
 name = "Replace Feature";
-value = "ss15;featureNames {\012    name \"Small symbols\";\012    name 3 1 0x409 \"Small symbols\";\012    name 3 1 0x412 \"Small symbols\";\012    name 1 0 0 \"Small symbols\";\012    name 1 3 0x23 \"Small symbols\";\012};\012\012sub @Symbol_Medium by @Symbol_Small;\012sub @Symbol_Fill_Medium by @Symbol_Fill_Small;\012sub @Symbol_Large by @Symbol_Small;\012sub @Symbol_Fill_Large by @Symbol_Fill_Small;\012";
+value = "ss15;featureNames {\012    name \"Small symbols\";\012};\012\012sub @Symbol_Medium by @Symbol_Small;\012sub @Symbol_Fill_Medium by @Symbol_Fill_Small;\012sub @Symbol_Large by @Symbol_Small;\012sub @Symbol_Fill_Large by @Symbol_Fill_Small;\012";
 },
 {
 name = "Replace Feature";
-value = "ss16;featureNames {\012    name \"Large symbols\";\012    name 3 1 0x409 \"Large symbols\";\012    name 3 1 0x412 \"Large symbols\";\012    name 1 0 0 \"Large symbols\";\012    name 1 3 0x23 \"Large symbols\";\012};\012\012sub @Symbol_Small by @Symbol_Large;\012sub @Symbol_Medium by @Symbol_Large;\012sub @Symbol_Fill_Small by @Symbol_Fill_Large;\012sub @Symbol_Fill_Medium by @Symbol_Fill_Large;\012";
+value = "ss16;featureNames {\012    name \"Large symbols\";\012};\012\012sub @Symbol_Small by @Symbol_Large;\012sub @Symbol_Medium by @Symbol_Large;\012sub @Symbol_Fill_Small by @Symbol_Fill_Large;\012sub @Symbol_Fill_Medium by @Symbol_Fill_Large;\012";
 },
 {
 name = "Replace Class";
@@ -5708,31 +5704,31 @@ value = "salt;lookup LOOKUP_SALT_1_GOV;\012lookup LOOKUP_SALT_2;\012";
 },
 {
 name = "Replace Feature";
-value = "ss03;featureNames {\012    name \"Vertically centered colon\";\012    name 3 1 0x409 \"Vertically centered colon\";\012    name 3 1 0x412 \"Vertically centered colon\";\012    name 1 0 0 \"Vertically centered colon\";\012    name 1 3 0x23 \"Vertically centered colon\";\012};\012\012lookup LOOKUP_SS03_GOV;\012";
+value = "ss03;featureNames {\012    name \"Vertically centered colon\";\012};\012\012lookup LOOKUP_SS03_GOV;\012";
 },
 {
 name = "Replace Feature";
-value = "ss01;featureNames {\012    name \"Circular six and nine\";\012    name 3 1 0x409 \"Circular six and nine\";\012    name 3 1 0x412 \"Circular six and nine\";\012    name 1 0 0 \"Circular six and nine\";\012    name 1 3 0x23 \"Circular six and nine\";\012};\012\012lookup LOOKUP_SS01_GOV;\012";
+value = "ss01;featureNames {\012    name \"Circular six and nine\";\012};\012\012lookup LOOKUP_SS01_GOV;\012";
 },
 {
 name = "Replace Feature";
-value = "ss02;featureNames {\012    name \"Closed four\";\012    name 3 1 0x409 \"Closed four\";\012    name 3 1 0x412 \"Closed four\";\012    name 1 0 0 \"Closed four\";\012    name 1 3 0x23 \"Closed four\";\012};\012\012lookup LOOKUP_SS02_GOV;\012";
+value = "ss02;featureNames {\012    name \"Closed four\";\012};\012\012lookup LOOKUP_SS02_GOV;\012";
 },
 {
 name = "Replace Feature";
-value = "ss05;featureNames {\012    name \"Global localization\";\012    name 3 1 0x409 \"Global localization\";\012    name 3 1 0x412 \"Global localization\";\012    name 1 0 0 \"Global localization\";\012    name 1 3 0x23 \"Global localization\";\012};\012\012lookup LOOKUP_SS05_GOV;\012";
+value = "ss05;featureNames {\012    name \"Global localization\";\012};\012\012lookup LOOKUP_SS05_GOV;\012";
 },
 {
 name = "Replace Feature";
-value = "ss06;featureNames {\012    name \"Normal legibility\";\012    name 3 1 0x409 \"Normal legibility\";\012    name 3 1 0x412 \"Normal legibility\";\012    name 1 0 0 \"Normal legibility\";\012    name 1 3 0x23 \"Normal legibility\";\012};\012\012lookup LOOKUP_SS06_1_GOV;\012lookup LOOKUP_SS06_2;\012lookup LOOKUP_SS06_GOV;\012";
+value = "ss06;featureNames {\012    name \"Normal legibility\";\012};\012\012lookup LOOKUP_SS06_1_GOV;\012lookup LOOKUP_SS06_2;\012lookup LOOKUP_SS06_GOV;\012";
 },
 {
 name = "Replace Feature";
-value = "ss08;featureNames {\012    name \"Circular three\";\012    name 3 1 0x409 \"Circular three\";\012    name 3 1 0x412 \"Circular three\";\012    name 1 0 0 \"Circular three\";\012    name 1 3 0x23 \"Circular three\";\012};\012\012lookup LOOKUP_SS08_GOV;\012";
+value = "ss08;featureNames {\012    name \"Circular three\";\012};\012\012lookup LOOKUP_SS08_GOV;\012";
 },
 {
 name = "Replace Feature";
-value = "ss20;featureNames {\012    name \"Original forms\";\012    name 3 1 0x409 \"Original forms\";\012    name 3 1 0x412 \"Original forms\";\012    name 1 0 0 \"Original forms\";\012    name 1 3 0x23 \"Original forms\";\012};\012\012lookup LOOKUP_SS20_1_GOV;\012lookup LOOKUP_SS20_2;\012lookup LOOKUP_SS20_3_GOV;\012lookup LOOKUP_SS20_4_GOV;\012lookup LOOKUP_SS20_5;\012";
+value = "ss20;featureNames {\012    name \"Original forms\";\012};\012\012lookup LOOKUP_SS20_1_GOV;\012lookup LOOKUP_SS20_2;\012lookup LOOKUP_SS20_3_GOV;\012lookup LOOKUP_SS20_4_GOV;\012lookup LOOKUP_SS20_5;\012";
 },
 {
 name = "Replace Feature";
@@ -5893,35 +5889,35 @@ uni2051
 },
 {
 name = "Replace Feature";
-value = "cv02;cvParameters { FeatUILabelNameID { \012	name \"Closed four\";\012    name 3 1 0x409 \"Closed four\";\012    name 3 1 0x412 \"Closed four\";\012    name 1 0 0 \"Closed four\";\012    name 1 3 0x23 \"Closed four\";\012}; };\012\012lookup LOOKUP_CV02;\012";
+value = "cv02;cvParameters { FeatUILabelNameID { \012	name \"Closed four\";\012}; };\012\012lookup LOOKUP_CV02;\012";
 },
 {
 name = "Replace Feature";
-value = "cv03;cvParameters { FeatUILabelNameID { \012	name \"Closed six\";\012    name 3 1 0x409 \"Closed six\";\012    name 3 1 0x412 \"Closed six\";\012    name 1 0 0 \"Closed six\";\012    name 1 3 0x23 \"Closed six\";\012}; };\012\012lookup LOOKUP_CV03;\012";
+value = "cv03;cvParameters { FeatUILabelNameID { \012	name \"Closed six\";\012}; };\012\012lookup LOOKUP_CV03;\012";
 },
 {
 name = "Replace Feature";
-value = "cv04;cvParameters { FeatUILabelNameID { \012	name \"Closed nine\";\012    name 3 1 0x409 \"Closed nine\";\012    name 3 1 0x412 \"Closed nine\";\012    name 1 0 0 \"Closed nine\";\012    name 1 3 0x23 \"Closed nine\";\012}; };\012\012lookup LOOKUP_CV04;\012";
+value = "cv04;cvParameters { FeatUILabelNameID { \012	name \"Closed nine\";\012}; };\012\012lookup LOOKUP_CV04;\012";
 },
 {
 name = "Replace Feature";
-value = "cv05;cvParameters { FeatUILabelNameID { \012	name \"Lower-case L without tail\";\012    name 3 1 0x409 \"Lower-case L without tail\";\012    name 3 1 0x412 \"Lower-case L without tail\";\012    name 1 0 0 \"Lower-case L without tail\";\012    name 1 3 0x23 \"Lower-case L without tail\";\012}; };\012\012lookup LOOKUP_CV05;\012";
+value = "cv05;cvParameters { FeatUILabelNameID { \012	name \"Lower-case L without tail\";\012}; };\012\012lookup LOOKUP_CV05;\012";
 },
 {
 name = "Replace Feature";
-value = "cv08;cvParameters { FeatUILabelNameID { \012	name \"Upper-case i without serif\";\012    name 3 1 0x409 \"Upper-case i without serif\";\012    name 3 1 0x412 \"Upper-case i without serif\";\012    name 1 0 0 \"Upper-case i without serif\";\012    name 1 3 0x23 \"Upper-case i without serif\";\012}; };\012\012lookup LOOKUP_CV08;\012";
+value = "cv08;cvParameters { FeatUILabelNameID { \012	name \"Upper-case i without serif\";\012}; };\012\012lookup LOOKUP_CV08;\012";
 },
 {
 name = "Replace Feature";
-value = "cv09;cvParameters { FeatUILabelNameID { \012	name \"Circular three\";\012    name 3 1 0x409 \"Circular three\";\012    name 3 1 0x412 \"Circular three\";\012    name 1 0 0 \"Circular three\";\012    name 1 3 0x23 \"Circular three\";\012}; };\012\012lookup LOOKUP_CV09;\012";
+value = "cv09;cvParameters { FeatUILabelNameID { \012	name \"Circular three\";\012}; };\012\012lookup LOOKUP_CV09;\012";
 },
 {
 name = "Replace Feature";
-value = "cv12;cvParameters { FeatUILabelNameID { \012	name \"Baseline aligned ellipsis\";\012    name 3 1 0x409 \"Baseline aligned ellipsis\";\012    name 3 1 0x412 \"Baseline aligned ellipsis\";\012    name 1 0 0 \"Baseline aligned ellipsis\";\012    name 1 3 0x23 \"Baseline aligned ellipsis\";\012}; };\012\012lookup LOOKUP_CV12;\012";
+value = "cv12;cvParameters { FeatUILabelNameID { \012	name \"Baseline aligned ellipsis\";\012}; };\012\012lookup LOOKUP_CV12;\012";
 },
 {
 name = "Replace Feature";
-value = "cv13;cvParameters { FeatUILabelNameID { \012	name \"Normal legibility one\";\012    name 3 1 0x409 \"Normal legibility one\";\012    name 3 1 0x412 \"Normal legibility one\";\012    name 1 0 0 \"Normal legibility one\";\012    name 1 3 0x23 \"Normal legibility one\";\012}; };\012\012lookup LOOKUP_CV13;\012";
+value = "cv13;cvParameters { FeatUILabelNameID { \012	name \"Normal legibility one\";\012}; };\012\012lookup LOOKUP_CV13;\012";
 },
 {
 name = "Remove Glyphs";
@@ -6276,31 +6272,31 @@ zero.tag.medium
 },
 {
 name = "Replace Feature";
-value = "ss10;featureNames {\012    name \"Medium symbols\";\012    name 3 1 0x409 \"Medium symbols\";\012    name 3 1 0x412 \"Medium symbols\";\012    name 1 0 0 \"Medium symbols\";\012    name 1 3 0x23 \"Medium symbols\";\012};\012\012sub @Symbol_Small by @Symbol_Medium;\012sub @Symbol_Fill_Small by @Symbol_Fill_Medium;\012sub @Symbol_Large by @Symbol_Medium;\012sub @Symbol_Fill_Large by @Symbol_Fill_Medium;\012";
+value = "ss10;featureNames {\012    name \"Medium symbols\";\012};\012\012sub @Symbol_Small by @Symbol_Medium;\012sub @Symbol_Fill_Small by @Symbol_Fill_Medium;\012sub @Symbol_Large by @Symbol_Medium;\012sub @Symbol_Fill_Large by @Symbol_Fill_Medium;\012";
 },
 {
 name = "Replace Feature";
-value = "ss11;featureNames {\012    name \"Outlined symbols\";\012    name 3 1 0x409 \"Outlined symbols\";\012    name 3 1 0x412 \"Outlined symbols\";\012    name 1 0 0 \"Outlined symbols\";\012    name 1 3 0x23 \"Outlined symbols\";\012};\012\012sub @Circled_Fill by @Circled;\012sub @Squared_Fill by @Squared;\012sub @Symbol_Fill_Small by @Symbol_Small;\012sub @Symbol_Fill_Medium by @Symbol_Medium;\012sub @Symbol_Fill_Large by @Symbol_Large;\012";
+value = "ss11;featureNames {\012    name \"Outlined symbols\";\012};\012\012sub @Circled_Fill by @Circled;\012sub @Squared_Fill by @Squared;\012sub @Symbol_Fill_Small by @Symbol_Small;\012sub @Symbol_Fill_Medium by @Symbol_Medium;\012sub @Symbol_Fill_Large by @Symbol_Large;\012";
 },
 {
 name = "Replace Feature";
-value = "ss12;featureNames {\012    name \"Circle symbols\";\012    name 3 1 0x409 \"Circle symbols\";\012    name 3 1 0x412 \"Circle symbols\";\012    name 1 0 0 \"Circle symbols\";\012    name 1 3 0x23 \"Circle symbols\";\012};\012\012sub @Squared by @Circled;\012sub @Squared_Fill by @Circled_Fill;\012";
+value = "ss12;featureNames {\012    name \"Circle symbols\";\012};\012\012sub @Squared by @Circled;\012sub @Squared_Fill by @Circled_Fill;\012";
 },
 {
 name = "Replace Feature";
-value = "ss13;featureNames {\012    name \"Square symbols\";\012    name 3 1 0x409 \"Square symbols\";\012    name 3 1 0x412 \"Square symbols\";\012    name 1 0 0 \"Square symbols\";\012    name 1 3 0x23 \"Square symbols\";\012};\012\012sub @Circled by @Squared;\012sub @Circled_Fill by @Squared_Fill;\012";
+value = "ss13;featureNames {\012    name \"Square symbols\";\012};\012\012sub @Circled by @Squared;\012sub @Circled_Fill by @Squared_Fill;\012";
 },
 {
 name = "Replace Feature";
-value = "ss14;featureNames {\012    name \"Filled symbols\";\012    name 3 1 0x409 \"Filled symbols\";\012    name 3 1 0x412 \"Filled symbols\";\012    name 1 0 0 \"Filled symbols\";\012    name 1 3 0x23 \"Filled symbols\";\012};\012\012sub @Circled by @Circled_Fill;\012sub @Squared by @Squared_Fill;\012sub @Symbol_Small by @Symbol_Fill_Small;\012sub @Symbol_Medium by @Symbol_Fill_Medium;\012sub @Symbol_Large by @Symbol_Fill_Large;\012";
+value = "ss14;featureNames {\012    name \"Filled symbols\";\012};\012\012sub @Circled by @Circled_Fill;\012sub @Squared by @Squared_Fill;\012sub @Symbol_Small by @Symbol_Fill_Small;\012sub @Symbol_Medium by @Symbol_Fill_Medium;\012sub @Symbol_Large by @Symbol_Fill_Large;\012";
 },
 {
 name = "Replace Feature";
-value = "ss15;featureNames {\012    name \"Small symbols\";\012    name 3 1 0x409 \"Small symbols\";\012    name 3 1 0x412 \"Small symbols\";\012    name 1 0 0 \"Small symbols\";\012    name 1 3 0x23 \"Small symbols\";\012};\012\012sub @Symbol_Medium by @Symbol_Small;\012sub @Symbol_Fill_Medium by @Symbol_Fill_Small;\012sub @Symbol_Large by @Symbol_Small;\012sub @Symbol_Fill_Large by @Symbol_Fill_Small;\012";
+value = "ss15;featureNames {\012    name \"Small symbols\";\012};\012\012sub @Symbol_Medium by @Symbol_Small;\012sub @Symbol_Fill_Medium by @Symbol_Fill_Small;\012sub @Symbol_Large by @Symbol_Small;\012sub @Symbol_Fill_Large by @Symbol_Fill_Small;\012";
 },
 {
 name = "Replace Feature";
-value = "ss16;featureNames {\012    name \"Large symbols\";\012    name 3 1 0x409 \"Large symbols\";\012    name 3 1 0x412 \"Large symbols\";\012    name 1 0 0 \"Large symbols\";\012    name 1 3 0x23 \"Large symbols\";\012};\012\012sub @Symbol_Small by @Symbol_Large;\012sub @Symbol_Medium by @Symbol_Large;\012sub @Symbol_Fill_Small by @Symbol_Fill_Large;\012sub @Symbol_Fill_Medium by @Symbol_Fill_Large;\012";
+value = "ss16;featureNames {\012    name \"Large symbols\";\012};\012\012sub @Symbol_Small by @Symbol_Large;\012sub @Symbol_Medium by @Symbol_Large;\012sub @Symbol_Fill_Small by @Symbol_Fill_Large;\012sub @Symbol_Fill_Medium by @Symbol_Fill_Large;\012";
 },
 {
 name = "Replace Class";
@@ -6555,31 +6551,31 @@ value = "salt;lookup LOOKUP_SALT_1_GOV;\012lookup LOOKUP_SALT_2;\012";
 },
 {
 name = "Replace Feature";
-value = "ss03;featureNames {\012    name \"Vertically centered colon\";\012    name 3 1 0x409 \"Vertically centered colon\";\012    name 3 1 0x412 \"Vertically centered colon\";\012    name 1 0 0 \"Vertically centered colon\";\012    name 1 3 0x23 \"Vertically centered colon\";\012};\012\012lookup LOOKUP_SS03_GOV;\012";
+value = "ss03;featureNames {\012    name \"Vertically centered colon\";\012};\012\012lookup LOOKUP_SS03_GOV;\012";
 },
 {
 name = "Replace Feature";
-value = "ss01;featureNames {\012    name \"Circular six and nine\";\012    name 3 1 0x409 \"Circular six and nine\";\012    name 3 1 0x412 \"Circular six and nine\";\012    name 1 0 0 \"Circular six and nine\";\012    name 1 3 0x23 \"Circular six and nine\";\012};\012\012lookup LOOKUP_SS01_GOV;\012";
+value = "ss01;featureNames {\012    name \"Circular six and nine\";\012};\012\012lookup LOOKUP_SS01_GOV;\012";
 },
 {
 name = "Replace Feature";
-value = "ss02;featureNames {\012    name \"Closed four\";\012    name 3 1 0x409 \"Closed four\";\012    name 3 1 0x412 \"Closed four\";\012    name 1 0 0 \"Closed four\";\012    name 1 3 0x23 \"Closed four\";\012};\012\012lookup LOOKUP_SS02_GOV;\012";
+value = "ss02;featureNames {\012    name \"Closed four\";\012};\012\012lookup LOOKUP_SS02_GOV;\012";
 },
 {
 name = "Replace Feature";
-value = "ss05;featureNames {\012    name \"Global localization\";\012    name 3 1 0x409 \"Global localization\";\012    name 3 1 0x412 \"Global localization\";\012    name 1 0 0 \"Global localization\";\012    name 1 3 0x23 \"Global localization\";\012};\012\012lookup LOOKUP_SS05_GOV;\012";
+value = "ss05;featureNames {\012    name \"Global localization\";\012};\012\012lookup LOOKUP_SS05_GOV;\012";
 },
 {
 name = "Replace Feature";
-value = "ss06;featureNames {\012    name \"Normal legibility\";\012    name 3 1 0x409 \"Normal legibility\";\012    name 3 1 0x412 \"Normal legibility\";\012    name 1 0 0 \"Normal legibility\";\012    name 1 3 0x23 \"Normal legibility\";\012};\012\012lookup LOOKUP_SS06_1_GOV;\012lookup LOOKUP_SS06_2;\012lookup LOOKUP_SS06_GOV;\012";
+value = "ss06;featureNames {\012    name \"Normal legibility\";\012};\012\012lookup LOOKUP_SS06_1_GOV;\012lookup LOOKUP_SS06_2;\012lookup LOOKUP_SS06_GOV;\012";
 },
 {
 name = "Replace Feature";
-value = "ss08;featureNames {\012    name \"Circular three\";\012    name 3 1 0x409 \"Circular three\";\012    name 3 1 0x412 \"Circular three\";\012    name 1 0 0 \"Circular three\";\012    name 1 3 0x23 \"Circular three\";\012};\012\012lookup LOOKUP_SS08_GOV;\012";
+value = "ss08;featureNames {\012    name \"Circular three\";\012};\012\012lookup LOOKUP_SS08_GOV;\012";
 },
 {
 name = "Replace Feature";
-value = "ss20;featureNames {\012    name \"Original forms\";\012    name 3 1 0x409 \"Original forms\";\012    name 3 1 0x412 \"Original forms\";\012    name 1 0 0 \"Original forms\";\012    name 1 3 0x23 \"Original forms\";\012};\012\012lookup LOOKUP_SS20_1_GOV;\012lookup LOOKUP_SS20_2;\012lookup LOOKUP_SS20_3_GOV;\012lookup LOOKUP_SS20_4_GOV;\012lookup LOOKUP_SS20_5;\012";
+value = "ss20;featureNames {\012    name \"Original forms\";\012};\012\012lookup LOOKUP_SS20_1_GOV;\012lookup LOOKUP_SS20_2;\012lookup LOOKUP_SS20_3_GOV;\012lookup LOOKUP_SS20_4_GOV;\012lookup LOOKUP_SS20_5;\012";
 },
 {
 name = "Replace Feature";
@@ -6740,35 +6736,35 @@ uni2051
 },
 {
 name = "Replace Feature";
-value = "cv02;cvParameters { FeatUILabelNameID { \012	name \"Closed four\";\012    name 3 1 0x409 \"Closed four\";\012    name 3 1 0x412 \"Closed four\";\012    name 1 0 0 \"Closed four\";\012    name 1 3 0x23 \"Closed four\";\012}; };\012\012lookup LOOKUP_CV02;\012";
+value = "cv02;cvParameters { FeatUILabelNameID { \012	name \"Closed four\";\012}; };\012\012lookup LOOKUP_CV02;\012";
 },
 {
 name = "Replace Feature";
-value = "cv03;cvParameters { FeatUILabelNameID { \012	name \"Closed six\";\012    name 3 1 0x409 \"Closed six\";\012    name 3 1 0x412 \"Closed six\";\012    name 1 0 0 \"Closed six\";\012    name 1 3 0x23 \"Closed six\";\012}; };\012\012lookup LOOKUP_CV03;\012";
+value = "cv03;cvParameters { FeatUILabelNameID { \012	name \"Closed six\";\012}; };\012\012lookup LOOKUP_CV03;\012";
 },
 {
 name = "Replace Feature";
-value = "cv04;cvParameters { FeatUILabelNameID { \012	name \"Closed nine\";\012    name 3 1 0x409 \"Closed nine\";\012    name 3 1 0x412 \"Closed nine\";\012    name 1 0 0 \"Closed nine\";\012    name 1 3 0x23 \"Closed nine\";\012}; };\012\012lookup LOOKUP_CV04;\012";
+value = "cv04;cvParameters { FeatUILabelNameID { \012	name \"Closed nine\";\012}; };\012\012lookup LOOKUP_CV04;\012";
 },
 {
 name = "Replace Feature";
-value = "cv05;cvParameters { FeatUILabelNameID { \012	name \"Lower-case L without tail\";\012    name 3 1 0x409 \"Lower-case L without tail\";\012    name 3 1 0x412 \"Lower-case L without tail\";\012    name 1 0 0 \"Lower-case L without tail\";\012    name 1 3 0x23 \"Lower-case L without tail\";\012}; };\012\012lookup LOOKUP_CV05;\012";
+value = "cv05;cvParameters { FeatUILabelNameID { \012	name \"Lower-case L without tail\";\012}; };\012\012lookup LOOKUP_CV05;\012";
 },
 {
 name = "Replace Feature";
-value = "cv08;cvParameters { FeatUILabelNameID { \012	name \"Upper-case i without serif\";\012    name 3 1 0x409 \"Upper-case i without serif\";\012    name 3 1 0x412 \"Upper-case i without serif\";\012    name 1 0 0 \"Upper-case i without serif\";\012    name 1 3 0x23 \"Upper-case i without serif\";\012}; };\012\012lookup LOOKUP_CV08;\012";
+value = "cv08;cvParameters { FeatUILabelNameID { \012	name \"Upper-case i without serif\";\012}; };\012\012lookup LOOKUP_CV08;\012";
 },
 {
 name = "Replace Feature";
-value = "cv09;cvParameters { FeatUILabelNameID { \012	name \"Circular three\";\012    name 3 1 0x409 \"Circular three\";\012    name 3 1 0x412 \"Circular three\";\012    name 1 0 0 \"Circular three\";\012    name 1 3 0x23 \"Circular three\";\012}; };\012\012lookup LOOKUP_CV09;\012";
+value = "cv09;cvParameters { FeatUILabelNameID { \012	name \"Circular three\";\012}; };\012\012lookup LOOKUP_CV09;\012";
 },
 {
 name = "Replace Feature";
-value = "cv12;cvParameters { FeatUILabelNameID { \012	name \"Baseline aligned ellipsis\";\012    name 3 1 0x409 \"Baseline aligned ellipsis\";\012    name 3 1 0x412 \"Baseline aligned ellipsis\";\012    name 1 0 0 \"Baseline aligned ellipsis\";\012    name 1 3 0x23 \"Baseline aligned ellipsis\";\012}; };\012\012lookup LOOKUP_CV12;\012";
+value = "cv12;cvParameters { FeatUILabelNameID { \012	name \"Baseline aligned ellipsis\";\012}; };\012\012lookup LOOKUP_CV12;\012";
 },
 {
 name = "Replace Feature";
-value = "cv13;cvParameters { FeatUILabelNameID { \012	name \"Normal legibility one\";\012    name 3 1 0x409 \"Normal legibility one\";\012    name 3 1 0x412 \"Normal legibility one\";\012    name 1 0 0 \"Normal legibility one\";\012    name 1 3 0x23 \"Normal legibility one\";\012}; };\012\012lookup LOOKUP_CV13;\012";
+value = "cv13;cvParameters { FeatUILabelNameID { \012	name \"Normal legibility one\";\012}; };\012\012lookup LOOKUP_CV13;\012";
 },
 {
 name = "Remove Glyphs";
@@ -7123,31 +7119,31 @@ zero.tag.medium
 },
 {
 name = "Replace Feature";
-value = "ss10;featureNames {\012    name \"Medium symbols\";\012    name 3 1 0x409 \"Medium symbols\";\012    name 3 1 0x412 \"Medium symbols\";\012    name 1 0 0 \"Medium symbols\";\012    name 1 3 0x23 \"Medium symbols\";\012};\012\012sub @Symbol_Small by @Symbol_Medium;\012sub @Symbol_Fill_Small by @Symbol_Fill_Medium;\012sub @Symbol_Large by @Symbol_Medium;\012sub @Symbol_Fill_Large by @Symbol_Fill_Medium;\012";
+value = "ss10;featureNames {\012    name \"Medium symbols\";\012};\012\012sub @Symbol_Small by @Symbol_Medium;\012sub @Symbol_Fill_Small by @Symbol_Fill_Medium;\012sub @Symbol_Large by @Symbol_Medium;\012sub @Symbol_Fill_Large by @Symbol_Fill_Medium;\012";
 },
 {
 name = "Replace Feature";
-value = "ss11;featureNames {\012    name \"Outlined symbols\";\012    name 3 1 0x409 \"Outlined symbols\";\012    name 3 1 0x412 \"Outlined symbols\";\012    name 1 0 0 \"Outlined symbols\";\012    name 1 3 0x23 \"Outlined symbols\";\012};\012\012sub @Circled_Fill by @Circled;\012sub @Squared_Fill by @Squared;\012sub @Symbol_Fill_Small by @Symbol_Small;\012sub @Symbol_Fill_Medium by @Symbol_Medium;\012sub @Symbol_Fill_Large by @Symbol_Large;\012";
+value = "ss11;featureNames {\012    name \"Outlined symbols\";\012};\012\012sub @Circled_Fill by @Circled;\012sub @Squared_Fill by @Squared;\012sub @Symbol_Fill_Small by @Symbol_Small;\012sub @Symbol_Fill_Medium by @Symbol_Medium;\012sub @Symbol_Fill_Large by @Symbol_Large;\012";
 },
 {
 name = "Replace Feature";
-value = "ss12;featureNames {\012    name \"Circle symbols\";\012    name 3 1 0x409 \"Circle symbols\";\012    name 3 1 0x412 \"Circle symbols\";\012    name 1 0 0 \"Circle symbols\";\012    name 1 3 0x23 \"Circle symbols\";\012};\012\012sub @Squared by @Circled;\012sub @Squared_Fill by @Circled_Fill;\012";
+value = "ss12;featureNames {\012    name \"Circle symbols\";\012};\012\012sub @Squared by @Circled;\012sub @Squared_Fill by @Circled_Fill;\012";
 },
 {
 name = "Replace Feature";
-value = "ss13;featureNames {\012    name \"Square symbols\";\012    name 3 1 0x409 \"Square symbols\";\012    name 3 1 0x412 \"Square symbols\";\012    name 1 0 0 \"Square symbols\";\012    name 1 3 0x23 \"Square symbols\";\012};\012\012sub @Circled by @Squared;\012sub @Circled_Fill by @Squared_Fill;\012";
+value = "ss13;featureNames {\012    name \"Square symbols\";\012};\012\012sub @Circled by @Squared;\012sub @Circled_Fill by @Squared_Fill;\012";
 },
 {
 name = "Replace Feature";
-value = "ss14;featureNames {\012    name \"Filled symbols\";\012    name 3 1 0x409 \"Filled symbols\";\012    name 3 1 0x412 \"Filled symbols\";\012    name 1 0 0 \"Filled symbols\";\012    name 1 3 0x23 \"Filled symbols\";\012};\012\012sub @Circled by @Circled_Fill;\012sub @Squared by @Squared_Fill;\012sub @Symbol_Small by @Symbol_Fill_Small;\012sub @Symbol_Medium by @Symbol_Fill_Medium;\012sub @Symbol_Large by @Symbol_Fill_Large;\012";
+value = "ss14;featureNames {\012    name \"Filled symbols\";\012};\012\012sub @Circled by @Circled_Fill;\012sub @Squared by @Squared_Fill;\012sub @Symbol_Small by @Symbol_Fill_Small;\012sub @Symbol_Medium by @Symbol_Fill_Medium;\012sub @Symbol_Large by @Symbol_Fill_Large;\012";
 },
 {
 name = "Replace Feature";
-value = "ss15;featureNames {\012    name \"Small symbols\";\012    name 3 1 0x409 \"Small symbols\";\012    name 3 1 0x412 \"Small symbols\";\012    name 1 0 0 \"Small symbols\";\012    name 1 3 0x23 \"Small symbols\";\012};\012\012sub @Symbol_Medium by @Symbol_Small;\012sub @Symbol_Fill_Medium by @Symbol_Fill_Small;\012sub @Symbol_Large by @Symbol_Small;\012sub @Symbol_Fill_Large by @Symbol_Fill_Small;\012";
+value = "ss15;featureNames {\012    name \"Small symbols\";\012};\012\012sub @Symbol_Medium by @Symbol_Small;\012sub @Symbol_Fill_Medium by @Symbol_Fill_Small;\012sub @Symbol_Large by @Symbol_Small;\012sub @Symbol_Fill_Large by @Symbol_Fill_Small;\012";
 },
 {
 name = "Replace Feature";
-value = "ss16;featureNames {\012    name \"Large symbols\";\012    name 3 1 0x409 \"Large symbols\";\012    name 3 1 0x412 \"Large symbols\";\012    name 1 0 0 \"Large symbols\";\012    name 1 3 0x23 \"Large symbols\";\012};\012\012sub @Symbol_Small by @Symbol_Large;\012sub @Symbol_Medium by @Symbol_Large;\012sub @Symbol_Fill_Small by @Symbol_Fill_Large;\012sub @Symbol_Fill_Medium by @Symbol_Fill_Large;\012";
+value = "ss16;featureNames {\012    name \"Large symbols\";\012};\012\012sub @Symbol_Small by @Symbol_Large;\012sub @Symbol_Medium by @Symbol_Large;\012sub @Symbol_Fill_Small by @Symbol_Fill_Large;\012sub @Symbol_Fill_Medium by @Symbol_Fill_Large;\012";
 },
 {
 name = "Replace Class";
@@ -7403,31 +7399,31 @@ value = "salt;lookup LOOKUP_SALT_1_GOV;\012lookup LOOKUP_SALT_2;\012";
 },
 {
 name = "Replace Feature";
-value = "ss03;featureNames {\012    name \"Vertically centered colon\";\012    name 3 1 0x409 \"Vertically centered colon\";\012    name 3 1 0x412 \"Vertically centered colon\";\012    name 1 0 0 \"Vertically centered colon\";\012    name 1 3 0x23 \"Vertically centered colon\";\012};\012\012lookup LOOKUP_SS03_GOV;\012";
+value = "ss03;featureNames {\012    name \"Vertically centered colon\";\012};\012\012lookup LOOKUP_SS03_GOV;\012";
 },
 {
 name = "Replace Feature";
-value = "ss01;featureNames {\012    name \"Circular six and nine\";\012    name 3 1 0x409 \"Circular six and nine\";\012    name 3 1 0x412 \"Circular six and nine\";\012    name 1 0 0 \"Circular six and nine\";\012    name 1 3 0x23 \"Circular six and nine\";\012};\012\012lookup LOOKUP_SS01_GOV;\012";
+value = "ss01;featureNames {\012    name \"Circular six and nine\";\012};\012\012lookup LOOKUP_SS01_GOV;\012";
 },
 {
 name = "Replace Feature";
-value = "ss02;featureNames {\012    name \"Closed four\";\012    name 3 1 0x409 \"Closed four\";\012    name 3 1 0x412 \"Closed four\";\012    name 1 0 0 \"Closed four\";\012    name 1 3 0x23 \"Closed four\";\012};\012\012lookup LOOKUP_SS02_GOV;\012";
+value = "ss02;featureNames {\012    name \"Closed four\";\012};\012\012lookup LOOKUP_SS02_GOV;\012";
 },
 {
 name = "Replace Feature";
-value = "ss05;featureNames {\012    name \"Global localization\";\012    name 3 1 0x409 \"Global localization\";\012    name 3 1 0x412 \"Global localization\";\012    name 1 0 0 \"Global localization\";\012    name 1 3 0x23 \"Global localization\";\012};\012\012lookup LOOKUP_SS05_GOV;\012";
+value = "ss05;featureNames {\012    name \"Global localization\";\012};\012\012lookup LOOKUP_SS05_GOV;\012";
 },
 {
 name = "Replace Feature";
-value = "ss06;featureNames {\012    name \"Normal legibility\";\012    name 3 1 0x409 \"Normal legibility\";\012    name 3 1 0x412 \"Normal legibility\";\012    name 1 0 0 \"Normal legibility\";\012    name 1 3 0x23 \"Normal legibility\";\012};\012\012lookup LOOKUP_SS06_1_GOV;\012lookup LOOKUP_SS06_2;\012lookup LOOKUP_SS06_GOV;\012";
+value = "ss06;featureNames {\012    name \"Normal legibility\";\012};\012\012lookup LOOKUP_SS06_1_GOV;\012lookup LOOKUP_SS06_2;\012lookup LOOKUP_SS06_GOV;\012";
 },
 {
 name = "Replace Feature";
-value = "ss08;featureNames {\012    name \"Circular three\";\012    name 3 1 0x409 \"Circular three\";\012    name 3 1 0x412 \"Circular three\";\012    name 1 0 0 \"Circular three\";\012    name 1 3 0x23 \"Circular three\";\012};\012\012lookup LOOKUP_SS08_GOV;\012";
+value = "ss08;featureNames {\012    name \"Circular three\";\012};\012\012lookup LOOKUP_SS08_GOV;\012";
 },
 {
 name = "Replace Feature";
-value = "ss20;featureNames {\012    name \"Original forms\";\012    name 3 1 0x409 \"Original forms\";\012    name 3 1 0x412 \"Original forms\";\012    name 1 0 0 \"Original forms\";\012    name 1 3 0x23 \"Original forms\";\012};\012\012lookup LOOKUP_SS20_1_GOV;\012lookup LOOKUP_SS20_2;\012lookup LOOKUP_SS20_3_GOV;\012lookup LOOKUP_SS20_4_GOV;\012lookup LOOKUP_SS20_5;\012";
+value = "ss20;featureNames {\012    name \"Original forms\";\012};\012\012lookup LOOKUP_SS20_1_GOV;\012lookup LOOKUP_SS20_2;\012lookup LOOKUP_SS20_3_GOV;\012lookup LOOKUP_SS20_4_GOV;\012lookup LOOKUP_SS20_5;\012";
 },
 {
 name = "Replace Feature";
@@ -7588,35 +7584,35 @@ uni2051
 },
 {
 name = "Replace Feature";
-value = "cv02;cvParameters { FeatUILabelNameID { \012	name \"Closed four\";\012    name 3 1 0x409 \"Closed four\";\012    name 3 1 0x412 \"Closed four\";\012    name 1 0 0 \"Closed four\";\012    name 1 3 0x23 \"Closed four\";\012}; };\012\012lookup LOOKUP_CV02;\012";
+value = "cv02;cvParameters { FeatUILabelNameID { \012	name \"Closed four\";\012}; };\012\012lookup LOOKUP_CV02;\012";
 },
 {
 name = "Replace Feature";
-value = "cv03;cvParameters { FeatUILabelNameID { \012	name \"Closed six\";\012    name 3 1 0x409 \"Closed six\";\012    name 3 1 0x412 \"Closed six\";\012    name 1 0 0 \"Closed six\";\012    name 1 3 0x23 \"Closed six\";\012}; };\012\012lookup LOOKUP_CV03;\012";
+value = "cv03;cvParameters { FeatUILabelNameID { \012	name \"Closed six\";\012}; };\012\012lookup LOOKUP_CV03;\012";
 },
 {
 name = "Replace Feature";
-value = "cv04;cvParameters { FeatUILabelNameID { \012	name \"Closed nine\";\012    name 3 1 0x409 \"Closed nine\";\012    name 3 1 0x412 \"Closed nine\";\012    name 1 0 0 \"Closed nine\";\012    name 1 3 0x23 \"Closed nine\";\012}; };\012\012lookup LOOKUP_CV04;\012";
+value = "cv04;cvParameters { FeatUILabelNameID { \012	name \"Closed nine\";\012}; };\012\012lookup LOOKUP_CV04;\012";
 },
 {
 name = "Replace Feature";
-value = "cv05;cvParameters { FeatUILabelNameID { \012	name \"Lower-case L without tail\";\012    name 3 1 0x409 \"Lower-case L without tail\";\012    name 3 1 0x412 \"Lower-case L without tail\";\012    name 1 0 0 \"Lower-case L without tail\";\012    name 1 3 0x23 \"Lower-case L without tail\";\012}; };\012\012lookup LOOKUP_CV05;\012";
+value = "cv05;cvParameters { FeatUILabelNameID { \012	name \"Lower-case L without tail\";\012}; };\012\012lookup LOOKUP_CV05;\012";
 },
 {
 name = "Replace Feature";
-value = "cv08;cvParameters { FeatUILabelNameID { \012	name \"Upper-case i without serif\";\012    name 3 1 0x409 \"Upper-case i without serif\";\012    name 3 1 0x412 \"Upper-case i without serif\";\012    name 1 0 0 \"Upper-case i without serif\";\012    name 1 3 0x23 \"Upper-case i without serif\";\012}; };\012\012lookup LOOKUP_CV08;\012";
+value = "cv08;cvParameters { FeatUILabelNameID { \012	name \"Upper-case i without serif\";\012}; };\012\012lookup LOOKUP_CV08;\012";
 },
 {
 name = "Replace Feature";
-value = "cv09;cvParameters { FeatUILabelNameID { \012	name \"Circular three\";\012    name 3 1 0x409 \"Circular three\";\012    name 3 1 0x412 \"Circular three\";\012    name 1 0 0 \"Circular three\";\012    name 1 3 0x23 \"Circular three\";\012}; };\012\012lookup LOOKUP_CV09;\012";
+value = "cv09;cvParameters { FeatUILabelNameID { \012	name \"Circular three\";\012}; };\012\012lookup LOOKUP_CV09;\012";
 },
 {
 name = "Replace Feature";
-value = "cv12;cvParameters { FeatUILabelNameID { \012	name \"Baseline aligned ellipsis\";\012    name 3 1 0x409 \"Baseline aligned ellipsis\";\012    name 3 1 0x412 \"Baseline aligned ellipsis\";\012    name 1 0 0 \"Baseline aligned ellipsis\";\012    name 1 3 0x23 \"Baseline aligned ellipsis\";\012}; };\012\012lookup LOOKUP_CV12;\012";
+value = "cv12;cvParameters { FeatUILabelNameID { \012	name \"Baseline aligned ellipsis\";\012}; };\012\012lookup LOOKUP_CV12;\012";
 },
 {
 name = "Replace Feature";
-value = "cv13;cvParameters { FeatUILabelNameID { \012	name \"Normal legibility one\";\012    name 3 1 0x409 \"Normal legibility one\";\012    name 3 1 0x412 \"Normal legibility one\";\012    name 1 0 0 \"Normal legibility one\";\012    name 1 3 0x23 \"Normal legibility one\";\012}; };\012\012lookup LOOKUP_CV13;\012";
+value = "cv13;cvParameters { FeatUILabelNameID { \012	name \"Normal legibility one\";\012}; };\012\012lookup LOOKUP_CV13;\012";
 },
 {
 name = "Remove Glyphs";
@@ -7971,31 +7967,31 @@ zero.tag.medium
 },
 {
 name = "Replace Feature";
-value = "ss10;featureNames {\012    name \"Medium symbols\";\012    name 3 1 0x409 \"Medium symbols\";\012    name 3 1 0x412 \"Medium symbols\";\012    name 1 0 0 \"Medium symbols\";\012    name 1 3 0x23 \"Medium symbols\";\012};\012\012sub @Symbol_Small by @Symbol_Medium;\012sub @Symbol_Fill_Small by @Symbol_Fill_Medium;\012sub @Symbol_Large by @Symbol_Medium;\012sub @Symbol_Fill_Large by @Symbol_Fill_Medium;\012";
+value = "ss10;featureNames {\012    name \"Medium symbols\";\012};\012\012sub @Symbol_Small by @Symbol_Medium;\012sub @Symbol_Fill_Small by @Symbol_Fill_Medium;\012sub @Symbol_Large by @Symbol_Medium;\012sub @Symbol_Fill_Large by @Symbol_Fill_Medium;\012";
 },
 {
 name = "Replace Feature";
-value = "ss11;featureNames {\012    name \"Outlined symbols\";\012    name 3 1 0x409 \"Outlined symbols\";\012    name 3 1 0x412 \"Outlined symbols\";\012    name 1 0 0 \"Outlined symbols\";\012    name 1 3 0x23 \"Outlined symbols\";\012};\012\012sub @Circled_Fill by @Circled;\012sub @Squared_Fill by @Squared;\012sub @Symbol_Fill_Small by @Symbol_Small;\012sub @Symbol_Fill_Medium by @Symbol_Medium;\012sub @Symbol_Fill_Large by @Symbol_Large;\012";
+value = "ss11;featureNames {\012    name \"Outlined symbols\";\012};\012\012sub @Circled_Fill by @Circled;\012sub @Squared_Fill by @Squared;\012sub @Symbol_Fill_Small by @Symbol_Small;\012sub @Symbol_Fill_Medium by @Symbol_Medium;\012sub @Symbol_Fill_Large by @Symbol_Large;\012";
 },
 {
 name = "Replace Feature";
-value = "ss12;featureNames {\012    name \"Circle symbols\";\012    name 3 1 0x409 \"Circle symbols\";\012    name 3 1 0x412 \"Circle symbols\";\012    name 1 0 0 \"Circle symbols\";\012    name 1 3 0x23 \"Circle symbols\";\012};\012\012sub @Squared by @Circled;\012sub @Squared_Fill by @Circled_Fill;\012";
+value = "ss12;featureNames {\012    name \"Circle symbols\";\012};\012\012sub @Squared by @Circled;\012sub @Squared_Fill by @Circled_Fill;\012";
 },
 {
 name = "Replace Feature";
-value = "ss13;featureNames {\012    name \"Square symbols\";\012    name 3 1 0x409 \"Square symbols\";\012    name 3 1 0x412 \"Square symbols\";\012    name 1 0 0 \"Square symbols\";\012    name 1 3 0x23 \"Square symbols\";\012};\012\012sub @Circled by @Squared;\012sub @Circled_Fill by @Squared_Fill;\012";
+value = "ss13;featureNames {\012    name \"Square symbols\";\012};\012\012sub @Circled by @Squared;\012sub @Circled_Fill by @Squared_Fill;\012";
 },
 {
 name = "Replace Feature";
-value = "ss14;featureNames {\012    name \"Filled symbols\";\012    name 3 1 0x409 \"Filled symbols\";\012    name 3 1 0x412 \"Filled symbols\";\012    name 1 0 0 \"Filled symbols\";\012    name 1 3 0x23 \"Filled symbols\";\012};\012\012sub @Circled by @Circled_Fill;\012sub @Squared by @Squared_Fill;\012sub @Symbol_Small by @Symbol_Fill_Small;\012sub @Symbol_Medium by @Symbol_Fill_Medium;\012sub @Symbol_Large by @Symbol_Fill_Large;\012";
+value = "ss14;featureNames {\012    name \"Filled symbols\";\012};\012\012sub @Circled by @Circled_Fill;\012sub @Squared by @Squared_Fill;\012sub @Symbol_Small by @Symbol_Fill_Small;\012sub @Symbol_Medium by @Symbol_Fill_Medium;\012sub @Symbol_Large by @Symbol_Fill_Large;\012";
 },
 {
 name = "Replace Feature";
-value = "ss15;featureNames {\012    name \"Small symbols\";\012    name 3 1 0x409 \"Small symbols\";\012    name 3 1 0x412 \"Small symbols\";\012    name 1 0 0 \"Small symbols\";\012    name 1 3 0x23 \"Small symbols\";\012};\012\012sub @Symbol_Medium by @Symbol_Small;\012sub @Symbol_Fill_Medium by @Symbol_Fill_Small;\012sub @Symbol_Large by @Symbol_Small;\012sub @Symbol_Fill_Large by @Symbol_Fill_Small;\012";
+value = "ss15;featureNames {\012    name \"Small symbols\";\012};\012\012sub @Symbol_Medium by @Symbol_Small;\012sub @Symbol_Fill_Medium by @Symbol_Fill_Small;\012sub @Symbol_Large by @Symbol_Small;\012sub @Symbol_Fill_Large by @Symbol_Fill_Small;\012";
 },
 {
 name = "Replace Feature";
-value = "ss16;featureNames {\012    name \"Large symbols\";\012    name 3 1 0x409 \"Large symbols\";\012    name 3 1 0x412 \"Large symbols\";\012    name 1 0 0 \"Large symbols\";\012    name 1 3 0x23 \"Large symbols\";\012};\012\012sub @Symbol_Small by @Symbol_Large;\012sub @Symbol_Medium by @Symbol_Large;\012sub @Symbol_Fill_Small by @Symbol_Fill_Large;\012sub @Symbol_Fill_Medium by @Symbol_Fill_Large;\012";
+value = "ss16;featureNames {\012    name \"Large symbols\";\012};\012\012sub @Symbol_Small by @Symbol_Large;\012sub @Symbol_Medium by @Symbol_Large;\012sub @Symbol_Fill_Small by @Symbol_Fill_Large;\012sub @Symbol_Fill_Medium by @Symbol_Fill_Large;\012";
 },
 {
 name = "Replace Class";
@@ -8250,31 +8246,31 @@ value = "salt;lookup LOOKUP_SALT_1_GOV;\012lookup LOOKUP_SALT_2;\012";
 },
 {
 name = "Replace Feature";
-value = "ss03;featureNames {\012    name \"Vertically centered colon\";\012    name 3 1 0x409 \"Vertically centered colon\";\012    name 3 1 0x412 \"Vertically centered colon\";\012    name 1 0 0 \"Vertically centered colon\";\012    name 1 3 0x23 \"Vertically centered colon\";\012};\012\012lookup LOOKUP_SS03_GOV;\012";
+value = "ss03;featureNames {\012    name \"Vertically centered colon\";\012};\012\012lookup LOOKUP_SS03_GOV;\012";
 },
 {
 name = "Replace Feature";
-value = "ss01;featureNames {\012    name \"Circular six and nine\";\012    name 3 1 0x409 \"Circular six and nine\";\012    name 3 1 0x412 \"Circular six and nine\";\012    name 1 0 0 \"Circular six and nine\";\012    name 1 3 0x23 \"Circular six and nine\";\012};\012\012lookup LOOKUP_SS01_GOV;\012";
+value = "ss01;featureNames {\012    name \"Circular six and nine\";\012};\012\012lookup LOOKUP_SS01_GOV;\012";
 },
 {
 name = "Replace Feature";
-value = "ss02;featureNames {\012    name \"Closed four\";\012    name 3 1 0x409 \"Closed four\";\012    name 3 1 0x412 \"Closed four\";\012    name 1 0 0 \"Closed four\";\012    name 1 3 0x23 \"Closed four\";\012};\012\012lookup LOOKUP_SS02_GOV;\012";
+value = "ss02;featureNames {\012    name \"Closed four\";\012};\012\012lookup LOOKUP_SS02_GOV;\012";
 },
 {
 name = "Replace Feature";
-value = "ss05;featureNames {\012    name \"Global localization\";\012    name 3 1 0x409 \"Global localization\";\012    name 3 1 0x412 \"Global localization\";\012    name 1 0 0 \"Global localization\";\012    name 1 3 0x23 \"Global localization\";\012};\012\012lookup LOOKUP_SS05_GOV;\012";
+value = "ss05;featureNames {\012    name \"Global localization\";\012};\012\012lookup LOOKUP_SS05_GOV;\012";
 },
 {
 name = "Replace Feature";
-value = "ss06;featureNames {\012    name \"Normal legibility\";\012    name 3 1 0x409 \"Normal legibility\";\012    name 3 1 0x412 \"Normal legibility\";\012    name 1 0 0 \"Normal legibility\";\012    name 1 3 0x23 \"Normal legibility\";\012};\012\012lookup LOOKUP_SS06_1_GOV;\012lookup LOOKUP_SS06_2;\012lookup LOOKUP_SS06_GOV;\012";
+value = "ss06;featureNames {\012    name \"Normal legibility\";\012};\012\012lookup LOOKUP_SS06_1_GOV;\012lookup LOOKUP_SS06_2;\012lookup LOOKUP_SS06_GOV;\012";
 },
 {
 name = "Replace Feature";
-value = "ss08;featureNames {\012    name \"Circular three\";\012    name 3 1 0x409 \"Circular three\";\012    name 3 1 0x412 \"Circular three\";\012    name 1 0 0 \"Circular three\";\012    name 1 3 0x23 \"Circular three\";\012};\012\012lookup LOOKUP_SS08_GOV;\012";
+value = "ss08;featureNames {\012    name \"Circular three\";\012};\012\012lookup LOOKUP_SS08_GOV;\012";
 },
 {
 name = "Replace Feature";
-value = "ss20;featureNames {\012    name \"Original forms\";\012    name 3 1 0x409 \"Original forms\";\012    name 3 1 0x412 \"Original forms\";\012    name 1 0 0 \"Original forms\";\012    name 1 3 0x23 \"Original forms\";\012};\012\012lookup LOOKUP_SS20_1_GOV;\012lookup LOOKUP_SS20_2;\012lookup LOOKUP_SS20_3_GOV;\012lookup LOOKUP_SS20_4_GOV;\012lookup LOOKUP_SS20_5;\012";
+value = "ss20;featureNames {\012    name \"Original forms\";\012};\012\012lookup LOOKUP_SS20_1_GOV;\012lookup LOOKUP_SS20_2;\012lookup LOOKUP_SS20_3_GOV;\012lookup LOOKUP_SS20_4_GOV;\012lookup LOOKUP_SS20_5;\012";
 },
 {
 name = "Replace Feature";
@@ -8435,35 +8431,35 @@ uni2051
 },
 {
 name = "Replace Feature";
-value = "cv02;cvParameters { FeatUILabelNameID { \012	name \"Closed four\";\012    name 3 1 0x409 \"Closed four\";\012    name 3 1 0x412 \"Closed four\";\012    name 1 0 0 \"Closed four\";\012    name 1 3 0x23 \"Closed four\";\012}; };\012\012lookup LOOKUP_CV02;\012";
+value = "cv02;cvParameters { FeatUILabelNameID { \012	name \"Closed four\";\012}; };\012\012lookup LOOKUP_CV02;\012";
 },
 {
 name = "Replace Feature";
-value = "cv03;cvParameters { FeatUILabelNameID { \012	name \"Closed six\";\012    name 3 1 0x409 \"Closed six\";\012    name 3 1 0x412 \"Closed six\";\012    name 1 0 0 \"Closed six\";\012    name 1 3 0x23 \"Closed six\";\012}; };\012\012lookup LOOKUP_CV03;\012";
+value = "cv03;cvParameters { FeatUILabelNameID { \012	name \"Closed six\";\012}; };\012\012lookup LOOKUP_CV03;\012";
 },
 {
 name = "Replace Feature";
-value = "cv04;cvParameters { FeatUILabelNameID { \012	name \"Closed nine\";\012    name 3 1 0x409 \"Closed nine\";\012    name 3 1 0x412 \"Closed nine\";\012    name 1 0 0 \"Closed nine\";\012    name 1 3 0x23 \"Closed nine\";\012}; };\012\012lookup LOOKUP_CV04;\012";
+value = "cv04;cvParameters { FeatUILabelNameID { \012	name \"Closed nine\";\012}; };\012\012lookup LOOKUP_CV04;\012";
 },
 {
 name = "Replace Feature";
-value = "cv05;cvParameters { FeatUILabelNameID { \012	name \"Lower-case L without tail\";\012    name 3 1 0x409 \"Lower-case L without tail\";\012    name 3 1 0x412 \"Lower-case L without tail\";\012    name 1 0 0 \"Lower-case L without tail\";\012    name 1 3 0x23 \"Lower-case L without tail\";\012}; };\012\012lookup LOOKUP_CV05;\012";
+value = "cv05;cvParameters { FeatUILabelNameID { \012	name \"Lower-case L without tail\";\012}; };\012\012lookup LOOKUP_CV05;\012";
 },
 {
 name = "Replace Feature";
-value = "cv08;cvParameters { FeatUILabelNameID { \012	name \"Upper-case i without serif\";\012    name 3 1 0x409 \"Upper-case i without serif\";\012    name 3 1 0x412 \"Upper-case i without serif\";\012    name 1 0 0 \"Upper-case i without serif\";\012    name 1 3 0x23 \"Upper-case i without serif\";\012}; };\012\012lookup LOOKUP_CV08;\012";
+value = "cv08;cvParameters { FeatUILabelNameID { \012	name \"Upper-case i without serif\";\012}; };\012\012lookup LOOKUP_CV08;\012";
 },
 {
 name = "Replace Feature";
-value = "cv09;cvParameters { FeatUILabelNameID { \012	name \"Circular three\";\012    name 3 1 0x409 \"Circular three\";\012    name 3 1 0x412 \"Circular three\";\012    name 1 0 0 \"Circular three\";\012    name 1 3 0x23 \"Circular three\";\012}; };\012\012lookup LOOKUP_CV09;\012";
+value = "cv09;cvParameters { FeatUILabelNameID { \012	name \"Circular three\";\012}; };\012\012lookup LOOKUP_CV09;\012";
 },
 {
 name = "Replace Feature";
-value = "cv12;cvParameters { FeatUILabelNameID { \012	name \"Baseline aligned ellipsis\";\012    name 3 1 0x409 \"Baseline aligned ellipsis\";\012    name 3 1 0x412 \"Baseline aligned ellipsis\";\012    name 1 0 0 \"Baseline aligned ellipsis\";\012    name 1 3 0x23 \"Baseline aligned ellipsis\";\012}; };\012\012lookup LOOKUP_CV12;\012";
+value = "cv12;cvParameters { FeatUILabelNameID { \012	name \"Baseline aligned ellipsis\";\012}; };\012\012lookup LOOKUP_CV12;\012";
 },
 {
 name = "Replace Feature";
-value = "cv13;cvParameters { FeatUILabelNameID { \012	name \"Normal legibility one\";\012    name 3 1 0x409 \"Normal legibility one\";\012    name 3 1 0x412 \"Normal legibility one\";\012    name 1 0 0 \"Normal legibility one\";\012    name 1 3 0x23 \"Normal legibility one\";\012}; };\012\012lookup LOOKUP_CV13;\012";
+value = "cv13;cvParameters { FeatUILabelNameID { \012	name \"Normal legibility one\";\012}; };\012\012lookup LOOKUP_CV13;\012";
 },
 {
 name = "Remove Glyphs";
@@ -8818,31 +8814,31 @@ zero.tag.medium
 },
 {
 name = "Replace Feature";
-value = "ss10;featureNames {\012    name \"Medium symbols\";\012    name 3 1 0x409 \"Medium symbols\";\012    name 3 1 0x412 \"Medium symbols\";\012    name 1 0 0 \"Medium symbols\";\012    name 1 3 0x23 \"Medium symbols\";\012};\012\012sub @Symbol_Small by @Symbol_Medium;\012sub @Symbol_Fill_Small by @Symbol_Fill_Medium;\012sub @Symbol_Large by @Symbol_Medium;\012sub @Symbol_Fill_Large by @Symbol_Fill_Medium;\012";
+value = "ss10;featureNames {\012    name \"Medium symbols\";\012};\012\012sub @Symbol_Small by @Symbol_Medium;\012sub @Symbol_Fill_Small by @Symbol_Fill_Medium;\012sub @Symbol_Large by @Symbol_Medium;\012sub @Symbol_Fill_Large by @Symbol_Fill_Medium;\012";
 },
 {
 name = "Replace Feature";
-value = "ss11;featureNames {\012    name \"Outlined symbols\";\012    name 3 1 0x409 \"Outlined symbols\";\012    name 3 1 0x412 \"Outlined symbols\";\012    name 1 0 0 \"Outlined symbols\";\012    name 1 3 0x23 \"Outlined symbols\";\012};\012\012sub @Circled_Fill by @Circled;\012sub @Squared_Fill by @Squared;\012sub @Symbol_Fill_Small by @Symbol_Small;\012sub @Symbol_Fill_Medium by @Symbol_Medium;\012sub @Symbol_Fill_Large by @Symbol_Large;\012";
+value = "ss11;featureNames {\012    name \"Outlined symbols\";\012};\012\012sub @Circled_Fill by @Circled;\012sub @Squared_Fill by @Squared;\012sub @Symbol_Fill_Small by @Symbol_Small;\012sub @Symbol_Fill_Medium by @Symbol_Medium;\012sub @Symbol_Fill_Large by @Symbol_Large;\012";
 },
 {
 name = "Replace Feature";
-value = "ss12;featureNames {\012    name \"Circle symbols\";\012    name 3 1 0x409 \"Circle symbols\";\012    name 3 1 0x412 \"Circle symbols\";\012    name 1 0 0 \"Circle symbols\";\012    name 1 3 0x23 \"Circle symbols\";\012};\012\012sub @Squared by @Circled;\012sub @Squared_Fill by @Circled_Fill;\012";
+value = "ss12;featureNames {\012    name \"Circle symbols\";\012};\012\012sub @Squared by @Circled;\012sub @Squared_Fill by @Circled_Fill;\012";
 },
 {
 name = "Replace Feature";
-value = "ss13;featureNames {\012    name \"Square symbols\";\012    name 3 1 0x409 \"Square symbols\";\012    name 3 1 0x412 \"Square symbols\";\012    name 1 0 0 \"Square symbols\";\012    name 1 3 0x23 \"Square symbols\";\012};\012\012sub @Circled by @Squared;\012sub @Circled_Fill by @Squared_Fill;\012";
+value = "ss13;featureNames {\012    name \"Square symbols\";\012};\012\012sub @Circled by @Squared;\012sub @Circled_Fill by @Squared_Fill;\012";
 },
 {
 name = "Replace Feature";
-value = "ss14;featureNames {\012    name \"Filled symbols\";\012    name 3 1 0x409 \"Filled symbols\";\012    name 3 1 0x412 \"Filled symbols\";\012    name 1 0 0 \"Filled symbols\";\012    name 1 3 0x23 \"Filled symbols\";\012};\012\012sub @Circled by @Circled_Fill;\012sub @Squared by @Squared_Fill;\012sub @Symbol_Small by @Symbol_Fill_Small;\012sub @Symbol_Medium by @Symbol_Fill_Medium;\012sub @Symbol_Large by @Symbol_Fill_Large;\012";
+value = "ss14;featureNames {\012    name \"Filled symbols\";\012};\012\012sub @Circled by @Circled_Fill;\012sub @Squared by @Squared_Fill;\012sub @Symbol_Small by @Symbol_Fill_Small;\012sub @Symbol_Medium by @Symbol_Fill_Medium;\012sub @Symbol_Large by @Symbol_Fill_Large;\012";
 },
 {
 name = "Replace Feature";
-value = "ss15;featureNames {\012    name \"Small symbols\";\012    name 3 1 0x409 \"Small symbols\";\012    name 3 1 0x412 \"Small symbols\";\012    name 1 0 0 \"Small symbols\";\012    name 1 3 0x23 \"Small symbols\";\012};\012\012sub @Symbol_Medium by @Symbol_Small;\012sub @Symbol_Fill_Medium by @Symbol_Fill_Small;\012sub @Symbol_Large by @Symbol_Small;\012sub @Symbol_Fill_Large by @Symbol_Fill_Small;\012";
+value = "ss15;featureNames {\012    name \"Small symbols\";\012};\012\012sub @Symbol_Medium by @Symbol_Small;\012sub @Symbol_Fill_Medium by @Symbol_Fill_Small;\012sub @Symbol_Large by @Symbol_Small;\012sub @Symbol_Fill_Large by @Symbol_Fill_Small;\012";
 },
 {
 name = "Replace Feature";
-value = "ss16;featureNames {\012    name \"Large symbols\";\012    name 3 1 0x409 \"Large symbols\";\012    name 3 1 0x412 \"Large symbols\";\012    name 1 0 0 \"Large symbols\";\012    name 1 3 0x23 \"Large symbols\";\012};\012\012sub @Symbol_Small by @Symbol_Large;\012sub @Symbol_Medium by @Symbol_Large;\012sub @Symbol_Fill_Small by @Symbol_Fill_Large;\012sub @Symbol_Fill_Medium by @Symbol_Fill_Large;\012";
+value = "ss16;featureNames {\012    name \"Large symbols\";\012};\012\012sub @Symbol_Small by @Symbol_Large;\012sub @Symbol_Medium by @Symbol_Large;\012sub @Symbol_Fill_Small by @Symbol_Fill_Large;\012sub @Symbol_Fill_Medium by @Symbol_Fill_Large;\012";
 },
 {
 name = "Replace Class";
@@ -9570,31 +9566,31 @@ value = "salt;lookup LOOKUP_SALT_1_GOV;\012lookup LOOKUP_SALT_2;\012";
 },
 {
 name = "Replace Feature";
-value = "ss03;featureNames {\012    name \"Vertically centered colon\";\012    name 3 1 0x409 \"Vertically centered colon\";\012    name 3 1 0x412 \"Vertically centered colon\";\012    name 1 0 0 \"Vertically centered colon\";\012    name 1 3 0x23 \"Vertically centered colon\";\012};\012\012lookup LOOKUP_SS03_GOV;\012";
+value = "ss03;featureNames {\012    name \"Vertically centered colon\";\012};\012\012lookup LOOKUP_SS03_GOV;\012";
 },
 {
 name = "Replace Feature";
-value = "ss01;featureNames {\012    name \"Circular six and nine\";\012    name 3 1 0x409 \"Circular six and nine\";\012    name 3 1 0x412 \"Circular six and nine\";\012    name 1 0 0 \"Circular six and nine\";\012    name 1 3 0x23 \"Circular six and nine\";\012};\012\012lookup LOOKUP_SS01_GOV;\012";
+value = "ss01;featureNames {\012    name \"Circular six and nine\";\012};\012\012lookup LOOKUP_SS01_GOV;\012";
 },
 {
 name = "Replace Feature";
-value = "ss02;featureNames {\012    name \"Closed four\";\012    name 3 1 0x409 \"Closed four\";\012    name 3 1 0x412 \"Closed four\";\012    name 1 0 0 \"Closed four\";\012    name 1 3 0x23 \"Closed four\";\012};\012\012lookup LOOKUP_SS02_GOV;\012";
+value = "ss02;featureNames {\012    name \"Closed four\";\012};\012\012lookup LOOKUP_SS02_GOV;\012";
 },
 {
 name = "Replace Feature";
-value = "ss05;featureNames {\012    name \"Global localization\";\012    name 3 1 0x409 \"Global localization\";\012    name 3 1 0x412 \"Global localization\";\012    name 1 0 0 \"Global localization\";\012    name 1 3 0x23 \"Global localization\";\012};\012\012lookup LOOKUP_SS05_GOV;\012";
+value = "ss05;featureNames {\012    name \"Global localization\";\012};\012\012lookup LOOKUP_SS05_GOV;\012";
 },
 {
 name = "Replace Feature";
-value = "ss06;featureNames {\012    name \"Normal legibility\";\012    name 3 1 0x409 \"Normal legibility\";\012    name 3 1 0x412 \"Normal legibility\";\012    name 1 0 0 \"Normal legibility\";\012    name 1 3 0x23 \"Normal legibility\";\012};\012\012lookup LOOKUP_SS06_1_GOV;\012lookup LOOKUP_SS06_2;\012lookup LOOKUP_SS06_GOV;\012";
+value = "ss06;featureNames {\012    name \"Normal legibility\";\012};\012\012lookup LOOKUP_SS06_1_GOV;\012lookup LOOKUP_SS06_2;\012lookup LOOKUP_SS06_GOV;\012";
 },
 {
 name = "Replace Feature";
-value = "ss08;featureNames {\012    name \"Circular three\";\012    name 3 1 0x409 \"Circular three\";\012    name 3 1 0x412 \"Circular three\";\012    name 1 0 0 \"Circular three\";\012    name 1 3 0x23 \"Circular three\";\012};\012\012lookup LOOKUP_SS08_GOV;\012";
+value = "ss08;featureNames {\012    name \"Circular three\";\012};\012\012lookup LOOKUP_SS08_GOV;\012";
 },
 {
 name = "Replace Feature";
-value = "ss20;featureNames {\012    name \"Original forms\";\012    name 3 1 0x409 \"Original forms\";\012    name 3 1 0x412 \"Original forms\";\012    name 1 0 0 \"Original forms\";\012    name 1 3 0x23 \"Original forms\";\012};\012\012lookup LOOKUP_SS20_1_GOV;\012lookup LOOKUP_SS20_2;\012lookup LOOKUP_SS20_3_GOV;\012lookup LOOKUP_SS20_4_GOV;\012lookup LOOKUP_SS20_5;\012";
+value = "ss20;featureNames {\012    name \"Original forms\";\012};\012\012lookup LOOKUP_SS20_1_GOV;\012lookup LOOKUP_SS20_2;\012lookup LOOKUP_SS20_3_GOV;\012lookup LOOKUP_SS20_4_GOV;\012lookup LOOKUP_SS20_5;\012";
 },
 {
 name = "Replace Feature";
@@ -9617,35 +9613,35 @@ tnum
 },
 {
 name = "Replace Feature";
-value = "cv02;cvParameters { FeatUILabelNameID { \012	name \"Closed four\";\012    name 3 1 0x409 \"Closed four\";\012    name 3 1 0x412 \"Closed four\";\012    name 1 0 0 \"Closed four\";\012    name 1 3 0x23 \"Closed four\";\012}; };\012\012lookup LOOKUP_CV02;\012";
+value = "cv02;cvParameters { FeatUILabelNameID { \012	name \"Closed four\";\012}; };\012\012lookup LOOKUP_CV02;\012";
 },
 {
 name = "Replace Feature";
-value = "cv03;cvParameters { FeatUILabelNameID { \012	name \"Closed six\";\012    name 3 1 0x409 \"Closed six\";\012    name 3 1 0x412 \"Closed six\";\012    name 1 0 0 \"Closed six\";\012    name 1 3 0x23 \"Closed six\";\012}; };\012\012lookup LOOKUP_CV03;\012";
+value = "cv03;cvParameters { FeatUILabelNameID { \012	name \"Closed six\";\012}; };\012\012lookup LOOKUP_CV03;\012";
 },
 {
 name = "Replace Feature";
-value = "cv04;cvParameters { FeatUILabelNameID { \012	name \"Closed nine\";\012    name 3 1 0x409 \"Closed nine\";\012    name 3 1 0x412 \"Closed nine\";\012    name 1 0 0 \"Closed nine\";\012    name 1 3 0x23 \"Closed nine\";\012}; };\012\012lookup LOOKUP_CV04;\012";
+value = "cv04;cvParameters { FeatUILabelNameID { \012	name \"Closed nine\";\012}; };\012\012lookup LOOKUP_CV04;\012";
 },
 {
 name = "Replace Feature";
-value = "cv05;cvParameters { FeatUILabelNameID { \012	name \"Lower-case L without tail\";\012    name 3 1 0x409 \"Lower-case L without tail\";\012    name 3 1 0x412 \"Lower-case L without tail\";\012    name 1 0 0 \"Lower-case L without tail\";\012    name 1 3 0x23 \"Lower-case L without tail\";\012}; };\012\012lookup LOOKUP_CV05;\012";
+value = "cv05;cvParameters { FeatUILabelNameID { \012	name \"Lower-case L without tail\";\012}; };\012\012lookup LOOKUP_CV05;\012";
 },
 {
 name = "Replace Feature";
-value = "cv08;cvParameters { FeatUILabelNameID { \012	name \"Upper-case i without serif\";\012    name 3 1 0x409 \"Upper-case i without serif\";\012    name 3 1 0x412 \"Upper-case i without serif\";\012    name 1 0 0 \"Upper-case i without serif\";\012    name 1 3 0x23 \"Upper-case i without serif\";\012}; };\012\012lookup LOOKUP_CV08;\012";
+value = "cv08;cvParameters { FeatUILabelNameID { \012	name \"Upper-case i without serif\";\012}; };\012\012lookup LOOKUP_CV08;\012";
 },
 {
 name = "Replace Feature";
-value = "cv09;cvParameters { FeatUILabelNameID { \012	name \"Circular three\";\012    name 3 1 0x409 \"Circular three\";\012    name 3 1 0x412 \"Circular three\";\012    name 1 0 0 \"Circular three\";\012    name 1 3 0x23 \"Circular three\";\012}; };\012\012lookup LOOKUP_CV09;\012";
+value = "cv09;cvParameters { FeatUILabelNameID { \012	name \"Circular three\";\012}; };\012\012lookup LOOKUP_CV09;\012";
 },
 {
 name = "Replace Feature";
-value = "cv12;cvParameters { FeatUILabelNameID { \012	name \"Baseline aligned ellipsis\";\012    name 3 1 0x409 \"Baseline aligned ellipsis\";\012    name 3 1 0x412 \"Baseline aligned ellipsis\";\012    name 1 0 0 \"Baseline aligned ellipsis\";\012    name 1 3 0x23 \"Baseline aligned ellipsis\";\012}; };\012\012lookup LOOKUP_CV12;\012";
+value = "cv12;cvParameters { FeatUILabelNameID { \012	name \"Baseline aligned ellipsis\";\012}; };\012\012lookup LOOKUP_CV12;\012";
 },
 {
 name = "Replace Feature";
-value = "cv13;cvParameters { FeatUILabelNameID { \012	name \"Normal legibility one\";\012    name 3 1 0x409 \"Normal legibility one\";\012    name 3 1 0x412 \"Normal legibility one\";\012    name 1 0 0 \"Normal legibility one\";\012    name 1 3 0x23 \"Normal legibility one\";\012}; };\012\012lookup LOOKUP_CV13;\012";
+value = "cv13;cvParameters { FeatUILabelNameID { \012	name \"Normal legibility one\";\012}; };\012\012lookup LOOKUP_CV13;\012";
 },
 {
 name = "Remove Glyphs";
@@ -10000,31 +9996,31 @@ zero.tag.medium
 },
 {
 name = "Replace Feature";
-value = "ss10;featureNames {\012    name \"Medium symbols\";\012    name 3 1 0x409 \"Medium symbols\";\012    name 3 1 0x412 \"Medium symbols\";\012    name 1 0 0 \"Medium symbols\";\012    name 1 3 0x23 \"Medium symbols\";\012};\012\012sub @Symbol_Small by @Symbol_Medium;\012sub @Symbol_Fill_Small by @Symbol_Fill_Medium;\012sub @Symbol_Large by @Symbol_Medium;\012sub @Symbol_Fill_Large by @Symbol_Fill_Medium;\012";
+value = "ss10;featureNames {\012    name \"Medium symbols\";\012};\012\012sub @Symbol_Small by @Symbol_Medium;\012sub @Symbol_Fill_Small by @Symbol_Fill_Medium;\012sub @Symbol_Large by @Symbol_Medium;\012sub @Symbol_Fill_Large by @Symbol_Fill_Medium;\012";
 },
 {
 name = "Replace Feature";
-value = "ss11;featureNames {\012    name \"Outlined symbols\";\012    name 3 1 0x409 \"Outlined symbols\";\012    name 3 1 0x412 \"Outlined symbols\";\012    name 1 0 0 \"Outlined symbols\";\012    name 1 3 0x23 \"Outlined symbols\";\012};\012\012sub @Circled_Fill by @Circled;\012sub @Squared_Fill by @Squared;\012sub @Symbol_Fill_Small by @Symbol_Small;\012sub @Symbol_Fill_Medium by @Symbol_Medium;\012sub @Symbol_Fill_Large by @Symbol_Large;\012";
+value = "ss11;featureNames {\012    name \"Outlined symbols\";\012};\012\012sub @Circled_Fill by @Circled;\012sub @Squared_Fill by @Squared;\012sub @Symbol_Fill_Small by @Symbol_Small;\012sub @Symbol_Fill_Medium by @Symbol_Medium;\012sub @Symbol_Fill_Large by @Symbol_Large;\012";
 },
 {
 name = "Replace Feature";
-value = "ss12;featureNames {\012    name \"Circle symbols\";\012    name 3 1 0x409 \"Circle symbols\";\012    name 3 1 0x412 \"Circle symbols\";\012    name 1 0 0 \"Circle symbols\";\012    name 1 3 0x23 \"Circle symbols\";\012};\012\012sub @Squared by @Circled;\012sub @Squared_Fill by @Circled_Fill;\012";
+value = "ss12;featureNames {\012    name \"Circle symbols\";\012};\012\012sub @Squared by @Circled;\012sub @Squared_Fill by @Circled_Fill;\012";
 },
 {
 name = "Replace Feature";
-value = "ss13;featureNames {\012    name \"Square symbols\";\012    name 3 1 0x409 \"Square symbols\";\012    name 3 1 0x412 \"Square symbols\";\012    name 1 0 0 \"Square symbols\";\012    name 1 3 0x23 \"Square symbols\";\012};\012\012sub @Circled by @Squared;\012sub @Circled_Fill by @Squared_Fill;\012";
+value = "ss13;featureNames {\012    name \"Square symbols\";\012};\012\012sub @Circled by @Squared;\012sub @Circled_Fill by @Squared_Fill;\012";
 },
 {
 name = "Replace Feature";
-value = "ss14;featureNames {\012    name \"Filled symbols\";\012    name 3 1 0x409 \"Filled symbols\";\012    name 3 1 0x412 \"Filled symbols\";\012    name 1 0 0 \"Filled symbols\";\012    name 1 3 0x23 \"Filled symbols\";\012};\012\012sub @Circled by @Circled_Fill;\012sub @Squared by @Squared_Fill;\012sub @Symbol_Small by @Symbol_Fill_Small;\012sub @Symbol_Medium by @Symbol_Fill_Medium;\012sub @Symbol_Large by @Symbol_Fill_Large;\012";
+value = "ss14;featureNames {\012    name \"Filled symbols\";\012};\012\012sub @Circled by @Circled_Fill;\012sub @Squared by @Squared_Fill;\012sub @Symbol_Small by @Symbol_Fill_Small;\012sub @Symbol_Medium by @Symbol_Fill_Medium;\012sub @Symbol_Large by @Symbol_Fill_Large;\012";
 },
 {
 name = "Replace Feature";
-value = "ss15;featureNames {\012    name \"Small symbols\";\012    name 3 1 0x409 \"Small symbols\";\012    name 3 1 0x412 \"Small symbols\";\012    name 1 0 0 \"Small symbols\";\012    name 1 3 0x23 \"Small symbols\";\012};\012\012sub @Symbol_Medium by @Symbol_Small;\012sub @Symbol_Fill_Medium by @Symbol_Fill_Small;\012sub @Symbol_Large by @Symbol_Small;\012sub @Symbol_Fill_Large by @Symbol_Fill_Small;\012";
+value = "ss15;featureNames {\012    name \"Small symbols\";\012};\012\012sub @Symbol_Medium by @Symbol_Small;\012sub @Symbol_Fill_Medium by @Symbol_Fill_Small;\012sub @Symbol_Large by @Symbol_Small;\012sub @Symbol_Fill_Large by @Symbol_Fill_Small;\012";
 },
 {
 name = "Replace Feature";
-value = "ss16;featureNames {\012    name \"Large symbols\";\012    name 3 1 0x409 \"Large symbols\";\012    name 3 1 0x412 \"Large symbols\";\012    name 1 0 0 \"Large symbols\";\012    name 1 3 0x23 \"Large symbols\";\012};\012\012sub @Symbol_Small by @Symbol_Large;\012sub @Symbol_Medium by @Symbol_Large;\012sub @Symbol_Fill_Small by @Symbol_Fill_Large;\012sub @Symbol_Fill_Medium by @Symbol_Fill_Large;\012";
+value = "ss16;featureNames {\012    name \"Large symbols\";\012};\012\012sub @Symbol_Small by @Symbol_Large;\012sub @Symbol_Medium by @Symbol_Large;\012sub @Symbol_Fill_Small by @Symbol_Fill_Large;\012sub @Symbol_Fill_Medium by @Symbol_Fill_Large;\012";
 },
 {
 name = "Replace Class";

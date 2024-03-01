@@ -1156,7 +1156,7 @@ value = "locl;lookup locl_latn_0 {\012	script latn;\012	language ROM;\012	sub Sc
 },
 {
 name = "Replace Feature";
-value = "ss05;featureNames {\012    name \"Korean localization\";\012    name 3 1 0x409 \"Korean localization\";\012    name 3 1 0x412 \"Korean localization\";\012    name 1 0 0 \"Korean localization\";\012    name 1 3 0x23 \"Korean localization\";\012};\012\012@NULL_SS05 = [];\012ignore sub @NULL_SS05';\012\012lookup LOOKUP_SS05_1;\012lookup LOOKUP_SS05_2;\012\012# Replace LOOKUP_SS05_HAN\012lookup LOOKUP_SS05_JP;\012";
+value = "ss05;featureNames {\012    name \"Korean localization\";\012};\012\012@NULL_SS05 = [];\012ignore sub @NULL_SS05';\012\012lookup LOOKUP_SS05_1;\012lookup LOOKUP_SS05_2;\012\012# Replace LOOKUP_SS05_HAN\012lookup LOOKUP_SS05_JP;\012";
 },
 {
 name = "Replace Prefix";
@@ -1817,7 +1817,7 @@ value = "locl;lookup locl_latn_0 {\012	script latn;\012	language ROM;\012	sub Sc
 },
 {
 name = "Replace Feature";
-value = "ss05;featureNames {\012    name \"Korean localization\";\012    name 3 1 0x409 \"Korean localization\";\012    name 3 1 0x412 \"Korean localization\";\012    name 1 0 0 \"Korean localization\";\012    name 1 3 0x23 \"Korean localization\";\012};\012\012@NULL_SS05 = [];\012ignore sub @NULL_SS05';\012\012lookup LOOKUP_SS05_1;\012lookup LOOKUP_SS05_2;\012\012# Replace LOOKUP_SS05_HAN\012lookup LOOKUP_SS05_JP;\012";
+value = "ss05;featureNames {\012    name \"Korean localization\";\012};\012\012@NULL_SS05 = [];\012ignore sub @NULL_SS05';\012\012lookup LOOKUP_SS05_1;\012lookup LOOKUP_SS05_2;\012\012# Replace LOOKUP_SS05_HAN\012lookup LOOKUP_SS05_JP;\012";
 },
 {
 name = "Replace Prefix";
@@ -2478,7 +2478,7 @@ value = "locl;lookup locl_latn_0 {\012	script latn;\012	language ROM;\012	sub Sc
 },
 {
 name = "Replace Feature";
-value = "ss05;featureNames {\012    name \"Korean localization\";\012    name 3 1 0x409 \"Korean localization\";\012    name 3 1 0x412 \"Korean localization\";\012    name 1 0 0 \"Korean localization\";\012    name 1 3 0x23 \"Korean localization\";\012};\012\012@NULL_SS05 = [];\012ignore sub @NULL_SS05';\012\012lookup LOOKUP_SS05_1;\012lookup LOOKUP_SS05_2;\012\012# Replace LOOKUP_SS05_HAN\012lookup LOOKUP_SS05_JP;\012";
+value = "ss05;featureNames {\012    name \"Korean localization\";\012};\012\012@NULL_SS05 = [];\012ignore sub @NULL_SS05';\012\012lookup LOOKUP_SS05_1;\012lookup LOOKUP_SS05_2;\012\012# Replace LOOKUP_SS05_HAN\012lookup LOOKUP_SS05_JP;\012";
 },
 {
 name = "Replace Prefix";
@@ -3139,7 +3139,7 @@ value = "locl;lookup locl_latn_0 {\012	script latn;\012	language ROM;\012	sub Sc
 },
 {
 name = "Replace Feature";
-value = "ss05;featureNames {\012    name \"Korean localization\";\012    name 3 1 0x409 \"Korean localization\";\012    name 3 1 0x412 \"Korean localization\";\012    name 1 0 0 \"Korean localization\";\012    name 1 3 0x23 \"Korean localization\";\012};\012\012@NULL_SS05 = [];\012ignore sub @NULL_SS05';\012\012lookup LOOKUP_SS05_1;\012lookup LOOKUP_SS05_2;\012\012# Replace LOOKUP_SS05_HAN\012lookup LOOKUP_SS05_JP;\012";
+value = "ss05;featureNames {\012    name \"Korean localization\";\012};\012\012@NULL_SS05 = [];\012ignore sub @NULL_SS05';\012\012lookup LOOKUP_SS05_1;\012lookup LOOKUP_SS05_2;\012\012# Replace LOOKUP_SS05_HAN\012lookup LOOKUP_SS05_JP;\012";
 },
 {
 name = "Replace Prefix";
@@ -3798,7 +3798,7 @@ value = "locl;lookup locl_latn_0 {\012	script latn;\012	language ROM;\012	sub Sc
 },
 {
 name = "Replace Feature";
-value = "ss05;featureNames {\012    name \"Korean localization\";\012    name 3 1 0x409 \"Korean localization\";\012    name 3 1 0x412 \"Korean localization\";\012    name 1 0 0 \"Korean localization\";\012    name 1 3 0x23 \"Korean localization\";\012};\012\012@NULL_SS05 = [];\012ignore sub @NULL_SS05';\012\012lookup LOOKUP_SS05_1;\012lookup LOOKUP_SS05_2;\012\012# Replace LOOKUP_SS05_HAN\012lookup LOOKUP_SS05_JP;\012";
+value = "ss05;featureNames {\012    name \"Korean localization\";\012};\012\012@NULL_SS05 = [];\012ignore sub @NULL_SS05';\012\012lookup LOOKUP_SS05_1;\012lookup LOOKUP_SS05_2;\012\012# Replace LOOKUP_SS05_HAN\012lookup LOOKUP_SS05_JP;\012";
 },
 {
 name = "Replace Prefix";
@@ -4459,7 +4459,7 @@ value = "locl;lookup locl_latn_0 {\012	script latn;\012	language ROM;\012	sub Sc
 },
 {
 name = "Replace Feature";
-value = "ss05;featureNames {\012    name \"Korean localization\";\012    name 3 1 0x409 \"Korean localization\";\012    name 3 1 0x412 \"Korean localization\";\012    name 1 0 0 \"Korean localization\";\012    name 1 3 0x23 \"Korean localization\";\012};\012\012@NULL_SS05 = [];\012ignore sub @NULL_SS05';\012\012lookup LOOKUP_SS05_1;\012lookup LOOKUP_SS05_2;\012\012# Replace LOOKUP_SS05_HAN\012lookup LOOKUP_SS05_JP;\012";
+value = "ss05;featureNames {\012    name \"Korean localization\";\012};\012\012@NULL_SS05 = [];\012ignore sub @NULL_SS05';\012\012lookup LOOKUP_SS05_1;\012lookup LOOKUP_SS05_2;\012\012# Replace LOOKUP_SS05_HAN\012lookup LOOKUP_SS05_JP;\012";
 },
 {
 name = "Replace Prefix";
@@ -5120,7 +5120,7 @@ value = "locl;lookup locl_latn_0 {\012	script latn;\012	language ROM;\012	sub Sc
 },
 {
 name = "Replace Feature";
-value = "ss05;featureNames {\012    name \"Korean localization\";\012    name 3 1 0x409 \"Korean localization\";\012    name 3 1 0x412 \"Korean localization\";\012    name 1 0 0 \"Korean localization\";\012    name 1 3 0x23 \"Korean localization\";\012};\012\012@NULL_SS05 = [];\012ignore sub @NULL_SS05';\012\012lookup LOOKUP_SS05_1;\012lookup LOOKUP_SS05_2;\012\012# Replace LOOKUP_SS05_HAN\012lookup LOOKUP_SS05_JP;\012";
+value = "ss05;featureNames {\012    name \"Korean localization\";\012};\012\012@NULL_SS05 = [];\012ignore sub @NULL_SS05';\012\012lookup LOOKUP_SS05_1;\012lookup LOOKUP_SS05_2;\012\012# Replace LOOKUP_SS05_HAN\012lookup LOOKUP_SS05_JP;\012";
 },
 {
 name = "Replace Prefix";
@@ -5782,7 +5782,7 @@ value = "locl;lookup locl_latn_0 {\012	script latn;\012	language ROM;\012	sub Sc
 },
 {
 name = "Replace Feature";
-value = "ss05;featureNames {\012    name \"Korean localization\";\012    name 3 1 0x409 \"Korean localization\";\012    name 3 1 0x412 \"Korean localization\";\012    name 1 0 0 \"Korean localization\";\012    name 1 3 0x23 \"Korean localization\";\012};\012\012@NULL_SS05 = [];\012ignore sub @NULL_SS05';\012\012lookup LOOKUP_SS05_1;\012lookup LOOKUP_SS05_2;\012\012# Replace LOOKUP_SS05_HAN\012lookup LOOKUP_SS05_JP;\012";
+value = "ss05;featureNames {\012    name \"Korean localization\";\012};\012\012@NULL_SS05 = [];\012ignore sub @NULL_SS05';\012\012lookup LOOKUP_SS05_1;\012lookup LOOKUP_SS05_2;\012\012# Replace LOOKUP_SS05_HAN\012lookup LOOKUP_SS05_JP;\012";
 },
 {
 name = "Replace Prefix";
@@ -6443,7 +6443,7 @@ value = "locl;lookup locl_latn_0 {\012	script latn;\012	language ROM;\012	sub Sc
 },
 {
 name = "Replace Feature";
-value = "ss05;featureNames {\012    name \"Korean localization\";\012    name 3 1 0x409 \"Korean localization\";\012    name 3 1 0x412 \"Korean localization\";\012    name 1 0 0 \"Korean localization\";\012    name 1 3 0x23 \"Korean localization\";\012};\012\012@NULL_SS05 = [];\012ignore sub @NULL_SS05';\012\012lookup LOOKUP_SS05_1;\012lookup LOOKUP_SS05_2;\012\012# Replace LOOKUP_SS05_HAN\012lookup LOOKUP_SS05_JP;\012";
+value = "ss05;featureNames {\012    name \"Korean localization\";\012};\012\012@NULL_SS05 = [];\012ignore sub @NULL_SS05';\012\012lookup LOOKUP_SS05_1;\012lookup LOOKUP_SS05_2;\012\012# Replace LOOKUP_SS05_HAN\012lookup LOOKUP_SS05_JP;\012";
 },
 {
 name = "Replace Prefix";
@@ -7101,7 +7101,7 @@ value = "locl;lookup locl_latn_0 {\012	script latn;\012	language ROM;\012	sub Sc
 },
 {
 name = "Replace Feature";
-value = "ss05;featureNames {\012    name \"Korean localization\";\012    name 3 1 0x409 \"Korean localization\";\012    name 3 1 0x412 \"Korean localization\";\012    name 1 0 0 \"Korean localization\";\012    name 1 3 0x23 \"Korean localization\";\012};\012\012@NULL_SS05 = [];\012ignore sub @NULL_SS05';\012\012lookup LOOKUP_SS05_1;\012lookup LOOKUP_SS05_2;\012\012# Replace LOOKUP_SS05_HAN\012lookup LOOKUP_SS05_JP;\012";
+value = "ss05;featureNames {\012    name \"Korean localization\";\012};\012\012@NULL_SS05 = [];\012ignore sub @NULL_SS05';\012\012lookup LOOKUP_SS05_1;\012lookup LOOKUP_SS05_2;\012\012# Replace LOOKUP_SS05_HAN\012lookup LOOKUP_SS05_JP;\012";
 },
 {
 name = "Replace Prefix";

@@ -3010,58 +3010,42 @@ tag = ss16;
 code = "cvParameters { 
 	FeatUILabelNameID { 
 	name \"Alternate one\";
-    name 3 1 0x409 \"Alternate one\";
-    name 3 1 0x412 \"Alternate one\";
-    name 1 0 0 \"Alternate one\";
-    name 1 3 0x23 \"Alternate one\";
 }; };
 sub one by one.ss01;
-sub one.tf by one.tf.ss01;";
+sub one.tf by one.tf.ss01;
+";
 tag = cv01;
 },
 {
 code = "cvParameters { FeatUILabelNameID { 
 	name \"Open four\";
-    name 3 1 0x409 \"Open four\";
-    name 3 1 0x412 \"Open four\";
-    name 1 0 0 \"Open four\";
-    name 1 3 0x23 \"Open four\";
 }; };
 sub four by four.ss01;
-sub four.tf by four.tf.ss01;";
+sub four.tf by four.tf.ss01;
+";
 tag = cv02;
 },
 {
 code = "cvParameters { FeatUILabelNameID { 
 	name \"Open six\";
-    name 3 1 0x409 \"Open six\";
-    name 3 1 0x412 \"Open six\";
-    name 1 0 0 \"Open six\";
-    name 1 3 0x23 \"Open six\";
 }; };
 sub six by six.ss01;
-sub six.tf by six.tf.ss01;";
+sub six.tf by six.tf.ss01;
+";
 tag = cv03;
 },
 {
 code = "cvParameters { FeatUILabelNameID { 
 	name \"Open nine\";
-    name 3 1 0x409 \"Open nine\";
-    name 3 1 0x412 \"Open nine\";
-    name 1 0 0 \"Open nine\";
-    name 1 3 0x23 \"Open nine\";
 }; };
 sub nine by nine.ss01;
-sub nine.tf by nine.tf.ss01;";
+sub nine.tf by nine.tf.ss01;
+";
 tag = cv04;
 },
 {
 code = "cvParameters { FeatUILabelNameID { 
 	name \"Lower-case L with tail\";
-    name 3 1 0x409 \"Lower-case L with tail\";
-    name 3 1 0x412 \"Lower-case L with tail\";
-    name 1 0 0 \"Lower-case L with tail\";
-    name 1 3 0x23 \"Lower-case L with tail\";
 }; };
 sub l by l.ss02;
 sub lslash by lslash.ss02;
@@ -3082,10 +3066,6 @@ tag = cv05;
 {
 code = "cvParameters { FeatUILabelNameID { 
 	name \"Alternate German double s\";
-    name 3 1 0x409 \"Alternate German double s\";
-    name 3 1 0x412 \"Alternate German double s\";
-    name 1 0 0 \"Alternate German double s\";
-    name 1 3 0x23 \"Alternate German double s\";
 }; };
 sub germandbls by germandbls.1;
 ";
@@ -3094,10 +3074,6 @@ tag = cv07;
 {
 code = "cvParameters { FeatUILabelNameID { 
 	name \"Upper-case i with serif\";
-    name 3 1 0x409 \"Upper-case i with serif\";
-    name 3 1 0x412 \"Upper-case i with serif\";
-    name 1 0 0 \"Upper-case i with serif\";
-    name 1 3 0x23 \"Upper-case i with serif\";
 }; };
 sub I by I.1;
 sub Idieresis by Idieresis.1;
@@ -3142,28 +3118,22 @@ sub romanseven by romanseven.1;
 sub romansix by romansix.1;
 sub romanthree by romanthree.1;
 sub romantwelve by romantwelve.1;
-sub romantwo by romantwo.1;";
+sub romantwo by romantwo.1;
+";
 tag = cv08;
 },
 {
 code = "cvParameters { FeatUILabelNameID { 
 	name \"Flat-top three\";
-    name 3 1 0x409 \"Flat-top three\";
-    name 3 1 0x412 \"Flat-top three\";
-    name 1 0 0 \"Flat-top three\";
-    name 1 3 0x23 \"Flat-top three\";
 }; };
 sub three by three.1;
-sub three.tf by three.1.tf;";
+sub three.tf by three.1.tf;
+";
 tag = cv09;
 },
 {
 code = "cvParameters { FeatUILabelNameID { 
 	name \"Captital G with spur\";
-    name 3 1 0x409 \"Captital G with spur\";
-    name 3 1 0x412 \"Captital G with spur\";
-    name 1 0 0 \"Captital G with spur\";
-    name 1 3 0x23 \"Captital G with spur\";
 }; };
 sub G by G.1;
 sub Gbar by Gbar.1;
@@ -3181,10 +3151,6 @@ tag = cv10;
 {
 code = "cvParameters { FeatUILabelNameID { 
 	name \"Single-storey a\";
-    name 3 1 0x409 \"Single-storey a\";
-    name 3 1 0x412 \"Single-storey a\";
-    name 1 0 0 \"Single-storey a\";
-    name 1 3 0x23 \"Single-storey a\";
 }; };
 sub a by a.1;
 sub aacute by aacute.1;
@@ -3225,10 +3191,6 @@ tag = cv11;
 code = "cvParameters { 
 	FeatUILabelNameID { 
 	name \"High legibility one\";
-    name 3 1 0x409 \"High legibility one\";
-    name 3 1 0x412 \"High legibility one\";
-    name 1 0 0 \"High legibility one\";
-    name 1 3 0x23 \"High legibility one\";
 }; };
 sub one by one.1;
 sub one.tf by one.1.tf;

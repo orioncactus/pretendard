@@ -1,5 +1,5 @@
 {
-.appVersion = "3208";
+.appVersion = "3227";
 .formatVersion = 3;
 axes = (
 {
@@ -11864,19 +11864,6 @@ key = designerURL;
 value = "https://orioncactus.com/";
 },
 {
-key = manufacturers;
-values = (
-{
-language = dflt;
-value = "Kil Hyung-jin";
-}
-);
-},
-{
-key = manufacturerURL;
-value = "https://orioncactus.com/";
-},
-{
 key = licenses;
 values = (
 {
@@ -11890,8 +11877,17 @@ key = licenseURL;
 value = "http://scripts.sil.org/OFL";
 },
 {
-key = vendorID;
-value = CTUS;
+key = manufacturers;
+values = (
+{
+language = dflt;
+value = "Kil Hyung-jin";
+}
+);
+},
+{
+key = manufacturerURL;
+value = "https://orioncactus.com/";
 },
 {
 key = trademarks;
@@ -11901,6 +11897,10 @@ language = dflt;
 value = "Pretendard is a trademark of Kil Hyung-jin; Inter UI and Inter is a trademark of rsms; Source is a trademark of Adobe in the United States and/or other countries.";
 }
 );
+},
+{
+key = vendorID;
+value = CTUS;
 }
 );
 settings = {

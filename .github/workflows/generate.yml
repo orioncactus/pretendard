@@ -177,7 +177,7 @@ jobs:
         message: "fix: Update example assets"
         branch: main
     - name: Update dist stylesheets
-      run: ./distCSS.sh
+      run: ./scripts/distCSS.sh
     - name: Commit updated dist stylesheets
       uses: ./.github/actions/auto-commit
       with:

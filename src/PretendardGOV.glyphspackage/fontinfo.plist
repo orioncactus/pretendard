@@ -5329,7 +5329,7 @@ name = ROS;
 value = "Adobe-Identity-0";
 }
 );
-date = "2023-11-05 15:00:30 +0000";
+date = "2023-11-05 15:00:00 +0000";
 familyName = "Pretendard GOV";
 featurePrefixes = (
 {

@@ -8153,7 +8153,7 @@ value = 699;
 },
 {
 name = strikeoutPosition;
-value = 922;
+value = 832;
 },
 {
 name = underlineThickness;
@@ -8165,7 +8165,7 @@ value = 64;
 },
 {
 name = underlinePosition;
-value = -480;
+value = -528;
 },
 {
 name = typoLineGap;
@@ -8316,7 +8316,7 @@ value = 699;
 },
 {
 name = strikeoutPosition;
-value = 922;
+value = 884;
 },
 {
 name = underlineThickness;
@@ -8328,7 +8328,7 @@ value = 196;
 },
 {
 name = underlinePosition;
-value = -462;
+value = -416;
 },
 {
 name = typoLineGap;
@@ -8474,7 +8474,7 @@ value = 699;
 },
 {
 name = strikeoutPosition;
-value = 922;
+value = 959;
 },
 {
 name = underlineThickness;
@@ -8486,7 +8486,7 @@ value = 320;
 },
 {
 name = underlinePosition;
-value = -416;
+value = -384;
 },
 {
 name = typoLineGap;

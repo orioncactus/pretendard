@@ -697,6 +697,12 @@ Pretendard에 기여해주셔서 진심으로 감사드립니다.
         <img src="https://github.com/orioncactus/pretendard/assets/67222970/4c3fe365-cc5b-458e-bdaa-37cf8664f328" align="center" height="24" alt="NHN KCP" hspace="16">
       </picture>
   </a>
+  <a href="https://comento.kr" target="_blank">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github.com/orioncactus/pretendard/assets/19399338/24081f5f-ee6e-4e4d-aa35-000eea6c3417">
+        <img src="https://github.com/orioncactus/pretendard/assets/19399338/24081f5f-ee6e-4e4d-aa35-000eea6c3417" align="center" height="24" alt="코멘토" hspace="16">
+      </picture>
+  </a>
 </p>
 
 ## 의견 나누기

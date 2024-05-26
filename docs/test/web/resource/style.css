@@ -119,16 +119,16 @@ section.grid > article {
 
 @keyframes variable-loop {
     0% {
-        font-weight: 400;
+        font-weight: 45;
     }
     45% {
-        font-weight: 1000;
+        font-weight: 930;
     }
     90% {
-        font-weight: 400;
+        font-weight: 45;
     }
     100% {
-        font-weight: 400;
+        font-weight: 45;
     }
 }
 

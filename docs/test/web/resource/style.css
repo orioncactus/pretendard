@@ -1,0 +1,142 @@
+@charset 'UTF-8';
+
+:root {
+    --color-label: black;
+    --color-background: white;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    word-wrap: break-word;
+    word-break: keep-all;
+    text-rendering: optimizeLegibility;
+    -webkit-font-smoothing: antialiased;
+    -webkit-text-size-adjust: none;
+    font-size: normal;
+    line-height: 1.5;
+    color: var(--color-label);
+    background-color: var(--color-background);
+}
+
+html,
+body {
+    height: 100%;
+}
+
+h1,
+h2,
+h3,
+h4 {
+    margin: 0;
+    font-size: inherit;
+    font-weight: inherit;
+}
+
+a {
+    color: inherit;
+}
+
+ul,
+ol {
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+}
+
+p {
+    margin-top: 0;
+}
+p + p {
+    margin-bottom: 2em;
+}
+
+figure {
+    margin: inherit;
+}
+
+img {
+    width: 100%;
+    margin: 0;
+    height: auto;
+    border: none;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+/* custom */
+
+p {
+    font-weight: 400;
+    transition: font-weight 1s;
+}
+
+section.content {
+    display: flex;
+    min-height: 100%;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+}
+
+section.content article {
+    width: 100%;
+    max-width: 40em;
+    margin: 4em 0;
+    font-size: 1.125em;
+    line-height: 1.76;
+}
+
+section.content div {
+    margin: 2rem 1rem;
+}
+
+section.content div.opentype {
+    text-align: center;
+}
+
+section.content div.animation {
+    font-size: 1.5em;
+    animation: variable-loop 2s infinite linear both;
+    text-align: center;
+}
+
+section.content article.variable div.animation {
+    animation-timing-function: ease;
+}
+
+section.grid {
+    display: flex;
+    width: 100%;
+}
+
+section.grid > article {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+@keyframes variable-loop {
+    0% {
+        font-weight: 45;
+    }
+    45% {
+        font-weight: 930;
+    }
+    90% {
+        font-weight: 45;
+    }
+    100% {
+        font-weight: 45;
+    }
+}
+
+/* dark theme */
+
+@media (prefers-color-scheme: dark) {
+    :root {
+        --color-label: #e8e8e8;
+        --color-background: #1e1e1e;
+    }
+}

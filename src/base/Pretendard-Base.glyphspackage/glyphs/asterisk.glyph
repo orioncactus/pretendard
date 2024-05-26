@@ -131,8 +131,8 @@ angle = 30;
 pos = (704,1472);
 },
 {
-orientation = center;
 angle = 90;
+orientation = center;
 pos = (980,1408);
 }
 );
@@ -204,8 +204,8 @@ angle = 30;
 pos = (660,1472);
 },
 {
-orientation = center;
 angle = 90;
+orientation = center;
 pos = (936,1408);
 }
 );
@@ -252,8 +252,8 @@ pos = (832,1472);
 showMeasurement = 1;
 },
 {
-orientation = center;
 angle = 90;
+orientation = center;
 pos = (876,1472);
 },
 {
@@ -352,8 +352,8 @@ pos = (0,1238.875);
 pos = (0,763.125);
 },
 {
-orientation = center;
 angle = 90;
+orientation = center;
 pos = (876,1752);
 },
 {
@@ -432,8 +432,8 @@ pos = (-124,1240);
 pos = (-124,764);
 },
 {
-orientation = center;
 angle = 90;
+orientation = center;
 pos = (752,1752);
 },
 {
@@ -512,8 +512,8 @@ pos = (-124,1240);
 pos = (-124,764);
 },
 {
-orientation = center;
 angle = 90;
+orientation = center;
 pos = (752,1752);
 },
 {
@@ -591,8 +591,8 @@ pos = (-124,1240);
 pos = (-124,764);
 },
 {
-orientation = center;
 angle = 90;
+orientation = center;
 pos = (752,1752);
 },
 {
@@ -675,8 +675,8 @@ angle = 30;
 pos = (660,1472);
 },
 {
-orientation = center;
 angle = 90;
+orientation = center;
 pos = (936,1408);
 }
 );
@@ -743,8 +743,8 @@ angle = 30;
 pos = (660,1472);
 },
 {
-orientation = center;
 angle = 90;
+orientation = center;
 pos = (936,1408);
 }
 );

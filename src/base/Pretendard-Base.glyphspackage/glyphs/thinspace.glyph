@@ -18,7 +18,7 @@ metricWidth = "=space/2";
 width = 312;
 }
 );
-metricWidth = space/2;
+metricWidth = "space/2";
 note = "
 One-fifth (sometimes one-sixth) of an em wide. Recommended for use as a thousands separator for measures made with SI units. Unlike U+2002 to U+2008, its width may get adjusted in typesetting.
 ";

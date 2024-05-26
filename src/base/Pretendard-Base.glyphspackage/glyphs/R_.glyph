@@ -99,8 +99,8 @@ nodes = (
 };
 guides = (
 {
-orientation = center;
 angle = 90;
+orientation = center;
 pos = (880,2112);
 }
 );
@@ -157,8 +157,8 @@ pos = (880,2304);
 associatedMasterId = "C698F293-3EC0-4A5A-A3A0-0FDB1F5CF265";
 guides = (
 {
-orientation = center;
 angle = 90;
+orientation = center;
 pos = (924,2112);
 }
 );
@@ -259,8 +259,8 @@ angle = 90;
 pos = (1296,0);
 },
 {
-orientation = center;
 angle = 90;
+orientation = center;
 pos = (692,220);
 }
 );

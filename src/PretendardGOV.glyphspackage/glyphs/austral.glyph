@@ -12,8 +12,8 @@ ref = A;
 };
 guides = (
 {
-orientation = center;
 angle = 90;
+orientation = center;
 pos = (1092,68);
 }
 );

@@ -48,8 +48,8 @@ guides = (
 pos = (910,1652);
 },
 {
-orientation = center;
 angle = 90;
+orientation = center;
 pos = (-2174,1008);
 },
 {
@@ -87,8 +87,8 @@ guides = (
 pos = (912,1652);
 },
 {
-orientation = center;
 angle = 90;
+orientation = center;
 pos = (528,1008);
 },
 {

@@ -1,5 +1,5 @@
 {
-.appVersion = "3208";
+.appVersion = "3306";
 .formatVersion = 3;
 axes = (
 {
@@ -796,7 +796,7 @@ name = "Disable Subroutines";
 value = 1;
 }
 );
-date = "2023-09-23 15:00:02 +0000";
+date = "2023-09-23 15:00:00 +0000";
 familyName = "Pretendard Base";
 featurePrefixes = (
 {
@@ -3007,62 +3007,50 @@ value = "Large symbols";
 tag = ss16;
 },
 {
-code = "cvParameters { 
-	FeatUILabelNameID { 
+code = "cvParameters { FeatUILabelNameID { 
 	name \"Alternate one\";
-    name 3 1 0x409 \"Alternate one\";
-    name 3 1 0x412 \"Alternate one\";
-    name 1 0 0 \"Alternate one\";
-    name 1 3 0x23 \"Alternate one\";
 }; };
+
 sub one by one.ss01;
-sub one.tf by one.tf.ss01;";
+sub one.tf by one.tf.ss01;
+";
 tag = cv01;
 },
 {
 code = "cvParameters { FeatUILabelNameID { 
 	name \"Open four\";
-    name 3 1 0x409 \"Open four\";
-    name 3 1 0x412 \"Open four\";
-    name 1 0 0 \"Open four\";
-    name 1 3 0x23 \"Open four\";
 }; };
+
 sub four by four.ss01;
-sub four.tf by four.tf.ss01;";
+sub four.tf by four.tf.ss01;
+";
 tag = cv02;
 },
 {
 code = "cvParameters { FeatUILabelNameID { 
 	name \"Open six\";
-    name 3 1 0x409 \"Open six\";
-    name 3 1 0x412 \"Open six\";
-    name 1 0 0 \"Open six\";
-    name 1 3 0x23 \"Open six\";
 }; };
+
 sub six by six.ss01;
-sub six.tf by six.tf.ss01;";
+sub six.tf by six.tf.ss01;
+";
 tag = cv03;
 },
 {
 code = "cvParameters { FeatUILabelNameID { 
 	name \"Open nine\";
-    name 3 1 0x409 \"Open nine\";
-    name 3 1 0x412 \"Open nine\";
-    name 1 0 0 \"Open nine\";
-    name 1 3 0x23 \"Open nine\";
 }; };
+
 sub nine by nine.ss01;
-sub nine.tf by nine.tf.ss01;";
+sub nine.tf by nine.tf.ss01;
+";
 tag = cv04;
 },
 {
 code = "cvParameters { FeatUILabelNameID { 
 	name \"Lower-case L with tail\";
-    name 3 1 0x409 \"Lower-case L with tail\";
-    name 3 1 0x412 \"Lower-case L with tail\";
-    name 1 0 0 \"Lower-case L with tail\";
-    name 1 3 0x23 \"Lower-case L with tail\";
 }; };
+
 sub l by l.ss02;
 sub lslash by lslash.ss02;
 sub lbar by lbar.ss02;
@@ -3082,11 +3070,8 @@ tag = cv05;
 {
 code = "cvParameters { FeatUILabelNameID { 
 	name \"Alternate German double s\";
-    name 3 1 0x409 \"Alternate German double s\";
-    name 3 1 0x412 \"Alternate German double s\";
-    name 1 0 0 \"Alternate German double s\";
-    name 1 3 0x23 \"Alternate German double s\";
 }; };
+
 sub germandbls by germandbls.1;
 ";
 tag = cv07;
@@ -3094,11 +3079,8 @@ tag = cv07;
 {
 code = "cvParameters { FeatUILabelNameID { 
 	name \"Upper-case i with serif\";
-    name 3 1 0x409 \"Upper-case i with serif\";
-    name 3 1 0x412 \"Upper-case i with serif\";
-    name 1 0 0 \"Upper-case i with serif\";
-    name 1 3 0x23 \"Upper-case i with serif\";
 }; };
+
 sub I by I.1;
 sub Idieresis by Idieresis.1;
 sub Idieresisacute by Idieresisacute.1;
@@ -3142,29 +3124,25 @@ sub romanseven by romanseven.1;
 sub romansix by romansix.1;
 sub romanthree by romanthree.1;
 sub romantwelve by romantwelve.1;
-sub romantwo by romantwo.1;";
+sub romantwo by romantwo.1;
+";
 tag = cv08;
 },
 {
 code = "cvParameters { FeatUILabelNameID { 
 	name \"Flat-top three\";
-    name 3 1 0x409 \"Flat-top three\";
-    name 3 1 0x412 \"Flat-top three\";
-    name 1 0 0 \"Flat-top three\";
-    name 1 3 0x23 \"Flat-top three\";
 }; };
+
 sub three by three.1;
-sub three.tf by three.1.tf;";
+sub three.tf by three.1.tf;
+";
 tag = cv09;
 },
 {
 code = "cvParameters { FeatUILabelNameID { 
 	name \"Captital G with spur\";
-    name 3 1 0x409 \"Captital G with spur\";
-    name 3 1 0x412 \"Captital G with spur\";
-    name 1 0 0 \"Captital G with spur\";
-    name 1 3 0x23 \"Captital G with spur\";
 }; };
+
 sub G by G.1;
 sub Gbar by Gbar.1;
 sub Ghook by Ghook.1;
@@ -3181,11 +3159,8 @@ tag = cv10;
 {
 code = "cvParameters { FeatUILabelNameID { 
 	name \"Single-storey a\";
-    name 3 1 0x409 \"Single-storey a\";
-    name 3 1 0x412 \"Single-storey a\";
-    name 1 0 0 \"Single-storey a\";
-    name 1 3 0x23 \"Single-storey a\";
 }; };
+
 sub a by a.1;
 sub aacute by aacute.1;
 sub abreve by abreve.1;
@@ -3222,14 +3197,10 @@ sub acyrillic by a.1;  # acyrillic is just a reference to /a
 tag = cv11;
 },
 {
-code = "cvParameters { 
-	FeatUILabelNameID { 
+code = "cvParameters { FeatUILabelNameID { 
 	name \"High legibility one\";
-    name 3 1 0x409 \"High legibility one\";
-    name 3 1 0x412 \"High legibility one\";
-    name 1 0 0 \"High legibility one\";
-    name 1 3 0x23 \"High legibility one\";
 }; };
+
 sub one by one.1;
 sub one.tf by one.1.tf;
 sub one.ss01 by one.1;
@@ -3666,24 +3637,24 @@ guides = (
 pos = (0,3792);
 },
 {
-orientation = center;
 locked = 1;
+orientation = center;
 pos = (2296,1024);
 },
 {
-orientation = center;
 locked = 1;
+orientation = center;
 pos = (868,2304);
 },
 {
-orientation = center;
 locked = 1;
+orientation = center;
 pos = (844,1792);
 },
 {
-orientation = center;
 angle = 90;
 locked = 1;
+orientation = center;
 pos = (1612,768);
 },
 {
@@ -3797,24 +3768,24 @@ guides = (
 pos = (0,3792);
 },
 {
-orientation = center;
 angle = 90;
 locked = 1;
+orientation = center;
 pos = (1264,0);
 },
 {
-orientation = center;
 locked = 1;
+orientation = center;
 pos = (2296,1024);
 },
 {
-orientation = center;
 locked = 1;
+orientation = center;
 pos = (868,2304);
 },
 {
-orientation = center;
 locked = 1;
+orientation = center;
 pos = (844,1792);
 },
 {
@@ -3927,24 +3898,24 @@ size = -16;
 );
 guides = (
 {
-orientation = center;
 locked = 1;
+orientation = center;
 pos = (2660,1024);
 },
 {
-orientation = center;
 locked = 1;
+orientation = center;
 pos = (872,1792);
 },
 {
-orientation = center;
 angle = 90;
 locked = 1;
+orientation = center;
 pos = (1224,0);
 },
 {
-orientation = center;
 locked = 1;
+orientation = center;
 pos = (868,2304);
 },
 {
@@ -11864,19 +11835,6 @@ key = designerURL;
 value = "https://orioncactus.com/";
 },
 {
-key = manufacturers;
-values = (
-{
-language = dflt;
-value = "Kil Hyung-jin";
-}
-);
-},
-{
-key = manufacturerURL;
-value = "https://orioncactus.com/";
-},
-{
 key = licenses;
 values = (
 {
@@ -11890,8 +11848,17 @@ key = licenseURL;
 value = "http://scripts.sil.org/OFL";
 },
 {
-key = vendorID;
-value = CTUS;
+key = manufacturers;
+values = (
+{
+language = dflt;
+value = "Kil Hyung-jin";
+}
+);
+},
+{
+key = manufacturerURL;
+value = "https://orioncactus.com/";
 },
 {
 key = trademarks;
@@ -11901,6 +11868,10 @@ language = dflt;
 value = "Pretendard is a trademark of Kil Hyung-jin; Inter UI and Inter is a trademark of rsms; Source is a trademark of Adobe in the United States and/or other countries.";
 }
 );
+},
+{
+key = vendorID;
+value = CTUS;
 }
 );
 settings = {

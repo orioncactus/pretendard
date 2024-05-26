@@ -1,5 +1,5 @@
 {
-.appVersion = "3225";
+.appVersion = "3306";
 .formatVersion = 3;
 axes = (
 {
@@ -1502,7 +1502,6 @@ uni95BB
 uni964D
 uni9698
 uni9699
-uni96A3
 uni96C5
 uni96CE
 uni96D9
@@ -1553,7 +1552,6 @@ uni9D48
 uni9DAF
 uni9DCF
 uni9E78
-uni9E97
 uni9E9F
 uni9EAA
 uni9EB9
@@ -1720,7 +1718,7 @@ uni555E
 uni5533.uv018
 uni5539.uv018
 uni5544.uv018
-uni559D.uv001
+uni559D
 uni55A9.uv019
 uni55E4.uv018
 uni5699
@@ -1849,7 +1847,7 @@ uni6CE1.uv018
 uni6D3E.uv018
 uni6FE4
 uni7006
-uni6E1A.uv017
+uni6E1A
 uni6E23.uv019
 uni6E6E.uv018
 uni6E7E.uv018
@@ -1880,7 +1878,7 @@ uni73CA.uv018
 uni73CE.uv018
 uni73E5.uv018
 uni73ED.uv018
-uni7422.uv017
+uni7422
 uni7432.uv018
 uni745F.uv018
 uni74E0.uv018
@@ -1989,7 +1987,7 @@ uni83DF.uv018
 uni83F2.uv018
 uni847A.uv018
 uni8523
-uni84EE.uv017
+uni84EE
 uni8511.uv017
 uni8517.uv018
 uni8602
@@ -2061,7 +2059,7 @@ uni9052.uv018
 uni9055.uv018
 uni9058.uv018
 uni906E.uv018
-uni907C.uv018
+uni907C
 uni8FE9.uv018
 uni9089.uv018
 uni90A3.uv018
@@ -2088,10 +2086,9 @@ uni9375.uv017
 uni9477.uv018
 uni958F.jp78
 uni95BB.uv018
-uni964D.uv018
+uni964D
 uni9698.uv018
 uni9699.jp78
-uni96A3.uv018
 uni96C5.uv018
 uni7762
 uni96D9.uv018
@@ -2111,7 +2108,7 @@ uni9838
 uni9824.uv018
 uni9830
 uni981A
-uni983B.uv017
+uni983B
 uni985A
 uni9873.uv018
 uni98C3.uv018
@@ -2142,7 +2139,6 @@ uni9D48.uv018
 uni9D2C
 uni9DCF.uv018
 uni9E7C
-uni9E97.uv018
 uni9E9F.uv018
 uni9EAA.uv018
 uni9EB4
@@ -2150,7 +2146,7 @@ uni9EB5
 uni9EDB.uv018
 uni9F08.uv018
 uni9F4E.uv018
-uni2FD4.uv018
+uni9F9C
 uni9F9D.uv018
 uni5026
 uni50C5
@@ -2604,7 +2600,6 @@ uni9375
 uni939A
 uni9453
 uni9477
-uni964D
 uni9698
 uni9699
 uni96A3
@@ -2642,7 +2637,6 @@ uni9D09
 uni9D48
 uni9D60
 uni9DCF
-uni9E97
 uni9E9F
 uni9F08
 uni9F4E
@@ -2993,10 +2987,9 @@ uni9375.uv017
 uni939A.uv017
 uni9453.uv017
 uni9477.uv018
-uni964D.uv018
 uni9698.uv018
 uni9699.uv017
-uni96A3.uv018
+uni96A3
 uni96C5.uv018
 uni96D9.uv018
 uni96F0.uv018
@@ -3031,7 +3024,6 @@ uni9D09.uv017
 uni9D48.uv018
 uni9D60.uv017
 uni9DCF.uv018
-uni9E97.uv018
 uni9E9F.uv018
 uni9F08.uv018
 uni9F4E.uv018
@@ -3809,7 +3801,7 @@ uni9771";
 name = NLCK_R;
 }
 );
-date = "2023-07-21 15:00:30 +0000";
+date = "2023-07-21 15:00:00 +0000";
 familyName = "Pretendard Split Han";
 featurePrefixes = (
 {
@@ -3934,7 +3926,7 @@ value = 699;
 },
 {
 name = strikeoutPosition;
-value = 922;
+value = 832;
 },
 {
 name = underlineThickness;
@@ -3946,7 +3938,7 @@ value = 64;
 },
 {
 name = underlinePosition;
-value = -480;
+value = -528;
 },
 {
 name = typoLineGap;
@@ -3983,24 +3975,24 @@ guides = (
 pos = (0,3792);
 },
 {
-orientation = center;
 locked = 1;
+orientation = center;
 pos = (2296,1024);
 },
 {
-orientation = center;
 locked = 1;
+orientation = center;
 pos = (868,2304);
 },
 {
-orientation = center;
 locked = 1;
+orientation = center;
 pos = (844,1792);
 },
 {
-orientation = center;
 angle = 90;
 locked = 1;
+orientation = center;
 pos = (1612,768);
 },
 {
@@ -4097,7 +4089,7 @@ value = 699;
 },
 {
 name = strikeoutPosition;
-value = 922;
+value = 884;
 },
 {
 name = underlineThickness;
@@ -4109,7 +4101,7 @@ value = 196;
 },
 {
 name = underlinePosition;
-value = -462;
+value = -416;
 },
 {
 name = typoLineGap;
@@ -4146,24 +4138,24 @@ guides = (
 pos = (0,3792);
 },
 {
-orientation = center;
 angle = 90;
 locked = 1;
+orientation = center;
 pos = (1264,0);
 },
 {
-orientation = center;
 locked = 1;
+orientation = center;
 pos = (2296,1024);
 },
 {
-orientation = center;
 locked = 1;
+orientation = center;
 pos = (868,2304);
 },
 {
-orientation = center;
 locked = 1;
+orientation = center;
 pos = (844,1792);
 },
 {
@@ -4255,7 +4247,7 @@ value = 699;
 },
 {
 name = strikeoutPosition;
-value = 922;
+value = 959;
 },
 {
 name = underlineThickness;
@@ -4267,7 +4259,7 @@ value = 320;
 },
 {
 name = underlinePosition;
-value = -416;
+value = -384;
 },
 {
 name = typoLineGap;
@@ -4301,24 +4293,24 @@ size = -16;
 );
 guides = (
 {
-orientation = center;
 locked = 1;
+orientation = center;
 pos = (2660,1024);
 },
 {
-orientation = center;
 locked = 1;
+orientation = center;
 pos = (872,1792);
 },
 {
-orientation = center;
 angle = 90;
 locked = 1;
+orientation = center;
 pos = (1224,0);
 },
 {
-orientation = center;
 locked = 1;
+orientation = center;
 pos = (868,2304);
 },
 {

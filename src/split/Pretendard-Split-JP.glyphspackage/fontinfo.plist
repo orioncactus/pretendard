@@ -1,5 +1,5 @@
 {
-.appVersion = "3227";
+.appVersion = "3306";
 .formatVersion = 3;
 axes = (
 {
@@ -121,24 +121,24 @@ guides = (
 pos = (0,3792);
 },
 {
-orientation = center;
 locked = 1;
+orientation = center;
 pos = (2296,1024);
 },
 {
-orientation = center;
 locked = 1;
+orientation = center;
 pos = (868,2304);
 },
 {
-orientation = center;
 locked = 1;
+orientation = center;
 pos = (844,1792);
 },
 {
-orientation = center;
 angle = 90;
 locked = 1;
+orientation = center;
 pos = (1612,768);
 },
 {
@@ -284,24 +284,24 @@ guides = (
 pos = (0,3792);
 },
 {
-orientation = center;
 angle = 90;
 locked = 1;
+orientation = center;
 pos = (1264,0);
 },
 {
-orientation = center;
 locked = 1;
+orientation = center;
 pos = (2296,1024);
 },
 {
-orientation = center;
 locked = 1;
+orientation = center;
 pos = (868,2304);
 },
 {
-orientation = center;
 locked = 1;
+orientation = center;
 pos = (844,1792);
 },
 {
@@ -439,24 +439,24 @@ size = -16;
 );
 guides = (
 {
-orientation = center;
 locked = 1;
+orientation = center;
 pos = (2660,1024);
 },
 {
-orientation = center;
 locked = 1;
+orientation = center;
 pos = (872,1792);
 },
 {
-orientation = center;
 angle = 90;
 locked = 1;
+orientation = center;
 pos = (1224,0);
 },
 {
-orientation = center;
 locked = 1;
+orientation = center;
 pos = (868,2304);
 },
 {
@@ -1152,15 +1152,61 @@ guilsinglright.hang
 },
 {
 name = "Replace Feature";
-value = "locl;lookup locl_latn_0 {\012	script latn;\012	language ROM;\012	sub Scedilla by Scommaaccent;\012	sub scedilla by scommaaccent;\012	sub tcedilla by tcommaaccent;\012	language MOL;\012	sub Scedilla by Scommaaccent;\012	sub scedilla by scommaaccent;\012	sub tcedilla by tcommaaccent;\012} locl_latn_0;\012\012lookup locl_latn_1 {\012	script latn;\012	language CAT;\012	sub  l' periodcentered' l by ldot;\012	sub  L' periodcentered' L by Ldot;\012} locl_latn_1;\012\012# Replace locl_haniJAN\012lookup locl_haniKOR {\012	script hani;\012	language KOR;\012	sub @LOCL_JAN_L by @LOCL_JAN_R;\012} locl_haniKOR;\012";
+value = "locl;lookup locl_latn_0 {
+	script latn;
+	language ROM;
+	sub Scedilla by Scommaaccent;
+	sub scedilla by scommaaccent;
+	sub tcedilla by tcommaaccent;
+	language MOL;
+	sub Scedilla by Scommaaccent;
+	sub scedilla by scommaaccent;
+	sub tcedilla by tcommaaccent;
+} locl_latn_0;
+
+lookup locl_latn_1 {
+	script latn;
+	language CAT;
+	sub  l' periodcentered' l by ldot;
+	sub  L' periodcentered' L by Ldot;
+} locl_latn_1;
+
+# Replace locl_haniJAN
+lookup locl_haniKOR {
+	script hani;
+	language KOR;
+	sub @LOCL_JAN_L by @LOCL_JAN_R;
+} locl_haniKOR;
+";
 },
 {
 name = "Replace Feature";
-value = "ss05;featureNames {\012    name \"Korean localization\";\012};\012\012@NULL_SS05 = [];\012ignore sub @NULL_SS05';\012\012lookup LOOKUP_SS05_1;\012lookup LOOKUP_SS05_2;\012\012# Replace LOOKUP_SS05_HAN\012lookup LOOKUP_SS05_JP;\012";
+value = "ss05;featureNames {
+    name \"Korean localization\";
+};
+
+@NULL_SS05 = [];
+ignore sub @NULL_SS05';
+
+lookup LOOKUP_SS05_1;
+lookup LOOKUP_SS05_2;
+
+# Replace LOOKUP_SS05_HAN
+lookup LOOKUP_SS05_JP;
+";
 },
 {
 name = "Replace Prefix";
-value = "Languagesystems;languagesystem DFLT dflt;\012\012languagesystem latn dflt;\012languagesystem latn ROM;\012languagesystem latn MOL;\012languagesystem latn CAT;\012\012languagesystem hani dflt;\012languagesystem hani KOR;\012";
+value = "Languagesystems;languagesystem DFLT dflt;
+
+languagesystem latn dflt;
+languagesystem latn ROM;
+languagesystem latn MOL;
+languagesystem latn CAT;
+
+languagesystem hani dflt;
+languagesystem hani KOR;
+";
 }
 );
 instanceInterpolations = {
@@ -1813,15 +1859,61 @@ guilsinglright.hang
 },
 {
 name = "Replace Feature";
-value = "locl;lookup locl_latn_0 {\012	script latn;\012	language ROM;\012	sub Scedilla by Scommaaccent;\012	sub scedilla by scommaaccent;\012	sub tcedilla by tcommaaccent;\012	language MOL;\012	sub Scedilla by Scommaaccent;\012	sub scedilla by scommaaccent;\012	sub tcedilla by tcommaaccent;\012} locl_latn_0;\012\012lookup locl_latn_1 {\012	script latn;\012	language CAT;\012	sub  l' periodcentered' l by ldot;\012	sub  L' periodcentered' L by Ldot;\012} locl_latn_1;\012\012# Replace locl_haniJAN\012lookup locl_haniKOR {\012	script hani;\012	language KOR;\012	sub @LOCL_JAN_L by @LOCL_JAN_R;\012} locl_haniKOR;\012";
+value = "locl;lookup locl_latn_0 {
+	script latn;
+	language ROM;
+	sub Scedilla by Scommaaccent;
+	sub scedilla by scommaaccent;
+	sub tcedilla by tcommaaccent;
+	language MOL;
+	sub Scedilla by Scommaaccent;
+	sub scedilla by scommaaccent;
+	sub tcedilla by tcommaaccent;
+} locl_latn_0;
+
+lookup locl_latn_1 {
+	script latn;
+	language CAT;
+	sub  l' periodcentered' l by ldot;
+	sub  L' periodcentered' L by Ldot;
+} locl_latn_1;
+
+# Replace locl_haniJAN
+lookup locl_haniKOR {
+	script hani;
+	language KOR;
+	sub @LOCL_JAN_L by @LOCL_JAN_R;
+} locl_haniKOR;
+";
 },
 {
 name = "Replace Feature";
-value = "ss05;featureNames {\012    name \"Korean localization\";\012};\012\012@NULL_SS05 = [];\012ignore sub @NULL_SS05';\012\012lookup LOOKUP_SS05_1;\012lookup LOOKUP_SS05_2;\012\012# Replace LOOKUP_SS05_HAN\012lookup LOOKUP_SS05_JP;\012";
+value = "ss05;featureNames {
+    name \"Korean localization\";
+};
+
+@NULL_SS05 = [];
+ignore sub @NULL_SS05';
+
+lookup LOOKUP_SS05_1;
+lookup LOOKUP_SS05_2;
+
+# Replace LOOKUP_SS05_HAN
+lookup LOOKUP_SS05_JP;
+";
 },
 {
 name = "Replace Prefix";
-value = "Languagesystems;languagesystem DFLT dflt;\012\012languagesystem latn dflt;\012languagesystem latn ROM;\012languagesystem latn MOL;\012languagesystem latn CAT;\012\012languagesystem hani dflt;\012languagesystem hani KOR;\012";
+value = "Languagesystems;languagesystem DFLT dflt;
+
+languagesystem latn dflt;
+languagesystem latn ROM;
+languagesystem latn MOL;
+languagesystem latn CAT;
+
+languagesystem hani dflt;
+languagesystem hani KOR;
+";
 }
 );
 instanceInterpolations = {
@@ -2474,15 +2566,61 @@ guilsinglright.hang
 },
 {
 name = "Replace Feature";
-value = "locl;lookup locl_latn_0 {\012	script latn;\012	language ROM;\012	sub Scedilla by Scommaaccent;\012	sub scedilla by scommaaccent;\012	sub tcedilla by tcommaaccent;\012	language MOL;\012	sub Scedilla by Scommaaccent;\012	sub scedilla by scommaaccent;\012	sub tcedilla by tcommaaccent;\012} locl_latn_0;\012\012lookup locl_latn_1 {\012	script latn;\012	language CAT;\012	sub  l' periodcentered' l by ldot;\012	sub  L' periodcentered' L by Ldot;\012} locl_latn_1;\012\012# Replace locl_haniJAN\012lookup locl_haniKOR {\012	script hani;\012	language KOR;\012	sub @LOCL_JAN_L by @LOCL_JAN_R;\012} locl_haniKOR;\012";
+value = "locl;lookup locl_latn_0 {
+	script latn;
+	language ROM;
+	sub Scedilla by Scommaaccent;
+	sub scedilla by scommaaccent;
+	sub tcedilla by tcommaaccent;
+	language MOL;
+	sub Scedilla by Scommaaccent;
+	sub scedilla by scommaaccent;
+	sub tcedilla by tcommaaccent;
+} locl_latn_0;
+
+lookup locl_latn_1 {
+	script latn;
+	language CAT;
+	sub  l' periodcentered' l by ldot;
+	sub  L' periodcentered' L by Ldot;
+} locl_latn_1;
+
+# Replace locl_haniJAN
+lookup locl_haniKOR {
+	script hani;
+	language KOR;
+	sub @LOCL_JAN_L by @LOCL_JAN_R;
+} locl_haniKOR;
+";
 },
 {
 name = "Replace Feature";
-value = "ss05;featureNames {\012    name \"Korean localization\";\012};\012\012@NULL_SS05 = [];\012ignore sub @NULL_SS05';\012\012lookup LOOKUP_SS05_1;\012lookup LOOKUP_SS05_2;\012\012# Replace LOOKUP_SS05_HAN\012lookup LOOKUP_SS05_JP;\012";
+value = "ss05;featureNames {
+    name \"Korean localization\";
+};
+
+@NULL_SS05 = [];
+ignore sub @NULL_SS05';
+
+lookup LOOKUP_SS05_1;
+lookup LOOKUP_SS05_2;
+
+# Replace LOOKUP_SS05_HAN
+lookup LOOKUP_SS05_JP;
+";
 },
 {
 name = "Replace Prefix";
-value = "Languagesystems;languagesystem DFLT dflt;\012\012languagesystem latn dflt;\012languagesystem latn ROM;\012languagesystem latn MOL;\012languagesystem latn CAT;\012\012languagesystem hani dflt;\012languagesystem hani KOR;\012";
+value = "Languagesystems;languagesystem DFLT dflt;
+
+languagesystem latn dflt;
+languagesystem latn ROM;
+languagesystem latn MOL;
+languagesystem latn CAT;
+
+languagesystem hani dflt;
+languagesystem hani KOR;
+";
 }
 );
 instanceInterpolations = {
@@ -3135,15 +3273,61 @@ guilsinglright.hang
 },
 {
 name = "Replace Feature";
-value = "locl;lookup locl_latn_0 {\012	script latn;\012	language ROM;\012	sub Scedilla by Scommaaccent;\012	sub scedilla by scommaaccent;\012	sub tcedilla by tcommaaccent;\012	language MOL;\012	sub Scedilla by Scommaaccent;\012	sub scedilla by scommaaccent;\012	sub tcedilla by tcommaaccent;\012} locl_latn_0;\012\012lookup locl_latn_1 {\012	script latn;\012	language CAT;\012	sub  l' periodcentered' l by ldot;\012	sub  L' periodcentered' L by Ldot;\012} locl_latn_1;\012\012# Replace locl_haniJAN\012lookup locl_haniKOR {\012	script hani;\012	language KOR;\012	sub @LOCL_JAN_L by @LOCL_JAN_R;\012} locl_haniKOR;\012";
+value = "locl;lookup locl_latn_0 {
+	script latn;
+	language ROM;
+	sub Scedilla by Scommaaccent;
+	sub scedilla by scommaaccent;
+	sub tcedilla by tcommaaccent;
+	language MOL;
+	sub Scedilla by Scommaaccent;
+	sub scedilla by scommaaccent;
+	sub tcedilla by tcommaaccent;
+} locl_latn_0;
+
+lookup locl_latn_1 {
+	script latn;
+	language CAT;
+	sub  l' periodcentered' l by ldot;
+	sub  L' periodcentered' L by Ldot;
+} locl_latn_1;
+
+# Replace locl_haniJAN
+lookup locl_haniKOR {
+	script hani;
+	language KOR;
+	sub @LOCL_JAN_L by @LOCL_JAN_R;
+} locl_haniKOR;
+";
 },
 {
 name = "Replace Feature";
-value = "ss05;featureNames {\012    name \"Korean localization\";\012};\012\012@NULL_SS05 = [];\012ignore sub @NULL_SS05';\012\012lookup LOOKUP_SS05_1;\012lookup LOOKUP_SS05_2;\012\012# Replace LOOKUP_SS05_HAN\012lookup LOOKUP_SS05_JP;\012";
+value = "ss05;featureNames {
+    name \"Korean localization\";
+};
+
+@NULL_SS05 = [];
+ignore sub @NULL_SS05';
+
+lookup LOOKUP_SS05_1;
+lookup LOOKUP_SS05_2;
+
+# Replace LOOKUP_SS05_HAN
+lookup LOOKUP_SS05_JP;
+";
 },
 {
 name = "Replace Prefix";
-value = "Languagesystems;languagesystem DFLT dflt;\012\012languagesystem latn dflt;\012languagesystem latn ROM;\012languagesystem latn MOL;\012languagesystem latn CAT;\012\012languagesystem hani dflt;\012languagesystem hani KOR;\012";
+value = "Languagesystems;languagesystem DFLT dflt;
+
+languagesystem latn dflt;
+languagesystem latn ROM;
+languagesystem latn MOL;
+languagesystem latn CAT;
+
+languagesystem hani dflt;
+languagesystem hani KOR;
+";
 }
 );
 instanceInterpolations = {
@@ -3794,15 +3978,61 @@ guilsinglright.hang
 },
 {
 name = "Replace Feature";
-value = "locl;lookup locl_latn_0 {\012	script latn;\012	language ROM;\012	sub Scedilla by Scommaaccent;\012	sub scedilla by scommaaccent;\012	sub tcedilla by tcommaaccent;\012	language MOL;\012	sub Scedilla by Scommaaccent;\012	sub scedilla by scommaaccent;\012	sub tcedilla by tcommaaccent;\012} locl_latn_0;\012\012lookup locl_latn_1 {\012	script latn;\012	language CAT;\012	sub  l' periodcentered' l by ldot;\012	sub  L' periodcentered' L by Ldot;\012} locl_latn_1;\012\012# Replace locl_haniJAN\012lookup locl_haniKOR {\012	script hani;\012	language KOR;\012	sub @LOCL_JAN_L by @LOCL_JAN_R;\012} locl_haniKOR;\012";
+value = "locl;lookup locl_latn_0 {
+	script latn;
+	language ROM;
+	sub Scedilla by Scommaaccent;
+	sub scedilla by scommaaccent;
+	sub tcedilla by tcommaaccent;
+	language MOL;
+	sub Scedilla by Scommaaccent;
+	sub scedilla by scommaaccent;
+	sub tcedilla by tcommaaccent;
+} locl_latn_0;
+
+lookup locl_latn_1 {
+	script latn;
+	language CAT;
+	sub  l' periodcentered' l by ldot;
+	sub  L' periodcentered' L by Ldot;
+} locl_latn_1;
+
+# Replace locl_haniJAN
+lookup locl_haniKOR {
+	script hani;
+	language KOR;
+	sub @LOCL_JAN_L by @LOCL_JAN_R;
+} locl_haniKOR;
+";
 },
 {
 name = "Replace Feature";
-value = "ss05;featureNames {\012    name \"Korean localization\";\012};\012\012@NULL_SS05 = [];\012ignore sub @NULL_SS05';\012\012lookup LOOKUP_SS05_1;\012lookup LOOKUP_SS05_2;\012\012# Replace LOOKUP_SS05_HAN\012lookup LOOKUP_SS05_JP;\012";
+value = "ss05;featureNames {
+    name \"Korean localization\";
+};
+
+@NULL_SS05 = [];
+ignore sub @NULL_SS05';
+
+lookup LOOKUP_SS05_1;
+lookup LOOKUP_SS05_2;
+
+# Replace LOOKUP_SS05_HAN
+lookup LOOKUP_SS05_JP;
+";
 },
 {
 name = "Replace Prefix";
-value = "Languagesystems;languagesystem DFLT dflt;\012\012languagesystem latn dflt;\012languagesystem latn ROM;\012languagesystem latn MOL;\012languagesystem latn CAT;\012\012languagesystem hani dflt;\012languagesystem hani KOR;\012";
+value = "Languagesystems;languagesystem DFLT dflt;
+
+languagesystem latn dflt;
+languagesystem latn ROM;
+languagesystem latn MOL;
+languagesystem latn CAT;
+
+languagesystem hani dflt;
+languagesystem hani KOR;
+";
 }
 );
 instanceInterpolations = {
@@ -4455,15 +4685,61 @@ guilsinglright.hang
 },
 {
 name = "Replace Feature";
-value = "locl;lookup locl_latn_0 {\012	script latn;\012	language ROM;\012	sub Scedilla by Scommaaccent;\012	sub scedilla by scommaaccent;\012	sub tcedilla by tcommaaccent;\012	language MOL;\012	sub Scedilla by Scommaaccent;\012	sub scedilla by scommaaccent;\012	sub tcedilla by tcommaaccent;\012} locl_latn_0;\012\012lookup locl_latn_1 {\012	script latn;\012	language CAT;\012	sub  l' periodcentered' l by ldot;\012	sub  L' periodcentered' L by Ldot;\012} locl_latn_1;\012\012# Replace locl_haniJAN\012lookup locl_haniKOR {\012	script hani;\012	language KOR;\012	sub @LOCL_JAN_L by @LOCL_JAN_R;\012} locl_haniKOR;\012";
+value = "locl;lookup locl_latn_0 {
+	script latn;
+	language ROM;
+	sub Scedilla by Scommaaccent;
+	sub scedilla by scommaaccent;
+	sub tcedilla by tcommaaccent;
+	language MOL;
+	sub Scedilla by Scommaaccent;
+	sub scedilla by scommaaccent;
+	sub tcedilla by tcommaaccent;
+} locl_latn_0;
+
+lookup locl_latn_1 {
+	script latn;
+	language CAT;
+	sub  l' periodcentered' l by ldot;
+	sub  L' periodcentered' L by Ldot;
+} locl_latn_1;
+
+# Replace locl_haniJAN
+lookup locl_haniKOR {
+	script hani;
+	language KOR;
+	sub @LOCL_JAN_L by @LOCL_JAN_R;
+} locl_haniKOR;
+";
 },
 {
 name = "Replace Feature";
-value = "ss05;featureNames {\012    name \"Korean localization\";\012};\012\012@NULL_SS05 = [];\012ignore sub @NULL_SS05';\012\012lookup LOOKUP_SS05_1;\012lookup LOOKUP_SS05_2;\012\012# Replace LOOKUP_SS05_HAN\012lookup LOOKUP_SS05_JP;\012";
+value = "ss05;featureNames {
+    name \"Korean localization\";
+};
+
+@NULL_SS05 = [];
+ignore sub @NULL_SS05';
+
+lookup LOOKUP_SS05_1;
+lookup LOOKUP_SS05_2;
+
+# Replace LOOKUP_SS05_HAN
+lookup LOOKUP_SS05_JP;
+";
 },
 {
 name = "Replace Prefix";
-value = "Languagesystems;languagesystem DFLT dflt;\012\012languagesystem latn dflt;\012languagesystem latn ROM;\012languagesystem latn MOL;\012languagesystem latn CAT;\012\012languagesystem hani dflt;\012languagesystem hani KOR;\012";
+value = "Languagesystems;languagesystem DFLT dflt;
+
+languagesystem latn dflt;
+languagesystem latn ROM;
+languagesystem latn MOL;
+languagesystem latn CAT;
+
+languagesystem hani dflt;
+languagesystem hani KOR;
+";
 }
 );
 instanceInterpolations = {
@@ -5116,15 +5392,61 @@ guilsinglright.hang
 },
 {
 name = "Replace Feature";
-value = "locl;lookup locl_latn_0 {\012	script latn;\012	language ROM;\012	sub Scedilla by Scommaaccent;\012	sub scedilla by scommaaccent;\012	sub tcedilla by tcommaaccent;\012	language MOL;\012	sub Scedilla by Scommaaccent;\012	sub scedilla by scommaaccent;\012	sub tcedilla by tcommaaccent;\012} locl_latn_0;\012\012lookup locl_latn_1 {\012	script latn;\012	language CAT;\012	sub  l' periodcentered' l by ldot;\012	sub  L' periodcentered' L by Ldot;\012} locl_latn_1;\012\012# Replace locl_haniJAN\012lookup locl_haniKOR {\012	script hani;\012	language KOR;\012	sub @LOCL_JAN_L by @LOCL_JAN_R;\012} locl_haniKOR;\012";
+value = "locl;lookup locl_latn_0 {
+	script latn;
+	language ROM;
+	sub Scedilla by Scommaaccent;
+	sub scedilla by scommaaccent;
+	sub tcedilla by tcommaaccent;
+	language MOL;
+	sub Scedilla by Scommaaccent;
+	sub scedilla by scommaaccent;
+	sub tcedilla by tcommaaccent;
+} locl_latn_0;
+
+lookup locl_latn_1 {
+	script latn;
+	language CAT;
+	sub  l' periodcentered' l by ldot;
+	sub  L' periodcentered' L by Ldot;
+} locl_latn_1;
+
+# Replace locl_haniJAN
+lookup locl_haniKOR {
+	script hani;
+	language KOR;
+	sub @LOCL_JAN_L by @LOCL_JAN_R;
+} locl_haniKOR;
+";
 },
 {
 name = "Replace Feature";
-value = "ss05;featureNames {\012    name \"Korean localization\";\012};\012\012@NULL_SS05 = [];\012ignore sub @NULL_SS05';\012\012lookup LOOKUP_SS05_1;\012lookup LOOKUP_SS05_2;\012\012# Replace LOOKUP_SS05_HAN\012lookup LOOKUP_SS05_JP;\012";
+value = "ss05;featureNames {
+    name \"Korean localization\";
+};
+
+@NULL_SS05 = [];
+ignore sub @NULL_SS05';
+
+lookup LOOKUP_SS05_1;
+lookup LOOKUP_SS05_2;
+
+# Replace LOOKUP_SS05_HAN
+lookup LOOKUP_SS05_JP;
+";
 },
 {
 name = "Replace Prefix";
-value = "Languagesystems;languagesystem DFLT dflt;\012\012languagesystem latn dflt;\012languagesystem latn ROM;\012languagesystem latn MOL;\012languagesystem latn CAT;\012\012languagesystem hani dflt;\012languagesystem hani KOR;\012";
+value = "Languagesystems;languagesystem DFLT dflt;
+
+languagesystem latn dflt;
+languagesystem latn ROM;
+languagesystem latn MOL;
+languagesystem latn CAT;
+
+languagesystem hani dflt;
+languagesystem hani KOR;
+";
 }
 );
 instanceInterpolations = {
@@ -5778,15 +6100,61 @@ guilsinglright.hang
 },
 {
 name = "Replace Feature";
-value = "locl;lookup locl_latn_0 {\012	script latn;\012	language ROM;\012	sub Scedilla by Scommaaccent;\012	sub scedilla by scommaaccent;\012	sub tcedilla by tcommaaccent;\012	language MOL;\012	sub Scedilla by Scommaaccent;\012	sub scedilla by scommaaccent;\012	sub tcedilla by tcommaaccent;\012} locl_latn_0;\012\012lookup locl_latn_1 {\012	script latn;\012	language CAT;\012	sub  l' periodcentered' l by ldot;\012	sub  L' periodcentered' L by Ldot;\012} locl_latn_1;\012\012# Replace locl_haniJAN\012lookup locl_haniKOR {\012	script hani;\012	language KOR;\012	sub @LOCL_JAN_L by @LOCL_JAN_R;\012} locl_haniKOR;\012";
+value = "locl;lookup locl_latn_0 {
+	script latn;
+	language ROM;
+	sub Scedilla by Scommaaccent;
+	sub scedilla by scommaaccent;
+	sub tcedilla by tcommaaccent;
+	language MOL;
+	sub Scedilla by Scommaaccent;
+	sub scedilla by scommaaccent;
+	sub tcedilla by tcommaaccent;
+} locl_latn_0;
+
+lookup locl_latn_1 {
+	script latn;
+	language CAT;
+	sub  l' periodcentered' l by ldot;
+	sub  L' periodcentered' L by Ldot;
+} locl_latn_1;
+
+# Replace locl_haniJAN
+lookup locl_haniKOR {
+	script hani;
+	language KOR;
+	sub @LOCL_JAN_L by @LOCL_JAN_R;
+} locl_haniKOR;
+";
 },
 {
 name = "Replace Feature";
-value = "ss05;featureNames {\012    name \"Korean localization\";\012};\012\012@NULL_SS05 = [];\012ignore sub @NULL_SS05';\012\012lookup LOOKUP_SS05_1;\012lookup LOOKUP_SS05_2;\012\012# Replace LOOKUP_SS05_HAN\012lookup LOOKUP_SS05_JP;\012";
+value = "ss05;featureNames {
+    name \"Korean localization\";
+};
+
+@NULL_SS05 = [];
+ignore sub @NULL_SS05';
+
+lookup LOOKUP_SS05_1;
+lookup LOOKUP_SS05_2;
+
+# Replace LOOKUP_SS05_HAN
+lookup LOOKUP_SS05_JP;
+";
 },
 {
 name = "Replace Prefix";
-value = "Languagesystems;languagesystem DFLT dflt;\012\012languagesystem latn dflt;\012languagesystem latn ROM;\012languagesystem latn MOL;\012languagesystem latn CAT;\012\012languagesystem hani dflt;\012languagesystem hani KOR;\012";
+value = "Languagesystems;languagesystem DFLT dflt;
+
+languagesystem latn dflt;
+languagesystem latn ROM;
+languagesystem latn MOL;
+languagesystem latn CAT;
+
+languagesystem hani dflt;
+languagesystem hani KOR;
+";
 }
 );
 instanceInterpolations = {
@@ -6439,15 +6807,61 @@ guilsinglright.hang
 },
 {
 name = "Replace Feature";
-value = "locl;lookup locl_latn_0 {\012	script latn;\012	language ROM;\012	sub Scedilla by Scommaaccent;\012	sub scedilla by scommaaccent;\012	sub tcedilla by tcommaaccent;\012	language MOL;\012	sub Scedilla by Scommaaccent;\012	sub scedilla by scommaaccent;\012	sub tcedilla by tcommaaccent;\012} locl_latn_0;\012\012lookup locl_latn_1 {\012	script latn;\012	language CAT;\012	sub  l' periodcentered' l by ldot;\012	sub  L' periodcentered' L by Ldot;\012} locl_latn_1;\012\012# Replace locl_haniJAN\012lookup locl_haniKOR {\012	script hani;\012	language KOR;\012	sub @LOCL_JAN_L by @LOCL_JAN_R;\012} locl_haniKOR;\012";
+value = "locl;lookup locl_latn_0 {
+	script latn;
+	language ROM;
+	sub Scedilla by Scommaaccent;
+	sub scedilla by scommaaccent;
+	sub tcedilla by tcommaaccent;
+	language MOL;
+	sub Scedilla by Scommaaccent;
+	sub scedilla by scommaaccent;
+	sub tcedilla by tcommaaccent;
+} locl_latn_0;
+
+lookup locl_latn_1 {
+	script latn;
+	language CAT;
+	sub  l' periodcentered' l by ldot;
+	sub  L' periodcentered' L by Ldot;
+} locl_latn_1;
+
+# Replace locl_haniJAN
+lookup locl_haniKOR {
+	script hani;
+	language KOR;
+	sub @LOCL_JAN_L by @LOCL_JAN_R;
+} locl_haniKOR;
+";
 },
 {
 name = "Replace Feature";
-value = "ss05;featureNames {\012    name \"Korean localization\";\012};\012\012@NULL_SS05 = [];\012ignore sub @NULL_SS05';\012\012lookup LOOKUP_SS05_1;\012lookup LOOKUP_SS05_2;\012\012# Replace LOOKUP_SS05_HAN\012lookup LOOKUP_SS05_JP;\012";
+value = "ss05;featureNames {
+    name \"Korean localization\";
+};
+
+@NULL_SS05 = [];
+ignore sub @NULL_SS05';
+
+lookup LOOKUP_SS05_1;
+lookup LOOKUP_SS05_2;
+
+# Replace LOOKUP_SS05_HAN
+lookup LOOKUP_SS05_JP;
+";
 },
 {
 name = "Replace Prefix";
-value = "Languagesystems;languagesystem DFLT dflt;\012\012languagesystem latn dflt;\012languagesystem latn ROM;\012languagesystem latn MOL;\012languagesystem latn CAT;\012\012languagesystem hani dflt;\012languagesystem hani KOR;\012";
+value = "Languagesystems;languagesystem DFLT dflt;
+
+languagesystem latn dflt;
+languagesystem latn ROM;
+languagesystem latn MOL;
+languagesystem latn CAT;
+
+languagesystem hani dflt;
+languagesystem hani KOR;
+";
 }
 );
 instanceInterpolations = {
@@ -7097,15 +7511,61 @@ guilsinglright.hang
 },
 {
 name = "Replace Feature";
-value = "locl;lookup locl_latn_0 {\012	script latn;\012	language ROM;\012	sub Scedilla by Scommaaccent;\012	sub scedilla by scommaaccent;\012	sub tcedilla by tcommaaccent;\012	language MOL;\012	sub Scedilla by Scommaaccent;\012	sub scedilla by scommaaccent;\012	sub tcedilla by tcommaaccent;\012} locl_latn_0;\012\012lookup locl_latn_1 {\012	script latn;\012	language CAT;\012	sub  l' periodcentered' l by ldot;\012	sub  L' periodcentered' L by Ldot;\012} locl_latn_1;\012\012# Replace locl_haniJAN\012lookup locl_haniKOR {\012	script hani;\012	language KOR;\012	sub @LOCL_JAN_L by @LOCL_JAN_R;\012} locl_haniKOR;\012";
+value = "locl;lookup locl_latn_0 {
+	script latn;
+	language ROM;
+	sub Scedilla by Scommaaccent;
+	sub scedilla by scommaaccent;
+	sub tcedilla by tcommaaccent;
+	language MOL;
+	sub Scedilla by Scommaaccent;
+	sub scedilla by scommaaccent;
+	sub tcedilla by tcommaaccent;
+} locl_latn_0;
+
+lookup locl_latn_1 {
+	script latn;
+	language CAT;
+	sub  l' periodcentered' l by ldot;
+	sub  L' periodcentered' L by Ldot;
+} locl_latn_1;
+
+# Replace locl_haniJAN
+lookup locl_haniKOR {
+	script hani;
+	language KOR;
+	sub @LOCL_JAN_L by @LOCL_JAN_R;
+} locl_haniKOR;
+";
 },
 {
 name = "Replace Feature";
-value = "ss05;featureNames {\012    name \"Korean localization\";\012};\012\012@NULL_SS05 = [];\012ignore sub @NULL_SS05';\012\012lookup LOOKUP_SS05_1;\012lookup LOOKUP_SS05_2;\012\012# Replace LOOKUP_SS05_HAN\012lookup LOOKUP_SS05_JP;\012";
+value = "ss05;featureNames {
+    name \"Korean localization\";
+};
+
+@NULL_SS05 = [];
+ignore sub @NULL_SS05';
+
+lookup LOOKUP_SS05_1;
+lookup LOOKUP_SS05_2;
+
+# Replace LOOKUP_SS05_HAN
+lookup LOOKUP_SS05_JP;
+";
 },
 {
 name = "Replace Prefix";
-value = "Languagesystems;languagesystem DFLT dflt;\012\012languagesystem latn dflt;\012languagesystem latn ROM;\012languagesystem latn MOL;\012languagesystem latn CAT;\012\012languagesystem hani dflt;\012languagesystem hani KOR;\012";
+value = "Languagesystems;languagesystem DFLT dflt;
+
+languagesystem latn dflt;
+languagesystem latn ROM;
+languagesystem latn MOL;
+languagesystem latn CAT;
+
+languagesystem hani dflt;
+languagesystem hani KOR;
+";
 }
 );
 name = Regular;

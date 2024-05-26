@@ -10,8 +10,8 @@ pos = (696,172);
 );
 guides = (
 {
-orientation = center;
 angle = 90;
+orientation = center;
 pos = (732,132);
 }
 );

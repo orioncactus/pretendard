@@ -71,8 +71,8 @@ pos = (258,2048);
 background = {
 guides = (
 {
-orientation = center;
 angle = 90;
+orientation = center;
 pos = (1120,372);
 }
 );
@@ -84,8 +84,8 @@ ref = O;
 };
 guides = (
 {
-orientation = center;
 angle = 90;
+orientation = center;
 pos = (1092,468);
 }
 );
@@ -154,8 +154,8 @@ ref = O;
 };
 guides = (
 {
-orientation = center;
 angle = 90;
+orientation = center;
 pos = (940,700);
 }
 );

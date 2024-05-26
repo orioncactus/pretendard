@@ -134,8 +134,8 @@ angle = 90;
 pos = (1536,384);
 },
 {
-orientation = center;
 angle = 90;
+orientation = center;
 pos = (960,800);
 }
 );

@@ -50,8 +50,8 @@ pos = (1372,304);
 pos = (1276,400);
 },
 {
-orientation = center;
 angle = 90;
+orientation = center;
 pos = (828,-184);
 }
 );
@@ -122,8 +122,8 @@ nodes = (
 };
 guides = (
 {
-orientation = center;
 angle = 90;
+orientation = center;
 pos = (1012,668);
 }
 );

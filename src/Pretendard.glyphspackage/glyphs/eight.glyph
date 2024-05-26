@@ -25,8 +25,8 @@ pos = (60,588);
 pos = (-172,2076);
 },
 {
-orientation = center;
 angle = 90;
+orientation = center;
 pos = (860,508);
 },
 {
@@ -219,8 +219,8 @@ pos = (196,588);
 pos = (-36,2076);
 },
 {
-orientation = center;
 angle = 90;
+orientation = center;
 pos = (996,508);
 }
 );
@@ -898,8 +898,8 @@ pos = (60,588);
 pos = (-172,2076);
 },
 {
-orientation = center;
 angle = 90;
+orientation = center;
 pos = (860,508);
 },
 {

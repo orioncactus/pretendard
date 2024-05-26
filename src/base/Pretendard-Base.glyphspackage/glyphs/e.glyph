@@ -153,8 +153,8 @@ ref = o;
 };
 guides = (
 {
-orientation = center;
 angle = 90;
+orientation = center;
 pos = (768,1764);
 }
 );
@@ -227,8 +227,8 @@ ref = o;
 };
 guides = (
 {
-orientation = center;
 angle = 90;
+orientation = center;
 pos = (788,1764);
 }
 );
@@ -301,8 +301,8 @@ ref = o;
 };
 guides = (
 {
-orientation = center;
 angle = 90;
+orientation = center;
 pos = (700,1004);
 },
 {
@@ -379,8 +379,8 @@ ref = o;
 };
 guides = (
 {
-orientation = center;
 angle = 90;
+orientation = center;
 pos = (888,1004);
 },
 {

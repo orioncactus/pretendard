@@ -1,5 +1,5 @@
 {
-.appVersion = "3227";
+.appVersion = "3306";
 .formatVersion = 3;
 axes = (
 {
@@ -4353,24 +4353,24 @@ guides = (
 pos = (0,3792);
 },
 {
-orientation = center;
 locked = 1;
+orientation = center;
 pos = (2296,1024);
 },
 {
-orientation = center;
 locked = 1;
+orientation = center;
 pos = (868,2304);
 },
 {
-orientation = center;
 locked = 1;
+orientation = center;
 pos = (844,1792);
 },
 {
-orientation = center;
 angle = 90;
 locked = 1;
+orientation = center;
 pos = (1612,768);
 },
 {
@@ -4516,24 +4516,24 @@ guides = (
 pos = (0,3792);
 },
 {
-orientation = center;
 angle = 90;
 locked = 1;
+orientation = center;
 pos = (1264,0);
 },
 {
-orientation = center;
 locked = 1;
+orientation = center;
 pos = (2296,1024);
 },
 {
-orientation = center;
 locked = 1;
+orientation = center;
 pos = (868,2304);
 },
 {
-orientation = center;
 locked = 1;
+orientation = center;
 pos = (844,1792);
 },
 {
@@ -4671,24 +4671,24 @@ size = -16;
 );
 guides = (
 {
-orientation = center;
 locked = 1;
+orientation = center;
 pos = (2660,1024);
 },
 {
-orientation = center;
 locked = 1;
+orientation = center;
 pos = (872,1792);
 },
 {
-orientation = center;
 angle = 90;
 locked = 1;
+orientation = center;
 pos = (1224,0);
 },
 {
-orientation = center;
 locked = 1;
+orientation = center;
 pos = (868,2304);
 },
 {

@@ -21,8 +21,8 @@ pos = (-36,2280);
 pos = (-36,764);
 },
 {
-orientation = center;
 angle = 90;
+orientation = center;
 pos = (896,1076);
 }
 );

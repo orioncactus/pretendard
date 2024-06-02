@@ -1,0 +1,49 @@
+{
+glyphname = zero.1.tf;
+layers = (
+{
+layerId = "B1F27B51-9973-4381-9301-4FE46FE1CA59";
+shapes = (
+{
+alignment = -1;
+ref = zero.1;
+}
+);
+width = 1600;
+},
+{
+associatedMasterId = "B1F27B51-9973-4381-9301-4FE46FE1CA59";
+layerId = "4479F6BE-1DEC-499A-9166-460ADA074F8C";
+name = "May 22, 21 14:07";
+shapes = (
+{
+alignment = -1;
+ref = zero;
+}
+);
+width = 1600;
+},
+{
+layerId = "C698F293-3EC0-4A5A-A3A0-0FDB1F5CF265";
+shapes = (
+{
+alignment = -1;
+pos = (32,0);
+ref = zero.1;
+}
+);
+width = 1780;
+},
+{
+layerId = "5C20EF92-B63D-42A8-8878-93C2863E0093";
+shapes = (
+{
+alignment = -1;
+pos = (-36,0);
+ref = zero.1;
+}
+);
+width = 1984;
+}
+);
+}

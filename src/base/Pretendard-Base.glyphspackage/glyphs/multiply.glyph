@@ -5,6 +5,32 @@ kernLeft = bullet;
 kernRight = bullet;
 layers = (
 {
+background = {
+shapes = (
+{
+attr = {
+strokeHeight = 64;
+strokeWidth = 64;
+};
+closed = 1;
+nodes = (
+(1568,1430,l),
+(308,170,l)
+);
+},
+{
+attr = {
+strokeHeight = 64;
+strokeWidth = 64;
+};
+closed = 1;
+nodes = (
+(308,1430,l),
+(1568,170,l)
+);
+}
+);
+};
 guides = (
 {
 pos = (132,1384);
@@ -15,23 +41,23 @@ shapes = (
 {
 closed = 1;
 nodes = (
-(1452,260,l),
-(324,1388,l),
-(278,1342,l),
-(1406,214,l)
+(1590,192,l),
+(330,1452,l),
+(286,1408,l),
+(1546,148,l)
 );
 },
 {
 closed = 1;
 nodes = (
-(1452,1342,l),
-(1406,1388,l),
-(278,260,l),
-(324,214,l)
+(330,148,l),
+(1590,1408,l),
+(1546,1452,l),
+(286,192,l)
 );
 }
 );
-width = 1728;
+width = 1876;
 },
 {
 associatedMasterId = "B1F27B51-9973-4381-9301-4FE46FE1CA59";
@@ -114,6 +140,32 @@ nodes = (
 width = 1808;
 },
 {
+background = {
+shapes = (
+{
+attr = {
+strokeHeight = 212;
+strokeWidth = 212;
+};
+closed = 1;
+nodes = (
+(1598,1430,l),
+(338,170,l)
+);
+},
+{
+attr = {
+strokeHeight = 212;
+strokeWidth = 212;
+};
+closed = 1;
+nodes = (
+(338,1430,l),
+(1598,170,l)
+);
+}
+);
+};
 guides = (
 {
 pos = (224,800);
@@ -124,25 +176,51 @@ shapes = (
 {
 closed = 1;
 nodes = (
-(1546,312,l),
-(418,1440,l),
-(266,1288,l),
-(1394,160,l)
+(1672,244,l),
+(412,1504,l),
+(264,1356,l),
+(1524,96,l)
 );
 },
 {
 closed = 1;
 nodes = (
-(1546,1288,l),
-(1394,1440,l),
-(266,312,l),
-(418,160,l)
+(412,96,l),
+(1672,1356,l),
+(1524,1504,l),
+(264,244,l)
 );
 }
 );
-width = 1812;
+width = 1936;
 },
 {
+background = {
+shapes = (
+{
+attr = {
+strokeHeight = 454;
+strokeWidth = 454;
+};
+closed = 1;
+nodes = (
+(1562,1386,l),
+(390,214,l)
+);
+},
+{
+attr = {
+strokeHeight = 454;
+strokeWidth = 454;
+};
+closed = 1;
+nodes = (
+(390,1386,l),
+(1562,214,l)
+);
+}
+);
+};
 guides = (
 {
 orientation = center;
@@ -154,19 +232,19 @@ shapes = (
 {
 closed = 1;
 nodes = (
-(1764,380,l),
-(524,1620,l),
-(188,1280,l),
-(1428,44,l)
+(1722,374,l),
+(550,1546,l),
+(230,1226,l),
+(1402,54,l)
 );
 },
 {
 closed = 1;
 nodes = (
-(1764,1280,l),
-(1428,1620,l),
-(188,380,l),
-(524,44,l)
+(550,54,l),
+(1722,1226,l),
+(1402,1546,l),
+(230,374,l)
 );
 }
 );

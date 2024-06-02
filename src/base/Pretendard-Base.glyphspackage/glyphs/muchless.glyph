@@ -6,36 +6,36 @@ layerId = "B1F27B51-9973-4381-9301-4FE46FE1CA59";
 shapes = (
 {
 alignment = 1;
-pos = (2118,0);
+pos = (1974,0);
 ref = muchgreater;
 scale = (-1,1);
 }
 );
-width = 2118;
+width = 1974;
 },
 {
 layerId = "C698F293-3EC0-4A5A-A3A0-0FDB1F5CF265";
 shapes = (
 {
 alignment = 1;
-pos = (2366,0);
+pos = (2318,0);
 ref = muchgreater;
 scale = (-1,1);
 }
 );
-width = 2366;
+width = 2318;
 },
 {
 layerId = "5C20EF92-B63D-42A8-8878-93C2863E0093";
 shapes = (
 {
 alignment = 1;
-pos = (2456,0);
+pos = (2408,0);
 ref = muchgreater;
 scale = (-1,1);
 }
 );
-width = 2456;
+width = 2408;
 }
 );
 unicode = 8810;

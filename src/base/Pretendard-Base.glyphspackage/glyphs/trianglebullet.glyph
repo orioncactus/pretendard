@@ -4,6 +4,13 @@ kernLeft = bullet;
 kernRight = bullet;
 layers = (
 {
+background = {
+shapes = (
+{
+ref = bullet;
+}
+);
+};
 guides = (
 {
 orientation = center;
@@ -15,9 +22,9 @@ shapes = (
 {
 closed = 1;
 nodes = (
-(898,816,l),
-(448,1088,l),
-(448,544,l)
+(902,800,l),
+(452,1072,l),
+(452,528,l)
 );
 }
 );
@@ -63,15 +70,22 @@ shapes = (
 {
 closed = 1;
 nodes = (
-(1158,816,l),
-(418,1264,l),
-(418,368,l)
+(1176,800,l),
+(436,1248,l),
+(436,352,l)
 );
 }
 );
 width = 1456;
 },
 {
+background = {
+shapes = (
+{
+ref = bullet;
+}
+);
+};
 guides = (
 {
 orientation = center;
@@ -83,9 +97,9 @@ shapes = (
 {
 closed = 1;
 nodes = (
-(1078,816,l),
-(338,1264,l),
-(338,368,l)
+(1078,800,l),
+(338,1248,l),
+(338,352,l)
 );
 }
 );

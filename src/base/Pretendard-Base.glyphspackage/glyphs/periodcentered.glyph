@@ -13,7 +13,7 @@ layerId = "B1F27B51-9973-4381-9301-4FE46FE1CA59";
 shapes = (
 {
 alignment = -1;
-pos = (0,964);
+pos = (0,740);
 ref = period;
 }
 );
@@ -28,7 +28,7 @@ pos = (630,896);
 layerId = "C698F293-3EC0-4A5A-A3A0-0FDB1F5CF265";
 shapes = (
 {
-pos = (0,860);
+pos = (0,636);
 ref = period;
 }
 );
@@ -43,7 +43,7 @@ pos = (526,896);
 layerId = "5C20EF92-B63D-42A8-8878-93C2863E0093";
 shapes = (
 {
-pos = (0,778);
+pos = (0,554);
 ref = period;
 }
 );

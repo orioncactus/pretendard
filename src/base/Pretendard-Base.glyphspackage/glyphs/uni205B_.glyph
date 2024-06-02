@@ -5,27 +5,23 @@ layers = (
 layerId = "B1F27B51-9973-4381-9301-4FE46FE1CA59";
 shapes = (
 {
-alignment = -1;
-pos = (1040,1324);
-ref = dotbelow;
+pos = (0,224);
+ref = periodcentered;
 },
 {
-alignment = -1;
-pos = (1996,1324);
-ref = dotbelow;
+pos = (646,0);
+ref = period;
 },
 {
-alignment = -1;
-pos = (1516,460);
-ref = dotbelow;
+pos = (646,512);
+ref = anoteleia;
 },
 {
-alignment = -1;
-pos = (1516,2104);
-ref = dotbelow;
+pos = (1290,212);
+ref = periodcentered;
 }
 );
-width = 1320;
+width = 1938;
 },
 {
 guides = (
@@ -38,23 +34,23 @@ pos = (964,1316);
 layerId = "C698F293-3EC0-4A5A-A3A0-0FDB1F5CF265";
 shapes = (
 {
-pos = (1138,1288);
-ref = dotbelow;
+pos = (0,224);
+ref = periodcentered;
 },
 {
-pos = (2102,1288);
-ref = dotbelow;
+pos = (646,0);
+ref = period;
 },
 {
-pos = (1618,460);
-ref = dotbelow;
+pos = (646,512);
+ref = anoteleia;
 },
 {
-pos = (1618,2068);
-ref = dotbelow;
+pos = (1290,212);
+ref = periodcentered;
 }
 );
-width = 1508;
+width = 2022;
 },
 {
 guides = (
@@ -67,25 +63,27 @@ pos = (628,0);
 layerId = "5C20EF92-B63D-42A8-8878-93C2863E0093";
 shapes = (
 {
-pos = (1300,1228);
-ref = dotbelow;
+pos = (0,224);
+ref = periodcentered;
 },
 {
-pos = (2276,1228);
-ref = dotbelow;
+pos = (646,0);
+ref = period;
 },
 {
-pos = (1788,464);
-ref = dotbelow;
+pos = (646,512);
+ref = anoteleia;
 },
 {
-pos = (1788,2008);
-ref = dotbelow;
+pos = (1290,212);
+ref = periodcentered;
 }
 );
-width = 1832;
+width = 2170;
 }
 );
+metricLeft = period;
+metricRight = period;
 unicode = 8283;
 userData = {
 interface.gridadjust.original = "{'width': 1503, 'leftMargin': 83, 'rightMargin': 138}";

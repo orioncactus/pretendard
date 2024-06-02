@@ -14,7 +14,7 @@ ref = crossbar;
 },
 {
 alignment = 1;
-pos = (224,-244);
+pos = (64,-244);
 ref = underscore;
 }
 );
@@ -32,7 +32,7 @@ ref = crossbar;
 },
 {
 alignment = 1;
-pos = (214,-216);
+pos = (100,-216);
 ref = underscore;
 }
 );
@@ -50,7 +50,7 @@ ref = crossbar;
 },
 {
 alignment = 1;
-pos = (212,-172);
+pos = (184,-172);
 ref = underscore;
 }
 );

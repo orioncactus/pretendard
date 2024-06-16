@@ -5,7 +5,7 @@ import re
 def replace_layer_id():
     # 스크립트의 현재 디렉토리 가져오기
     script_dir = os.path.dirname(os.path.abspath(__file__))
-    directory = os.path.join(script_dir, './result')
+    directory = os.path.join(script_dir, './temp')
 
     # 조건을 만족하는 layerId를 찾기 위한 정규 표현식
     layer_id_pattern = re.compile(

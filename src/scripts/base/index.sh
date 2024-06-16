@@ -2,7 +2,7 @@
 set -e
 
 script_dir="$(cd "$(dirname "$0")" && pwd)"
-temp_glyph_path="$script_dir/result"
+temp_glyph_path="$script_dir/temp/"
 target_path="$script_dir/../../Pretendard.glyphspackage"
 
 echo "Finding target glyphs..."

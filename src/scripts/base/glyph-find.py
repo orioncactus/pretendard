@@ -34,7 +34,7 @@ def main():
     list_file = os.path.join(script_dir, 'glyph-target.txt')
     source_directory = os.path.join(
         script_dir, '../../temp/Pretendard-Base.glyphspackage/glyphs')
-    target_directory = os.path.join(script_dir, './result')
+    target_directory = os.path.join(script_dir, './temp')
 
     # Ensure the target directory exists
     if not os.path.exists(target_directory):

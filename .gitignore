@@ -332,3 +332,6 @@ typings/
 # Glyphs files
 *(Autosaved).*
 UIState.plist
+
+# Temp files
+src/temp/*

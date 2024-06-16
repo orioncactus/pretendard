@@ -12,11 +12,6 @@ echo "Migrating glyphs..."
 python3 "$script_dir/layerid-fix.py"
 
 echo "Pasting glyphs to Sources..."
-cp -R "$script_dir/result/" "$target_path/glyphs/"
-
-echo "Clearing temp directory..."
-if [ -d "$temp_glyph_path" ]; then
-    rm -rf "$temp_glyph_path"
-fi
+rsync -a --exclude='.gitkeep' "$temp_glyph_path/" "$target_path/glyphs/"
 
 echo "Done!"

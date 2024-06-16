@@ -31,13 +31,11 @@ def replace_layer_id():
                         break
 
             if specific_layer_id:
-                print(f"Replacing {specific_layer_id} in {filename}")
                 # 모든 특정된 layerId를 치환
                 content = content.replace(specific_layer_id, replacement_id)
 
                 with open(file_path, 'w', encoding='utf-8') as file:
                     file.write(content)
-                print(f"Replacement complete for {filename}")
 
 
 # 스크립트를 실행

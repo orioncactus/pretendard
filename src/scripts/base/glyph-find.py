@@ -8,6 +8,15 @@ def read_list(file_path):
     return content.split(', ')
 
 
+def clear_target_directory(target_dir):
+    for filename in os.listdir(target_dir):
+        file_path = os.path.join(target_dir, filename)
+        if os.path.isfile(file_path) and filename != '.gitkeep':
+            os.unlink(file_path)
+        elif os.path.isdir(file_path):
+            shutil.rmtree(file_path)
+
+
 def find_and_copy_files(names, source_dir, target_dir):
     if not os.path.exists(target_dir):
         os.makedirs(target_dir)
@@ -24,9 +33,6 @@ def find_and_copy_files(names, source_dir, target_dir):
             src_file = os.path.join(source_dir, transformed_name)
             dest_file = os.path.join(target_dir, transformed_name)
             shutil.copy(src_file, dest_file)
-            print(f"Copied {src_file} to {dest_file}")
-        else:
-            print(f"File {transformed_name} not found in {source_dir}")
 
 
 def main():
@@ -39,6 +45,9 @@ def main():
     # Ensure the target directory exists
     if not os.path.exists(target_directory):
         os.makedirs(target_directory)
+
+    # Clear the target directory but keep .gitkeep
+    clear_target_directory(target_directory)
 
     names = read_list(list_file)
     find_and_copy_files(names, source_directory, target_directory)

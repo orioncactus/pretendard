@@ -382,327 +382,327 @@ Pretendard에 기여해주셔서 진심으로 감사드립니다.
 <p align="center">
    <a href="https://pocketlesson.com" target="_blank">
       <picture>
-         <img src="https://user-images.githubusercontent.com/7247848/148687957-9102924d-5282-4526-a8c6-baddd9f26c39.png" align="center" height="50" alt="PocketLesson" hspace="16">
+         <img align="center" alt="PocketLesson" height="50" hspace="16" src="https://raw.githubusercontent.com/orioncactus/pretendard/main/docs/images/logo/light/PocketLesson.png"/>
       </picture>
    </a>
    <a href="https://careerly.co.kr" target="_blank">
       <picture>
-         <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/7247848/148689872-466b0f53-5901-44c6-94c2-8c2775733b4b.png">
-         <img src="https://user-images.githubusercontent.com/7247848/148687456-dfd8939e-0728-4551-9a79-cb434b389e82.png" align="center" height="50" alt="Careerly" hspace="16">
+         <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/orioncactus/pretendard/main/docs/images/logo/dark/Careerly.png"/>
+         <img align="center" alt="Careerly" height="50" hspace="16" src="https://raw.githubusercontent.com/orioncactus/pretendard/main/docs/images/logo/light/Careerly.png"/>
       </picture>
    </a>
    <a href="https://pointing.life" target="_blank">
       <picture>
-         <img src="https://user-images.githubusercontent.com/7247848/148687954-5ccb0a28-fcba-49e6-a76a-78e40afd21b8.png" align="center" height="50" alt="POINTING" hspace="16">
+         <img align="center" alt="POINTING" height="50" hspace="16" src="https://raw.githubusercontent.com/orioncactus/pretendard/main/docs/images/logo/light/POINTING.png"/>
       </picture>
    </a>
    <a href="https://flex.team" target="_blank">
       <picture>
-         <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/7247848/148690157-91a9459c-eaee-4a73-93af-62149bec1ba5.png">
-         <img src="https://user-images.githubusercontent.com/7247848/130081248-1369c43d-6226-4e62-a101-93365d1933b5.png" align="center" height="50" alt="flex" hspace="16">
+         <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/orioncactus/pretendard/main/docs/images/logo/dark/flex.png"/>
+         <img align="center" alt="flex" height="50" hspace="16" src="https://raw.githubusercontent.com/orioncactus/pretendard/main/docs/images/logo/light/flex.png"/>
       </picture>
    </a>
    <a href="https://festa.io" target="_blank">
       <picture>
-         <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/7247848/148690185-3b217e31-65f3-49fd-bdd7-af24b6a8299b.png">
-         <img src="https://user-images.githubusercontent.com/7247848/148687380-12385bea-bebf-4c33-b9e7-a08aeb64c6a8.png" align="center" height="50" alt="Festa" hspace="16">
+         <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/orioncactus/pretendard/main/docs/images/logo/dark/Festa.png"/>
+         <img align="center" alt="Festa" height="50" hspace="16" src="https://raw.githubusercontent.com/orioncactus/pretendard/main/docs/images/logo/light/Festa.png"/>
       </picture>
    </a>
    <a href="https://www.sundaynamaste.com" target="_blank">
       <picture>
-         <img src="https://user-images.githubusercontent.com/7247848/148688031-f868235e-f5d6-4157-a4e5-a1e2e0c1214d.png" align="center" height="50" alt="썬데이나마스떼" hspace="16">
+         <img align="center" alt="썬데이나마스떼" height="50" hspace="16" src="https://raw.githubusercontent.com/orioncactus/pretendard/main/docs/images/logo/light/%EC%8D%AC%EB%8D%B0%EC%9D%B4%EB%82%98%EB%A7%88%EC%8A%A4%EB%96%BC.png"/>
       </picture>
    </a>
    <a href="https://projectlion.io" target="_blank">
       <picture>
-         <source media="(prefers-color-scheme: dark)" srcset="https://github-production-user-asset-6210df.s3.amazonaws.com/7247848/238135127-dabd4989-d26a-4c61-bfd2-af46f977c83e.png">
-         <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/7247848/238135121-2f677a50-d00b-4db9-91aa-b95fdde224d0.png" align="center" height="50" alt="TECHIT" hspace="16">
+         <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/orioncactus/pretendard/main/docs/images/logo/dark/TECHIT.png"/>
+         <img align="center" alt="TECHIT" height="50" hspace="16" src="https://raw.githubusercontent.com/orioncactus/pretendard/main/docs/images/logo/light/TECHIT.png"/>
       </picture>
    </a>
    <a href="https://www.sandollcloud.com/font/16951.html" target="_blank">
       <picture>
-         <img src="https://user-images.githubusercontent.com/7247848/148688131-a5a6f90b-2f78-4cfa-829b-ebd94d8a104c.png" align="center" height="58" alt="Sandoll Cloud" hspace="16">
+         <img align="center" alt="Sandoll Cloud" height="58" hspace="16" src="https://raw.githubusercontent.com/orioncactus/pretendard/main/docs/images/logo/light/Sandoll%20Cloud.png"/>
       </picture>
    </a>
    <a href="https://www.catchfashion.com" target="_blank">
       <picture>
-         <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/7247848/148690254-4727dc6d-d049-4f4f-bbea-f11535dbfea6.png">
-         <img src="https://user-images.githubusercontent.com/7247848/138128414-89253ebd-7e27-446f-ae3c-a4c573e69e12.png" align="center" height="50" alt="캐치패션" hspace="16">
+         <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/orioncactus/pretendard/main/docs/images/logo/dark/%EC%BA%90%EC%B9%98%ED%8C%A8%EC%85%98.png"/>
+         <img align="center" alt="캐치패션" height="50" hspace="16" src="https://raw.githubusercontent.com/orioncactus/pretendard/main/docs/images/logo/light/%EC%BA%90%EC%B9%98%ED%8C%A8%EC%85%98.png"/>
       </picture>
    </a>
    <a href="https://publy.co" target="_blank">
       <picture>
-         <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/7247848/161258327-e2cbfedf-a94a-49a8-8744-032fc194568f.png">
-         <img src="https://user-images.githubusercontent.com/7247848/161258250-353ebe73-d7e2-4a61-8e16-7c2ec8f724a9.png" align="center" height="50" alt="PUBLY" hspace="16">
+         <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/orioncactus/pretendard/main/docs/images/logo/dark/PUBLY.png"/>
+         <img align="center" alt="PUBLY" height="50" hspace="16" src="https://raw.githubusercontent.com/orioncactus/pretendard/main/docs/images/logo/light/PUBLY.png"/>
       </picture>
    </a>
    <a href="https://apps.apple.com/kr/app/세탁특공대/id1049236217" target="_blank">
       <picture>
-         <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/7247848/148690282-84892f7d-04dd-4d70-be37-ec7984e44c3e.png">
-         <img src="https://user-images.githubusercontent.com/7247848/148689504-48c4e70d-4eaf-45cc-a941-d513dd1adaf2.png" align="center" height="50" alt="세탁특공대" hspace="16">
+         <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/orioncactus/pretendard/main/docs/images/logo/dark/%EC%84%B8%ED%83%81%ED%8A%B9%EA%B3%B5%EB%8C%80.png"/>
+         <img align="center" alt="세탁특공대" height="50" hspace="16" src="https://raw.githubusercontent.com/orioncactus/pretendard/main/docs/images/logo/light/%EC%84%B8%ED%83%81%ED%8A%B9%EA%B3%B5%EB%8C%80.png"/>
       </picture>
    </a>
    <a href="https://event.kakaobank.com/p/checkcard2021" target="_blank">
-   <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/7247848/148690293-793bfc62-9708-4d26-9a73-8adc47bee2ca.png">
-      <img src="https://user-images.githubusercontent.com/7247848/148688409-8d658514-cf4f-486b-bd81-c7f94dff9618.png" align="center" height="50" alt="kakaobank" hspace="16">
-     </picture>
-  </a>
+      <picture>
+         <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/orioncactus/pretendard/main/docs/images/logo/dark/kakaobank.png"/>
+         <img align="center" alt="kakaobank" height="50" hspace="16" src="https://raw.githubusercontent.com/orioncactus/pretendard/main/docs/images/logo/light/kakaobank.png"/>
+      </picture>
+   </a>
    <a href="https://zigzag.kr" target="_blank">
       <picture>
-         <source media="(prefers-color-scheme: dark)" srcset="https://github-production-user-asset-6210df.s3.amazonaws.com/7247848/238135774-8bd3bcd7-1a0c-4d3a-acbd-9596cd05601e.png">
-         <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/7247848/238135775-f1c2a78e-c1b2-4eb2-94cb-68848b0dc1a6.png" align="center" height="50" alt="ZIGZAG" hspace="16">
+         <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/orioncactus/pretendard/main/docs/images/logo/dark/ZIGZAG.png"/>
+         <img align="center" alt="ZIGZAG" height="50" hspace="16" src="https://raw.githubusercontent.com/orioncactus/pretendard/main/docs/images/logo/light/ZIGZAG.png"/>
       </picture>
-  </a>
+   </a>
    <a href="https://solved.ac" target="_blank">
       <picture>
-         <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/7247848/148689350-ef59e5f6-5e27-4c58-9264-d2c04200ff17.png" alig>
-         <img src="https://user-images.githubusercontent.com/7247848/148689351-855d8c25-3a10-44a9-b7b0-651c353f7079.png" align="center" height="50" alt="solved.ac" hspace="16">
+         <source alig="" media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/orioncactus/pretendard/main/docs/images/logo/dark/solved.ac.png"/>
+         <img align="center" alt="solved.ac" height="50" hspace="16" src="https://raw.githubusercontent.com/orioncactus/pretendard/main/docs/images/logo/light/solved.ac.png"/>
       </picture>
    </a>
    <a href="https://rallit.com" target="_blank">
       <picture>
-         <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/7247848/154992484-d9fc3d71-972d-4b00-a7de-8941eebe4c74.png">
-         <img src="https://user-images.githubusercontent.com/7247848/154992360-026a3e7d-d6e6-4dee-88b5-18e91de28eba.png" align="center" height="50" alt="rallit" hspace="16">
+         <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/orioncactus/pretendard/main/docs/images/logo/dark/rallit.png"/>
+         <img align="center" alt="rallit" height="50" hspace="16" src="https://raw.githubusercontent.com/orioncactus/pretendard/main/docs/images/logo/light/rallit.png"/>
       </picture>
    </a>
    <a href="https://fonts.adobe.com/fonts/pretendard" target="_blank">
       <picture>
-         <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/7247848/158649662-3242c2d3-ab0b-4c86-a702-51ffa66503fe.png" alig>
-         <img src="https://user-images.githubusercontent.com/7247848/158649641-e7dfffab-058e-4b84-90ae-eef3ec7bf85e.png" align="center" height="50" alt="Adobe Fonts" hspace="16">
+         <source alig="" media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/orioncactus/pretendard/main/docs/images/logo/dark/Adobe%20Fonts.png"/>
+         <img align="center" alt="Adobe Fonts" height="50" hspace="16" src="https://raw.githubusercontent.com/orioncactus/pretendard/main/docs/images/logo/light/Adobe%20Fonts.png"/>
       </picture>
    </a>
    <a href="https://www.wanted.co.kr" target="_blank">
       <picture>
-         <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/7247848/160057796-63bb66b4-efb9-4996-8241-eb2f0a74c8ab.png">
-         <img src="https://user-images.githubusercontent.com/7247848/160057794-b4e1332b-fdcb-469d-8b8c-d9f23741d5c1.png" align="center" height="50" alt="Wanted" hspace="16">
+         <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/orioncactus/pretendard/main/docs/images/logo/dark/Wanted.png"/>
+         <img align="center" alt="Wanted" height="50" hspace="16" src="https://raw.githubusercontent.com/orioncactus/pretendard/main/docs/images/logo/light/Wanted.png"/>
       </picture>
    </a>
    <a href="https://www.opencheongwadae.kr" target="_blank">
       <picture>
-         <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/7247848/179357994-aa1597b7-44f5-495f-a5c2-0536f345a44f.png" align=>
-         <img src="https://user-images.githubusercontent.com/7247848/179357995-d7cced8a-d7e5-4590-80d4-c04dc9940a95.png" align="center" height="50" alt="청와대, 국민 품으로" hspace="16">
+         <source align="" media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/orioncactus/pretendard/main/docs/images/logo/dark/%EC%B2%AD%EC%99%80%EB%8C%80%2C%20%EA%B5%AD%EB%AF%BC%20%ED%92%88%EC%9C%BC%EB%A1%9C.png"/>
+         <img align="center" alt="청와대, 국민 품으로" height="50" hspace="16" src="https://raw.githubusercontent.com/orioncactus/pretendard/main/docs/images/logo/light/%EC%B2%AD%EC%99%80%EB%8C%80%2C%20%EA%B5%AD%EB%AF%BC%20%ED%92%88%EC%9C%BC%EB%A1%9C.png"/>
       </picture>
    </a>
    <a href="https://holix.com" target="_blank">
       <picture>
-         <img src="https://user-images.githubusercontent.com/7759511/178255186-32d8403d-cc25-4b63-b96e-1fd1c707957f.png" align="center" height="50" alt="HOLIX" hspace="16">
+         <img align="center" alt="HOLIX" height="50" hspace="16" src="https://raw.githubusercontent.com/orioncactus/pretendard/main/docs/images/logo/light/HOLIX.png"/>
       </picture>
    </a>
    <a href="https://zep.us" target="_blank">
       <picture>
-         <img src="https://user-images.githubusercontent.com/7247848/179358150-d4feb129-1122-450c-9eb7-0226aaeac0b6.png" align="center" height="50" alt="ZEP" hspace="16">
+         <img align="center" alt="ZEP" height="50" hspace="16" src="https://raw.githubusercontent.com/orioncactus/pretendard/main/docs/images/logo/light/ZEP.png"/>
       </picture>
    </a>
    <a href="https://class101.net" target="_blank">
       <picture>
-         <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/7247848/179528009-b98bb489-090e-401a-ab02-568d10d33bca.png">
-         <img src="https://user-images.githubusercontent.com/7247848/179528001-724fbbcf-eee8-4911-b75a-4ba29e1ba19b.png" align="center" height="50" alt="CLASS101" hspace="16">
+         <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/orioncactus/pretendard/main/docs/images/logo/dark/CLASS101.png"/>
+         <img align="center" alt="CLASS101" height="50" hspace="16" src="https://raw.githubusercontent.com/orioncactus/pretendard/main/docs/images/logo/light/CLASS101.png"/>
       </picture>
    </a>
    <a href="https://www.goodchoice.kr" target="_blank">
       <picture>
-         <img src="https://user-images.githubusercontent.com/7247848/179527313-a7ada75c-3dfb-4f65-a3c0-713ba4c5f7e1.png" align="center" height="50" alt="여기어때" hspace="16">
+         <img align="center" alt="여기어때" height="50" hspace="16" src="https://raw.githubusercontent.com/orioncactus/pretendard/main/docs/images/logo/light/%EC%97%AC%EA%B8%B0%EC%96%B4%EB%95%8C.png"/>
       </picture>
    </a>
    <a href="https://www.kbanknow.com" target="_blank">
       <picture>
-         <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/7247848/179527318-82e966fa-8601-405a-a114-869f22669ccc.png">
-         <img src="https://user-images.githubusercontent.com/7247848/179527319-7431801e-a3c9-4260-858f-57c328cb9514.png" align="center" height="50" alt="Kbank" hspace="16">
+         <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/orioncactus/pretendard/main/docs/images/logo/dark/Kbank.png"/>
+         <img align="center" alt="Kbank" height="50" hspace="16" src="https://raw.githubusercontent.com/orioncactus/pretendard/main/docs/images/logo/light/Kbank.png"/>
       </picture>
    </a>
    <a href="https://blimp.space" target="_blank">
       <picture>
-         <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/7247848/179531916-faa0edc1-0356-4ac3-a167-d94a3691c061.png">
-         <img src="https://user-images.githubusercontent.com/7247848/179531911-d7b74140-c855-4280-b2f6-099937fe3345.png" align="center" height="50" alt="BLIMP" hspace="16">
+         <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/orioncactus/pretendard/main/docs/images/logo/dark/BLIMP.png"/>
+         <img align="center" alt="BLIMP" height="50" hspace="16" src="https://raw.githubusercontent.com/orioncactus/pretendard/main/docs/images/logo/light/BLIMP.png"/>
       </picture>
    </a>
    <a href="https://www.lunit.io" target="_blank">
       <picture>
-         <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/36615680/191430575-704d18d9-95d9-41d6-836e-5fa400b51971.png">
-         <img src="https://user-images.githubusercontent.com/36615680/191430516-ad2f7efa-a6e7-4719-a01d-f9471ce9b6d5.png" align="center" height="50" alt="Lunit" hspace="16">
+         <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/orioncactus/pretendard/main/docs/images/logo/dark/Lunit.png"/>
+         <img align="center" alt="Lunit" height="50" hspace="16" src="https://raw.githubusercontent.com/orioncactus/pretendard/main/docs/images/logo/light/Lunit.png"/>
       </picture>
    </a>
    <a href="https://portone.io" target="_blank">
       <picture>
-         <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/67222970/220677075-5f4f7a60-4e57-44c6-8590-0a46df45a1c4.svg">
-         <img src="https://user-images.githubusercontent.com/67222970/220676914-74c6c4db-ede4-44f6-99fd-7719dd9ef1f6.svg" align="center" height="35" alt="portone" hspace="16">
+         <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/orioncactus/pretendard/main/docs/images/logo/dark/portone.svg"/>
+         <img align="center" alt="portone" height="35" hspace="16" src="https://raw.githubusercontent.com/orioncactus/pretendard/main/docs/images/logo/light/portone.svg"/>
       </picture>
    </a>
    <a href="https://www.hancomdocs.com" target="_blank">
       <picture>
-         <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/7247848/200340404-ff5bbd60-7bbe-4faf-8360-d96afcc08f33.png">
-         <img src="https://user-images.githubusercontent.com/7247848/200340399-d4821752-7c29-4a54-acc3-dbc76676597c.png" align="center" height="50" alt="한컴독스" hspace="16">
+         <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/orioncactus/pretendard/main/docs/images/logo/dark/%ED%95%9C%EC%BB%B4%EB%8F%85%EC%8A%A4.png"/>
+         <img align="center" alt="한컴독스" height="50" hspace="16" src="https://raw.githubusercontent.com/orioncactus/pretendard/main/docs/images/logo/light/%ED%95%9C%EC%BB%B4%EB%8F%85%EC%8A%A4.png"/>
       </picture>
    </a>
    <a href="https://apps.apple.com/kr/app/오늘학교-초중고-자동-시간표/id1529825567" target="_blank">
       <picture>
-         <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/7247848/200340305-7dc9ee77-325a-46fe-a3c3-db81c87990ca.png">
-         <img src="https://user-images.githubusercontent.com/7247848/200340301-b33eddc3-1565-480d-aa1a-d87bed12e03f.png" align="center" height="50" alt="오늘학교" hspace="16">
+         <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/orioncactus/pretendard/main/docs/images/logo/dark/%EC%98%A4%EB%8A%98%ED%95%99%EA%B5%90.png"/>
+         <img align="center" alt="오늘학교" height="50" hspace="16" src="https://raw.githubusercontent.com/orioncactus/pretendard/main/docs/images/logo/light/%EC%98%A4%EB%8A%98%ED%95%99%EA%B5%90.png"/>
       </picture>
    </a>
    <a href="https://inflearn.com" target="_blank">
       <picture>
-         <img src="https://user-images.githubusercontent.com/7247848/200340051-6e9f692f-0bfb-432c-8a88-f4b2ebf64274.png" align="center" height="50" alt="인프런" hspace="16">
+         <img align="center" alt="인프런" height="50" hspace="16" src="https://raw.githubusercontent.com/orioncactus/pretendard/main/docs/images/logo/light/%EC%9D%B8%ED%94%84%EB%9F%B0.png"/>
       </picture>
    </a>
    <a href="https://airbridge.io/ko" target="_blank">
       <picture>
-         <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/7247848/200340184-4e2e41d9-e7c0-42d2-9544-568f81936f7b.png">
-         <img src="https://user-images.githubusercontent.com/7247848/200340176-b012e2c1-1200-46fe-ae9d-35f35c17ee58.png" align="center" height="50" alt="Airbridge" hspace="16">
+         <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/orioncactus/pretendard/main/docs/images/logo/dark/Airbridge.png"/>
+         <img align="center" alt="Airbridge" height="50" hspace="16" src="https://raw.githubusercontent.com/orioncactus/pretendard/main/docs/images/logo/light/Airbridge.png"/>
       </picture>
-   </a> 
+   </a>
    <a href="https://rememberapp.co.kr" target="_blank">
       <picture>
-         <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/7247848/200341496-435d6724-991d-4e96-bff1-337667b44765.png">
-         <img src="https://user-images.githubusercontent.com/7247848/200341488-e5d3cd7c-59a4-4ff7-ba4e-e4c07b4ded10.png" align="center" height="50" alt="Remember" hspace="16">
+         <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/orioncactus/pretendard/main/docs/images/logo/dark/Remember.png"/>
+         <img align="center" alt="Remember" height="50" hspace="16" src="https://raw.githubusercontent.com/orioncactus/pretendard/main/docs/images/logo/light/Remember.png"/>
       </picture>
    </a>
    <a href="https://www.ag.co.kr" target="_blank">
       <picture>
-         <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/7247848/200342024-13e66aa2-7584-40aa-9067-9c5e714b01b5.png">
-         <img src="https://user-images.githubusercontent.com/7247848/200342028-dcb8d2ab-4a10-4985-b790-431acc53e717.png" align="center" height="50" alt="AG" hspace="16">
+         <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/orioncactus/pretendard/main/docs/images/logo/dark/AG.png"/>
+         <img align="center" alt="AG" height="50" hspace="16" src="https://raw.githubusercontent.com/orioncactus/pretendard/main/docs/images/logo/light/AG.png"/>
       </picture>
    </a>
    <a href="https://sema.seoul.go.kr" target="_blank">
       <picture>
-         <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/7247848/200342734-4f0833e2-75c6-43a7-a8e2-38c80dfa835d.png">
-         <img src="https://user-images.githubusercontent.com/7247848/200342728-7aa0fdaf-e8e4-4e7f-b558-240283401e91.png" align="center" height="50" alt="SeMA" hspace="16">
+         <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/orioncactus/pretendard/main/docs/images/logo/dark/SeMA.png"/>
+         <img align="center" alt="SeMA" height="50" hspace="16" src="https://raw.githubusercontent.com/orioncactus/pretendard/main/docs/images/logo/light/SeMA.png"/>
       </picture>
    </a>
    <a href="https://gamramstone.com" target="_blank">
       <picture>
-         <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/67222970/223708059-32c90573-2d61-48fe-bd79-53935582c345.png">
-         <img src="https://user-images.githubusercontent.com/67222970/223707937-8dbc201d-9914-48fa-a316-789047d4b1d1.png" align="center" height="50" alt="감람스톤" hspace="16">
+         <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/orioncactus/pretendard/main/docs/images/logo/dark/%EA%B0%90%EB%9E%8C%EC%8A%A4%ED%86%A4.png"/>
+         <img align="center" alt="감람스톤" height="50" hspace="16" src="https://raw.githubusercontent.com/orioncactus/pretendard/main/docs/images/logo/light/%EA%B0%90%EB%9E%8C%EC%8A%A4%ED%86%A4.png"/>
       </picture>
    </a>
    <a href="https://www.miricanvas.com" target="_blank">
-      <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/7247848/238135191-13ce5c74-e5e3-4b3c-a964-77d88115ce2e.png" align="center" height="50" alt="미리캔버스" hspace="16">
+   <img align="center" alt="미리캔버스" height="50" hspace="16" src="https://github-production-user-asset-6210df.s3.amazonaws.com/7247848/238135191-13ce5c74-e5e3-4b3c-a964-77d88115ce2e.png"/>
    </a>
    <a href="https://www.ssfshop.com" target="_blank">
       <picture>
-         <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/7247848/238137900-a95f7d92-9f0b-4070-a42b-77f1a488e4f5.png" align="center" height="50" alt="SSF SHOP" hspace="16">
+         <img align="center" alt="SSF SHOP" height="50" hspace="16" src="https://raw.githubusercontent.com/orioncactus/pretendard/main/docs/images/logo/light/SSF%20SHOP.png"/>
       </picture>
    </a>
    <a href="https://apps.apple.com/us/app/직방-아파트-원룸-오피스텔-빌라/id503098735" target="_blank">
       <picture>
-         <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/7247848/238137913-2b8796b4-262e-472d-87c0-eb54568f96a9.png" align="center" height="50" alt="Zigbang" hspace="16">
+         <img align="center" alt="Zigbang" height="50" hspace="16" src="https://raw.githubusercontent.com/orioncactus/pretendard/main/docs/images/logo/light/Zigbang.png"/>
       </picture>
    </a>
    <a href="https://agbook.co.kr" target="_blank">
       <picture>
-         <source media="(prefers-color-scheme: dark)" srcset="https://github-production-user-asset-6210df.s3.amazonaws.com/7247848/238137895-fef6eda9-2e18-4e48-bc84-cae2f90a56b7.png">
-         <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/7247848/238137912-43e782d7-bb29-4861-9852-209bffda0cfa.png" align="center" height="50" alt="안그라픽스" hspace="16">
+         <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/orioncactus/pretendard/main/docs/images/logo/dark/%EC%95%88%EA%B7%B8%EB%9D%BC%ED%94%BD%EC%8A%A4.png"/>
+         <img align="center" alt="안그라픽스" height="50" hspace="16" src="https://raw.githubusercontent.com/orioncactus/pretendard/main/docs/images/logo/light/%EC%95%88%EA%B7%B8%EB%9D%BC%ED%94%BD%EC%8A%A4.png"/>
       </picture>
    </a>
    <a href="https://comic.naver.com" target="_blank">
       <picture>
-         <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/7247848/238137911-f46e5952-9ff4-478d-8d6c-a741bbbe6d1b.png" align="center" height="50" alt="Naver Webtoon" hspace="16">
+         <img align="center" alt="Naver Webtoon" height="50" hspace="16" src="https://raw.githubusercontent.com/orioncactus/pretendard/main/docs/images/logo/light/Naver%20Webtoon.png"/>
       </picture>
    </a>
    <a href="https://bbq.co.kr" target="_blank">
-       <picture>
-         <img src="https://github.com/orioncactus/pretendard/assets/3013607/087e1c34-6192-4604-8697-4ae1f3ea1a61" align="center" height="50" alt="BBQ 치킨" hspace="16">
-       </picture>
+      <picture>
+         <img align="center" alt="BBQ 치킨" height="50" hspace="16" src="https://raw.githubusercontent.com/orioncactus/pretendard/main/docs/images/logo/light/BBQ%20%EC%B9%98%ED%82%A8.png"/>
+      </picture>
    </a>
    <a href="https://apps.apple.com/kr/app/번개장터/id395672275" target="_blank">
       <picture>
-         <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/7247848/238137906-b8338e38-c6f0-4844-b705-570fe248cc56.png" align="center" height="50" alt="번개장터" hspace="16">
+         <img align="center" alt="번개장터" height="50" hspace="16" src="https://raw.githubusercontent.com/orioncactus/pretendard/main/docs/images/logo/light/%EB%B2%88%EA%B0%9C%EC%9E%A5%ED%84%B0.png"/>
       </picture>
    </a>
    <a href="https://hankookilbo.com" target="_blank">
       <picture>
-         <source media="(prefers-color-scheme: dark)" srcset="https://github-production-user-asset-6210df.s3.amazonaws.com/7247848/238138402-7bef2ab2-b017-401d-bc7d-4cce0a7f266d.png">
-         <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/7247848/238138401-1dfdcada-946a-4576-a3b3-3c4b56a67b19.png" align="center" height="50" alt="한국일보" hspace="16">
+         <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/orioncactus/pretendard/main/docs/images/logo/dark/%ED%95%9C%EA%B5%AD%EC%9D%BC%EB%B3%B4.png"/>
+         <img align="center" alt="한국일보" height="50" hspace="16" src="https://raw.githubusercontent.com/orioncactus/pretendard/main/docs/images/logo/light/%ED%95%9C%EA%B5%AD%EC%9D%BC%EB%B3%B4.png"/>
       </picture>
    </a>
    <a href="https://vogue.co.kr" target="_blank">
       <picture>
-         <source media="(prefers-color-scheme: dark)" srcset="https://github-production-user-asset-6210df.s3.amazonaws.com/7247848/238137902-9639822f-e956-4228-973a-d01659bb12d6.png">
-         <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/7247848/238137904-2b4f9ed4-7911-45cf-b231-a6e99d15fa96.png" align="center" height="50" alt="Vogue Korea" hspace="16">
+         <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/orioncactus/pretendard/main/docs/images/logo/dark/Vogue%20Korea.png"/>
+         <img align="center" alt="Vogue Korea" height="50" hspace="16" src="https://raw.githubusercontent.com/orioncactus/pretendard/main/docs/images/logo/light/Vogue%20Korea.png"/>
       </picture>
    </a>
    <a href="https://apps.apple.com/us/app/네이버-블로그-naver-blog/id328813873" target="_blank">
       <picture>
-         <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/7247848/238137897-73297eae-0a66-4fb1-84c2-df1f5b510d45.png" align="center" height="50" alt="Naver Blog" hspace="16">
+         <img align="center" alt="Naver Blog" height="50" hspace="16" src="https://raw.githubusercontent.com/orioncactus/pretendard/main/docs/images/logo/light/Naver%20Blog.png"/>
       </picture>
    </a>
    <a href="https://wadiz.kr" target="_blank">
       <picture>
-         <source media="(prefers-color-scheme: dark)" srcset="https://github-production-user-asset-6210df.s3.amazonaws.com/7247848/238137909-7b48fcb5-e275-4d22-8a8f-3801925c0d48.png">
-         <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/7247848/238137910-e6fddecc-d11b-40e5-9fde-d76bbb429baa.png" align="center" height="50" alt="wadiz" hspace="16">
+         <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/orioncactus/pretendard/main/docs/images/logo/dark/wadiz.png"/>
+         <img align="center" alt="wadiz" height="50" hspace="16" src="https://raw.githubusercontent.com/orioncactus/pretendard/main/docs/images/logo/light/wadiz.png"/>
       </picture>
    </a>
    <a href="https://apps.apple.com/kr/app/id1599450372" target="_blank">
       <picture>
-         <source media="(prefers-color-scheme: dark)" srcset="https://github-production-user-asset-6210df.s3.amazonaws.com/7247848/238141261-e0f5498e-b55c-40a7-bd39-2fef91d27b94.png">
-         <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/7247848/238140309-e26336cb-fa6a-409f-8663-c02ea0d15a2b.png" align="center" height="50" alt="모바일 신분증" hspace="16">
+         <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/orioncactus/pretendard/main/docs/images/logo/dark/%EB%AA%A8%EB%B0%94%EC%9D%BC%20%EC%8B%A0%EB%B6%84%EC%A6%9D.png"/>
+         <img align="center" alt="모바일 신분증" height="50" hspace="16" src="https://raw.githubusercontent.com/orioncactus/pretendard/main/docs/images/logo/light/%EB%AA%A8%EB%B0%94%EC%9D%BC%20%EC%8B%A0%EB%B6%84%EC%A6%9D.png"/>
       </picture>
    </a>
    <a href="https://www.musinsa.com/" target="_blank">
       <picture>
-         <source media="(prefers-color-scheme: dark)" srcset="https://github-production-user-asset-6210df.s3.amazonaws.com/7247848/248793922-6cb4ea9d-a00f-4f0b-89b9-41f12468b2a7.png">
-         <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/7247848/248793907-a3436f1a-b086-404d-9eba-03c39bc0c817.png" align="center" height="50" alt="무신사" hspace="16">
-      </picture>
-  </a>
-  <a href="https://wakmusic.xyz/" target="_blank">
-      <picture>
-         <source media="(prefers-color-scheme: dark)" srcset="https://github-production-user-asset-6210df.s3.amazonaws.com/7247848/248793911-b0da2d43-7865-4a24-ae7f-bd0e8a459833.png">
-         <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/7247848/248793917-6ee7ddb7-3510-4e6b-ac43-5b47c343f41e.png" align="center" height="45" alt="왁타버스 뮤직" hspace="16">
+         <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/orioncactus/pretendard/main/docs/images/logo/dark/%EB%AC%B4%EC%8B%A0%EC%82%AC.png"/>
+         <img align="center" alt="무신사" height="50" hspace="16" src="https://raw.githubusercontent.com/orioncactus/pretendard/main/docs/images/logo/light/%EB%AC%B4%EC%8B%A0%EC%82%AC.png"/>
       </picture>
    </a>
-  <a href="https://pagecall.com/" target="_blank">
+   <a href="https://wakmusic.xyz/" target="_blank">
       <picture>
-         <source media="(prefers-color-scheme: dark)" srcset="https://github.com/orioncactus/pretendard/assets/66673866/1177156a-5e5f-4270-b150-57e5333eea24">
-         <img src="https://github.com/orioncactus/pretendard/assets/66673866/7961fe5e-23b3-48c0-9abb-6719cc2c133f" align="center" height="32" alt="페이지콜" hspace="16">
+         <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/orioncactus/pretendard/main/docs/images/logo/dark/%EC%99%81%ED%83%80%EB%B2%84%EC%8A%A4%20%EB%AE%A4%EC%A7%81.png"/>
+         <img align="center" alt="왁타버스 뮤직" height="45" hspace="16" src="https://raw.githubusercontent.com/orioncactus/pretendard/main/docs/images/logo/light/%EC%99%81%ED%83%80%EB%B2%84%EC%8A%A4%20%EB%AE%A4%EC%A7%81.png"/>
       </picture>
    </a>
-  <a href="https://elice.io" target="_blank">
+   <a href="https://pagecall.com/" target="_blank">
       <picture>
-        <img src="https://github.com/kms0219kms/pretendard/assets/67222970/3f72324d-fff3-46ab-bc56-ce0f4cb70884" align="center" height="32" alt="elice" hspace="16">
+         <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/orioncactus/pretendard/main/docs/images/logo/dark/%ED%8E%98%EC%9D%B4%EC%A7%80%EC%BD%9C.png"/>
+         <img align="center" alt="페이지콜" height="32" hspace="16" src="https://raw.githubusercontent.com/orioncactus/pretendard/main/docs/images/logo/light/%ED%8E%98%EC%9D%B4%EC%A7%80%EC%BD%9C.png"/>
       </picture>
    </a>
-  <a href="https://weolbu.com" target="_blank">
+   <a href="https://elice.io" target="_blank">
       <picture>
-        <img src="https://github.com/kms0219kms/pretendard/assets/67222970/f583eb20-11f1-4d41-9c0c-567707cc1656" align="center" height="32" alt="월급쟁이부자들" hspace="16">
+         <img align="center" alt="elice" height="32" hspace="16" src="https://raw.githubusercontent.com/orioncactus/pretendard/main/docs/images/logo/light/elice.png"/>
       </picture>
    </a>
-     <a href="https://play.google.com/store/apps/details?id=com.mgrv.community.app">
+   <a href="https://weolbu.com" target="_blank">
       <picture>
-         <source media="(prefers-color-scheme: dark)" srcset="https://github-production-user-asset-6210df.s3.amazonaws.com/118321177/265489209-835d2520-64af-45e1-aea2-6a0480d44ddc.png" height="24" align="center" hspace="16">
-         <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/118321177/265557430-06327387-6763-47bb-84e7-d9e754f90ad7.png" align="center" height="24" alt="맹그로브" hspace="16">
+         <img align="center" alt="월급쟁이부자들" height="32" hspace="16" src="https://raw.githubusercontent.com/orioncactus/pretendard/main/docs/images/logo/light/%EC%9B%94%EA%B8%89%EC%9F%81%EC%9D%B4%EB%B6%80%EC%9E%90%EB%93%A4.png"/>
       </picture>
-  </a>
-  <a href="https://qanda.ai" target="_blank">
+   </a>
+   <a href="https://play.google.com/store/apps/details?id=com.mgrv.community.app">
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github.com/statios/pretendard/assets/42381560/99bc70a1-b814-4983-991f-7042f4fb9fb3">
-        <img src="https://github.com/statios/pretendard/assets/42381560/db4c32c5-7e34-41d7-8e00-4368d0470f5f" align="center" height="24" alt="QANDA" hspace="16">
+         <source align="center" height="24" hspace="16" media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/orioncactus/pretendard/main/docs/images/logo/dark/%EB%A7%B9%EA%B7%B8%EB%A1%9C%EB%B8%8C.png"/>
+         <img align="center" alt="맹그로브" height="24" hspace="16" src="https://raw.githubusercontent.com/orioncactus/pretendard/main/docs/images/logo/light/%EB%A7%B9%EA%B7%B8%EB%A1%9C%EB%B8%8C.png"/>
       </picture>
-  </a>
-  <a href="https://tutor.qanda.ai" target="_blank">
+   </a>
+   <a href="https://qanda.ai" target="_blank">
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github.com/statios/pretendard/assets/42381560/487dfa75-578d-42c0-b77d-0e45c7ce0c3c">
-        <img src="https://github.com/statios/pretendard/assets/42381560/efcf3ea3-f39f-4d61-a808-be5f5a5cb331" align="center" height="32" alt="콴다과외" hspace="16">
+         <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/orioncactus/pretendard/main/docs/images/logo/dark/QANDA.png"/>
+         <img align="center" alt="QANDA" height="24" hspace="16" src="https://raw.githubusercontent.com/orioncactus/pretendard/main/docs/images/logo/light/QANDA.png"/>
       </picture>
-  </a>
-  <a href="https://penxle.com" target="_blank">
+   </a>
+   <a href="https://tutor.qanda.ai" target="_blank">
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github.com/devunt/pretendard/assets/337728/7903a48f-8d3c-4088-af62-8113e4e0a52e">
-        <img src="https://github.com/devunt/pretendard/assets/337728/ac841e1f-dc76-415b-b2a2-60c448a7eb51" align="center" height="32" alt="펜슬" hspace="16">
+         <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/orioncactus/pretendard/main/docs/images/logo/dark/%EC%BD%B4%EB%8B%A4%EA%B3%BC%EC%99%B8.png"/>
+         <img align="center" alt="콴다과외" height="80" hspace="16" src="https://raw.githubusercontent.com/orioncactus/pretendard/main/docs/images/logo/light/%EC%BD%B4%EB%8B%A4%EA%B3%BC%EC%99%B8.png"/>
       </picture>
-  </a>
-  <a href="https://kcp.co.kr/brand/#/sub/typography" target="_blank">
+   </a>
+   <a href="https://penxle.com" target="_blank">
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github.com/orioncactus/pretendard/assets/67222970/59dcbc07-94fe-49ab-ac69-32ea9146efeb">
-        <img src="https://github.com/orioncactus/pretendard/assets/67222970/4c3fe365-cc5b-458e-bdaa-37cf8664f328" align="center" height="24" alt="NHN KCP" hspace="16">
+         <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/orioncactus/pretendard/main/docs/images/logo/dark/%ED%8E%9C%EC%8A%AC.png"/>
+         <img align="center" alt="펜슬" height="32" hspace="16" src="https://raw.githubusercontent.com/orioncactus/pretendard/main/docs/images/logo/light/%ED%8E%9C%EC%8A%AC.png"/>
       </picture>
-  </a>
-  <a href="https://comento.kr" target="_blank">
+   </a>
+   <a href="https://kcp.co.kr/brand/#/sub/typography" target="_blank">
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github.com/orioncactus/pretendard/assets/19399338/24081f5f-ee6e-4e4d-aa35-000eea6c3417">
-        <img src="https://github.com/orioncactus/pretendard/assets/19399338/24081f5f-ee6e-4e4d-aa35-000eea6c3417" align="center" height="24" alt="코멘토" hspace="16">
+         <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/orioncactus/pretendard/main/docs/images/logo/dark/NHN%20KCP.png"/>
+         <img align="center" alt="NHN KCP" height="24" hspace="16" src="https://raw.githubusercontent.com/orioncactus/pretendard/main/docs/images/logo/light/NHN%20KCP.png"/>
       </picture>
-  </a>
+   </a>
+   <a href="https://comento.kr" target="_blank">
+      <picture>
+         <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/orioncactus/pretendard/main/docs/images/logo/dark/%EC%BD%94%EB%A9%98%ED%86%A0.png"/>
+         <img align="center" alt="코멘토" height="24" hspace="16" src="https://raw.githubusercontent.com/orioncactus/pretendard/main/docs/images/logo/light/%EC%BD%94%EB%A9%98%ED%86%A0.png"/>
+      </picture>
+   </a>
 </p>
 
 ## 의견 나누기

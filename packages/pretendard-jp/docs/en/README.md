@@ -237,12 +237,12 @@ brew tap homebrew/cask-fonts
 brew install font-pretendard-jp
 ```
 
--   [nix](https://github.com/NixOS/nixpkgs)
+-   [NixOS](https://nixos.org)
 
 ```nix
 # configuration.nix
 {
-  fonts.fonts = with pkgs; [
+  fonts.packages = with pkgs; [
     pretendard-jp
   ];
 }

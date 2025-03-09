@@ -281,11 +281,10 @@ yarn add pretendard
 
 Pretendard can be installed on the machine and used as a system font.
 
--   [homebrew-cask-fonts](https://github.com/Homebrew/homebrew-cask-fonts)
+-   [Homebrew Cask](https://formulae.brew.sh/cask/font-pretendard)
 
 ```bash
-brew tap homebrew/cask-fonts
-brew install font-pretendard
+brew install --cask font-pretendard
 ```
 
 -   [NixOS](https://nixos.org)

@@ -68,13 +68,6 @@ nodes = (
 width = 2716;
 },
 {
-attr = {
-axisRules = (
-{
-min = 366;
-}
-);
-};
 layerId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
 name = "[366]";
 shapes = (
@@ -142,13 +135,6 @@ nodes = (
 width = 2716;
 },
 {
-attr = {
-axisRules = (
-{
-min = 366;
-}
-);
-};
 layerId = "5C20EF92-B63D-42A8-8878-93C2863E0093";
 name = "[366]";
 shapes = (

@@ -10262,5 +10262,6 @@ dngb_check.tag,
 downChevron.tag,
 leftChevron.tag,
 rightChevron.tag,
-upChevron.tag
+upChevron.tag,
+O.tag
 )

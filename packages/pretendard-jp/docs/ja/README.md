@@ -231,11 +231,10 @@ font-family: "Pretendard JP Variable", "Pretendard JP", Pretendard, -apple-syste
 
 Pretendard JPはデバイスにインストールしてシステムフォントとして使用できます。
 
--   [homebrew-cask-fonts](https://github.com/Homebrew/homebrew-cask-fonts)
+-   [Homebrew Cask](https://formulae.brew.sh/cask/font-pretendard-jp)
 
 ```bash
-brew tap homebrew/cask-fonts
-brew install font-pretendard-jp
+brew install --cask font-pretendard-jp
 ```
 
 -   [NixOS](https://nixos.org)

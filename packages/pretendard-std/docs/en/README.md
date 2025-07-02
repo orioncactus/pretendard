@@ -234,11 +234,10 @@ font-family: "Pretendard Std Variable", "Pretendard Std", Pretendard, -apple-sys
 
 Pretendard Std can be installed on the machine and used as a system font.
 
--   [homebrew-cask-fonts](https://github.com/Homebrew/homebrew-cask-fonts)
+-   [Homebrew Cask](https://formulae.brew.sh/cask/font-pretendard-std)
 
 ```bash
-brew tap homebrew/cask-fonts
-brew install font-pretendard-std
+brew install --cask font-pretendard-std
 ```
 
 -   [NixOS](https://nixos.org)

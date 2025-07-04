@@ -703,6 +703,16 @@ Pretendard에 기여해주셔서 진심으로 감사드립니다.
          <img align="center" alt="코멘토" height="24" hspace="16" src="https://raw.githubusercontent.com/orioncactus/pretendard/main/docs/images/logo/light/%EC%BD%94%EB%A9%98%ED%86%A0.png"/>
       </picture>
    </a>
+   <a href="https://drivingteacher.co.kr/" target="_blank">
+      <picture>
+         <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.
+         com/orioncactus/pretendard/main/docs/images/logo/dark/
+         %EC%9A%B4%EC%A0%84%EC%84%A0%EC%83%9D.png"/>
+         <img align="center" alt="운전선생" height="24" hspace="16" src="https://raw.
+         githubusercontent.com/orioncactus/pretendard/main/docs/images/logo/light/
+         %EC%9A%B4%EC%A0%84%EC%84%A0%EC%83%9D.png"/>
+      </picture>
+   </a>
 </p>
 
 ## 의견 나누기

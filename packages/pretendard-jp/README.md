@@ -245,3 +245,10 @@ brew install font-pretendard-jp
   ];
 }
 ```
+
+-   [AUR](https://aur.archlinux.org/packages?K=pretendard)
+
+```bash
+yay -S otf-pretendard-jp
+yay -S ttf-pretendard-jp
+```

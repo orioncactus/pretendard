@@ -249,3 +249,10 @@ brew install font-pretendard-std
   ];
 }
 ```
+
+-   [AUR](https://aur.archlinux.org/packages?K=pretendard)
+
+```bash
+yay -S otf-pretendard-std
+yay -S ttf-pretendard-std
+```

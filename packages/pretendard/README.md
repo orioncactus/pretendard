@@ -306,6 +306,18 @@ yay -S otf-pretendard
 yay -S ttf-pretendard
 ```
 
+-   [Launchpad](https://launchpad.net/~kms0219kms/+archive/ubuntu/fonts/+packages?field.name_filter=pretendard)
+
+```bash
+# PPA 등록
+apt install software-properties-common
+add-apt-repository ppa:kms0219kms/fonts
+
+# Pretendard 폰트 설치
+apt install fonts-pretendard
+apt install fonts-pretendard-otf
+```
+
 ## Next.js
 
 Next.js에서 로컬 폰트 기능을 활용하여 Pretendard를 사용할 수 있습니다.
@@ -369,13 +381,15 @@ Pretendard에 기여해주셔서 진심으로 감사드립니다.
 
 [@victorrica](https://github.com/victorrica): npm 및 Yarn 패키지 배포를 작업해주셨습니다.
 
-[@kms0219kms](https://github.com/kms0219kms): 모든 웹폰트 CDN 배포 다중화, 문서 포매팅 개선, 영어 및 일본어 문서화를 작업해주셨습니다.
+[@kms0219kms](https://github.com/kms0219kms): 모든 웹폰트 CDN 배포 다중화, 문서 포매팅 개선, 영어 및 일본어 문서화,  Launchpad에 Pretendard 추가를 작업해주셨습니다.
 
 [@Gamsake](https://github.com/Gamsake): 빌드 자동화를 개선해주셨습니다.
 
 [@quiple](https://github.com/quiple): 일본어 Readme 번역을 개선해주셨습니다.
 
 [@sudosubin](https://github.com/sudosubin): homebrew-cask-fonts 및 nix에 Pretendard를 추가해주셨습니다.
+
+[@kiwiyou](https://github.com/kiwiyou): AUR에 Pretendard를 추가해주셨습니다.
 
 ## Pretendard를 사용하는 곳
 

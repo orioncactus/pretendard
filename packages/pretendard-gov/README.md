@@ -220,3 +220,19 @@
 ```css
 font-family: "Pretendard GOV Variable", "Pretendard GOV", -apple-system, BlinkMacSystemFont, system-ui, Roboto, "Helvetica Neue", "Segoe UI", "Apple SD Gothic Neo", "Noto Sans KR", "Malgun Gothic", "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", sans-serif;
 ```
+
+## 시스템 폰트
+
+Pretendard GOV를 기기에 설치해 시스템 폰트로 사용할 수 있습니다.
+
+-   [Launchpad](https://launchpad.net/~kms0219kms/+archive/ubuntu/fonts/+packages?field.name_filter=pretendard-gov)
+
+```bash
+# PPA 등록
+apt install software-properties-common
+add-apt-repository ppa:kms0219kms/fonts
+
+# Pretendard GOV 폰트 설치
+apt install fonts-pretendard-gov
+apt install fonts-pretendard-gov-otf
+```

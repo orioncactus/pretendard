@@ -305,6 +305,18 @@ yay -S otf-pretendard
 yay -S ttf-pretendard
 ```
 
+-   [Launchpad](https://launchpad.net/~kms0219kms/+archive/ubuntu/fonts/+packages?field.name_filter=pretendard)
+
+```bash
+# Add PPA repository
+apt install software-properties-common
+add-apt-repository ppa:kms0219kms/fonts
+
+# Install Pretendard
+apt install fonts-pretendard
+apt install fonts-pretendard-otf
+```
+
 ## クレジット
 
 #### ベース
@@ -339,13 +351,15 @@ Pretendardにコントリビュートしていただきありがとうござい�
 
 [@victorrica](https://github.com/victorrica): npmとYarn パッケージの配布を作業しました。
 
-[@kms0219kms](https://github.com/kms0219kms): すべてのWebフォントCDN配布多重化、ReadmeでのFormattingの改善、Readmeの英語及び日本語文書化を作業してくださいました。
+[@kms0219kms](https://github.com/kms0219kms): 彼らはすべてのウェブフォントのCDN多重化に取り組み、ドキュメントのフォーマットを改善し、READMEのローカライズを行い、それをLaunchpadに追加しました。
 
 [@Gamsake](https://github.com/Gamsake): ビルド自動化を改善しました。
 
 [@quiple](https://github.com/quiple): 日本語Readme翻訳を改善してくださいました。
 
 [@sudosubin](https://github.com/sudosubin): homebrew-cask-fontsとnixにPretendardを追加しました。
+
+[@kiwiyou](https://github.com/kiwiyou): AURにPretendardを追加しました。
 
 ## Issues
 

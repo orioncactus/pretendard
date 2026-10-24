@@ -306,6 +306,18 @@ yay -S otf-pretendard
 yay -S ttf-pretendard
 ```
 
+-   [Launchpad](https://launchpad.net/~kms0219kms/+archive/ubuntu/fonts/+packages?field.name_filter=pretendard)
+
+```bash
+# Add PPA repository
+apt install software-properties-common
+add-apt-repository ppa:kms0219kms/fonts
+
+# Install Pretendard
+apt install fonts-pretendard
+apt install fonts-pretendard-otf
+```
+
 ## Credit
 
 #### Base
@@ -340,7 +352,7 @@ Thank you so much for your contribution to Pretendard.
 
 [@victorrica](https://github.com/victorrica): Worked publishing npm and Yarn packages.
 
-[@kms0219kms](https://github.com/kms0219kms): Worked all webfonts CDN multiplexing, improving formatting from documentation, and readme localization.
+[@kms0219kms](https://github.com/kms0219kms): Worked all webfonts CDN multiplexing, improving formatting from documentation, readme localization, and added Pretendard to Launchpad.
 
 [@Gamsake](https://github.com/Gamsake): Worked improving build automation.
 
@@ -348,6 +360,8 @@ Thank you so much for your contribution to Pretendard.
 
 [@sudosubin](https://github.com/sudosubin): Added Pretendard to homebrew-cask-fonts and nix.
 
+[@kiwiyou](https://github.com/kiwiyou): Added Pretendard to AUR.
+
 ## Issues
 
-If you have a ploblem, please open an issue on [Issues](https://github.com/orioncactus/pretendard/issues).
+If you have a problem, please open an issue on [Issues](https://github.com/orioncactus/pretendard/issues).

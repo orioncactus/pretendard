@@ -309,6 +309,7 @@ yay -S ttf-pretendard
 
 ```bash
 # Add PPA repository
+apt install software-properties-common
 add-apt-repository ppa:kms0219kms/fonts
 
 # Install Pretendard

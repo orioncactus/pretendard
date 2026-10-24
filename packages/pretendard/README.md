@@ -310,6 +310,7 @@ yay -S ttf-pretendard
 
 ```bash
 # PPA 등록
+apt install software-properties-common
 add-apt-repository ppa:kms0219kms/fonts
 
 # Pretendard 폰트 설치

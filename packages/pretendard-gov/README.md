@@ -229,6 +229,7 @@ Pretendard GOV를 기기에 설치해 시스템 폰트로 사용할 수 있습�
 
 ```bash
 # PPA 등록
+apt install software-properties-common
 add-apt-repository ppa:kms0219kms/fonts
 
 # Pretendard GOV 폰트 설치

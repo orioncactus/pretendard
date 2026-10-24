@@ -250,6 +250,7 @@ brew install font-pretendard-jp
 
 ```bash
 # PPA 등록
+apt install software-properties-common
 add-apt-repository ppa:kms0219kms/fonts
 
 # Pretendard JP 폰트 설치

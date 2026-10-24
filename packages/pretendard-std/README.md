@@ -254,6 +254,7 @@ brew install font-pretendard-std
 
 ```bash
 # PPA 등록
+apt install software-properties-common
 add-apt-repository ppa:kms0219kms/fonts
 
 # Pretendard Std 폰트 설치

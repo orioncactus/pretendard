@@ -245,3 +245,14 @@ brew install font-pretendard-jp
   ];
 }
 ```
+
+-   [Launchpad](https://launchpad.net/~kms0219kms/+archive/ubuntu/fonts/+packages?field.name_filter=pretendard-jp)
+
+```bash
+# PPA 등록
+add-apt-repository ppa:kms0219kms/fonts
+
+# Pretendard JP 폰트 설치
+apt install fonts-pretendard-jp
+apt install fonts-pretendard-jp-otf
+```

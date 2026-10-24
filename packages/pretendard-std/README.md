@@ -249,3 +249,14 @@ brew install font-pretendard-std
   ];
 }
 ```
+
+-   [Launchpad](https://launchpad.net/~kms0219kms/+archive/ubuntu/fonts/+packages?field.name_filter=pretendard-std)
+
+```bash
+# PPA 등록
+add-apt-repository ppa:kms0219kms/fonts
+
+# Pretendard Std 폰트 설치
+apt install fonts-pretendard-std
+apt install fonts-pretendard-std-otf
+```
